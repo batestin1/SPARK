@@ -1,0 +1,15 @@
+{
+ "id_client":"GEDB71165583707953",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"6011016081015471",
+ "transaction_code":"BADR89102767601112",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"10:14:23",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"553427.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ERN of Braavos"
+}

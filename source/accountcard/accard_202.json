@@ -1,0 +1,15 @@
+{
+ "id_client":"PIBL18370704995939",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"676243829345",
+ "transaction_code":"CODR23797983904529",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"02:48:34",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"677628.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BND of Braavos"
+}

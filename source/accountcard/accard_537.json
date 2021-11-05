@@ -1,0 +1,15 @@
+{
+ "id_client":"EPIU85287477003447",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"2716144753841698",
+ "transaction_code":"PHFF83843597263491",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"01:07:40",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"563502.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"EGP of Braavos"
+}

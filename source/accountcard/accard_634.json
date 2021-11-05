@@ -1,0 +1,15 @@
+{
+ "id_client":"LTYY16357446261999",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4304287091096",
+ "transaction_code":"ZNDK06895394711540",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"15:09:33",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"938294.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"PYG of Braavos"
+}

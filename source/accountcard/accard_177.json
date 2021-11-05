@@ -1,0 +1,15 @@
+{
+ "id_client":"LOZK25426894627003",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4092089221876",
+ "transaction_code":"FHGO57650173395180",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"20:44:36",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"855824.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"STD of Braavos"
+}

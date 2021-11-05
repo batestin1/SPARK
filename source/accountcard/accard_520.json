@@ -1,0 +1,15 @@
+{
+ "id_client":"MPKS82418634648004",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"3551878271161537",
+ "transaction_code":"BVJX12846565338399",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"12:22:50",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"862366.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HRK of Braavos"
+}

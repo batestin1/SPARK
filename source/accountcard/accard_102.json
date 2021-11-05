@@ -1,0 +1,15 @@
+{
+ "id_client":"ACLD06713088423896",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"36629092199482",
+ "transaction_code":"LSWC43554956135743",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"13:58:13",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"496133.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SOS of Braavos"
+}

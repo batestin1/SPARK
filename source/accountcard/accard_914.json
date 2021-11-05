@@ -1,0 +1,15 @@
+{
+ "id_client":"XYHM41094598421123",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"3547924773691667",
+ "transaction_code":"GWFO26213693765119",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"06:04:21",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"584890.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"VND of Braavos"
+}

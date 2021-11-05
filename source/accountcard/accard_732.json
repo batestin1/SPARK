@@ -1,0 +1,15 @@
+{
+ "id_client":"JWPF19794862017902",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"180007013806085",
+ "transaction_code":"KNPD97209929664478",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"16:50:35",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"424058.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"IMP of Braavos"
+}

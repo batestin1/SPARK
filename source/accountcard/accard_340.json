@@ -1,0 +1,15 @@
+{
+ "id_client":"LIDS54876074802864",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4220785881171096",
+ "transaction_code":"FKOK96423426406672",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"16:35:01",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"599999.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GTQ of Braavos"
+}

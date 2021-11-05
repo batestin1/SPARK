@@ -1,0 +1,15 @@
+{
+ "id_client":"JPKF67628090555891",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3532256529184821",
+ "transaction_code":"HMMR42346425502561",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"16:12:21",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"463531.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BND of Braavos"
+}

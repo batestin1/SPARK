@@ -1,0 +1,15 @@
+{
+ "id_client":"WYJH89272458470083",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"6011426059536848",
+ "transaction_code":"VEFX73201656360881",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"00:45:03",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"323819.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"RON of Braavos"
+}

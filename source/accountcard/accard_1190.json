@@ -1,0 +1,15 @@
+{
+ "id_client":"ZCIE67180845527759",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4365434439550346",
+ "transaction_code":"ORTU76888580275728",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"20:33:17",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"377093.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UYU of Braavos"
+}

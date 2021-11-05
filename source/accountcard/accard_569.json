@@ -1,0 +1,15 @@
+{
+ "id_client":"ZOAS24987202728033",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4028956666843",
+ "transaction_code":"ESIK15009342224611",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"01:32:25",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"101436.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HNL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HEUG34433193038351",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"3518411916814393",
+ "transaction_code":"XFNH32825571036396",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"19:29:33",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"991817.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"JMD of Braavos"
+}

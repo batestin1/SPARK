@@ -1,0 +1,15 @@
+{
+ "id_client":"DBMQ64233476343458",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4996093410745924",
+ "transaction_code":"LCDY51599287221522",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"17:35:54",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"4910.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LRD of Braavos"
+}

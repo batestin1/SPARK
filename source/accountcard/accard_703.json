@@ -1,0 +1,15 @@
+{
+ "id_client":"VINA51712001457684",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4948247030333516",
+ "transaction_code":"TQUY99713657662907",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"07:58:03",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"936228.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GHS of Braavos"
+}

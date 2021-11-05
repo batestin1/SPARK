@@ -1,0 +1,15 @@
+{
+ "id_client":"XSPX69038442811356",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4363165826444644964",
+ "transaction_code":"BGFA11401948530069",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"02:15:16",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"701827.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KPW of Braavos"
+}

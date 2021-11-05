@@ -1,0 +1,15 @@
+{
+ "id_client":"IRAX49714178648119",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"213144032859653",
+ "transaction_code":"TJKS21064810557287",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"19:02:14",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"874430.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PLN of Braavos"
+}

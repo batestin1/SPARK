@@ -1,0 +1,15 @@
+{
+ "id_client":"GTWP15563299135424",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4033110145362067",
+ "transaction_code":"XAPT20647108971407",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"22:01:08",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"194547.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ALL of Braavos"
+}

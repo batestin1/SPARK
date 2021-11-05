@@ -1,0 +1,15 @@
+{
+ "id_client":"NPSU54249255517582",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"30363635065671",
+ "transaction_code":"QRJF19686227642140",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"14:39:56",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"542046.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MDL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"VLKQ52969420762063",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"6011321387656840",
+ "transaction_code":"WBQL10063431755799",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"13:40:02",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"9371.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PKR of Braavos"
+}

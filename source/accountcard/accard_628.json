@@ -1,0 +1,15 @@
+{
+ "id_client":"PQRB73044706128753",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4883232760747959",
+ "transaction_code":"LQYT86995332834435",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"09:13:33",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"785022.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BMD of Braavos"
+}

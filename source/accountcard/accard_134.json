@@ -1,0 +1,15 @@
+{
+ "id_client":"UPYK68748826714170",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"36567219656200",
+ "transaction_code":"WPJG19954480927058",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"06:54:09",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"891271.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NZD of Braavos"
+}

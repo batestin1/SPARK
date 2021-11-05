@@ -1,0 +1,15 @@
+{
+ "id_client":"GUHN74507499814568",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4242728006263937387",
+ "transaction_code":"NAEN60380545206844",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"00:11:42",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"542575.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BDT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WHBP81220169393431",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"501845679528",
+ "transaction_code":"VSPU53284822469878",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"04:05:53",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"87725.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ETB of Braavos"
+}

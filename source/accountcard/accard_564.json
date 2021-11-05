@@ -1,0 +1,15 @@
+{
+ "id_client":"EUGV21455262883836",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"2292879110201589",
+ "transaction_code":"ZSDD58925309944880",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"06:51:25",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"351481.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"DZD of Braavos"
+}

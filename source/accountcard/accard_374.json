@@ -1,0 +1,15 @@
+{
+ "id_client":"WBTZ89230787237905",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"3543474306167912",
+ "transaction_code":"JHDB09776108548673",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"23:13:23",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"234832.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"YER of Braavos"
+}

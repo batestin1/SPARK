@@ -1,0 +1,15 @@
+{
+ "id_client":"NMZV47799983147846",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"36741010804307",
+ "transaction_code":"SFSE28205987416473",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"10:52:30",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"431174.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BIF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LDKH25568572497925",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"180062486160536",
+ "transaction_code":"ELHH15265815086101",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"16:48:01",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"424435.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MZN of Braavos"
+}

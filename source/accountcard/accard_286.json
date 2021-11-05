@@ -1,0 +1,15 @@
+{
+ "id_client":"YVLZ51419507852918",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"6011724057511015",
+ "transaction_code":"VAKP10255845517973",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"09:08:28",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"36969.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LSL of Braavos"
+}

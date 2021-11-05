@@ -1,0 +1,15 @@
+{
+ "id_client":"OCZC88055497142985",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4242649921421164",
+ "transaction_code":"YHIF20193731461370",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"13:25:46",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"491800.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"JOD of Braavos"
+}

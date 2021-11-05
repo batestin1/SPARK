@@ -1,0 +1,15 @@
+{
+ "id_client":"FFUV94191800358285",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4453080793943529",
+ "transaction_code":"BRRU67749572346601",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"01:09:58",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"960535.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"RSD of Braavos"
+}

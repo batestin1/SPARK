@@ -1,0 +1,15 @@
+{
+ "id_client":"IGIZ20259231295225",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"344510435418184",
+ "transaction_code":"FUTT62674133864288",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"17:57:13",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"360091.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KGS of Braavos"
+}

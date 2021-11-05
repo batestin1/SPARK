@@ -1,0 +1,15 @@
+{
+ "id_client":"STEH17985501192610",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"375446431474891",
+ "transaction_code":"TVOS80815167198635",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"12:44:22",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"633807.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MVR of Braavos"
+}

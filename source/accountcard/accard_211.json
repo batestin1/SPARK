@@ -1,0 +1,15 @@
+{
+ "id_client":"LGLY97020855513333",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"3572801753849408",
+ "transaction_code":"YCLJ33983165254527",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"23:29:19",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"226411.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"HTG of Braavos"
+}

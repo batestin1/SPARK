@@ -1,0 +1,15 @@
+{
+ "id_client":"XGDB70148016209226",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"5434139667637277",
+ "transaction_code":"HATP32543436031463",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"15:53:36",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"853158.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MOP of Braavos"
+}

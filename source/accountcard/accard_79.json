@@ -1,0 +1,15 @@
+{
+ "id_client":"NWAB02775694329560",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4660134927481143",
+ "transaction_code":"WRWO28882778240354",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"09:07:44",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"744058.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LSL of Braavos"
+}

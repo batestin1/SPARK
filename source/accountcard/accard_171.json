@@ -1,0 +1,15 @@
+{
+ "id_client":"VDEG71103648825304",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"30118987729674",
+ "transaction_code":"KJBK13844101560211",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:44:58",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"790750.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"DJF of Braavos"
+}

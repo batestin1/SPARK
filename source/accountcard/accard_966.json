@@ -1,0 +1,15 @@
+{
+ "id_client":"BIFG84455778878748",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4632497532368851265",
+ "transaction_code":"FHAV81657861443630",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:17:34",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"219711.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"FKP of Braavos"
+}

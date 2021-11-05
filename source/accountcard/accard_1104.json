@@ -1,0 +1,15 @@
+{
+ "id_client":"SWRU77137686221228",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"6505912385198166",
+ "transaction_code":"DMTL34734017729780",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"04:35:24",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"608110.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KWD of Braavos"
+}

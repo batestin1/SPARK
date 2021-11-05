@@ -1,0 +1,15 @@
+{
+ "id_client":"CLWJ98557860083889",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3535580933942210",
+ "transaction_code":"AUGF04375201315746",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"05:01:20",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"238996.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TRY of Braavos"
+}

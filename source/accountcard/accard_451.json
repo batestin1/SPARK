@@ -1,0 +1,15 @@
+{
+ "id_client":"OTVH29107351811035",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4140181863865649",
+ "transaction_code":"LGSI65909794075043",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"00:05:36",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"811189.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"HRK of Braavos"
+}

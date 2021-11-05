@@ -1,0 +1,15 @@
+{
+ "id_client":"ANAY70256506091192",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"6011914452663061",
+ "transaction_code":"TJKD25228288947700",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"22:11:57",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"380086.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BDT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"YEXU14424369504404",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"6011002979208097",
+ "transaction_code":"EZXJ56097167934648",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"22:16:11",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"282026.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"OMR of Braavos"
+}

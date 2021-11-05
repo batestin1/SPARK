@@ -1,0 +1,15 @@
+{
+ "id_client":"RRNX33346783362201",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6521865431598138",
+ "transaction_code":"BNLH74845394901332",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"01:29:02",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"727020.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MNT of Braavos"
+}

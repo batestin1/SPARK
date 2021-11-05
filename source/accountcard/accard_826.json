@@ -1,0 +1,15 @@
+{
+ "id_client":"MCXF58913531515659",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"345449567479632",
+ "transaction_code":"TTKD65445666230845",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"06:52:49",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"48029.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SCR of Braavos"
+}

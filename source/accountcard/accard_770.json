@@ -1,0 +1,15 @@
+{
+ "id_client":"UBYY45792893580686",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"584296701991",
+ "transaction_code":"AKKZ18023754558356",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"19:02:42",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"553850.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"UGX of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RMWB49525524680555",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"573534728817",
+ "transaction_code":"AEZL28840949646808",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"19:42:22",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"662636.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AMD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"MLTL63602344830251",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4333022603493",
+ "transaction_code":"OXPA39972628025656",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"04:17:37",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"894402.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CZK of Braavos"
+}

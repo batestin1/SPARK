@@ -1,0 +1,15 @@
+{
+ "id_client":"HISJ97176387180764",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"36638240181672",
+ "transaction_code":"UDOD13602553466982",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:52:02",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"985579.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TJS of Braavos"
+}

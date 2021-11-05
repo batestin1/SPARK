@@ -1,0 +1,15 @@
+{
+ "id_client":"CSAE94356318487403",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"3565562990192098",
+ "transaction_code":"NZWW03433486284854",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"02:44:30",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"344424.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SBD of Braavos"
+}

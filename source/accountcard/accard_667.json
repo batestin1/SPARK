@@ -1,0 +1,15 @@
+{
+ "id_client":"LOXZ19866784467016",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"6011585694549076",
+ "transaction_code":"CPEK45442314052496",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"06:23:47",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"227619.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RWF of Braavos"
+}

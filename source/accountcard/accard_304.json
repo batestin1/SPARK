@@ -1,0 +1,15 @@
+{
+ "id_client":"VMKO18663562426319",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"3505439691137610",
+ "transaction_code":"IATI98935167926147",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"11:18:36",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"886315.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"INR of Braavos"
+}

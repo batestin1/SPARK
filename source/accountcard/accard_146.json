@@ -1,0 +1,15 @@
+{
+ "id_client":"CBUX04535606757235",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"180000013424983",
+ "transaction_code":"YUWC96973938406541",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"06:44:00",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"415698.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AMD of Braavos"
+}

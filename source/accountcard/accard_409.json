@@ -1,0 +1,15 @@
+{
+ "id_client":"OFDR19155617521712",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4334063856831372",
+ "transaction_code":"WFSF82309894718831",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"15:55:38",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"283103.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KPW of Braavos"
+}

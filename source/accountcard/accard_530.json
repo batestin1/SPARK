@@ -1,0 +1,15 @@
+{
+ "id_client":"ORGK09109880998654",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"3527534911834311",
+ "transaction_code":"JXXJ36854322955148",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"11:36:07",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"74586.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SCR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TOMI70720842743637",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"6011033619213056",
+ "transaction_code":"NFKF35169367140119",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"13:00:55",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"870475.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"UAH of Braavos"
+}

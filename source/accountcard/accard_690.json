@@ -1,0 +1,15 @@
+{
+ "id_client":"VPYV47979941425001",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4916956064186677",
+ "transaction_code":"JRKA81968006500966",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"00:02:33",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"809415.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EGP of Braavos"
+}

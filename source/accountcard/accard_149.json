@@ -1,0 +1,15 @@
+{
+ "id_client":"FDLO80638871710700",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"30090806959917",
+ "transaction_code":"NJIS45125745120035",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"13:18:07",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"529952.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TVD of Braavos"
+}

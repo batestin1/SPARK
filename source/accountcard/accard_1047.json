@@ -1,0 +1,15 @@
+{
+ "id_client":"ZLLE54342349887549",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4499979999046590063",
+ "transaction_code":"FZSB37692978493481",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"13:36:21",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"469886.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KPW of Braavos"
+}

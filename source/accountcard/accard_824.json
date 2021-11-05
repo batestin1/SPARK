@@ -1,0 +1,15 @@
+{
+ "id_client":"AQAR97995822540233",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"36818146236453",
+ "transaction_code":"JFAS31210467432824",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"00:53:03",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"575282.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ZAR of Braavos"
+}

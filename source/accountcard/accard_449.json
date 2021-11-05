@@ -1,0 +1,15 @@
+{
+ "id_client":"GUDP64911488584972",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"2248062219632054",
+ "transaction_code":"QCIF60096510647660",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"15:03:22",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"685765.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
+}

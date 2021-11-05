@@ -1,0 +1,15 @@
+{
+ "id_client":"RWIV33265292415517",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"345731341311078",
+ "transaction_code":"XANO77966827121193",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"05:20:05",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"691168.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GTQ of Braavos"
+}

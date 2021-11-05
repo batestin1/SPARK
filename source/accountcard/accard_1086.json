@@ -1,0 +1,15 @@
+{
+ "id_client":"OEHS88247446877592",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"2238686106722628",
+ "transaction_code":"CHIP00829196526600",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"22:49:26",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"797983.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HTG of Braavos"
+}

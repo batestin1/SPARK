@@ -1,0 +1,15 @@
+{
+ "id_client":"OOPB05908545651328",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"5203565925105526",
+ "transaction_code":"BMZH85299506955970",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"19:19:01",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"7009.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TWD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"NCQV02544066172898",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4649584272219652",
+ "transaction_code":"SMLA27088210022401",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"03:31:20",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"637748.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BTN of Braavos"
+}

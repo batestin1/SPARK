@@ -1,0 +1,15 @@
+{
+ "id_client":"RZAX94411247705668",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"3594515423922197",
+ "transaction_code":"SMGS40778538756426",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"17:52:18",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"368298.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IDR of Braavos"
+}

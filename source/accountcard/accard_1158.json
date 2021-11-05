@@ -1,0 +1,15 @@
+{
+ "id_client":"SFOQ07013100660160",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4173024723844489",
+ "transaction_code":"BZZI82477757330279",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"20:02:56",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"943902.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EUR of Braavos"
+}

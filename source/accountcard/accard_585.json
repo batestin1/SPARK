@@ -1,0 +1,15 @@
+{
+ "id_client":"YBQP67167653396337",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4695726812712489",
+ "transaction_code":"ZDJY90366216244670",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"12:21:53",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"863849.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NOK of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"THJM42496604891257",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4264265269207",
+ "transaction_code":"HNYQ76824285131906",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"07:54:43",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"730707.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AUD of Braavos"
+}

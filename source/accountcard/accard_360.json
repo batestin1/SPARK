@@ -1,0 +1,15 @@
+{
+ "id_client":"UITM61144697025521",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4415478857697",
+ "transaction_code":"ZTVE15437417709997",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"07:19:50",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"871908.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"JEP of Braavos"
+}

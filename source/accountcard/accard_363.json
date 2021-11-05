@@ -1,0 +1,15 @@
+{
+ "id_client":"OIYW27751340160127",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"3524362727786373",
+ "transaction_code":"USKQ52763087610111",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"15:42:30",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"690528.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GTQ of Braavos"
+}

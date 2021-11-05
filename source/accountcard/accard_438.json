@@ -1,0 +1,15 @@
+{
+ "id_client":"QLFW50014593102618",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"349948385911961",
+ "transaction_code":"VURZ85894686058870",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"15:06:37",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"483465.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PYG of Braavos"
+}

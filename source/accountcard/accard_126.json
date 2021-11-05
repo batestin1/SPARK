@@ -1,0 +1,15 @@
+{
+ "id_client":"YCYP17873113276528",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"38146634186396",
+ "transaction_code":"FKJZ38791882281231",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"18:51:32",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"333187.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BAM of Braavos"
+}

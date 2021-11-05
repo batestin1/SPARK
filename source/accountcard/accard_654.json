@@ -1,0 +1,15 @@
+{
+ "id_client":"KJFW73693591204483",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2614225391611446",
+ "transaction_code":"NFUR55302031944924",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"03:27:57",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"136649.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TTD of Braavos"
+}

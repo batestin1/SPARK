@@ -1,0 +1,15 @@
+{
+ "id_client":"DDZD59004320887369",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"213123054712776",
+ "transaction_code":"DGGZ48875805987818",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"20:57:05",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"238207.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BGN of Braavos"
+}

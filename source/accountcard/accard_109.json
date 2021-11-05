@@ -1,0 +1,15 @@
+{
+ "id_client":"STUH45454303438816",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4862211133135621517",
+ "transaction_code":"VCPP22991042115525",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"09:57:43",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"234294.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UGX of Braavos"
+}

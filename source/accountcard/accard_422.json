@@ -1,0 +1,15 @@
+{
+ "id_client":"DCPR60052738571604",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4083960080044",
+ "transaction_code":"FPFY90052485045316",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"15:43:38",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"720125.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TND of Braavos"
+}

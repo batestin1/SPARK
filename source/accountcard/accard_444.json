@@ -1,0 +1,15 @@
+{
+ "id_client":"YITC10531413668414",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"342886477803422",
+ "transaction_code":"LSLN52930848536206",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"08:25:03",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"166331.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SPL of Braavos"
+}

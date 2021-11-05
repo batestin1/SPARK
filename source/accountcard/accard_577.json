@@ -1,0 +1,15 @@
+{
+ "id_client":"VLAP64790364353208",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"3570470073975772",
+ "transaction_code":"RVGM81148267634958",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"03:50:26",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"528754.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KMF of Braavos"
+}

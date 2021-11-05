@@ -1,0 +1,15 @@
+{
+ "id_client":"AYDB50518273820505",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4250010796914742315",
+ "transaction_code":"UGTE40096377822486",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"04:18:56",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"483654.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"XCD of Braavos"
+}

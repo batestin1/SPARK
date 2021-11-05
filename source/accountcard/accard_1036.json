@@ -1,0 +1,15 @@
+{
+ "id_client":"SMOX55866432699383",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4670879963215242846",
+ "transaction_code":"UHKC21077010009299",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"11:46:43",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"248259.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GNF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"GLWU51393549708558",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4964751063644805",
+ "transaction_code":"MCPE07192028879744",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"05:30:27",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"108027.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JPY of Braavos"
+}

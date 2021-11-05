@@ -1,0 +1,15 @@
+{
+ "id_client":"HBTJ31471013226951",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"6571748926769464",
+ "transaction_code":"HOUZ08996263837508",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"21:41:31",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"410791.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"FJD of Braavos"
+}

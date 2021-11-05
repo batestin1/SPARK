@@ -1,0 +1,15 @@
+{
+ "id_client":"FJPB92261690632371",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"5128490893884345",
+ "transaction_code":"IOCW64213519877042",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"07:44:52",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"335978.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"UAH of Braavos"
+}

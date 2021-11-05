@@ -1,0 +1,15 @@
+{
+ "id_client":"NWTA49931514261425",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"340249276077031",
+ "transaction_code":"VBQI19310324193160",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"23:47:45",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"373406.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MZN of Braavos"
+}

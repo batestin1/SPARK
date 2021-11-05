@@ -1,0 +1,15 @@
+{
+ "id_client":"RPSP89459581503421",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"3596703919778301",
+ "transaction_code":"WXRL32922936261745",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"20:10:04",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"921839.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NAD of Braavos"
+}

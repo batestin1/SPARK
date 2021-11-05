@@ -1,0 +1,15 @@
+{
+ "id_client":"DUKK32476276727839",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4395336314893",
+ "transaction_code":"YREI03215839968886",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"04:30:54",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"985592.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CUC of Braavos"
+}

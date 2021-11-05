@@ -1,0 +1,15 @@
+{
+ "id_client":"KNXZ44104815024530",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4411691587809774",
+ "transaction_code":"ZOBA82888109138354",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"03:41:08",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"590626.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SZL of Braavos"
+}

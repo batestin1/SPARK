@@ -1,0 +1,15 @@
+{
+ "id_client":"GVXV63913382723315",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4256347714461926",
+ "transaction_code":"XWPY40093132020485",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"14:17:33",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"819408.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NOK of Braavos"
+}

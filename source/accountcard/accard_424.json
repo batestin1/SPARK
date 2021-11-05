@@ -1,0 +1,15 @@
+{
+ "id_client":"VMSO01153631896172",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"344148363824071",
+ "transaction_code":"GTFN36154379397477",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"02:31:17",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"972714.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BAM of Braavos"
+}

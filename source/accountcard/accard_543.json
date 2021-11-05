@@ -1,0 +1,15 @@
+{
+ "id_client":"DOTG94429559039294",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"5391061173190404",
+ "transaction_code":"TLJM20463567491962",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"13:26:10",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"945324.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KRW of Braavos"
+}

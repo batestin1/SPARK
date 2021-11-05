@@ -1,0 +1,15 @@
+{
+ "id_client":"SIVZ85905575207947",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4718455297860620",
+ "transaction_code":"FLAB42808982496583",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"22:31:24",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"979655.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TJS of Braavos"
+}

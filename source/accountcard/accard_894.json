@@ -1,0 +1,15 @@
+{
+ "id_client":"KAEM75821236166452",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"676393228298",
+ "transaction_code":"HBUX06149185349490",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"01:55:00",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"675132.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GYD of Braavos"
+}

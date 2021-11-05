@@ -1,0 +1,15 @@
+{
+ "id_client":"PQQQ36513490713394",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"675948288005",
+ "transaction_code":"PGDE44454478020536",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"14:34:33",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"736948.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NGN of Braavos"
+}

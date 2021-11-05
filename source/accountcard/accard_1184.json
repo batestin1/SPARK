@@ -1,0 +1,15 @@
+{
+ "id_client":"KLFL01252351656948",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"2298713191670160",
+ "transaction_code":"XICA33643717436449",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"11:31:12",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"511669.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XOF of Braavos"
+}

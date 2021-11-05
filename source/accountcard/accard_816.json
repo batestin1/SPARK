@@ -1,0 +1,15 @@
+{
+ "id_client":"EHQE80004568548791",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"activated",
+ "card_number":"213192164820019",
+ "transaction_code":"NLRJ64204625849726",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"11:05:52",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"69887.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TTD of Braavos"
+}

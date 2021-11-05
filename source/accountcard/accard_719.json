@@ -1,0 +1,15 @@
+{
+ "id_client":"COTN50245654172027",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"5423093282800948",
+ "transaction_code":"WMHV06764912431242",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"09:34:03",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"450264.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KRW of Braavos"
+}

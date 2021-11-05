@@ -1,0 +1,15 @@
+{
+ "id_client":"UOIM85800879059604",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4980859147430",
+ "transaction_code":"QAYK59579434187925",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"19:12:01",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"436518.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"OMR of Braavos"
+}

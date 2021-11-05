@@ -1,0 +1,15 @@
+{
+ "id_client":"FDBA86970520926828",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"2554412931127420",
+ "transaction_code":"MMHW77431978783281",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"23:54:37",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"567760.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TRY of Braavos"
+}

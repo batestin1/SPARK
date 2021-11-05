@@ -1,0 +1,15 @@
+{
+ "id_client":"QWQW14602110728697",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"30349754989809",
+ "transaction_code":"NSWX77491814842274",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"08:24:31",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"128970.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AMD of Braavos"
+}

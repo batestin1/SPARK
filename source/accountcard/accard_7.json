@@ -1,0 +1,15 @@
+{
+ "id_client":"OUAE62705949183214",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3532422089837287",
+ "transaction_code":"MXRP23206972410220",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"13:50:00",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"330673.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LAK of Braavos"
+}

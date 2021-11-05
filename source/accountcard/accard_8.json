@@ -1,0 +1,15 @@
+{
+ "id_client":"PEVX51797434621385",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"30120129263257",
+ "transaction_code":"UTRK22352662577852",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"05:06:57",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"573350.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BGN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LKHC31135345376345",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4844649176820",
+ "transaction_code":"OVCJ48080707556305",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"11:50:29",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"623242.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BND of Braavos"
+}

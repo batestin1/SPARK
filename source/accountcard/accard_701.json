@@ -1,0 +1,15 @@
+{
+ "id_client":"IOLO69733737428644",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"30100213293709",
+ "transaction_code":"IRCH91418854444243",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"11:24:06",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"336399.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"RON of Braavos"
+}

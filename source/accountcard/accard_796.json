@@ -1,0 +1,15 @@
+{
+ "id_client":"GLBR56123172691436",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"6522971663081295",
+ "transaction_code":"VYZY52095990607376",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"13:00:59",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"917324.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ZAR of Braavos"
+}

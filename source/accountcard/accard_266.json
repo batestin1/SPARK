@@ -1,0 +1,15 @@
+{
+ "id_client":"NBAS54988561909535",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4879839863149467806",
+ "transaction_code":"NNCF57514334901419",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"05:59:20",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"680643.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KHR of Braavos"
+}

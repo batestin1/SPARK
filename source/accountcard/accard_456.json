@@ -1,0 +1,15 @@
+{
+ "id_client":"KSHP80493263571156",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4389234239751934",
+ "transaction_code":"CXSC71735610610180",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"08:06:01",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"117571.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SLL of Braavos"
+}

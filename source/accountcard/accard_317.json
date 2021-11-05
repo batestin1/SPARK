@@ -1,0 +1,15 @@
+{
+ "id_client":"ZRAE71310504945276",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4041193304873769",
+ "transaction_code":"LEWO40463606202055",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"10:41:59",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"802649.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TJS of Braavos"
+}

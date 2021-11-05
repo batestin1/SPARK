@@ -1,0 +1,15 @@
+{
+ "id_client":"XRFY27326155494501",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4397321036837667",
+ "transaction_code":"EXOM01074288813089",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"22:36:56",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"277713.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"RWF of Braavos"
+}

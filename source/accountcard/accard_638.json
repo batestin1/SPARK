@@ -1,0 +1,15 @@
+{
+ "id_client":"TMVX42220937912331",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3564126164673704",
+ "transaction_code":"LLWQ22368117505011",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"17:16:36",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"495829.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XOF of Braavos"
+}

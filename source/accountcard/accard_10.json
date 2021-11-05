@@ -1,0 +1,15 @@
+{
+ "id_client":"MHKP04498004868661",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"180089908023695",
+ "transaction_code":"BEML90213791104879",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"15:38:09",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"463221.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BRL of Braavos"
+}

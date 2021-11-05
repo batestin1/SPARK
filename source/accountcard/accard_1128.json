@@ -1,0 +1,15 @@
+{
+ "id_client":"SYBJ14896801956103",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4723532370804640206",
+ "transaction_code":"MTDQ39004074411592",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"05:03:47",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"618859.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TVD of Braavos"
+}

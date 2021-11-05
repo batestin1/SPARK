@@ -1,0 +1,15 @@
+{
+ "id_client":"GWLP72703536995924",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"180089408397508",
+ "transaction_code":"WMRU00813836369624",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"20:41:22",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"914717.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SAR of Braavos"
+}

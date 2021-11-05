@@ -1,0 +1,15 @@
+{
+ "id_client":"PSTG49244267529591",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"30266051352277",
+ "transaction_code":"NYCF00692642446195",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"08:18:22",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"738839.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KES of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"NFQD32106050695694",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3549314013548240",
+ "transaction_code":"CQPH61149615496928",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"18:39:11",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"710646.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SGD of Braavos"
+}

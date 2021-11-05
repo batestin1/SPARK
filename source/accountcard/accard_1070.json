@@ -1,0 +1,15 @@
+{
+ "id_client":"XDZQ97194124726769",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4179072654336",
+ "transaction_code":"NSJM79589604471998",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"12:34:12",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"434628.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NZD of Braavos"
+}

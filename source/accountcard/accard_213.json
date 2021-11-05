@@ -1,0 +1,15 @@
+{
+ "id_client":"UEHH36533312608837",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4395177021218477910",
+ "transaction_code":"RPEX76217254530854",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"16:35:59",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"657682.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MNT of Braavos"
+}

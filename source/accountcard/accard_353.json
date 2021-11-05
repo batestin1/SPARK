@@ -1,0 +1,15 @@
+{
+ "id_client":"UESU59752751734581",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"373537166478081",
+ "transaction_code":"TGBW14816959758578",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"18:34:36",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"864944.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RON of Braavos"
+}

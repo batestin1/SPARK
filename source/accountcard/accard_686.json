@@ -1,0 +1,15 @@
+{
+ "id_client":"CAPU26805244985343",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4512237239556428885",
+ "transaction_code":"TUXC55882114658011",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"12:18:44",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"293378.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ZAR of Braavos"
+}

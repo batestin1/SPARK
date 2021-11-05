@@ -1,0 +1,15 @@
+{
+ "id_client":"AXWI97247509675023",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3546101403000079",
+ "transaction_code":"BWXI42950428428221",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"07:26:06",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"198490.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LSL of Braavos"
+}

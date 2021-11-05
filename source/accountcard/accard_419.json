@@ -1,0 +1,15 @@
+{
+ "id_client":"VSTE21340573784329",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3531068957602567",
+ "transaction_code":"MAXF04680365866794",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"01:46:18",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"427605.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XCD of Braavos"
+}

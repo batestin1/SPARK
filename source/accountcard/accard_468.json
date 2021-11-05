@@ -1,0 +1,15 @@
+{
+ "id_client":"KDWX00319729419669",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"180089021486217",
+ "transaction_code":"AALH75063045758200",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:47:39",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"307129.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HRK of Braavos"
+}

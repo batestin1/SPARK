@@ -1,0 +1,15 @@
+{
+ "id_client":"ETWZ82030265368368",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4969239765392159",
+ "transaction_code":"ZGUQ98069046605195",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"03:13:48",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"218552.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ERN of Braavos"
+}

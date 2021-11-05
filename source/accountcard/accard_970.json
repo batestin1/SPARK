@@ -1,0 +1,15 @@
+{
+ "id_client":"FMOQ28912752209212",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4312825901759",
+ "transaction_code":"UHNN58551347319078",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"08:00:52",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"167274.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"DOP of Braavos"
+}

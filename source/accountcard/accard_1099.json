@@ -1,0 +1,15 @@
+{
+ "id_client":"QSLR23478709212265",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4378659420065699",
+ "transaction_code":"AHRW36968987398874",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"03:03:00",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"895953.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PEN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TZFC55779544368567",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"3563796875181345",
+ "transaction_code":"EPUI27145201578564",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"07:13:36",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"509461.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TND of Braavos"
+}

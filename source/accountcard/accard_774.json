@@ -1,0 +1,15 @@
+{
+ "id_client":"YBNZ04051755848404",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"30482063813020",
+ "transaction_code":"EUSZ53231344634183",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"16:43:48",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"44619.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HNL of Braavos"
+}

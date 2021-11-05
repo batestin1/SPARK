@@ -1,0 +1,15 @@
+{
+ "id_client":"VFYB91864815009339",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4285868186519904",
+ "transaction_code":"TDCL21484457428946",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"01:34:26",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"733485.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ALL of Braavos"
+}

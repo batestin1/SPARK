@@ -1,0 +1,15 @@
+{
+ "id_client":"FFYE60444415372572",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"4356631930456680",
+ "transaction_code":"TVMB34325119982068",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"11:04:20",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"768344.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GEL of Braavos"
+}

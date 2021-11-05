@@ -1,0 +1,15 @@
+{
+ "id_client":"NBLO87804704556531",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"6521524406590303",
+ "transaction_code":"FZZZ71299799808057",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"04:49:18",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"779177.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AWG of Braavos"
+}

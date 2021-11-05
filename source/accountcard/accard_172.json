@@ -1,0 +1,15 @@
+{
+ "id_client":"LQOS77311948283571",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"38535728783201",
+ "transaction_code":"JZHM25416487944088",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"19:09:37",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"753458.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"DKK of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"INAI33285174970593",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4341486958604682621",
+ "transaction_code":"GUAF72288782004578",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"00:00:40",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"703367.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CLP of Braavos"
+}

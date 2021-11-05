@@ -1,0 +1,15 @@
+{
+ "id_client":"AJJH45901425589675",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3578111950193046",
+ "transaction_code":"WPYY26637173485419",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"17:57:12",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"183934.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"RWF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WLBE39615079752181",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"565225230343",
+ "transaction_code":"LOHK26658909982510",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"02:56:10",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"572249.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SZL of Braavos"
+}

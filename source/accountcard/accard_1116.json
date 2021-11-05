@@ -1,0 +1,15 @@
+{
+ "id_client":"OOXX44708972639277",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"30156896431966",
+ "transaction_code":"GPED18255327846060",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"13:40:59",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"41097.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PHP of Braavos"
+}

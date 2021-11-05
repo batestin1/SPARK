@@ -1,0 +1,15 @@
+{
+ "id_client":"JSAN66989738588321",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"2283630320021080",
+ "transaction_code":"PFFY63088065255956",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"11:14:08",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"638530.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LAK of Braavos"
+}

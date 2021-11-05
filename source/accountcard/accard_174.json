@@ -1,0 +1,15 @@
+{
+ "id_client":"UAIR61173659546210",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"342852625377693",
+ "transaction_code":"HICQ80695799687561",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"02:04:25",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"233008.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"VND of Braavos"
+}

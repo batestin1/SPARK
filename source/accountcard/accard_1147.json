@@ -1,0 +1,15 @@
+{
+ "id_client":"HBIR24235163958732",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4131832973822141",
+ "transaction_code":"VQQF68056082780437",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"17:45:23",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"955561.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"HNL of Braavos"
+}

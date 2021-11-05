@@ -1,0 +1,15 @@
+{
+ "id_client":"IQHG33810055931625",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"3571221921223728",
+ "transaction_code":"CMFD42231807654239",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"06:01:34",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"775612.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NOK of Braavos"
+}

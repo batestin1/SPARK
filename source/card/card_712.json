@@ -1,0 +1,12 @@
+{
+ "id_client":"NVDZ44168529056362",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "card_number":"activated",
+ "total_limit_value":"618023.0",
+ "limit_value_available":"616967.0",
+ "total_limit_used":"1056.0",
+ "description_card":"Maestro",
+ "security_card":"503",
+ "expire_card_number":"03/30"
+}

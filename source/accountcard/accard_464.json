@@ -1,0 +1,15 @@
+{
+ "id_client":"BHIP32963207764348",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"6531770313869862",
+ "transaction_code":"HQWA28498085233995",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"13:16:50",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"234436.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TRY of Braavos"
+}

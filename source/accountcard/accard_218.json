@@ -1,0 +1,15 @@
+{
+ "id_client":"QHOW10579655853722",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4887789839250337",
+ "transaction_code":"OPAG84507787273692",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"20:31:18",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"499213.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PLN of Braavos"
+}

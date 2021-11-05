@@ -1,0 +1,15 @@
+{
+ "id_client":"WOXK27438856777195",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"5323538343225718",
+ "transaction_code":"ENUS26697798544358",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"10:04:31",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"601202.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NZD of Braavos"
+}

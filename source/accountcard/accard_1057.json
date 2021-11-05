@@ -1,0 +1,15 @@
+{
+ "id_client":"WUUX55967798088222",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"6501166046555504",
+ "transaction_code":"NSTO85548075345466",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"22:22:45",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"598520.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SZL of Braavos"
+}

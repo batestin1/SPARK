@@ -1,0 +1,15 @@
+{
+ "id_client":"ICFM04545200603851",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4844572969956705074",
+ "transaction_code":"RTKB50350263523534",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"10:14:52",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"683840.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PAB of Braavos"
+}

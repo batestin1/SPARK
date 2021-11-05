@@ -1,0 +1,15 @@
+{
+ "id_client":"ABTZ42251733242029",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"2709969873776864",
+ "transaction_code":"XMBN24346625492506",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"02:13:36",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"642521.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TRY of Braavos"
+}

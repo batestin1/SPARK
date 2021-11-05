@@ -1,0 +1,15 @@
+{
+ "id_client":"LBRQ81802181921478",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"4344755661591032986",
+ "transaction_code":"HSRW53726720607682",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"06:26:53",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"660066.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AFN of Braavos"
+}

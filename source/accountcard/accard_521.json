@@ -1,0 +1,15 @@
+{
+ "id_client":"EDIO73070467494763",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"345775015545586",
+ "transaction_code":"TIOT44612817185689",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"07:05:15",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"639192.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XPF of Braavos"
+}

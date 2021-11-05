@@ -1,0 +1,15 @@
+{
+ "id_client":"PEQX51434148761392",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4027064370028679",
+ "transaction_code":"BDFO68602441877164",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"22:20:24",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"595611.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TVD of Braavos"
+}

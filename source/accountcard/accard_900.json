@@ -1,0 +1,15 @@
+{
+ "id_client":"EKMC81687230917288",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3534242052208714",
+ "transaction_code":"YPMP49874076541006",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:15:03",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"754639.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BYR of Braavos"
+}

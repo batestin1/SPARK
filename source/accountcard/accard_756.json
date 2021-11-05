@@ -1,0 +1,15 @@
+{
+ "id_client":"BIKW15629707358630",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"375588294827986",
+ "transaction_code":"OOQM12479911605566",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"10:12:51",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"603588.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RSD of Braavos"
+}

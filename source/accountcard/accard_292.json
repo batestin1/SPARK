@@ -1,0 +1,15 @@
+{
+ "id_client":"BWNZ77424783372041",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3551501979107103",
+ "transaction_code":"BGBA83227072838093",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"01:04:32",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"661622.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MXN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"EZIK78990265226817",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"3545634745161267",
+ "transaction_code":"FLGF87057595184740",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"04:07:07",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"152168.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"XCD of Braavos"
+}

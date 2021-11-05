@@ -1,0 +1,15 @@
+{
+ "id_client":"WOEE94331063473408",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4960492150069234",
+ "transaction_code":"EMWF84431418691655",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"09:48:28",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"982471.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"WST of Braavos"
+}

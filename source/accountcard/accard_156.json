@@ -1,0 +1,15 @@
+{
+ "id_client":"DDCI62092020137513",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4789506256079398",
+ "transaction_code":"VJHM95370944977338",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"12:11:10",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"410597.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MZN of Braavos"
+}

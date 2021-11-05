@@ -1,0 +1,15 @@
+{
+ "id_client":"RKTD09940280417543",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3543776295230794",
+ "transaction_code":"XSAF50353630426282",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"19:09:59",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"571220.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TVD of Braavos"
+}

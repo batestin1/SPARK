@@ -1,0 +1,15 @@
+{
+ "id_client":"UOHN79963882564945",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4553235474883",
+ "transaction_code":"BKWR50691420318893",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"11:05:04",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"475868.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GNF of Braavos"
+}

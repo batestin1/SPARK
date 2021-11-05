@@ -1,0 +1,15 @@
+{
+ "id_client":"ULZG01050895179309",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"371575730363498",
+ "transaction_code":"WVAI28563742505606",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"16:23:31",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"270398.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TTD of Braavos"
+}

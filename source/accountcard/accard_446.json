@@ -1,0 +1,15 @@
+{
+ "id_client":"FVTP81606719589147",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"676378365636",
+ "transaction_code":"QSIQ56288053329808",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"08:55:05",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"13528.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TJS of Braavos"
+}

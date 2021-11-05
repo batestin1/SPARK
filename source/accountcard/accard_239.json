@@ -1,0 +1,15 @@
+{
+ "id_client":"QSTD53364067187262",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"36658135054628",
+ "transaction_code":"TLEP51256214090092",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"10:44:44",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"833164.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MKD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"UTIQ94758043371424",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"6011759573489270",
+ "transaction_code":"FXHE21138689553141",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:33:43",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"952065.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"FJD of Braavos"
+}

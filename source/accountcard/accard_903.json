@@ -1,0 +1,15 @@
+{
+ "id_client":"CVBQ85542834442137",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4712498821609525773",
+ "transaction_code":"XXTU96693771720405",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"17:36:43",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"683615.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XCD of Braavos"
+}

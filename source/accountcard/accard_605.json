@@ -1,0 +1,15 @@
+{
+ "id_client":"FQAR90721165337339",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"6011944840793973",
+ "transaction_code":"MTRG86614410946814",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"07:10:50",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"293683.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BRL of Braavos"
+}

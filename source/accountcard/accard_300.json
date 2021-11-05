@@ -1,0 +1,15 @@
+{
+ "id_client":"DCKU56794121279772",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"347926328693948",
+ "transaction_code":"KVVN04484717758313",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"23:39:43",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"88325.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HUF of Braavos"
+}

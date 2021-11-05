@@ -1,0 +1,15 @@
+{
+ "id_client":"LSWD07907808956311",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4701670971166669",
+ "transaction_code":"RNUI42368984134691",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"12:55:50",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"625140.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KPW of Braavos"
+}

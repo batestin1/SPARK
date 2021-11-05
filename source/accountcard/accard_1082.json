@@ -1,0 +1,15 @@
+{
+ "id_client":"GINZ99524297686983",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"3535320795386796",
+ "transaction_code":"AAZN19145682065453",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"02:10:48",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"497232.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TJS of Braavos"
+}

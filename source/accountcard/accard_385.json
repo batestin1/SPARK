@@ -1,0 +1,15 @@
+{
+ "id_client":"CPMK76086760126606",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6515509500193813",
+ "transaction_code":"HYVY87463133362316",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"22:56:39",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"787525.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BRL of Braavos"
+}

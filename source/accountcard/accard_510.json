@@ -1,0 +1,15 @@
+{
+ "id_client":"MHSK71527000109234",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"5293685333324799",
+ "transaction_code":"DQLD11392119150518",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"11:46:39",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"542966.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GBP of Braavos"
+}

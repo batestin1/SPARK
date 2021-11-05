@@ -1,0 +1,15 @@
+{
+ "id_client":"VEDN04105792508616",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"2270525157355079",
+ "transaction_code":"MYZZ00835611460440",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"00:38:06",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"618185.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ISK of Braavos"
+}

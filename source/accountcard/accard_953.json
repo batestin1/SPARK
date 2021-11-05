@@ -1,0 +1,15 @@
+{
+ "id_client":"KXMN05352503779630",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"5213739172632189",
+ "transaction_code":"WESI65399777418628",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"01:45:09",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"308444.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GNF of Braavos"
+}

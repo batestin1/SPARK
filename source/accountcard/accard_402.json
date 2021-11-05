@@ -1,0 +1,15 @@
+{
+ "id_client":"FKMR67436118972218",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"675951849982",
+ "transaction_code":"PJSK96070121010257",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"05:11:27",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"406556.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"QAR of Braavos"
+}

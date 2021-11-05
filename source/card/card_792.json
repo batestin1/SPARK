@@ -1,0 +1,12 @@
+{
+ "id_client":"AFIP09262595223853",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "card_number":"activated",
+ "total_limit_value":"368948.0",
+ "limit_value_available":"273023.0",
+ "total_limit_used":"95925.0",
+ "description_card":"Maestro",
+ "security_card":"783",
+ "expire_card_number":"01/26"
+}

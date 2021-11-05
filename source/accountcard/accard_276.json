@@ -1,0 +1,15 @@
+{
+ "id_client":"IFLG45707364326924",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"4206106564305554",
+ "transaction_code":"QCWD31508387638529",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"19:59:01",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"111439.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NZD of Braavos"
+}

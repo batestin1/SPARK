@@ -1,0 +1,15 @@
+{
+ "id_client":"SHQD13350292876471",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"6011815105190313",
+ "transaction_code":"JAOQ86439453242037",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"12:12:23",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"270606.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"RON of Braavos"
+}

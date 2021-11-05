@@ -1,0 +1,15 @@
+{
+ "id_client":"WKLY60776956220890",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4489307613956169",
+ "transaction_code":"BUPM51117246142331",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"04:55:17",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"928903.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TMT of Braavos"
+}

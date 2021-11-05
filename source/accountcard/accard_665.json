@@ -1,0 +1,15 @@
+{
+ "id_client":"MRBT51432313535687",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"30443495336972",
+ "transaction_code":"RZNS80762558512342",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"03:12:27",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"247524.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BBD of Braavos"
+}

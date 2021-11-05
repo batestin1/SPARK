@@ -1,0 +1,15 @@
+{
+ "id_client":"YVGQ16705112984566",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4765797440702",
+ "transaction_code":"SGSN70567219037242",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"00:47:49",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"617430.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LYD of Braavos"
+}

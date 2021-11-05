@@ -1,0 +1,15 @@
+{
+ "id_client":"GPLX46480983331002",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"activated",
+ "card_number":"3541814266593643",
+ "transaction_code":"TUWH72577509861329",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"20:45:19",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"844778.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KES of Braavos"
+}

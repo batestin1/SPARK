@@ -1,0 +1,15 @@
+{
+ "id_client":"NAWL08596556735723",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"3537165757278020",
+ "transaction_code":"POFL40558335544463",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"20:28:49",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"383320.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HTG of Braavos"
+}

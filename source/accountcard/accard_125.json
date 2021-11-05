@@ -1,0 +1,15 @@
+{
+ "id_client":"GNVP06811363333995",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"675998556616",
+ "transaction_code":"KMWZ16149306381173",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"02:10:53",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"396902.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"IMP of Braavos"
+}

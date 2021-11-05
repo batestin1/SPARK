@@ -1,0 +1,15 @@
+{
+ "id_client":"BPNK06878727450905",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"30058632102820",
+ "transaction_code":"NTFV04645276828519",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"09:21:40",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"624257.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LTL of Braavos"
+}

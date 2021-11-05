@@ -1,0 +1,15 @@
+{
+ "id_client":"NZNN64030289958370",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"571263627895",
+ "transaction_code":"TBKI56552096845569",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"04:59:31",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"31116.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NIS of Braavos"
+}

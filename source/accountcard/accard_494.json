@@ -1,0 +1,15 @@
+{
+ "id_client":"JEVE69694689817201",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"38774730388341",
+ "transaction_code":"EIBH23790863570631",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"07:50:37",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"508937.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ILS of Braavos"
+}

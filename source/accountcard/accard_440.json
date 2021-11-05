@@ -1,0 +1,15 @@
+{
+ "id_client":"UTZG35773504991803",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"3547774302906460",
+ "transaction_code":"GHTV48245488304671",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:17:23",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"190700.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ALL of Braavos"
+}

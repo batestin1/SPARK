@@ -1,0 +1,15 @@
+{
+ "id_client":"ZZWY59351916579205",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"3576309102537209",
+ "transaction_code":"DSCM32509112470399",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"16:15:12",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"692408.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LKR of Braavos"
+}

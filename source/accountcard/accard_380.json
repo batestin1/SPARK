@@ -1,0 +1,15 @@
+{
+ "id_client":"HIMF29443014331753",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4845194618926937",
+ "transaction_code":"RAMJ11671635654305",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"21:08:13",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"740941.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ILS of Braavos"
+}

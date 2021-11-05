@@ -1,0 +1,15 @@
+{
+ "id_client":"HRXD71553854127771",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"4082512295197204234",
+ "transaction_code":"SARV65052303309611",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"23:55:05",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"405350.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BMD of Braavos"
+}

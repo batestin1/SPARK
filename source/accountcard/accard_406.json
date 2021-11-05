@@ -1,0 +1,15 @@
+{
+ "id_client":"FJUU67364402590565",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4333141541673",
+ "transaction_code":"ZKOB49509443943304",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"22:44:32",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"528416.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TND of Braavos"
+}

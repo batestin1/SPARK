@@ -1,0 +1,15 @@
+{
+ "id_client":"SYMT54147027714844",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"376840903246705",
+ "transaction_code":"TVTR74155388505072",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"04:19:35",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"487041.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LSL of Braavos"
+}

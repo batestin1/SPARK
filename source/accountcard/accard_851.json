@@ -1,0 +1,15 @@
+{
+ "id_client":"IOKW48322452231542",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"502096612978",
+ "transaction_code":"MKHZ37776677901779",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"22:13:02",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"458119.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"UAH of Braavos"
+}

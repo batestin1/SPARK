@@ -1,0 +1,15 @@
+{
+ "id_client":"NOLR86976147752442",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"3568325627411316",
+ "transaction_code":"RRUJ04775798134666",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"06:40:52",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"514564.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XDR of Braavos"
+}

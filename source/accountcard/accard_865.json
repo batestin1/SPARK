@@ -1,0 +1,15 @@
+{
+ "id_client":"QJAP87930219660633",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3587161397254264",
+ "transaction_code":"TZNW23194071184754",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"08:08:59",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"193413.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"VEF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"JRWO40708451221997",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"342548057235348",
+ "transaction_code":"CKSM48010214492311",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"12:35:43",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"641685.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HTG of Braavos"
+}

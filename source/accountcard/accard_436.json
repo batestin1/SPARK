@@ -1,0 +1,15 @@
+{
+ "id_client":"WDHH09264691443115",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4115022242786919",
+ "transaction_code":"MBVO51616161581114",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"16:57:30",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"400558.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"USD of Braavos"
+}

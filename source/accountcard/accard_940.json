@@ -1,0 +1,15 @@
+{
+ "id_client":"SDSP37077699200167",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"3518927221716767",
+ "transaction_code":"OAIC80328595438469",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"17:30:04",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"815917.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NIO of Braavos"
+}

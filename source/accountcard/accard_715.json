@@ -1,0 +1,15 @@
+{
+ "id_client":"IHSP10873122172628",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"2252080943888498",
+ "transaction_code":"SUPJ36275362851279",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"20:31:22",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"406892.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GTQ of Braavos"
+}

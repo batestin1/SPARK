@@ -1,0 +1,15 @@
+{
+ "id_client":"CZJC00783443988482",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"5311526880904591",
+ "transaction_code":"BYPN17139685614074",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"03:39:47",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"459661.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"UYU of Braavos"
+}

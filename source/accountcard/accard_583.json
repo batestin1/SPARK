@@ -1,0 +1,15 @@
+{
+ "id_client":"LKHY44496322318690",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"3585118612287182",
+ "transaction_code":"SCVK77809467314387",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"10:58:28",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"134819.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IDR of Braavos"
+}

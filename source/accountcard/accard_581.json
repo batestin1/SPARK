@@ -1,0 +1,15 @@
+{
+ "id_client":"OFRV12908286238940",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"675941081902",
+ "transaction_code":"XQHA46992798118040",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"15:07:07",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"668839.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CAD of Braavos"
+}

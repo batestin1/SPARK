@@ -1,0 +1,15 @@
+{
+ "id_client":"ALXR57311316032783",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"5199460607053663",
+ "transaction_code":"KFZI92531622226612",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"19:55:34",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"3585.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BIF of Braavos"
+}

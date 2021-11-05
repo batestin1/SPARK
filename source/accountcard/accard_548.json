@@ -1,0 +1,15 @@
+{
+ "id_client":"URRB92148567973244",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3545684339339316",
+ "transaction_code":"BETJ33752068518274",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"23:51:49",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"669907.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BGN of Braavos"
+}

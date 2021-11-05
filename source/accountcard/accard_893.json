@@ -1,0 +1,15 @@
+{
+ "id_client":"OOGV83189674372620",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3535436368834994",
+ "transaction_code":"SCSQ49701823843110",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"07:12:33",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"394256.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MMK of Braavos"
+}

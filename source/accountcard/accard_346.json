@@ -1,0 +1,15 @@
+{
+ "id_client":"SUIE84221569989099",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4606953224160366",
+ "transaction_code":"PVOE26191712638441",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"19:41:27",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"759224.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"RON of Braavos"
+}

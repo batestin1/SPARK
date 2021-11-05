@@ -1,0 +1,15 @@
+{
+ "id_client":"QYAH72431762886079",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"213178826558253",
+ "transaction_code":"BEIL04887350068864",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"06:21:33",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"248768.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TWD of Braavos"
+}

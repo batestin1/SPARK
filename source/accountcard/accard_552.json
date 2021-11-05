@@ -1,0 +1,15 @@
+{
+ "id_client":"BRGG42932806063986",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"2235261861239482",
+ "transaction_code":"CJKL89285652965731",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:21:00",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"760585.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ALL of Braavos"
+}

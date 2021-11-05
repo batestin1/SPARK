@@ -1,0 +1,15 @@
+{
+ "id_client":"ETEZ38388104271837",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"30130795514933",
+ "transaction_code":"FHKC65915048528666",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"11:06:43",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"424128.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"OMR of Braavos"
+}

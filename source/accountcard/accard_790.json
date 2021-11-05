@@ -1,0 +1,15 @@
+{
+ "id_client":"ATPW94823381625786",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"2687337628536015",
+ "transaction_code":"NCHA62620836634734",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"10:32:24",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"304669.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SHP of Braavos"
+}

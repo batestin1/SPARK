@@ -1,0 +1,15 @@
+{
+ "id_client":"NYNO71792909798921",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"6011675972198041",
+ "transaction_code":"UKEC20936662670566",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"09:01:18",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"619491.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AOA of Braavos"
+}

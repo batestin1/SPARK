@@ -1,0 +1,15 @@
+{
+ "id_client":"ANTA92459766339847",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"3595594012131683",
+ "transaction_code":"MDKZ89610051081708",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"02:57:44",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"524653.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"THB of Braavos"
+}

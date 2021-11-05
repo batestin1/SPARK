@@ -1,0 +1,15 @@
+{
+ "id_client":"ILST96398967204206",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3540732576881477",
+ "transaction_code":"YZGC87545707544831",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"17:53:56",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"709255.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XCD of Braavos"
+}

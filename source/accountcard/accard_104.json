@@ -1,0 +1,15 @@
+{
+ "id_client":"AAPQ72802298130988",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"4268862483660744",
+ "transaction_code":"RODQ61785996777716",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"15:48:30",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"116025.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XAF of Braavos"
+}

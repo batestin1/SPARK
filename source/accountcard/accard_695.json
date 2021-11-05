@@ -1,0 +1,15 @@
+{
+ "id_client":"RJTH48486728634770",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"36703914815789",
+ "transaction_code":"ABNY10445211178276",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"11:09:03",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"459461.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AMD of Braavos"
+}

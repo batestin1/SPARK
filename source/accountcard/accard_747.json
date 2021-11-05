@@ -1,0 +1,15 @@
+{
+ "id_client":"JATL67481553992904",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4738936131643591",
+ "transaction_code":"WNKG05824674095150",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"19:54:38",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"12191.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NPR of Braavos"
+}

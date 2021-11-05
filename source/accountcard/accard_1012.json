@@ -1,0 +1,15 @@
+{
+ "id_client":"GPLH22132659698823",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4789505947246",
+ "transaction_code":"HMYN53664425509907",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"09:53:25",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"183752.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MZN of Braavos"
+}

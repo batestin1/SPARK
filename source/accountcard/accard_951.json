@@ -1,0 +1,15 @@
+{
+ "id_client":"FFYL56605864862143",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4954940861774334",
+ "transaction_code":"CUTN95037980531359",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"16:27:11",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"841238.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"AUD of Braavos"
+}

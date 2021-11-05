@@ -1,0 +1,15 @@
+{
+ "id_client":"ULPX26226828918540",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4891446249699751",
+ "transaction_code":"GKFX83845197221726",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"17:59:01",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"328729.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MDL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"IQGA66277044459674",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"36360527690362",
+ "transaction_code":"DLSN16498789259487",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"23:37:07",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"229539.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NAD of Braavos"
+}

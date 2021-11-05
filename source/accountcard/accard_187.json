@@ -1,0 +1,15 @@
+{
+ "id_client":"FQIW85295032248373",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"4363361120509415557",
+ "transaction_code":"THOJ72030722213893",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"16:08:28",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"110889.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BRL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"JFSJ31360782482911",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"3512492415394109",
+ "transaction_code":"UZCB40521169109310",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:28:46",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"948256.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NIS of Braavos"
+}

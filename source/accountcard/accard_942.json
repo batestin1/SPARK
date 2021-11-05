@@ -1,0 +1,15 @@
+{
+ "id_client":"ABSX08975779282716",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"347697627480085",
+ "transaction_code":"ICTO56991582534017",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"05:10:35",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"59086.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HUF of Braavos"
+}

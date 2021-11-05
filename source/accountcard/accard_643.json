@@ -1,0 +1,15 @@
+{
+ "id_client":"PJHY79542442429912",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4447999823450693",
+ "transaction_code":"XIIL53487982114665",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"00:47:50",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"940480.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CNY of Braavos"
+}

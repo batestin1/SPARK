@@ -1,0 +1,15 @@
+{
+ "id_client":"CRDJ58091204496592",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"2236185652491441",
+ "transaction_code":"EDAY56498415425725",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"16:51:20",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"95983.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ILS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"SFFX35184684460805",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"341056651172322",
+ "transaction_code":"JNFT37131532741948",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"15:22:08",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"403865.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"STD of Braavos"
+}

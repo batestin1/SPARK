@@ -1,0 +1,15 @@
+{
+ "id_client":"KFPC55962263950676",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"2262153754390140",
+ "transaction_code":"LRPU98835171687364",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"19:37:43",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"70028.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TJS of Braavos"
+}

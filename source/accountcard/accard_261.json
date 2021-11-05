@@ -1,0 +1,15 @@
+{
+ "id_client":"ANFB60634129873659",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4210247851155627",
+ "transaction_code":"AHKL58376010086535",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"00:51:14",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"116281.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"XOF of Braavos"
+}

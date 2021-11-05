@@ -1,0 +1,15 @@
+{
+ "id_client":"ZNII74993554035093",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3596327185221448",
+ "transaction_code":"LWPU21607677474605",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"22:45:27",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"758015.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CZK of Braavos"
+}

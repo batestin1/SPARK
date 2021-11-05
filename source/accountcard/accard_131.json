@@ -1,0 +1,15 @@
+{
+ "id_client":"EWIJ33112268010295",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"30401763196841",
+ "transaction_code":"VIET26914763251677",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"22:16:32",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"256612.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CRC of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"XCHD82582922408028",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4541131572915941",
+ "transaction_code":"OUSF93625502997311",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"04:54:34",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"441558.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"DZD of Braavos"
+}

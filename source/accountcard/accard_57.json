@@ -1,0 +1,15 @@
+{
+ "id_client":"UPPH79523088676650",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"675939118187",
+ "transaction_code":"KTMC90137399644964",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"20:58:00",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"758296.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GNF of Braavos"
+}

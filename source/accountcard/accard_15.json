@@ -1,0 +1,15 @@
+{
+ "id_client":"VJHC72193142173592",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4917656985940553",
+ "transaction_code":"TWFM37629960259629",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"19:50:00",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"122716.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"YER of Braavos"
+}

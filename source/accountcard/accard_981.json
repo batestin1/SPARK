@@ -1,0 +1,15 @@
+{
+ "id_client":"XTXN61002084387401",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"3541510825768755",
+ "transaction_code":"JGGU53970720482879",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"16:25:12",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"105529.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BBD of Braavos"
+}

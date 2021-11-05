@@ -1,0 +1,15 @@
+{
+ "id_client":"COBS09747140339562",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"6517015917406986",
+ "transaction_code":"MGRD12537970381574",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"09:16:52",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"754582.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TZS of Braavos"
+}

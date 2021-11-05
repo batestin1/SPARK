@@ -1,0 +1,15 @@
+{
+ "id_client":"SIPM98321735508162",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4409153933789063",
+ "transaction_code":"BTWL76304070876451",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"07:58:14",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"604160.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CNY of Braavos"
+}

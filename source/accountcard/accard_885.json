@@ -1,0 +1,15 @@
+{
+ "id_client":"SOWP65965681263989",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4714442459550",
+ "transaction_code":"GAXY60749140073240",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"09:00:39",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"425127.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CNY of Braavos"
+}

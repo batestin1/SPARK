@@ -1,0 +1,15 @@
+{
+ "id_client":"EKAQ96813536421467",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"378044310763539",
+ "transaction_code":"VTTQ17736419770141",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"13:20:22",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"457079.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ISK of Braavos"
+}

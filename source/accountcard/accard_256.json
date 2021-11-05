@@ -1,0 +1,15 @@
+{
+ "id_client":"TXLY54413488353626",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"6011345234404963",
+ "transaction_code":"RJUO97236731903378",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"00:09:25",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"342674.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PGK of Braavos"
+}

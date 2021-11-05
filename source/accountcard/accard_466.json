@@ -1,0 +1,15 @@
+{
+ "id_client":"IWCH68604251793483",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"36811076444049",
+ "transaction_code":"NUWI57837119362648",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"02:29:37",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"666152.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SVC of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ODPC13880313872521",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"5138942766518291",
+ "transaction_code":"IQME47508685904689",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"12:10:03",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"587935.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UAH of Braavos"
+}

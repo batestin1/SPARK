@@ -1,0 +1,15 @@
+{
+ "id_client":"QSTI68898489736851",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"36742588593496",
+ "transaction_code":"ZAKO38883981544166",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"03:31:17",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"528974.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"WST of Braavos"
+}

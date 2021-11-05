@@ -1,0 +1,15 @@
+{
+ "id_client":"SLCS53451647607259",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"3584053517280019",
+ "transaction_code":"OYPZ42482777482552",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"18:02:20",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"83610.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BBD of Braavos"
+}

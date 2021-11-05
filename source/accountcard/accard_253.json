@@ -1,0 +1,15 @@
+{
+ "id_client":"SGTG11231620713381",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"3543901852379459",
+ "transaction_code":"CKBO67985190866919",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"17:20:11",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"48542.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ERN of Braavos"
+}

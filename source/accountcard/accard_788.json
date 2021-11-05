@@ -1,0 +1,15 @@
+{
+ "id_client":"NLPX97137051936580",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"3507245336016285",
+ "transaction_code":"QTAT77400265285086",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"19:55:24",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"709604.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ETB of Braavos"
+}

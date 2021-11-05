@@ -1,0 +1,15 @@
+{
+ "id_client":"IRXC55304703935669",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"6519947286191427",
+ "transaction_code":"WVNO12446385691242",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"11:29:26",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"317989.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MVR of Braavos"
+}

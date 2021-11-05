@@ -1,0 +1,15 @@
+{
+ "id_client":"JGOX66432016076791",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"342808933334701",
+ "transaction_code":"ZLZI51285817520832",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:42:30",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"763323.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NOK of Braavos"
+}

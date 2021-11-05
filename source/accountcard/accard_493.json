@@ -1,0 +1,15 @@
+{
+ "id_client":"TUTE07546470485463",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4045508852309",
+ "transaction_code":"UPUF94355186152138",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"17:39:28",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"401175.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MGA of Braavos"
+}

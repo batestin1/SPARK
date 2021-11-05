@@ -1,0 +1,15 @@
+{
+ "id_client":"CECF38378700471749",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4832649078189503",
+ "transaction_code":"OGQR71524060636620",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"14:54:45",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"173497.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TZS of Braavos"
+}

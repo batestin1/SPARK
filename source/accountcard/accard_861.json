@@ -1,0 +1,15 @@
+{
+ "id_client":"IMMN39292354761308",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3537325821438964",
+ "transaction_code":"NHQP62436199112167",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"02:03:58",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"731743.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NZD of Braavos"
+}

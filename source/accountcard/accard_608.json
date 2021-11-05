@@ -1,0 +1,15 @@
+{
+ "id_client":"RRZE02372111390732",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4436703038576745",
+ "transaction_code":"YXFN13537303923635",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:35:50",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"620361.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NAD of Braavos"
+}

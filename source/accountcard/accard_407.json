@@ -1,0 +1,15 @@
+{
+ "id_client":"BYGL92172990101630",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"370693772700252",
+ "transaction_code":"WRAL33818468273087",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"21:55:33",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"195946.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KZT of Braavos"
+}

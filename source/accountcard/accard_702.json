@@ -1,0 +1,15 @@
+{
+ "id_client":"UKUA09784666881508",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"213168926835438",
+ "transaction_code":"FFSA01079652852259",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"08:42:04",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"255498.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"USD of Braavos"
+}

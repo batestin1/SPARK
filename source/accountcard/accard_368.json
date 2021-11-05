@@ -1,0 +1,15 @@
+{
+ "id_client":"BHAE80756738811131",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"36059345543379",
+ "transaction_code":"KGZI50283047235587",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"02:12:36",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"360812.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"EUR of Braavos"
+}

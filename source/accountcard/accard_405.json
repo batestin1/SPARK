@@ -1,0 +1,15 @@
+{
+ "id_client":"REFQ71878381448102",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"3505841428650411",
+ "transaction_code":"BFQD76975520958981",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"14:45:14",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"504567.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"VND of Braavos"
+}

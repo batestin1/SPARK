@@ -1,0 +1,15 @@
+{
+ "id_client":"TEXU88360417695284",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"060493395978",
+ "transaction_code":"VKHN24016559813507",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"02:03:07",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"771878.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XCD of Braavos"
+}

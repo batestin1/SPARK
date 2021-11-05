@@ -1,0 +1,15 @@
+{
+ "id_client":"BCNC14877753402091",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"213166939432763",
+ "transaction_code":"VYPX11687047598245",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"06:14:41",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"236864.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UZS of Braavos"
+}

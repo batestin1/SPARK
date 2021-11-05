@@ -1,0 +1,15 @@
+{
+ "id_client":"PTRE20026424759274",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4475248635401",
+ "transaction_code":"MITB57381691524056",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"23:49:11",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"375978.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SVC of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"JVJF80800043992486",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4515747776774",
+ "transaction_code":"BLYX83386695391118",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"02:21:08",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"581487.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BMD of Braavos"
+}

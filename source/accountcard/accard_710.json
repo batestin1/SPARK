@@ -1,0 +1,15 @@
+{
+ "id_client":"SVLB31996861109203",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4504915700894514",
+ "transaction_code":"AEND79702901546815",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:04:36",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"819753.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RWF of Braavos"
+}

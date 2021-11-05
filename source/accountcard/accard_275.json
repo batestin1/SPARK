@@ -1,0 +1,15 @@
+{
+ "id_client":"MSDR50595851139895",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"2231036975297111",
+ "transaction_code":"SMXA49124138603426",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"16:18:12",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"4695.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BYR of Braavos"
+}

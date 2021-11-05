@@ -1,0 +1,15 @@
+{
+ "id_client":"BOQW64181308922368",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"6533912684624470",
+ "transaction_code":"DDOW66397000136738",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"13:13:50",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"370602.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RON of Braavos"
+}

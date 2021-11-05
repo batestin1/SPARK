@@ -1,0 +1,15 @@
+{
+ "id_client":"HQGZ49378084332840",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"213157516209443",
+ "transaction_code":"FGUC63673279106222",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:14:35",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"166432.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"AWG of Braavos"
+}

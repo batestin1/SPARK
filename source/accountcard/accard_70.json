@@ -1,0 +1,15 @@
+{
+ "id_client":"HJNL03756077201345",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"213177991197806",
+ "transaction_code":"DHST83904392709564",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"11:50:09",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"111290.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NIO of Braavos"
+}

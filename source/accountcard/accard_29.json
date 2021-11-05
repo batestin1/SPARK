@@ -1,0 +1,15 @@
+{
+ "id_client":"CETF69553879595602",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"180093972420985",
+ "transaction_code":"SYPC65765645456859",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"09:39:18",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"30001.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"JMD of Braavos"
+}

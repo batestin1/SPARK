@@ -1,0 +1,15 @@
+{
+ "id_client":"KHHP59003047808262",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"213198030847656",
+ "transaction_code":"JVHB27795854065824",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"23:44:21",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"210052.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BMD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"IJXL54061423032633",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4528505872875",
+ "transaction_code":"NOER91076823008288",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"08:01:32",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"12106.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"STD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"YWOC93953471899156",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"374446715603497",
+ "transaction_code":"BIHF97398963539678",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"10:10:50",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"315694.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XOF of Braavos"
+}

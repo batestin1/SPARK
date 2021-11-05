@@ -1,0 +1,15 @@
+{
+ "id_client":"TSGD66857855390650",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"6011729883349571",
+ "transaction_code":"LWON05161966263870",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"21:08:08",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"111130.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SDG of Braavos"
+}

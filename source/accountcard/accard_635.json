@@ -1,0 +1,15 @@
+{
+ "id_client":"RSZT52869833445908",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4954391040957",
+ "transaction_code":"GXPK23630293550541",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"08:14:19",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"425331.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PLN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"CUSU84665653161128",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"639098561785",
+ "transaction_code":"RFDH12727889179418",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"19:10:10",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"280001.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"RWF of Braavos"
+}

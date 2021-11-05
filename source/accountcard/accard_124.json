@@ -1,0 +1,15 @@
+{
+ "id_client":"SASY51746775181667",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"6527357060328585",
+ "transaction_code":"UOSZ90977664416118",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"04:13:57",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"450252.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"STD of Braavos"
+}

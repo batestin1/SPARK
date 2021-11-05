@@ -1,0 +1,15 @@
+{
+ "id_client":"EDHF33593515170809",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"2261660496989949",
+ "transaction_code":"ATEO07441427050982",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"07:34:58",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"832388.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MOP of Braavos"
+}

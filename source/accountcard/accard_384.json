@@ -1,0 +1,15 @@
+{
+ "id_client":"VIZM65385671315228",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"4920282271123112287",
+ "transaction_code":"HILP42736387507952",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"15:25:39",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"334299.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"EUR of Braavos"
+}

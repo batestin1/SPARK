@@ -1,0 +1,15 @@
+{
+ "id_client":"LMEB90639956234333",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"060475532689",
+ "transaction_code":"CLWK70260032821808",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:14:50",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"828633.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SVC of Braavos"
+}

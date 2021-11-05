@@ -1,0 +1,15 @@
+{
+ "id_client":"QTDG58754203777281",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4431334997521363702",
+ "transaction_code":"VTMJ81513310689201",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"11:18:27",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"151728.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ETB of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TWXU90105109912170",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"4363405718877750",
+ "transaction_code":"EDKG54301431577650",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"19:11:22",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"834108.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TWD of Braavos"
+}

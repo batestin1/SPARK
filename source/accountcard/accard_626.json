@@ -1,0 +1,15 @@
+{
+ "id_client":"SWMD60976494289498",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4199464082336646",
+ "transaction_code":"ASNB21189112684656",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"13:07:54",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"31000.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"JPY of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"THLX31135337101418",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"3567454149962977",
+ "transaction_code":"JVWE16539181807441",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"10:28:09",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"522157.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LAK of Braavos"
+}

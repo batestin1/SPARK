@@ -1,0 +1,15 @@
+{
+ "id_client":"ZPNW21040095154234",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"2608974411936808",
+ "transaction_code":"KVQB93664225208349",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"20:10:55",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"356592.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BYR of Braavos"
+}

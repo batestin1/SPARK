@@ -1,0 +1,15 @@
+{
+ "id_client":"RTQK52163006240928",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4552903194475069139",
+ "transaction_code":"QAKE99786834890411",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"05:05:17",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"70743.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TOP of Braavos"
+}

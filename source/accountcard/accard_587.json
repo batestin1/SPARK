@@ -1,0 +1,15 @@
+{
+ "id_client":"SWHD06258834371607",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"213146206681516",
+ "transaction_code":"SEBR66079942916335",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"13:38:39",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"671433.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BOB of Braavos"
+}

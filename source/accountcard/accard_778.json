@@ -1,0 +1,15 @@
+{
+ "id_client":"VXTL69770686946104",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"6011257672172541",
+ "transaction_code":"QYUP69927613256820",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"00:45:10",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"104962.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"THB of Braavos"
+}

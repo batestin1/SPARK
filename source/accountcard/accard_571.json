@@ -1,0 +1,15 @@
+{
+ "id_client":"IDDM43446568995094",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"180020794389403",
+ "transaction_code":"YSDE54218531585602",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"21:06:51",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"903713.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"UYU of Braavos"
+}

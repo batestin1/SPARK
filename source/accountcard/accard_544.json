@@ -1,0 +1,15 @@
+{
+ "id_client":"BTKN72038581138642",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"6011684405465555",
+ "transaction_code":"QEUB02245981897238",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"17:59:48",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"257845.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"JEP of Braavos"
+}

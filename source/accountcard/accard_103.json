@@ -1,0 +1,15 @@
+{
+ "id_client":"XYUQ05289677673627",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"30598578068956",
+ "transaction_code":"DLLS06377808452609",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"09:40:51",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"352274.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"IDR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"VVEL99701021851113",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3599223255827254",
+ "transaction_code":"QFQK93451534819766",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"11:31:20",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"200241.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CHF of Braavos"
+}

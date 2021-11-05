@@ -1,0 +1,15 @@
+{
+ "id_client":"HEUX23561368098368",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4692504678664940701",
+ "transaction_code":"XVYU88799608746818",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"12:47:27",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"638569.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PEN of Braavos"
+}

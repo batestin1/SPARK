@@ -1,0 +1,15 @@
+{
+ "id_client":"GFAO71423250447453",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"6595694377941743",
+ "transaction_code":"TNIS95051906877357",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"21:10:44",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"532903.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"PEN of Braavos"
+}

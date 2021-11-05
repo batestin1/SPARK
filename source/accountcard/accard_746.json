@@ -1,0 +1,15 @@
+{
+ "id_client":"VIFH50420340385808",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4809578902280",
+ "transaction_code":"FMAB48185371386914",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"13:11:23",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"232832.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XDR of Braavos"
+}

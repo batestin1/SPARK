@@ -1,0 +1,15 @@
+{
+ "id_client":"MMMY85638828169820",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"6011061521710323",
+ "transaction_code":"RCRR31397269830451",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"05:23:59",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"541594.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"QAR of Braavos"
+}

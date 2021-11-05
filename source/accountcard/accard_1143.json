@@ -1,0 +1,15 @@
+{
+ "id_client":"DAJM53568440118240",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"30250173979985",
+ "transaction_code":"MIHQ45721044097091",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"12:30:53",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"131781.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"VND of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DOVC28805890337780",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"30461988228282",
+ "transaction_code":"YJKW13053622092722",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"23:05:52",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"173190.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PGK of Braavos"
+}

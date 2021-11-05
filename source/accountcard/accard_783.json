@@ -1,0 +1,15 @@
+{
+ "id_client":"VTPM60433713357586",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"343773345819849",
+ "transaction_code":"VTBK49563044331034",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"19:52:43",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"621766.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TRY of Braavos"
+}

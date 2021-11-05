@@ -1,0 +1,15 @@
+{
+ "id_client":"BWPS78208626083526",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"180081094611375",
+ "transaction_code":"SIBI15776959194828",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"15:13:25",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"37851.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ISK of Braavos"
+}

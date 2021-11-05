@@ -1,0 +1,15 @@
+{
+ "id_client":"IQWB09211745812743",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"3527640559790655",
+ "transaction_code":"HUKK48489593980811",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"04:19:25",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"123357.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CNY of Braavos"
+}

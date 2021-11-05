@@ -1,0 +1,15 @@
+{
+ "id_client":"XGTO51527883002374",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"6570946120827929",
+ "transaction_code":"TYWV10067236140109",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"07:41:05",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"634519.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BHD of Braavos"
+}

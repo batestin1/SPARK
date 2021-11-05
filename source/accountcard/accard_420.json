@@ -1,0 +1,15 @@
+{
+ "id_client":"GUYK02765088335326",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"3508817695039832",
+ "transaction_code":"JTTN64150908956674",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"22:41:34",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"695670.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LSL of Braavos"
+}

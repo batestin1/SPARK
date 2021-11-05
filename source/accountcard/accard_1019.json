@@ -1,0 +1,15 @@
+{
+ "id_client":"YNQV94683515303226",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4476836928748817",
+ "transaction_code":"BBGQ86320501942521",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"11:14:10",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"635316.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BOB of Braavos"
+}

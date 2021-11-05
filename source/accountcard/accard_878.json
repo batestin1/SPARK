@@ -1,0 +1,15 @@
+{
+ "id_client":"HNIZ78460732390963",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"3512882411053057",
+ "transaction_code":"DMXS69275494815768",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:17:50",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"421405.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"QAR of Braavos"
+}

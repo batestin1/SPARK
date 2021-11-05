@@ -1,0 +1,15 @@
+{
+ "id_client":"FHXC94839268653864",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"2242591788144261",
+ "transaction_code":"LOVG94248389568347",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"06:54:49",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"527698.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CAD of Braavos"
+}

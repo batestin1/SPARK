@@ -1,0 +1,15 @@
+{
+ "id_client":"QXDG12620126508355",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"3502921493636579",
+ "transaction_code":"BNGI39370493284167",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"20:35:34",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"859667.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CRC of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HEBB51229550524988",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"349274378293212",
+ "transaction_code":"ZGEU52251015132197",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"12:06:35",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"121850.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HUF of Braavos"
+}

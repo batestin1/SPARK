@@ -1,0 +1,15 @@
+{
+ "id_client":"WZXF30863753337006",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3579494693672636",
+ "transaction_code":"OZVV30911447037196",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"11:30:38",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"246868.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KMF of Braavos"
+}

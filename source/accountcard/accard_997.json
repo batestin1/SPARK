@@ -1,0 +1,15 @@
+{
+ "id_client":"MBPY45789094360813",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"377996948218866",
+ "transaction_code":"BMNZ58497127675262",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"15:12:39",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"420044.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ETB of Braavos"
+}

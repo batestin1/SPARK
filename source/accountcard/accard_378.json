@@ -1,0 +1,15 @@
+{
+ "id_client":"KZKS79018982311275",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"3589699109793259",
+ "transaction_code":"NGZG74505019510411",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"14:47:10",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"443167.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BGN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"MEDN81964894834906",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"3538834004665425",
+ "transaction_code":"PUQK48182918479237",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"17:58:41",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"26849.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PKR of Braavos"
+}

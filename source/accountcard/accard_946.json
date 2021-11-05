@@ -1,0 +1,15 @@
+{
+ "id_client":"YNJK65146100340570",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"5187091931633484",
+ "transaction_code":"VUJS30838411967541",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"07:15:34",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"309478.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LRD of Braavos"
+}

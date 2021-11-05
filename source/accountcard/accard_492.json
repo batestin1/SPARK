@@ -1,0 +1,15 @@
+{
+ "id_client":"UTLN16860372979150",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3583548554063765",
+ "transaction_code":"IJPV49979419245099",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"22:48:41",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"330363.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"INR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"IOEI93995988634004",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4355563362666836",
+ "transaction_code":"JZMN16973074270939",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"03:45:39",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"978748.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BAM of Braavos"
+}

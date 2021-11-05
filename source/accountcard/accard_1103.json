@@ -1,0 +1,15 @@
+{
+ "id_client":"TINV60688782305689",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"2235784605798430",
+ "transaction_code":"SVDN87834655401043",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"02:16:39",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"657862.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BMD of Braavos"
+}

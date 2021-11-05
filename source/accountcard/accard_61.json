@@ -1,0 +1,15 @@
+{
+ "id_client":"MCQC59991209613374",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"180061673455469",
+ "transaction_code":"CUGR26497188554939",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"17:38:33",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"715225.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SEK of Braavos"
+}

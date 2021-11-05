@@ -1,0 +1,15 @@
+{
+ "id_client":"QRLG23029800169058",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"340590415683068",
+ "transaction_code":"QJGN55506161262554",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"17:23:39",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"503287.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NIO of Braavos"
+}

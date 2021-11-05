@@ -1,0 +1,15 @@
+{
+ "id_client":"DNUH06359651472162",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"3560615657413812",
+ "transaction_code":"GCVQ36959213919812",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"18:45:58",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"31397.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"QAR of Braavos"
+}

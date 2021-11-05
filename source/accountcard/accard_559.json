@@ -1,0 +1,15 @@
+{
+ "id_client":"IPDJ96142780534883",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"180011914873731",
+ "transaction_code":"SGPA81309972157245",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:34:00",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"192582.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PLN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LTHF75069418614016",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"6011260688568256",
+ "transaction_code":"KPVP80189334331580",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"09:44:37",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"102285.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KES of Braavos"
+}

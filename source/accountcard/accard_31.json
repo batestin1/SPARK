@@ -1,0 +1,15 @@
+{
+ "id_client":"PMAA57538085263446",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4620292401175331",
+ "transaction_code":"TGSK76643342238221",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"14:07:38",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"791666.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CLP of Braavos"
+}

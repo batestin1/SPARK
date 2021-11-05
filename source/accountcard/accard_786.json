@@ -1,0 +1,15 @@
+{
+ "id_client":"PWJY50231279966541",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"3592658206082219",
+ "transaction_code":"ZZZS12929552427605",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"06:56:50",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"700882.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MNT of Braavos"
+}

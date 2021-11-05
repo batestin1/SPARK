@@ -1,0 +1,15 @@
+{
+ "id_client":"EIIQ22468030499237",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4012628202930",
+ "transaction_code":"IVIX86645530055595",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"06:15:44",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"113930.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BGN of Braavos"
+}

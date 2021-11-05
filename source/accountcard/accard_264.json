@@ -1,0 +1,15 @@
+{
+ "id_client":"KMUG02215606684696",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"639054015883",
+ "transaction_code":"NQFR23545778423535",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"00:43:20",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"340906.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"JEP of Braavos"
+}

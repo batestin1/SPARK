@@ -1,0 +1,15 @@
+{
+ "id_client":"LMDZ41521487852071",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"6011278959265121",
+ "transaction_code":"HBYT66921039362864",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"05:06:45",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"493559.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GNF of Braavos"
+}

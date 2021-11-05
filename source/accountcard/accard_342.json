@@ -1,0 +1,15 @@
+{
+ "id_client":"VNHD15239234611138",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"6011540387004533",
+ "transaction_code":"OXEN28663301978959",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"17:39:56",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"593256.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GEL of Braavos"
+}

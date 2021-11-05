@@ -1,0 +1,15 @@
+{
+ "id_client":"MLLD76075851105453",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"30569202869069",
+ "transaction_code":"ZPYE12220575475104",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"04:31:46",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"14886.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MZN of Braavos"
+}

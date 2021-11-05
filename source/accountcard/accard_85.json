@@ -1,0 +1,15 @@
+{
+ "id_client":"HGXY05927906046346",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4757108073145086",
+ "transaction_code":"BTFS95433430418335",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"11:15:18",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"574288.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"FJD of Braavos"
+}

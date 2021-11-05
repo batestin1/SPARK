@@ -1,0 +1,15 @@
+{
+ "id_client":"AOIL44456143169631",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"3518348163081575",
+ "transaction_code":"MXRP18548438974911",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"12:38:56",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"556575.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BDT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"QPPC56317676779259",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"3522564027767332",
+ "transaction_code":"USEW80582055839597",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"12:05:53",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"368029.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ZWD of Braavos"
+}

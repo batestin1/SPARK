@@ -1,0 +1,15 @@
+{
+ "id_client":"HOUI47089816459441",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"503809388823",
+ "transaction_code":"GSWZ63064893606350",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"20:56:42",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"198347.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NOK of Braavos"
+}

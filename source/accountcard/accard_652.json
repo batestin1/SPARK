@@ -1,0 +1,15 @@
+{
+ "id_client":"VDTN40102022768765",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"342152609078999",
+ "transaction_code":"HXQY89828975173058",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"21:21:22",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"494541.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BDT of Braavos"
+}

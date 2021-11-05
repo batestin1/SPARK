@@ -1,0 +1,15 @@
+{
+ "id_client":"RTAE67578086666788",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4288772737265",
+ "transaction_code":"ZOES50231232236043",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"16:45:41",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"6080.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NAD of Braavos"
+}

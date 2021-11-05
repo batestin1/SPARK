@@ -1,0 +1,15 @@
+{
+ "id_client":"KRWJ16538200700952",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"342196838497611",
+ "transaction_code":"SVBB81470214358907",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"05:10:38",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"662647.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HUF of Braavos"
+}

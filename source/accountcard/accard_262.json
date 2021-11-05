@@ -1,0 +1,15 @@
+{
+ "id_client":"XLDG36603077440936",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"375287830005633",
+ "transaction_code":"NAVN14908502723459",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"09:38:35",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"390520.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HNL of Braavos"
+}

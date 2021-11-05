@@ -1,0 +1,15 @@
+{
+ "id_client":"KWSZ88032044267129",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3584020532161052",
+ "transaction_code":"KAKE60357892781914",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"23:09:09",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"378093.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ZAR of Braavos"
+}

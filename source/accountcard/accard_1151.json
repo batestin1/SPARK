@@ -1,0 +1,15 @@
+{
+ "id_client":"FZWI12380843896802",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"3579801301125460",
+ "transaction_code":"QYPL54923201657513",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"05:25:31",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"199957.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CZK of Braavos"
+}

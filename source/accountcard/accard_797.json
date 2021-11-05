@@ -1,0 +1,15 @@
+{
+ "id_client":"SWTM02179721355569",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"6531115594297948",
+ "transaction_code":"KODP74103120987390",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"18:55:50",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"850209.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"FJD of Braavos"
+}

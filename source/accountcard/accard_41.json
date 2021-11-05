@@ -1,0 +1,15 @@
+{
+ "id_client":"RAMS57528258500086",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"3503987736016100",
+ "transaction_code":"RDKF27001485938682",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"21:02:47",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"943006.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PLN of Braavos"
+}

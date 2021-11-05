@@ -1,0 +1,15 @@
+{
+ "id_client":"ESZK54436863834321",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"503808053808",
+ "transaction_code":"DOKA51133608356846",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"03:31:10",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"915600.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ZWD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"NACH42986220955284",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"6011751652504053",
+ "transaction_code":"GQWI63228955563732",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"22:10:53",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"30696.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MDL of Braavos"
+}

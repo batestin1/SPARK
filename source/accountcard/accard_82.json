@@ -1,0 +1,15 @@
+{
+ "id_client":"HWSZ96503867517809",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4469184853704870",
+ "transaction_code":"HBNA78302910087065",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"03:52:30",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"140142.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ANG of Braavos"
+}

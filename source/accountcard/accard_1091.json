@@ -1,0 +1,15 @@
+{
+ "id_client":"IKTY33339290849152",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"30047132709507",
+ "transaction_code":"FFMG86240697594658",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:31:13",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"556328.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BBD of Braavos"
+}

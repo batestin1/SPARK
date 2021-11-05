@@ -1,0 +1,15 @@
+{
+ "id_client":"QELV77254598460837",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"30062056564168",
+ "transaction_code":"VFGJ79134965355685",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"05:17:16",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"113851.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TJS of Braavos"
+}

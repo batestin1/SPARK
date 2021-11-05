@@ -1,0 +1,15 @@
+{
+ "id_client":"HOTO82257977181771",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"3598095011650753",
+ "transaction_code":"TVHL08654192601794",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"22:07:55",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"90089.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GHS of Braavos"
+}

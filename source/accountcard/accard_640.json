@@ -1,0 +1,15 @@
+{
+ "id_client":"UQJP18314039869607",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"2705482952298119",
+ "transaction_code":"MTLV01207690130335",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"21:36:22",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"993704.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"DKK of Braavos"
+}

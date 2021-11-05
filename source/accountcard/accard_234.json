@@ -1,0 +1,15 @@
+{
+ "id_client":"EGQU60233260802692",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"342205171033162",
+ "transaction_code":"KUOQ19695112472579",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"16:52:16",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"826743.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RUB of Braavos"
+}

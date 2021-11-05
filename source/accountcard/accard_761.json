@@ -1,0 +1,15 @@
+{
+ "id_client":"VQGJ20812693285034",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"343652803667199",
+ "transaction_code":"FNFV33963456616220",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"18:53:11",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"790399.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"VND of Braavos"
+}

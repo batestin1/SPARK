@@ -1,0 +1,15 @@
+{
+ "id_client":"BSSI97748505183339",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4826593062429",
+ "transaction_code":"XXJR11504351157984",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"09:37:06",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"915481.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"DOP of Braavos"
+}

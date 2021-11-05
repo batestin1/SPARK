@@ -1,0 +1,15 @@
+{
+ "id_client":"VILN62895602780265",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4255580955082666115",
+ "transaction_code":"ILIZ77932911953497",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"17:09:06",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"585926.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SAR of Braavos"
+}

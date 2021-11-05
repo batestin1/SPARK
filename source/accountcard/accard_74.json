@@ -1,0 +1,15 @@
+{
+ "id_client":"NCQB25517449107512",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4104065381990950604",
+ "transaction_code":"TVEP44234660834226",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"05:46:54",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"202749.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LSL of Braavos"
+}

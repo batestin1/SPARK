@@ -1,0 +1,15 @@
+{
+ "id_client":"FZBK84271063555360",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4488856444324899",
+ "transaction_code":"OOSF35529677306006",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"02:58:18",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"451010.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"VND of Braavos"
+}

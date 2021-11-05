@@ -1,0 +1,15 @@
+{
+ "id_client":"ZMAO32024063043288",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4184350844551456",
+ "transaction_code":"VCNW46383756837063",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"02:45:23",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"562617.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BMD of Braavos"
+}

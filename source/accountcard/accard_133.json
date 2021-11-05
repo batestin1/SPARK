@@ -1,0 +1,15 @@
+{
+ "id_client":"YXIY07262484038779",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"343008258908127",
+ "transaction_code":"DFYD23023472630628",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"11:06:15",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"331406.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XAF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"JPOS44238712756754",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"3567597146092949",
+ "transaction_code":"FLVH38554020441297",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"15:57:12",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"887407.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MRO of Braavos"
+}

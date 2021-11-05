@@ -1,0 +1,15 @@
+{
+ "id_client":"VATR59439938031466",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"6011501617001772",
+ "transaction_code":"LDRR05223449231261",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"09:18:37",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"917110.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TTD of Braavos"
+}

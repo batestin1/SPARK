@@ -1,0 +1,15 @@
+{
+ "id_client":"RCOG95159697247432",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4882561319671",
+ "transaction_code":"VHKN85707864897451",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"11:42:44",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"477497.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ARS of Braavos"
+}

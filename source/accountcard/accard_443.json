@@ -1,0 +1,15 @@
+{
+ "id_client":"YVZU43465859509805",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"180022881643353",
+ "transaction_code":"ECYW86675516155801",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"10:26:09",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"49126.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PAB of Braavos"
+}

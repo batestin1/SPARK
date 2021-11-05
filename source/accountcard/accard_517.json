@@ -1,0 +1,15 @@
+{
+ "id_client":"AKNZ97301979910026",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"6011317273012734",
+ "transaction_code":"GWMF01981599233659",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"08:45:33",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"573615.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BRL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"AYVD15894036655427",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"675968145218",
+ "transaction_code":"WNIC41247566630778",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"00:27:47",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"951132.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BIF of Braavos"
+}

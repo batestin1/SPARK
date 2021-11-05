@@ -1,0 +1,15 @@
+{
+ "id_client":"MPAY02551789316726",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4277514086148812",
+ "transaction_code":"NCFQ82865681351050",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"13:19:15",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"550816.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UYU of Braavos"
+}

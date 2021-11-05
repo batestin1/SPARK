@@ -1,0 +1,15 @@
+{
+ "id_client":"SWIU93860777495107",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"343640400871363",
+ "transaction_code":"IGQH65979070222579",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"07:20:15",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"125293.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CZK of Braavos"
+}

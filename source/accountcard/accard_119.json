@@ -1,0 +1,15 @@
+{
+ "id_client":"XXEN01262089020709",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"347963697161124",
+ "transaction_code":"JFAT92412627483839",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"13:14:38",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"948789.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CHF of Braavos"
+}

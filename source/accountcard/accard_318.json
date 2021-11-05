@@ -1,0 +1,15 @@
+{
+ "id_client":"AUYF81943945521188",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"3548490964430793",
+ "transaction_code":"RIHH93045245340351",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"03:51:56",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"347397.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GTQ of Braavos"
+}

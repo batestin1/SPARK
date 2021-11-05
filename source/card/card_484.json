@@ -1,0 +1,12 @@
+{
+ "id_client":"SEFC45931233584536",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "card_number":"activated",
+ "total_limit_value":"8954.0",
+ "limit_value_available":"-47535.0",
+ "total_limit_used":"56489.0",
+ "description_card":"Maestro",
+ "security_card":"350",
+ "expire_card_number":"08/25"
+}

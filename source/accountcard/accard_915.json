@@ -1,0 +1,15 @@
+{
+ "id_client":"DWWG32059324476718",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3548274909126611",
+ "transaction_code":"JBNX83596279107280",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"08:26:09",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"672755.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KMF of Braavos"
+}

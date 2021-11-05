@@ -1,0 +1,15 @@
+{
+ "id_client":"VXKI27116582192399",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"30340654147002",
+ "transaction_code":"TUAO85753728133857",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"20:07:50",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"256919.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CNY of Braavos"
+}

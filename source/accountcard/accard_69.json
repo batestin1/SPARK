@@ -1,0 +1,15 @@
+{
+ "id_client":"LLYS20305107987286",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4453023431387",
+ "transaction_code":"EOVJ27982709837483",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"11:28:31",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"870113.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BBD of Braavos"
+}

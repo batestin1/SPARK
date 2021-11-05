@@ -1,0 +1,15 @@
+{
+ "id_client":"KEQL90387695177010",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4192518250775690",
+ "transaction_code":"MBCH05512044494891",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"14:35:46",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"153337.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CLP of Braavos"
+}

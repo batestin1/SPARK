@@ -1,0 +1,15 @@
+{
+ "id_client":"AHKA06643319401249",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"2711836609821171",
+ "transaction_code":"EWPX58185168596062",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"00:21:26",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"430517.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"RWF of Braavos"
+}

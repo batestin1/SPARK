@@ -1,0 +1,15 @@
+{
+ "id_client":"TAMM07503121099883",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"6527778531659516",
+ "transaction_code":"JIKR25848806353552",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"05:22:28",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"144547.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"IDR of Braavos"
+}

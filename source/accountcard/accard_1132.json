@@ -1,0 +1,15 @@
+{
+ "id_client":"KKYT98352579791298",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"345561146854109",
+ "transaction_code":"XIUL27551736906382",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"10:22:03",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"158281.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"IDR of Braavos"
+}

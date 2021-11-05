@@ -1,0 +1,15 @@
+{
+ "id_client":"SWSV18241518340186",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"6011670127008872",
+ "transaction_code":"NYGD17666757958768",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"14:14:04",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"466663.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"DKK of Braavos"
+}

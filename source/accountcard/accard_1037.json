@@ -1,0 +1,15 @@
+{
+ "id_client":"BTMB33424280809643",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"060446298444",
+ "transaction_code":"JALU03063363222828",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"15:48:36",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"397806.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GBP of Braavos"
+}

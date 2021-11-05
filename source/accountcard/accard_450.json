@@ -1,0 +1,15 @@
+{
+ "id_client":"PGFN79920628248673",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"3567228628089332",
+ "transaction_code":"XHHY34623678261898",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"20:27:37",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"481700.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CUC of Braavos"
+}

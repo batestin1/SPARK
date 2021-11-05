@@ -1,0 +1,15 @@
+{
+ "id_client":"QKFO18133595640265",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"5510763022933092",
+ "transaction_code":"BTEO22439570445673",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"20:22:17",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"22527.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"DOP of Braavos"
+}

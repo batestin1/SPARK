@@ -1,0 +1,15 @@
+{
+ "id_client":"GQZM91977767461009",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3567950261665793",
+ "transaction_code":"CTDM02303414413228",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"17:12:21",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"306709.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PHP of Braavos"
+}

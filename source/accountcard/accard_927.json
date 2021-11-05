@@ -1,0 +1,15 @@
+{
+ "id_client":"OGWW48571117339645",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4112065139312",
+ "transaction_code":"GRQM88098427717490",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"14:29:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"980512.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MXN of Braavos"
+}

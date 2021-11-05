@@ -1,0 +1,15 @@
+{
+ "id_client":"AQJT64251067170909",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4760950756317",
+ "transaction_code":"YTCB96908487451392",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"19:07:12",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"768827.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BGN of Braavos"
+}

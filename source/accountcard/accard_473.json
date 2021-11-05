@@ -1,0 +1,15 @@
+{
+ "id_client":"GERF15553784672337",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3587105449375221",
+ "transaction_code":"TVRZ18035359896397",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"09:48:10",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"722003.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SOS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"YNLX26973845848856",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4462464004744",
+ "transaction_code":"LSGW00973509220171",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"14:30:45",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"639917.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NIO of Braavos"
+}

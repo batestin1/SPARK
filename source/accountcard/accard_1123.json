@@ -1,0 +1,15 @@
+{
+ "id_client":"SEWC84102784244614",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"6011427292301305",
+ "transaction_code":"WNNQ46375776383861",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:01:00",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"977585.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SDG of Braavos"
+}

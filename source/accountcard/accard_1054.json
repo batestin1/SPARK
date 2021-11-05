@@ -1,0 +1,15 @@
+{
+ "id_client":"QYLM44301172647139",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"2385001529179615",
+ "transaction_code":"UHXY94778624190384",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"12:14:53",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"737900.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MOP of Braavos"
+}

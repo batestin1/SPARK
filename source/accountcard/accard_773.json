@@ -1,0 +1,15 @@
+{
+ "id_client":"CXJA99249912767406",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"6011861407591295",
+ "transaction_code":"RCUZ62041487250059",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"04:43:00",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"374271.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GHS of Braavos"
+}

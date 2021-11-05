@@ -1,0 +1,15 @@
+{
+ "id_client":"BTRH76172818781620",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"3570533228725770",
+ "transaction_code":"OPVZ95392434093744",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"12:37:03",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"406737.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"EGP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"OHHL49342783582180",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4887445363853699032",
+ "transaction_code":"CWIA16334272575837",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"02:59:08",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"620215.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MXN of Braavos"
+}

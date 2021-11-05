@@ -1,0 +1,15 @@
+{
+ "id_client":"PHUL00287195086238",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"2717005988031919",
+ "transaction_code":"PROT75150147101482",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"07:29:09",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"955509.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VEF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"VRVM68268312187658",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4762364051537082",
+ "transaction_code":"QXKU09536836095379",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"07:47:12",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"341610.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KHR of Braavos"
+}

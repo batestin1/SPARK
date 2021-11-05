@@ -1,0 +1,15 @@
+{
+ "id_client":"ZWEQ32741540240302",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"3586997185929810",
+ "transaction_code":"QZRB40536751549847",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"04:01:36",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"625186.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LKR of Braavos"
+}

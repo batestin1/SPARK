@@ -1,0 +1,15 @@
+{
+ "id_client":"LUMX02517865702787",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4296419520585941",
+ "transaction_code":"GJCF22641910335167",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"18:29:02",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"623662.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GBP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RLXM70314595424255",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"345163798465191",
+ "transaction_code":"RNVT95770709279806",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:23:00",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"709660.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MRO of Braavos"
+}

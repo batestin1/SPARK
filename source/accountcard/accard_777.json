@@ -1,0 +1,15 @@
+{
+ "id_client":"QAFZ60401569072114",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6571213877892195",
+ "transaction_code":"IBUG10200746297878",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"22:14:38",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"350672.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XDR of Braavos"
+}

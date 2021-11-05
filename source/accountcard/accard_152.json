@@ -1,0 +1,15 @@
+{
+ "id_client":"PKBT35142439098285",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"377705791310484",
+ "transaction_code":"JFBW44439455183326",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"01:29:38",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"833591.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MAD of Braavos"
+}

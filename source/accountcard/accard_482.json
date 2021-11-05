@@ -1,0 +1,15 @@
+{
+ "id_client":"BXSU08584594801409",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4216336118170775897",
+ "transaction_code":"OINQ95442825038837",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"08:39:48",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"826264.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"GIP of Braavos"
+}

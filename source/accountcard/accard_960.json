@@ -1,0 +1,15 @@
+{
+ "id_client":"RBKD15288694594345",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"3518746876727089",
+ "transaction_code":"STCQ07727309901768",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"05:15:06",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"423724.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"JEP of Braavos"
+}

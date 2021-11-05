@@ -1,0 +1,15 @@
+{
+ "id_client":"INSQ72992234858465",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"3544453923998999",
+ "transaction_code":"IUOP03718266155783",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"07:01:05",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"435457.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MRO of Braavos"
+}

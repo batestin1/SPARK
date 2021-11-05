@@ -1,0 +1,15 @@
+{
+ "id_client":"BWPR66032664908658",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4474966859992373",
+ "transaction_code":"MUEX87414570995883",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"00:20:01",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"40116.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"COP of Braavos"
+}

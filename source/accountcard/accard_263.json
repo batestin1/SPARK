@@ -1,0 +1,15 @@
+{
+ "id_client":"BIEL00120906226959",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"2338791229303923",
+ "transaction_code":"GOCW40590285933358",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"19:36:17",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"582772.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KGS of Braavos"
+}

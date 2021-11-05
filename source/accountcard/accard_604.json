@@ -1,0 +1,15 @@
+{
+ "id_client":"KIIW30522827745694",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"3546865324357343",
+ "transaction_code":"CWAL48149818594468",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"14:27:55",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"873549.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MXN of Braavos"
+}

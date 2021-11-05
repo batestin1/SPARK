@@ -1,0 +1,15 @@
+{
+ "id_client":"CNDH75869271342797",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"180094473188568",
+ "transaction_code":"YCIM05897458460621",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"12:36:43",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"842374.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MXN of Braavos"
+}

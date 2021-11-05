@@ -1,0 +1,15 @@
+{
+ "id_client":"UBDR69278206252321",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4651012215188",
+ "transaction_code":"KFFP27999461519772",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"05:56:09",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"153332.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"QAR of Braavos"
+}

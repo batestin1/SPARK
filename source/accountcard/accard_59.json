@@ -1,0 +1,15 @@
+{
+ "id_client":"DIAB76408833992678",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"2591484417538748",
+ "transaction_code":"EWSD10934020377340",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:57:30",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"490518.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"USD of Braavos"
+}

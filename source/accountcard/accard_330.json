@@ -1,0 +1,15 @@
+{
+ "id_client":"RKFB70228986605115",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4047817052134436469",
+ "transaction_code":"ESDP42315651307029",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"06:33:25",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"955293.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AWG of Braavos"
+}
