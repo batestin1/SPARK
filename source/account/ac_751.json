@@ -1,11 +1,11 @@
 {
- "id_client":"FZBK84271063555360",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"GIJG92341764193177",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"dragon account",
  "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"ENMB07133165690223",
- "aba":"054336101"
+ "account_status":"not activated",
+ "bban_count":"BLWV64752321074888",
+ "aba":"040718353"
 }

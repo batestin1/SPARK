@@ -1,0 +1,15 @@
+{
+ "id_client":"OGQV10084362011703",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4627196931804363436",
+ "transaction_code":"NNOX01685770141170",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"08:19:24",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"967378.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LTL of Braavos"
+}

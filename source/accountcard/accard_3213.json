@@ -1,0 +1,15 @@
+{
+ "id_client":"TEID09334012695393",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4876095616534379",
+ "transaction_code":"ARNO73207467381844",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"19:51:38",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"900408.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"VEF of Braavos"
+}

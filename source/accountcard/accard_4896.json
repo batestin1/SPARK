@@ -1,0 +1,15 @@
+{
+ "id_client":"ZWYM39874285661907",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"180014598696915",
+ "transaction_code":"WSWF15085008671382",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"04:42:38",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"919517.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AED of Braavos"
+}

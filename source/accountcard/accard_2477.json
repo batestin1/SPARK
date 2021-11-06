@@ -1,0 +1,15 @@
+{
+ "id_client":"NKCO58276126777263",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"6011761915725338",
+ "transaction_code":"NTYU50400326969428",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"23:47:29",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"886122.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SGD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"QRDR12460908360990",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4526418554386057717",
+ "transaction_code":"XMBN83248824936542",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"05:39:45",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"717720.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TWD of Braavos"
+}

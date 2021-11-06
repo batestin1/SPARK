@@ -1,0 +1,15 @@
+{
+ "id_client":"WSIQ37957921519211",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4058980992786414",
+ "transaction_code":"RKFX53367039935842",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"15:13:54",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"861528.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TRY of Braavos"
+}

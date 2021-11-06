@@ -1,10 +1,10 @@
 {
- "id_client":"PGDG32149820363133",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "rent_income_value":"+296676.0",
- "description_chosen_income_method":"+658367.0",
- "total_account_value":"6394395.0",
- "current_account_total_value":"6105926.0",
- "total_amount_carried_over":"288469.0"
+ "id_client":"NIDD66504882656239",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "rent_income_value":"-662745.0",
+ "description_chosen_income_method":"-763065.0",
+ "total_account_value":"1471561.0",
+ "current_account_total_value":"974243.0",
+ "total_amount_carried_over":"497318.0"
 }

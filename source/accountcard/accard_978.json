@@ -1,15 +1,15 @@
 {
- "id_client":"ZZYS74013321194577",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"ALXA19083903117647",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"376687795613066",
- "transaction_code":"MHMB37046544195471",
- "date_transaction":"2021-11-24",
- "time_transaction":"10:48:55",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"881503.0",
+ "card_number":"4037910998382864",
+ "transaction_code":"DJEG01064539905784",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:30:11",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"899784.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"ERN of Braavos"
+ "currency":"GIP of Braavos"
 }

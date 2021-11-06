@@ -1,0 +1,15 @@
+{
+ "id_client":"AZEW36986644853575",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"30379237685203",
+ "transaction_code":"KIKQ02634834056951",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"11:39:40",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"213538.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"IMP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DEFF36049003482042",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"3557733673174915",
+ "transaction_code":"VKUQ60556351263803",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"11:49:44",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"851219.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BZD of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"GEDB71165583707953",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "card_number":"activated",
- "total_limit_value":"748171.0",
- "limit_value_available":"719359.0",
- "total_limit_used":"28812.0",
- "description_card":"Maestro",
- "security_card":"686",
- "expire_card_number":"12/25"
+ "id_client":"SFJJ91826818511285",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "card_number":"not activated",
+ "total_limit_value":"794061.0",
+ "limit_value_available":"706906.0",
+ "total_limit_used":"87155.0",
+ "description_card":"VISA 13 digit",
+ "security_card":"439",
+ "expire_card_number":"08/24"
 }

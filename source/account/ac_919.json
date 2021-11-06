@@ -1,11 +1,11 @@
 {
- "id_client":"NKLJ88908632777327",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"XILC79030055052116",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"LXCR92899876057347",
- "aba":"034157247"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"TCLS93385405080139",
+ "aba":"097008443"
 }

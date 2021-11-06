@@ -1,0 +1,15 @@
+{
+ "id_client":"NLZY02567818046906",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4550049455538",
+ "transaction_code":"CFFC69228554032708",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"00:50:13",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"755391.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PYG of Braavos"
+}

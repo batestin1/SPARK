@@ -1,0 +1,15 @@
+{
+ "id_client":"BASQ45160389161531",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3593890941529753",
+ "transaction_code":"GQQN71486935724497",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"09:46:26",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"465910.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NIS of Braavos"
+}

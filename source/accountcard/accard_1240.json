@@ -1,0 +1,15 @@
+{
+ "id_client":"MEMI65469944596849",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"30328888216891",
+ "transaction_code":"XFOM43826875061281",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"04:12:44",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"670891.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"QAR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WSCN01714789599116",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"340150727158778",
+ "transaction_code":"MEPX83152511638076",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"06:37:48",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"435851.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AWG of Braavos"
+}

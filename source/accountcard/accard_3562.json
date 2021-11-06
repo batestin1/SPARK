@@ -1,0 +1,15 @@
+{
+ "id_client":"PYDW22603160558339",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4257722183848895",
+ "transaction_code":"LBUA37171853464287",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"08:41:38",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"360466.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PYG of Braavos"
+}

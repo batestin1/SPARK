@@ -1,0 +1,15 @@
+{
+ "id_client":"FEYZ33480498944685",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"501842695915",
+ "transaction_code":"QHOA09462136131628",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"22:20:42",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"592541.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GEL of Braavos"
+}

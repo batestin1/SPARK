@@ -1,0 +1,15 @@
+{
+ "id_client":"TTEG93490189903825",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4894077256351452",
+ "transaction_code":"ALER46994507947704",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"13:13:28",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"245267.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BRL of Braavos"
+}

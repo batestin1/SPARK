@@ -1,0 +1,15 @@
+{
+ "id_client":"IVIR70604906514956",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4996954318348998",
+ "transaction_code":"ZVZR77252978094369",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"20:13:37",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"882287.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"UGX of Braavos"
+}

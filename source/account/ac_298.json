@@ -1,11 +1,11 @@
 {
- "id_client":"KSTC92772423730677",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"DTJY86670116332445",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"ILPD24553768073922",
- "aba":"088713315"
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"QQNM98185692448280",
+ "aba":"083288391"
 }

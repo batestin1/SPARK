@@ -1,0 +1,15 @@
+{
+ "id_client":"UUDW79028157296275",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4558833738360978325",
+ "transaction_code":"IUKT63716830147099",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"02:52:49",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"666946.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"INR of Braavos"
+}

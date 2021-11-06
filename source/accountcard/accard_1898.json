@@ -1,0 +1,15 @@
+{
+ "id_client":"QYLL68521425732891",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"6011484049107808",
+ "transaction_code":"GGYT12117969073146",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"13:16:26",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"78180.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AFN of Braavos"
+}

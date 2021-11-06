@@ -1,0 +1,15 @@
+{
+ "id_client":"SQNF31356652938483",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"373272854196106",
+ "transaction_code":"DMSR88371883110310",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"02:29:20",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"321602.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TMT of Braavos"
+}

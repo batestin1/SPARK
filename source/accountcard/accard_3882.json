@@ -1,0 +1,15 @@
+{
+ "id_client":"SUJD70292292822383",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"6011210435426365",
+ "transaction_code":"JBDF86966129553348",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"18:17:37",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"618038.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ILS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"XZZU13110548408916",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"30010949540887",
+ "transaction_code":"HWEU64370511543095",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"01:44:39",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"914401.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CLP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LELA42625406704947",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"213171442434512",
+ "transaction_code":"MKMM73480559315369",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"12:18:56",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"797757.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BWP of Braavos"
+}

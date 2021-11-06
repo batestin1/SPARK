@@ -1,0 +1,15 @@
+{
+ "id_client":"BYRU69987167995311",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"373254056842646",
+ "transaction_code":"VQOM67773099001882",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"15:46:56",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"690327.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GTQ of Braavos"
+}

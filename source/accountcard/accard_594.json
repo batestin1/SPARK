@@ -1,15 +1,15 @@
 {
- "id_client":"IRXC55304703935669",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"DZOY45287561114374",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"6519947286191427",
- "transaction_code":"WVNO12446385691242",
- "date_transaction":"2021-11-13",
- "time_transaction":"11:29:26",
- "describle_transaction":"horses",
- "original_transaction_amount":"317989.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"MVR of Braavos"
+ "card_number":"213122635210664",
+ "transaction_code":"BRAY60480934185154",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"09:23:47",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"527366.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"FKP of Braavos"
 }

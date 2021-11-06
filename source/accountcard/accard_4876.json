@@ -1,0 +1,15 @@
+{
+ "id_client":"RAOQ22156199932945",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"639094144677",
+ "transaction_code":"MZRR86238447916140",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:02:39",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"51764.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MDL of Braavos"
+}

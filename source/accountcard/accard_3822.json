@@ -1,0 +1,15 @@
+{
+ "id_client":"EVSM83629773376820",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"676150037536",
+ "transaction_code":"DRPI63233604872077",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"14:01:25",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"389803.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"INR of Braavos"
+}

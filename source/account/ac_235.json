@@ -1,11 +1,11 @@
 {
- "id_client":"SVCL77929974188015",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"IAED97835232278701",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"TEAU52615342035410",
- "aba":"097143443"
+ "account_type":"savings account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"YQMX87379850319390",
+ "aba":"088898519"
 }

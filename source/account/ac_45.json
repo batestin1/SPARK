@@ -1,11 +1,11 @@
 {
- "id_client":"INSQ72992234858465",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"TSUC62561098727505",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"TNYH80361257002806",
- "aba":"058147152"
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"KQPP51896068681404",
+ "aba":"030722584"
 }

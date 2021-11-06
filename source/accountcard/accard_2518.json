@@ -1,0 +1,15 @@
+{
+ "id_client":"NBQE31826165821238",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"4759849352328723",
+ "transaction_code":"TQJF36503104874647",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"02:18:49",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"342774.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PLN of Braavos"
+}

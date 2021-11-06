@@ -1,0 +1,15 @@
+{
+ "id_client":"VNNJ33181027911094",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"675938227005",
+ "transaction_code":"DPKK69230871484196",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"08:12:56",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"12399.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"DOP of Braavos"
+}

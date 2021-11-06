@@ -1,0 +1,15 @@
+{
+ "id_client":"NCMD50827552095320",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4443200008942123",
+ "transaction_code":"GNAG86543595934808",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"01:19:42",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"125510.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TWD of Braavos"
+}

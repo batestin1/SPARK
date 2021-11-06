@@ -1,0 +1,15 @@
+{
+ "id_client":"BTVF58211662676418",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"30496668293420",
+ "transaction_code":"CWTL81747759736047",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:02:50",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"256503.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BOB of Braavos"
+}

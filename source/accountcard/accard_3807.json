@@ -1,0 +1,15 @@
+{
+ "id_client":"TXDT62873628833270",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4417692986999392",
+ "transaction_code":"KYWE98950241542234",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"05:10:06",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"535181.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GIP of Braavos"
+}

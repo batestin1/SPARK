@@ -1,0 +1,15 @@
+{
+ "id_client":"ZOPY08234373088245",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"4943276604062891",
+ "transaction_code":"TFPS80428498195027",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"14:33:57",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"948683.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SCR of Braavos"
+}

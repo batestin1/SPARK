@@ -1,0 +1,15 @@
+{
+ "id_client":"FTIU42672600239403",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"4117371731887094",
+ "transaction_code":"XNYY23168309838834",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"13:05:24",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"28933.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KYD of Braavos"
+}

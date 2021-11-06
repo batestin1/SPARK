@@ -1,0 +1,15 @@
+{
+ "id_client":"ACUZ41642690093718",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"38478164507679",
+ "transaction_code":"RQTI17169221692047",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"20:33:43",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"663543.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SLL of Braavos"
+}

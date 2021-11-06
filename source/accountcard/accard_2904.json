@@ -1,0 +1,15 @@
+{
+ "id_client":"VUCY06219021242418",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2667543405604074",
+ "transaction_code":"KYWT73514166666905",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:42:24",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"3108.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"RSD of Braavos"
+}

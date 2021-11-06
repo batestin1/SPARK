@@ -1,0 +1,15 @@
+{
+ "id_client":"NBLN71884821256909",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4879634612764905203",
+ "transaction_code":"YSMV57293698398765",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"23:10:39",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"538933.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BBD of Braavos"
+}

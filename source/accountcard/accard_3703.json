@@ -1,0 +1,15 @@
+{
+ "id_client":"BKPR07694147053021",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4073193484989733",
+ "transaction_code":"RMVT69319771099483",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:38:12",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"93106.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CAD of Braavos"
+}

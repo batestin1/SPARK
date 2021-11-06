@@ -1,0 +1,15 @@
+{
+ "id_client":"CXIH18002064559298",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"30425087920677",
+ "transaction_code":"HKLM60073817827032",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"17:25:25",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"840863.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BTN of Braavos"
+}

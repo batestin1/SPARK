@@ -1,0 +1,15 @@
+{
+ "id_client":"QKEC60853304835237",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3548138073906001",
+ "transaction_code":"RKKA94291530839398",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"20:33:19",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"11139.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"WST of Braavos"
+}

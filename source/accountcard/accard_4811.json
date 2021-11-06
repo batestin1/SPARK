@@ -1,0 +1,15 @@
+{
+ "id_client":"FISH07272128179488",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4318592080545",
+ "transaction_code":"EJFR55407892998398",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"01:16:22",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"701069.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"COP of Braavos"
+}

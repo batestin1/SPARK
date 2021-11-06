@@ -1,15 +1,15 @@
 {
- "id_client":"WWIW60563382350433",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"PVVR13454728799198",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"not activated",
- "card_number":"4670254847979",
- "transaction_code":"QRTH87660825371196",
- "date_transaction":"2021-11-11",
- "time_transaction":"08:37:40",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"816096.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"IRR of Braavos"
+ "card_number":"4725382789848",
+ "transaction_code":"DSUN06698871412074",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"03:18:04",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"920323.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SHP of Braavos"
 }

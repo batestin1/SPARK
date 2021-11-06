@@ -1,15 +1,15 @@
 {
- "id_client":"PPBN79410447557090",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
- "status_account_blocked":"not activated",
- "card_number":"4109191049811",
- "transaction_code":"GCZD78994613760745",
- "date_transaction":"2021-11-28",
- "time_transaction":"09:52:00",
- "describle_transaction":"savage army",
- "original_transaction_amount":"149466.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"MGA of Braavos"
+ "id_client":"ZWAG51174544705778",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"343027184492493",
+ "transaction_code":"EXAW28330430148410",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"15:09:30",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"974999.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KPW of Braavos"
 }

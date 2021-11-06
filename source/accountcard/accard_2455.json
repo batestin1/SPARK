@@ -1,0 +1,15 @@
+{
+ "id_client":"LKSJ32773071837925",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3513206123285634",
+ "transaction_code":"LMJQ78115835078146",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"12:19:53",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"645221.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SOS of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"AJJH45901425589675",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"PQVM05560068868382",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "status_account_blocked":"not activated",
- "card_number":"3578111950193046",
- "transaction_code":"WPYY26637173485419",
- "date_transaction":"2021-11-08",
- "time_transaction":"17:57:12",
- "describle_transaction":"horses",
- "original_transaction_amount":"183934.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"RWF of Braavos"
+ "card_number":"6500887204679536",
+ "transaction_code":"BNXY20037869666427",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"09:29:31",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"319404.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MVR of Braavos"
 }

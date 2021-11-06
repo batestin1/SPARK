@@ -1,15 +1,15 @@
 {
- "id_client":"GLWU51393549708558",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"EANU15961730370735",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "status_account_blocked":"not activated",
- "card_number":"4964751063644805",
- "transaction_code":"MCPE07192028879744",
- "date_transaction":"2021-11-26",
- "time_transaction":"05:30:27",
- "describle_transaction":"ships",
- "original_transaction_amount":"108027.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"JPY of Braavos"
+ "card_number":"6011247882802466",
+ "transaction_code":"RZYI94586239455527",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"23:52:10",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"156165.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"QAR of Braavos"
 }

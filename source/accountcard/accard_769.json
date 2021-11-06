@@ -1,15 +1,15 @@
 {
- "id_client":"BNVQ96577004240227",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"KUAQ35641474549126",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"not activated",
- "card_number":"374016861481285",
- "transaction_code":"PAMJ32258721237886",
- "date_transaction":"2021-11-27",
- "time_transaction":"18:00:16",
- "describle_transaction":"swords",
- "original_transaction_amount":"229148.0",
+ "card_number":"6571007217705830",
+ "transaction_code":"YACR90581983290912",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"23:19:18",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"575035.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"TVD of Braavos"
+ "currency":"CAD of Braavos"
 }

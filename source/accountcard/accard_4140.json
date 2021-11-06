@@ -1,0 +1,15 @@
+{
+ "id_client":"ISYP71227366711934",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"30244187232820",
+ "transaction_code":"CELK61786483487442",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"06:52:53",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"176760.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MZN of Braavos"
+}

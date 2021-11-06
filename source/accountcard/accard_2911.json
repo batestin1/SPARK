@@ -1,0 +1,15 @@
+{
+ "id_client":"SPST67476112012178",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4339793122240033",
+ "transaction_code":"KTQE52085688698193",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"14:48:49",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"947688.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"IRR of Braavos"
+}

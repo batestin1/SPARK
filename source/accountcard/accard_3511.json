@@ -1,0 +1,15 @@
+{
+ "id_client":"PDNV35111535526360",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"180090055516770",
+ "transaction_code":"BGQE03831372769542",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"21:51:57",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"631305.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SLL of Braavos"
+}

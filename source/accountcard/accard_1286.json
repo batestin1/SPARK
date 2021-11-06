@@ -1,0 +1,15 @@
+{
+ "id_client":"ZVFC62729839648146",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4548817585336028698",
+ "transaction_code":"TDJM58619249623075",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"16:15:12",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"520930.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BSD of Braavos"
+}

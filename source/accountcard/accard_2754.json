@@ -1,0 +1,15 @@
+{
+ "id_client":"XTDV80817133245712",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"3525170310114948",
+ "transaction_code":"YGRI53622243113452",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"07:34:25",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"244591.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"FKP of Braavos"
+}

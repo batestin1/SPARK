@@ -1,12 +1,12 @@
 {
- "id_client":"KMUG02215606684696",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"KQSM83329519652162",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "card_number":"activated",
- "total_limit_value":"714783.0",
- "limit_value_available":"624658.0",
- "total_limit_used":"90125.0",
- "description_card":"Mastercard",
- "security_card":"406",
- "expire_card_number":"10/25"
+ "total_limit_value":"952208.0",
+ "limit_value_available":"928500.0",
+ "total_limit_used":"23708.0",
+ "description_card":"Discover",
+ "security_card":"475",
+ "expire_card_number":"07/26"
 }

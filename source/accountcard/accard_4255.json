@@ -1,0 +1,15 @@
+{
+ "id_client":"IVAM06114961039991",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4771791284776922",
+ "transaction_code":"SRHN33725461158268",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"17:44:17",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"172140.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BIF of Braavos"
+}

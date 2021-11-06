@@ -1,10 +1,10 @@
 {
- "id_client":"DCPR60052738571604",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "rent_income_value":"-878966.0",
- "description_chosen_income_method":"-773008.0",
- "total_account_value":"8329514.0",
- "current_account_total_value":"7797110.0",
- "total_amount_carried_over":"532404.0"
+ "id_client":"VDTA96907672019768",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "rent_income_value":"+526301.0",
+ "description_chosen_income_method":"+459555.0",
+ "total_account_value":"1966504.0",
+ "current_account_total_value":"1231202.0",
+ "total_amount_carried_over":"735302.0"
 }

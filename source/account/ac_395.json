@@ -1,11 +1,11 @@
 {
- "id_client":"NPRM87748862932208",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"FCAA19311237845074",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"LOCX44102307405102",
- "aba":"050943284"
+ "account_type":"account for the long winter",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"RDXX89552257388573",
+ "aba":"068954642"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"ZBAF70209397210582",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"6011362818085209",
+ "transaction_code":"FWFF38921959001351",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"19:13:34",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"395113.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TRY of Braavos"
+}

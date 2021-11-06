@@ -1,12 +1,12 @@
 {
- "id_client":"OGAB78481843092213",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "card_number":"activated",
- "total_limit_value":"905926.0",
- "limit_value_available":"898322.0",
- "total_limit_used":"7604.0",
- "description_card":"VISA 13 digit",
- "security_card":"920",
- "expire_card_number":"11/27"
+ "id_client":"JFIO62519059396914",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "card_number":"not activated",
+ "total_limit_value":"618830.0",
+ "limit_value_available":"588374.0",
+ "total_limit_used":"30456.0",
+ "description_card":"American Express",
+ "security_card":"885",
+ "expire_card_number":"01/30"
 }

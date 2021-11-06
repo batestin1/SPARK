@@ -1,0 +1,15 @@
+{
+ "id_client":"FIQO33222981735212",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"2720058640665777",
+ "transaction_code":"LKZG12141282669116",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"12:09:34",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"833003.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AED of Braavos"
+}

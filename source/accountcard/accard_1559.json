@@ -1,0 +1,15 @@
+{
+ "id_client":"UJAS06717609650130",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"3590216579182801",
+ "transaction_code":"IBWI25212122177741",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"04:51:41",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"969194.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SCR of Braavos"
+}

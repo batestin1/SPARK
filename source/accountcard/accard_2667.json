@@ -1,0 +1,15 @@
+{
+ "id_client":"JTYF51162351622877",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"341152210906209",
+ "transaction_code":"TKIK02475398644060",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"09:06:50",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"695356.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PHP of Braavos"
+}

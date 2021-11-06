@@ -1,0 +1,15 @@
+{
+ "id_client":"TEKC40420130471328",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"3585804407415613",
+ "transaction_code":"UFUN78203500570509",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"13:26:40",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"435796.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ISK of Braavos"
+}

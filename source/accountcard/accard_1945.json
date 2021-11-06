@@ -1,0 +1,15 @@
+{
+ "id_client":"DKVF03008372946792",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"30064802667808",
+ "transaction_code":"HIYU41253306249883",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"07:41:53",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"485467.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LBP of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"WWMF51367732633762",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "status_account_blocked":"activated",
- "card_number":"4068535771556418",
- "transaction_code":"ZJLN62229649932498",
- "date_transaction":"2021-11-18",
- "time_transaction":"20:59:02",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"863933.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"MDL of Braavos"
+ "id_client":"WWZH74971856683490",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4361828629660472",
+ "transaction_code":"NNFU76718681933681",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"06:16:57",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"701091.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MZN of Braavos"
 }

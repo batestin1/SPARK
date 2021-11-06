@@ -1,0 +1,15 @@
+{
+ "id_client":"GVCV61865657206706",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4865957287505769",
+ "transaction_code":"BHJF29050682555673",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"08:40:30",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"388700.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BDT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RMNA44508331375784",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"30533527463057",
+ "transaction_code":"NONU30854284741911",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"23:43:59",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"290208.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CZK of Braavos"
+}

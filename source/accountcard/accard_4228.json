@@ -1,0 +1,15 @@
+{
+ "id_client":"JCLY03416402217635",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"30404674345424",
+ "transaction_code":"QUAA74010170017880",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"22:10:02",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"723142.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UAH of Braavos"
+}

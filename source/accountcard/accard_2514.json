@@ -1,0 +1,15 @@
+{
+ "id_client":"CCHK31174166931598",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"3530429549089740",
+ "transaction_code":"PATB94702189889445",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"06:29:59",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"921958.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SDG of Braavos"
+}

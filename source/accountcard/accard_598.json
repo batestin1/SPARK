@@ -1,15 +1,15 @@
 {
- "id_client":"YYYA86423576362137",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
- "status_account_blocked":"not activated",
- "card_number":"4755988747228620",
- "transaction_code":"RFRG25185165376042",
- "date_transaction":"2021-11-06",
- "time_transaction":"09:29:04",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"427490.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"STD of Braavos"
+ "id_client":"NJAL93114134555016",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"3594828588236463",
+ "transaction_code":"VKZW03545694827748",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"06:55:54",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"233885.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CUC of Braavos"
 }

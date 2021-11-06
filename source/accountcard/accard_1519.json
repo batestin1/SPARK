@@ -1,0 +1,15 @@
+{
+ "id_client":"NUJW48321381487939",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"6598128721181281",
+ "transaction_code":"VKNC20154606244570",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"03:12:59",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"431503.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"RON of Braavos"
+}

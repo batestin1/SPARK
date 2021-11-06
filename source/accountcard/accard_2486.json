@@ -1,0 +1,15 @@
+{
+ "id_client":"SIZF11091222963730",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4525492356040573",
+ "transaction_code":"JYBR32502720686820",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"17:20:40",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"142785.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GIP of Braavos"
+}

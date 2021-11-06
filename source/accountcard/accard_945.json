@@ -1,15 +1,15 @@
 {
- "id_client":"MAJF59374321539015",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
- "status_account_blocked":"activated",
- "card_number":"6011901025133706",
- "transaction_code":"PWQR91691272299506",
- "date_transaction":"2021-11-21",
- "time_transaction":"20:37:06",
- "describle_transaction":"theater",
- "original_transaction_amount":"456002.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"SYP of Braavos"
+ "id_client":"FHUC72705435320188",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4011752746112189",
+ "transaction_code":"FXBA72722019596613",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"20:13:55",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"599821.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SEK of Braavos"
 }

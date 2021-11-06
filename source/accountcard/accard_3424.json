@@ -1,0 +1,15 @@
+{
+ "id_client":"BYKK17130914577109",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4326189953859",
+ "transaction_code":"TWWH06869786317119",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"16:59:31",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"252946.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TVD of Braavos"
+}

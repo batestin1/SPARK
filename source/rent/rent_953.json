@@ -1,10 +1,10 @@
 {
- "id_client":"KXMN05352503779630",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "rent_income_value":"+20359.0",
- "description_chosen_income_method":"+732214.0",
- "total_account_value":"7565892.0",
- "current_account_total_value":"6913558.0",
- "total_amount_carried_over":"652334.0"
+ "id_client":"YAEM86766578025171",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "rent_income_value":"-607142.0",
+ "description_chosen_income_method":"-254649.0",
+ "total_account_value":"7010256.0",
+ "current_account_total_value":"6641029.0",
+ "total_amount_carried_over":"369227.0"
 }

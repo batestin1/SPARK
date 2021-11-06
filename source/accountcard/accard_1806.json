@@ -1,0 +1,15 @@
+{
+ "id_client":"BSNB71808906600051",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"5396204296555203",
+ "transaction_code":"FKIX21774791939817",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"06:29:58",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"310202.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BDT of Braavos"
+}

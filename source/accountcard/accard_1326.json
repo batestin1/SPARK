@@ -1,0 +1,15 @@
+{
+ "id_client":"QRSG31887783932552",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"6011383113338457",
+ "transaction_code":"RHYN35068769267909",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"22:39:05",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"134002.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ARS of Braavos"
+}

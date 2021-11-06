@@ -1,0 +1,15 @@
+{
+ "id_client":"ZYXG95567741804818",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"676177412589",
+ "transaction_code":"PRPO88039453782514",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"13:05:49",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"68897.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HKD of Braavos"
+}

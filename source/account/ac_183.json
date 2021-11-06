@@ -1,11 +1,11 @@
 {
- "id_client":"NHYR27440999155046",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"LANC70817899631596",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"UXOH69149557656395",
- "aba":"058498607"
+ "account_type":"checking account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"VTJL56043994039843",
+ "aba":"095074079"
 }

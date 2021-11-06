@@ -1,10 +1,10 @@
 {
- "id_client":"OEHS88247446877592",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "rent_income_value":"+625305.0",
- "description_chosen_income_method":"-881661.0",
- "total_account_value":"7309274.0",
- "current_account_total_value":"6980821.0",
- "total_amount_carried_over":"328453.0"
+ "id_client":"UMHU57513421799869",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "rent_income_value":"-902179.0",
+ "description_chosen_income_method":"+924677.0",
+ "total_account_value":"1730859.0",
+ "current_account_total_value":"1073762.0",
+ "total_amount_carried_over":"657097.0"
 }

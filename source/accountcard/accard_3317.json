@@ -1,0 +1,15 @@
+{
+ "id_client":"CZKH73354779512956",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4298909307568696",
+ "transaction_code":"ZWZD17074915961409",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"00:37:21",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"120577.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ERN of Braavos"
+}

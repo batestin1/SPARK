@@ -1,0 +1,15 @@
+{
+ "id_client":"BQBL77343405951698",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"584316142499",
+ "transaction_code":"KIKX79016474128558",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"16:44:08",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"193110.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LRD of Braavos"
+}

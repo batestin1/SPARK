@@ -1,0 +1,15 @@
+{
+ "id_client":"RFBO14852477041608",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"060491625822",
+ "transaction_code":"GINK36640739600559",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"13:13:47",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"226307.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ETB of Braavos"
+}

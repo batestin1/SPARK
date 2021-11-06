@@ -1,15 +1,15 @@
 {
- "id_client":"UDDE42469949868333",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
- "status_account_blocked":"not activated",
- "card_number":"4418021778170401893",
- "transaction_code":"FGGE08386173817812",
- "date_transaction":"2021-12-03",
- "time_transaction":"04:39:00",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"580055.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"GIP of Braavos"
+ "id_client":"ADKI64419804399156",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4266701024385761",
+ "transaction_code":"XHKT09695593005498",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"23:24:16",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"928621.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BHD of Braavos"
 }

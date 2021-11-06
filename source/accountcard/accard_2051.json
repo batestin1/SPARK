@@ -1,0 +1,15 @@
+{
+ "id_client":"TKTA78425213817320",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"6574983794556480",
+ "transaction_code":"AKQD07595020268800",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"19:16:46",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"562783.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"QAR of Braavos"
+}

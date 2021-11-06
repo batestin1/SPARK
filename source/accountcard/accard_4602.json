@@ -1,0 +1,15 @@
+{
+ "id_client":"OUWL99342914588341",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"570548459124",
+ "transaction_code":"UPSW67305735008724",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"11:43:50",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"123287.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MKD of Braavos"
+}

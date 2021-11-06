@@ -1,0 +1,15 @@
+{
+ "id_client":"ASZP42698118919372",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4795526034996707",
+ "transaction_code":"VQPR11910572113844",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"13:17:03",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"595578.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HNL of Braavos"
+}

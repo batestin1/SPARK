@@ -1,0 +1,15 @@
+{
+ "id_client":"GAUM86049034654849",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4252922417715",
+ "transaction_code":"LAAZ81552839147497",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"07:57:47",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"519905.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KRW of Braavos"
+}

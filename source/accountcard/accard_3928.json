@@ -1,0 +1,15 @@
+{
+ "id_client":"RGOQ83052407846262",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"36380071814549",
+ "transaction_code":"ALJJ50447903054344",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"12:12:51",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"548848.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HRK of Braavos"
+}

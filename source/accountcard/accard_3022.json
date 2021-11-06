@@ -1,0 +1,15 @@
+{
+ "id_client":"UCVC73127392910633",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"5373397728572452",
+ "transaction_code":"YAXC10655120074432",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"00:08:48",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"500023.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"OMR of Braavos"
+}

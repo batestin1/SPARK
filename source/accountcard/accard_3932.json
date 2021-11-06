@@ -1,0 +1,15 @@
+{
+ "id_client":"SDKR31327520148846",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"630460206943",
+ "transaction_code":"RZBQ76088316305590",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"20:09:13",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"212657.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PKR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ILIE98837648480640",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"501829588927",
+ "transaction_code":"GALR15957400195672",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"01:35:21",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"799285.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SZL of Braavos"
+}

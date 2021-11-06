@@ -1,15 +1,15 @@
 {
- "id_client":"SLGV71032545126656",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"KHPF30524911315439",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"not activated",
- "card_number":"4712782788124612",
- "transaction_code":"JRDY46961373140699",
- "date_transaction":"2021-11-27",
- "time_transaction":"04:14:13",
- "describle_transaction":"savage army",
- "original_transaction_amount":"496236.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"PEN of Braavos"
+ "card_number":"4729293375664914340",
+ "transaction_code":"KHPO35923399640599",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"10:30:13",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"463434.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ARS of Braavos"
 }

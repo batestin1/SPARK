@@ -1,0 +1,15 @@
+{
+ "id_client":"BNQD70257371001603",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4496145980812222",
+ "transaction_code":"QRST79798572905480",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"02:56:04",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"9964.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XDR of Braavos"
+}

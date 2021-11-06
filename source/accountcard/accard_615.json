@@ -1,15 +1,15 @@
 {
- "id_client":"NDEK38726164383436",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
- "status_account_blocked":"not activated",
- "card_number":"4675592621172040",
- "transaction_code":"SRBM83332511600701",
- "date_transaction":"2021-11-22",
- "time_transaction":"21:43:37",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"577782.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"DZD of Braavos"
+ "id_client":"EFTW62967531429954",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"4609269827612308",
+ "transaction_code":"AUVB28188756648887",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"10:17:09",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"3514.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"NIO of Braavos"
 }

@@ -1,11 +1,11 @@
 {
- "id_client":"STUH45454303438816",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"KTKO65220161048055",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Risky",
+ "account_type":"checking account",
+ "investor_profile":"Crazy",
  "account_status":"activated",
- "bban_count":"DQLP87137391009642",
- "aba":"074638721"
+ "bban_count":"KMDK02750758591563",
+ "aba":"057609925"
 }

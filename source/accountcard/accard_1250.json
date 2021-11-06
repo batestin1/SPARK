@@ -1,0 +1,15 @@
+{
+ "id_client":"BIAS89768911429589",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"371995895239921",
+ "transaction_code":"EHGO82687368336776",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"17:56:03",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"798745.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SDG of Braavos"
+}

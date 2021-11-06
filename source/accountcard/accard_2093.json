@@ -1,0 +1,15 @@
+{
+ "id_client":"XAXV46245477795276",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4785950365567477",
+ "transaction_code":"QXGQ76382105068416",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"20:20:55",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"391013.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CUP of Braavos"
+}

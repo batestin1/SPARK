@@ -1,0 +1,15 @@
+{
+ "id_client":"YFSH56785523609358",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"060485944858",
+ "transaction_code":"RSSZ74656177964832",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:21:45",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"796126.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CDF of Braavos"
+}

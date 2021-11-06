@@ -1,11 +1,11 @@
 {
- "id_client":"LCDW43016937648574",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"FSEP46529270572303",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"NLIT84646042279223",
- "aba":"075310850"
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"RHCF25782863744919",
+ "aba":"094980282"
 }

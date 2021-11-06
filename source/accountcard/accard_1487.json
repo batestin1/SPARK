@@ -1,0 +1,15 @@
+{
+ "id_client":"SFNZ59037714680624",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"340878301932727",
+ "transaction_code":"TZKI45228642339181",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"16:07:35",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"83735.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MWK of Braavos"
+}

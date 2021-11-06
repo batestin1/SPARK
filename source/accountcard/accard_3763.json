@@ -1,0 +1,15 @@
+{
+ "id_client":"DDNB63734349234240",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"503866957544",
+ "transaction_code":"VVRR28104997929666",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:44:35",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"994484.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GGP of Braavos"
+}

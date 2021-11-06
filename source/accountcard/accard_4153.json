@@ -1,0 +1,15 @@
+{
+ "id_client":"QCPL84002360144683",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"503839582155",
+ "transaction_code":"ASFF86331220708682",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"02:08:41",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"302581.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RUB of Braavos"
+}

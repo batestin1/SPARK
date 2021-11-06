@@ -1,0 +1,15 @@
+{
+ "id_client":"SQGM21136781169347",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"213109700764790",
+ "transaction_code":"MIZI58254731323583",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"23:43:43",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"808804.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
+}

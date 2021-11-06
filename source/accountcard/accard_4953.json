@@ -1,0 +1,15 @@
+{
+ "id_client":"KQCH38621935209373",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"6513582010283889",
+ "transaction_code":"SWAM79142653019084",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"21:05:06",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"90733.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KES of Braavos"
+}

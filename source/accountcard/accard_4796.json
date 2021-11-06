@@ -1,0 +1,15 @@
+{
+ "id_client":"EKRR64468217596317",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"2714156277256197",
+ "transaction_code":"CVQK48174351082108",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"01:05:24",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"709991.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MAD of Braavos"
+}

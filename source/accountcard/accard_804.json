@@ -1,15 +1,15 @@
 {
- "id_client":"WCLM20722579634382",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
- "status_account_blocked":"not activated",
- "card_number":"3501875622407263",
- "transaction_code":"IXXK49525568606683",
- "date_transaction":"2021-11-23",
- "time_transaction":"04:49:20",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"866157.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"NZD of Braavos"
+ "id_client":"TRHN17960701928185",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4694427458557384",
+ "transaction_code":"MOSD41253437061707",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"14:14:57",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"858893.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HRK of Braavos"
 }

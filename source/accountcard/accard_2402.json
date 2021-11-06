@@ -1,0 +1,15 @@
+{
+ "id_client":"BDMX20914264638462",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"2252490096768845",
+ "transaction_code":"GFLY19272427499277",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"14:37:53",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"179957.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"IRR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RKTX21156632751521",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"341059154406395",
+ "transaction_code":"EOKK62052592918160",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"23:35:25",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"735016.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SZL of Braavos"
+}

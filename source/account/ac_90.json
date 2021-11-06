@@ -1,11 +1,11 @@
 {
- "id_client":"QELV77254598460837",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"QRDM94382176472080",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"HIJI29061785568583",
- "aba":"011977836"
+ "account_type":"checking account",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"IJSS48715571188468",
+ "aba":"091979739"
 }

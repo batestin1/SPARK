@@ -1,0 +1,15 @@
+{
+ "id_client":"GYKI22728598186707",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"30294214424015",
+ "transaction_code":"ZEIW66455995662926",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:33:25",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"135243.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"XAF of Braavos"
+}

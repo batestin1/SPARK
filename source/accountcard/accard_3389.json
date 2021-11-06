@@ -1,0 +1,15 @@
+{
+ "id_client":"TULT84691955522993",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"676218982145",
+ "transaction_code":"FLWX89902987732260",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:44:44",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"668036.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PLN of Braavos"
+}

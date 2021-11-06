@@ -1,12 +1,12 @@
 {
- "id_client":"GFEV24411746629213",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"OSTO65087238668159",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "card_number":"activated",
- "total_limit_value":"645864.0",
- "limit_value_available":"633227.0",
- "total_limit_used":"12637.0",
- "description_card":"VISA 13 digit",
- "security_card":"991",
- "expire_card_number":"11/28"
+ "total_limit_value":"539173.0",
+ "limit_value_available":"492194.0",
+ "total_limit_used":"46979.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"795",
+ "expire_card_number":"03/30"
 }

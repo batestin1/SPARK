@@ -1,0 +1,15 @@
+{
+ "id_client":"RGZI23581961762205",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"180020733585103",
+ "transaction_code":"VPJU55359757868561",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"16:37:09",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"872767.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SAR of Braavos"
+}

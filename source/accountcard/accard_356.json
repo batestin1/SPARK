@@ -1,15 +1,15 @@
 {
- "id_client":"HJPJ74999714112427",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"MKEA10589242849478",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"not activated",
- "card_number":"4649636222909804769",
- "transaction_code":"ANWG84746003131524",
- "date_transaction":"2021-11-20",
- "time_transaction":"00:56:39",
+ "card_number":"6011632530656184",
+ "transaction_code":"FWZX85672774560717",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"10:16:01",
  "describle_transaction":"dothraki army",
- "original_transaction_amount":"720063.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"VEF of Braavos"
+ "original_transaction_amount":"208101.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BRL of Braavos"
 }

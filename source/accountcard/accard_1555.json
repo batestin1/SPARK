@@ -1,0 +1,15 @@
+{
+ "id_client":"RDAE18395663493682",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4353360548654",
+ "transaction_code":"EWCS64497919481234",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"20:56:11",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"561933.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LRD of Braavos"
+}

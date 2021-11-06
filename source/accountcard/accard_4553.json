@@ -1,0 +1,15 @@
+{
+ "id_client":"QFMV61997682741123",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"6550765353146169",
+ "transaction_code":"MEXP29168164434189",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"04:35:19",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"899541.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AFN of Braavos"
+}

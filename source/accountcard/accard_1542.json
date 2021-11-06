@@ -1,0 +1,15 @@
+{
+ "id_client":"THTC30954546610071",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"2243064347428541",
+ "transaction_code":"BWMT74429054102098",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"15:02:18",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"595023.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TWD of Braavos"
+}

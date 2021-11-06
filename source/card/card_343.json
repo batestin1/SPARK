@@ -1,12 +1,12 @@
 {
- "id_client":"PYRI05135507082583",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"JHPS02271171301985",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "card_number":"not activated",
- "total_limit_value":"92819.0",
- "limit_value_available":"47666.0",
- "total_limit_used":"45153.0",
- "description_card":"Mastercard",
- "security_card":"282",
- "expire_card_number":"07/29"
+ "total_limit_value":"115363.0",
+ "limit_value_available":"108690.0",
+ "total_limit_used":"6673.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"525",
+ "expire_card_number":"04/27"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"RQEV74725684434024",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4746286932763",
+ "transaction_code":"XGIU83560478864502",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"11:36:07",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"375655.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KYD of Braavos"
+}

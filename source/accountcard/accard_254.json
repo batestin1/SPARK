@@ -1,15 +1,15 @@
 {
- "id_client":"OASV47882487495263",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"UIUK31274504233490",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "status_account_blocked":"activated",
- "card_number":"5342980932240038",
- "transaction_code":"DTJO01707970078871",
- "date_transaction":"2021-12-02",
- "time_transaction":"14:38:04",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"343873.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"DKK of Braavos"
+ "card_number":"180009027087199",
+ "transaction_code":"UYEN87455491811842",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"05:45:14",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"145845.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"FJD of Braavos"
 }

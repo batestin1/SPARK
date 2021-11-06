@@ -1,0 +1,15 @@
+{
+ "id_client":"SIBO10404004888264",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"3586454379854271",
+ "transaction_code":"XZIH32674597326937",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"08:59:34",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"294015.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BDT of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"RVPL10791260855712",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"OLGE73438793393635",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"GUEP94722441514264",
- "aba":"019155415"
+ "account_type":"checking account",
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"UJBW24210275333108",
+ "aba":"012133836"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"HAWW26182043676426",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4145307897550759",
+ "transaction_code":"JAPR28932440092013",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"03:13:28",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"81932.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BYR of Braavos"
+}

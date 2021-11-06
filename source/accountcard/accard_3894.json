@@ -1,0 +1,15 @@
+{
+ "id_client":"QJZX98823096595190",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"3577510084025498",
+ "transaction_code":"BLZL42423720383899",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"03:47:06",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"972710.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XPF of Braavos"
+}

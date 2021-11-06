@@ -1,0 +1,15 @@
+{
+ "id_client":"UVXI61895527446778",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"180096962572798",
+ "transaction_code":"WBTG81589144282905",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"12:45:09",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"954822.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BWP of Braavos"
+}

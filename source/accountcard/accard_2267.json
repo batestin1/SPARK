@@ -1,0 +1,15 @@
+{
+ "id_client":"OGGQ91569098621967",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4286322847535791",
+ "transaction_code":"XKRZ12133292526084",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"07:53:37",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"898979.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"PGK of Braavos"
+}

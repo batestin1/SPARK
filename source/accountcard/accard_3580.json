@@ -1,0 +1,15 @@
+{
+ "id_client":"ZGBP69109468369552",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"341149079203629",
+ "transaction_code":"BVZM14201108770464",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:51:51",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"346297.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CRC of Braavos"
+}

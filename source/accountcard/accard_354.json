@@ -1,15 +1,15 @@
 {
- "id_client":"ZEXA48196713508594",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "status_account_blocked":"activated",
- "card_number":"377503109984045",
- "transaction_code":"VYIY52529662934887",
- "date_transaction":"2021-11-06",
- "time_transaction":"05:27:55",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"485965.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"NIS of Braavos"
+ "id_client":"YRYT44407020189744",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4823917363481114549",
+ "transaction_code":"ZFTW93688748938951",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"09:34:48",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"672576.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SVC of Braavos"
 }

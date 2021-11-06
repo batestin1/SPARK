@@ -1,0 +1,15 @@
+{
+ "id_client":"MXFJ88158997397807",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4682631803960342",
+ "transaction_code":"BUGC31097500433583",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"01:04:51",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"567912.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DZD of Braavos"
+}

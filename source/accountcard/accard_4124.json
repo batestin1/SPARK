@@ -1,0 +1,15 @@
+{
+ "id_client":"UBGV20785253362499",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4132755599984558",
+ "transaction_code":"HJKQ61434534717133",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"16:07:03",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"202041.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"INR of Braavos"
+}

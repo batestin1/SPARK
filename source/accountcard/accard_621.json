@@ -1,15 +1,15 @@
 {
- "id_client":"KNXZ44104815024530",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"HTBH07329945188480",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"4411691587809774",
- "transaction_code":"ZOBA82888109138354",
- "date_transaction":"2021-11-23",
- "time_transaction":"03:41:08",
- "describle_transaction":"slaves",
- "original_transaction_amount":"590626.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"SZL of Braavos"
+ "card_number":"4127056317372268",
+ "transaction_code":"BSSL90641626359689",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:40:44",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"34434.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MKD of Braavos"
 }

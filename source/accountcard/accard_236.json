@@ -1,15 +1,15 @@
 {
- "id_client":"OAJZ79570059726271",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"PUZZ53114794684448",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "status_account_blocked":"not activated",
- "card_number":"4577405832657617932",
- "transaction_code":"UDYF66095630145155",
- "date_transaction":"2021-11-08",
- "time_transaction":"03:38:53",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"10666.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"BWP of Braavos"
+ "card_number":"3586798410956705",
+ "transaction_code":"VOYH93554160429389",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"12:42:50",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"221376.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BBD of Braavos"
 }

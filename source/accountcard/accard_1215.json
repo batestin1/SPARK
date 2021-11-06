@@ -1,0 +1,15 @@
+{
+ "id_client":"BFVF74230077595734",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"6567073239259681",
+ "transaction_code":"ZDVY86538149450281",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"05:34:05",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"198981.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MZN of Braavos"
+}

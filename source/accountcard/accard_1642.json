@@ -1,0 +1,15 @@
+{
+ "id_client":"EMZD78144666632373",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"30015995834712",
+ "transaction_code":"ZIZS28215800091444",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"16:56:56",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"468787.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XDR of Braavos"
+}

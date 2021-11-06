@@ -1,0 +1,15 @@
+{
+ "id_client":"PJLN22564378799113",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"503842168059",
+ "transaction_code":"TWLZ48199638151778",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"04:23:53",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"985968.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NIO of Braavos"
+}

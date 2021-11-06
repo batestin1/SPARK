@@ -1,0 +1,15 @@
+{
+ "id_client":"SKHG90167256385420",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3547097796521318",
+ "transaction_code":"BBIN41986132029081",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"01:31:29",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"800495.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"IRR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"EPBV38742788880114",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"2531272529855040",
+ "transaction_code":"NHFG75173582058165",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"21:38:48",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"331926.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SHP of Braavos"
+}

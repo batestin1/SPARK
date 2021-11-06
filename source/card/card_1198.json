@@ -1,12 +1,12 @@
 {
- "id_client":"VXKI27116582192399",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "card_number":"not activated",
- "total_limit_value":"723728.0",
- "limit_value_available":"696193.0",
- "total_limit_used":"27535.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"489",
- "expire_card_number":"03/31"
+ "id_client":"XHZY07331929483590",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "card_number":"activated",
+ "total_limit_value":"771535.0",
+ "limit_value_available":"763690.0",
+ "total_limit_used":"7845.0",
+ "description_card":"Discover",
+ "security_card":"846",
+ "expire_card_number":"08/29"
 }

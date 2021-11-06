@@ -1,0 +1,15 @@
+{
+ "id_client":"AUPI05800077737703",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3552283387937541",
+ "transaction_code":"MTBM19743649639337",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"21:51:07",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"767708.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"UYU of Braavos"
+}

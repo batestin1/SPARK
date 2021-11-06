@@ -1,15 +1,15 @@
 {
- "id_client":"TZFC55779544368567",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"CPAE36842892860780",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"not activated",
- "card_number":"3563796875181345",
- "transaction_code":"EPUI27145201578564",
- "date_transaction":"2021-12-02",
- "time_transaction":"07:13:36",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"509461.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"TND of Braavos"
+ "card_number":"4521490072725133",
+ "transaction_code":"UDUO55117845488740",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"04:22:34",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"148648.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UGX of Braavos"
 }

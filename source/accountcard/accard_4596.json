@@ -1,0 +1,15 @@
+{
+ "id_client":"LTWM18077845574556",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"3575442210773027",
+ "transaction_code":"SLRG17966640336530",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"12:15:25",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"496739.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GEL of Braavos"
+}

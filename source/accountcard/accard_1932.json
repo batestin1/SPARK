@@ -1,0 +1,15 @@
+{
+ "id_client":"CJFZ30249586428797",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"584521762933",
+ "transaction_code":"FFHV85381680487066",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"15:35:29",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"131521.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"RUB of Braavos"
+}

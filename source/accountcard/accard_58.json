@@ -1,15 +1,15 @@
 {
- "id_client":"GVXV63913382723315",
+ "id_client":"IPIQ10466166536937",
  "yearmonthday":"20211108",
  "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"4256347714461926",
- "transaction_code":"XWPY40093132020485",
- "date_transaction":"2021-11-17",
- "time_transaction":"14:17:33",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"819408.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"NOK of Braavos"
+ "card_number":"3559024002695384",
+ "transaction_code":"DDJR35684119632278",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"15:26:55",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"735754.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NIS of Braavos"
 }

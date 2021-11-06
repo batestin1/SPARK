@@ -1,0 +1,15 @@
+{
+ "id_client":"QFMM53847305882749",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"373844288891633",
+ "transaction_code":"ALGS03993700964249",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"21:20:27",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"954668.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ALL of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"IPDJ96142780534883",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"EALY97175784535637",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"JJOE27387375173180",
- "aba":"023816958"
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"SBEY71920093266029",
+ "aba":"081896407"
 }

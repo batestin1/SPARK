@@ -1,0 +1,15 @@
+{
+ "id_client":"CZJO61240928548986",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"503875865225",
+ "transaction_code":"YVJO07813087955713",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"02:33:10",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"601828.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VEF of Braavos"
+}

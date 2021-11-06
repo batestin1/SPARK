@@ -1,0 +1,15 @@
+{
+ "id_client":"SZMB18530901265952",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3500398220827841",
+ "transaction_code":"NLUJ07310015031132",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"00:25:38",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"364286.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BYR of Braavos"
+}

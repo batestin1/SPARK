@@ -1,0 +1,15 @@
+{
+ "id_client":"PPIW21507653989686",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"6546301079671129",
+ "transaction_code":"URZG93159009495170",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"11:12:58",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"348942.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XDR of Braavos"
+}

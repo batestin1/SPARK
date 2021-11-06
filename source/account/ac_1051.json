@@ -1,11 +1,11 @@
 {
- "id_client":"SWSV18241518340186",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"PKXL34850128059486",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"TWHD52333085661125",
- "aba":"033612733"
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"CXBC71321146508732",
+ "aba":"020126702"
 }

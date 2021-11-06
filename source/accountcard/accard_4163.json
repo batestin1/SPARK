@@ -1,0 +1,15 @@
+{
+ "id_client":"RHSJ51115750273816",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4151982101218189970",
+ "transaction_code":"WCER91662930104885",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"18:38:43",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"147171.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RWF of Braavos"
+}

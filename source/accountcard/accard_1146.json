@@ -1,15 +1,15 @@
 {
- "id_client":"ZIXX50881101402810",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"ZIVT83331531075746",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"activated",
- "card_number":"3501853728945775",
- "transaction_code":"VOAO81022809811611",
- "date_transaction":"2021-12-01",
- "time_transaction":"01:56:32",
- "describle_transaction":"theater",
- "original_transaction_amount":"868478.0",
+ "card_number":"2601796640766947",
+ "transaction_code":"MGNF93021365472793",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"06:53:41",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"747806.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"PLN of Braavos"
+ "currency":"THB of Braavos"
 }

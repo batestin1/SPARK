@@ -1,0 +1,15 @@
+{
+ "id_client":"MFWA66871100032507",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"372512385779321",
+ "transaction_code":"FBWM14613498554150",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"18:10:54",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"487519.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"IRR of Braavos"
+}

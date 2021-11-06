@@ -1,0 +1,15 @@
+{
+ "id_client":"HDZA21474059656153",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4016419374071",
+ "transaction_code":"LEHO62584543818843",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"04:39:31",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"835278.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PEN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"IOVC67351867793377",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"676135977111",
+ "transaction_code":"JRNO09800300485091",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"01:36:29",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"424462.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KYD of Braavos"
+}

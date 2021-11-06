@@ -1,0 +1,15 @@
+{
+ "id_client":"WRHY58767619958195",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3596944956148533",
+ "transaction_code":"YOAQ73335213465033",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"06:54:03",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"222720.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
+}

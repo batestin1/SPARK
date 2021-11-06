@@ -1,15 +1,15 @@
 {
- "id_client":"QZIP74776427370905",
+ "id_client":"GSHQ41071442290644",
  "yearmonthday":"20211124",
  "_yearmonthday":"20211124",
- "status_account_blocked":"activated",
- "card_number":"30058966177158",
- "transaction_code":"CALT72304846878035",
- "date_transaction":"2021-11-13",
- "time_transaction":"04:12:57",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"478233.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"PAB of Braavos"
+ "status_account_blocked":"not activated",
+ "card_number":"4313572294561032",
+ "transaction_code":"NJGR13147502504866",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"07:00:18",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"125191.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CNY of Braavos"
 }

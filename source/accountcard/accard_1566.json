@@ -1,0 +1,15 @@
+{
+ "id_client":"ATYD34870999994183",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4545678045604615",
+ "transaction_code":"MLPY27928957952553",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"17:46:33",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"226328.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KGS of Braavos"
+}

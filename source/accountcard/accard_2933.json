@@ -1,0 +1,15 @@
+{
+ "id_client":"OIVU76933011708293",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3546063759445516",
+ "transaction_code":"YEAP47324333611569",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"04:15:57",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"777739.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KYD of Braavos"
+}

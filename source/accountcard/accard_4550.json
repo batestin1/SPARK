@@ -1,0 +1,15 @@
+{
+ "id_client":"ISZC52666463952302",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4249051370916705308",
+ "transaction_code":"DGOL16880251285075",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"19:05:17",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"406141.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SAR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WWAA03684420825236",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"3569266769708250",
+ "transaction_code":"HNUB56487620684634",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"14:48:01",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"449446.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PHP of Braavos"
+}

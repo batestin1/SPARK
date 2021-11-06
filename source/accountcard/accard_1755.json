@@ -1,0 +1,15 @@
+{
+ "id_client":"BCJI34342355505333",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"2720078249704827",
+ "transaction_code":"ATRL03864585488659",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"06:32:51",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"399203.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UAH of Braavos"
+}

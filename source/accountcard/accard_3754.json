@@ -1,0 +1,15 @@
+{
+ "id_client":"FVZV81547669319216",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"6541910050065443",
+ "transaction_code":"YSGL11094095414934",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"14:25:21",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"291173.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TRY of Braavos"
+}

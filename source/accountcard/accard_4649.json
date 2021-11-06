@@ -1,0 +1,15 @@
+{
+ "id_client":"BBOQ20205271830455",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4067740958770735610",
+ "transaction_code":"STZU95197055317988",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"23:14:06",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"147819.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SDG of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"UTIQ94758043371424",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"KKUD79933969313980",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "status_account_blocked":"not activated",
- "card_number":"6011759573489270",
- "transaction_code":"FXHE21138689553141",
- "date_transaction":"2021-11-07",
- "time_transaction":"10:33:43",
- "describle_transaction":"theater",
- "original_transaction_amount":"952065.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"FJD of Braavos"
+ "card_number":"38907084439449",
+ "transaction_code":"NWWY96963534098052",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"12:34:26",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"63333.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"JEP of Braavos"
 }

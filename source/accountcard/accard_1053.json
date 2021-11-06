@@ -1,15 +1,15 @@
 {
- "id_client":"YSOV20333455127597",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"QFAP31180597747401",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "status_account_blocked":"activated",
- "card_number":"30546443811985",
- "transaction_code":"HWEI48780052227400",
- "date_transaction":"2021-11-18",
- "time_transaction":"17:31:40",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"362517.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"BMD of Braavos"
+ "card_number":"4250092793837507",
+ "transaction_code":"VNWX28603494588236",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"12:37:17",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"714492.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AFN of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"RISJ70628256688986",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"2711575662501581",
+ "transaction_code":"ZVYE25383940064785",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"15:13:04",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"971331.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SLL of Braavos"
+}

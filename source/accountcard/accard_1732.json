@@ -1,0 +1,15 @@
+{
+ "id_client":"GYAI48845603716261",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"213146687983837",
+ "transaction_code":"VGEN47322606445184",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"14:58:24",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"71428.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"YER of Braavos"
+}

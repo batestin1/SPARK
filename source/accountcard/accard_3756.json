@@ -1,0 +1,15 @@
+{
+ "id_client":"PLOP14105949611444",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"503866801080",
+ "transaction_code":"UZFS27908882363407",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"22:04:30",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"841875.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"LBP of Braavos"
+}

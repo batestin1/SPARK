@@ -1,11 +1,11 @@
 {
- "id_client":"VTOL48407820095769",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"IOJS42043653910229",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"ADOG41862962593355",
- "aba":"088622855"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"DYWC47090012748571",
+ "aba":"041204922"
 }

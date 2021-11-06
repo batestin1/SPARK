@@ -1,0 +1,15 @@
+{
+ "id_client":"ZROU12560978156894",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"3560531003844248",
+ "transaction_code":"KZXC11482680050452",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"20:59:45",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"836743.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PHP of Braavos"
+}

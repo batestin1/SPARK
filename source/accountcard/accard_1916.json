@@ -1,0 +1,15 @@
+{
+ "id_client":"VLYG26160733584329",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4766098656850945548",
+ "transaction_code":"IKVD27001317709484",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"19:38:40",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"406315.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CHF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"QCGN84367979607048",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4823658052021773",
+ "transaction_code":"DQNE97122453502542",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"21:47:06",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"63674.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ALL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"UVCN43235707006331",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"343592709224184",
+ "transaction_code":"OOOY61485242159381",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"22:46:00",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"208278.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MGA of Braavos"
+}

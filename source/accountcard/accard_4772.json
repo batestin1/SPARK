@@ -1,0 +1,15 @@
+{
+ "id_client":"LCEC42330631530532",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"346584942845450",
+ "transaction_code":"XWYU18287471777666",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"09:34:17",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"469773.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ALL of Braavos"
+}

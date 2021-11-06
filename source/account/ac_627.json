@@ -1,11 +1,11 @@
 {
- "id_client":"OJNC58385394865633",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"LKJA63144318636266",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"GLOB10698620502905",
- "aba":"057715158"
+ "account_type":"savings account",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"PRAZ88516870964809",
+ "aba":"048847630"
 }

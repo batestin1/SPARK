@@ -1,0 +1,15 @@
+{
+ "id_client":"TFZG47173012043310",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4625890313471519",
+ "transaction_code":"CMIT99704629201017",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"17:35:32",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"786024.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LSL of Braavos"
+}

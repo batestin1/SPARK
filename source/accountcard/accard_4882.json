@@ -1,0 +1,15 @@
+{
+ "id_client":"FROV39043179428916",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"372649134125164",
+ "transaction_code":"ASKM83234208773742",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:41:00",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"451180.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XPF of Braavos"
+}

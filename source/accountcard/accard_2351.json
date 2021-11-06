@@ -1,0 +1,15 @@
+{
+ "id_client":"HGFP69459687652394",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4702200631601",
+ "transaction_code":"EGWH37657823513550",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"15:25:20",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"92003.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"DKK of Braavos"
+}

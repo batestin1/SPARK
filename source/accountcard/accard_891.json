@@ -1,15 +1,15 @@
 {
- "id_client":"LMEB90639956234333",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
- "status_account_blocked":"activated",
- "card_number":"060475532689",
- "transaction_code":"CLWK70260032821808",
- "date_transaction":"2021-11-15",
- "time_transaction":"05:14:50",
- "describle_transaction":"horses",
- "original_transaction_amount":"828633.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"SVC of Braavos"
+ "id_client":"KXLN49202099629978",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4155360373335418508",
+ "transaction_code":"ZVON50878360114682",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"07:54:10",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"290222.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"EGP of Braavos"
 }

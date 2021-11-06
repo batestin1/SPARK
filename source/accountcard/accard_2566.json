@@ -1,0 +1,15 @@
+{
+ "id_client":"GSQC63068693868210",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"373620525105445",
+ "transaction_code":"SRDC70447226865839",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"09:15:24",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"701210.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"WST of Braavos"
+}

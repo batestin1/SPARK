@@ -1,15 +1,15 @@
 {
- "id_client":"PSTG49244267529591",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"ZRAO42261109212582",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"30266051352277",
- "transaction_code":"NYCF00692642446195",
- "date_transaction":"2021-11-12",
- "time_transaction":"08:18:22",
- "describle_transaction":"brothel",
- "original_transaction_amount":"738839.0",
+ "card_number":"213140599992903",
+ "transaction_code":"DXVV07418439978357",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"17:21:03",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"236866.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"KES of Braavos"
+ "currency":"ZWD of Braavos"
 }

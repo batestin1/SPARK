@@ -1,0 +1,15 @@
+{
+ "id_client":"TZGF17118899954384",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4543328828413857",
+ "transaction_code":"IBBN39764927088076",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"22:47:54",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"620087.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BMD of Braavos"
+}

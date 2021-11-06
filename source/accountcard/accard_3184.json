@@ -1,0 +1,15 @@
+{
+ "id_client":"MYSC30163000425921",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"38465408912310",
+ "transaction_code":"SEGU66336810008092",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"18:48:06",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"463701.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ZWD of Braavos"
+}

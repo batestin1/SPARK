@@ -1,0 +1,15 @@
+{
+ "id_client":"PBWJ80773046456439",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"213157682454989",
+ "transaction_code":"NFFJ39661768977192",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"17:50:23",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"951575.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"GBP of Braavos"
+}

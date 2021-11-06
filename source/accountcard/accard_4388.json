@@ -1,0 +1,15 @@
+{
+ "id_client":"DVOR67504397749471",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"180074734732230",
+ "transaction_code":"LOUR05265551700665",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"04:59:02",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"972240.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TTD of Braavos"
+}

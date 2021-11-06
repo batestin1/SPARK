@@ -1,15 +1,15 @@
 {
- "id_client":"JCPW21831364314942",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"UFSM13912844885260",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"activated",
- "card_number":"4452144579330",
- "transaction_code":"LXAB91693575989134",
- "date_transaction":"2021-11-17",
- "time_transaction":"13:16:15",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"291074.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"GEL of Braavos"
+ "card_number":"6549126084337219",
+ "transaction_code":"SZGI53708210544734",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:37:00",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"467372.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KMF of Braavos"
 }

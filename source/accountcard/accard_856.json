@@ -1,15 +1,15 @@
 {
- "id_client":"QKFY30867205032331",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"RWRG11904010727534",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"not activated",
- "card_number":"30553234552810",
- "transaction_code":"BDND39739428537515",
- "date_transaction":"2021-11-23",
- "time_transaction":"09:51:52",
- "describle_transaction":"brothel",
- "original_transaction_amount":"720438.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"KES of Braavos"
+ "card_number":"4741749662453",
+ "transaction_code":"JAFT19724273242493",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"20:16:24",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"795140.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SYP of Braavos"
 }

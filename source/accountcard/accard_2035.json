@@ -1,0 +1,15 @@
+{
+ "id_client":"XUAV80343540814618",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3507542392341163",
+ "transaction_code":"YEHU38364893302624",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"18:26:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"309789.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NIO of Braavos"
+}

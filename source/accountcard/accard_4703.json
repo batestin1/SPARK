@@ -1,0 +1,15 @@
+{
+ "id_client":"HSYV46309036795932",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"6523865212570080",
+ "transaction_code":"PXQN56823959604334",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"07:08:28",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"473757.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KMF of Braavos"
+}

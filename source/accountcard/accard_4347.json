@@ -1,0 +1,15 @@
+{
+ "id_client":"JGIB94542860289151",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"5141443700471924",
+ "transaction_code":"LGSS57812882151492",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"09:20:55",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"994536.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TTD of Braavos"
+}

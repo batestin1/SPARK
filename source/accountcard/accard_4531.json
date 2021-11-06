@@ -1,0 +1,15 @@
+{
+ "id_client":"BPQQ85477835678684",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"213141366404411",
+ "transaction_code":"UKZI02391308869311",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"19:11:24",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"798827.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HKD of Braavos"
+}

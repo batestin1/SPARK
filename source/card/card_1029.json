@@ -1,12 +1,12 @@
 {
- "id_client":"JERV86824288089706",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "card_number":"activated",
- "total_limit_value":"762723.0",
- "limit_value_available":"675893.0",
- "total_limit_used":"86830.0",
- "description_card":"JCB 15 digit",
- "security_card":"557",
- "expire_card_number":"04/29"
+ "id_client":"RFNJ11883660043443",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "card_number":"not activated",
+ "total_limit_value":"880873.0",
+ "limit_value_available":"808876.0",
+ "total_limit_used":"71997.0",
+ "description_card":"Discover",
+ "security_card":"713",
+ "expire_card_number":"01/22"
 }

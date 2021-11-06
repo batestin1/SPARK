@@ -1,0 +1,15 @@
+{
+ "id_client":"MUVH99396942166192",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4922772948066031",
+ "transaction_code":"TEUZ54203218606224",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"13:40:29",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"964402.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"VEF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"YDCS45084868470736",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"2256896695270403",
+ "transaction_code":"IANT37873547608774",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"20:42:24",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"511184.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"STD of Braavos"
+}

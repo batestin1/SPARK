@@ -1,0 +1,15 @@
+{
+ "id_client":"GAOV19045555219148",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6513584497634634",
+ "transaction_code":"XVDD03904940564235",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:08:06",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"167219.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"JOD of Braavos"
+}

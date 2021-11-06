@@ -1,0 +1,15 @@
+{
+ "id_client":"HSJX11883285523097",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4976578378866559",
+ "transaction_code":"ULNS22130238324982",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:17:37",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"638385.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BDT of Braavos"
+}

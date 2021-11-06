@@ -1,15 +1,15 @@
 {
- "id_client":"NUZJ90180718357502",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"QQOX10438486362704",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"activated",
- "card_number":"30380004759825",
- "transaction_code":"LSVL49521377449116",
- "date_transaction":"2021-12-01",
- "time_transaction":"18:12:41",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"751113.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"UAH of Braavos"
+ "card_number":"378201794677581",
+ "transaction_code":"CNGH10615436452687",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"18:50:08",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"563632.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MGA of Braavos"
 }

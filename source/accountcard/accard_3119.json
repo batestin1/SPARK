@@ -1,0 +1,15 @@
+{
+ "id_client":"VHPJ55146526148459",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"376438620433258",
+ "transaction_code":"ERLQ54559040267881",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"23:28:09",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"853167.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GEL of Braavos"
+}

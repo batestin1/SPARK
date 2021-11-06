@@ -1,11 +1,11 @@
 {
- "id_client":"LTYY16357446261999",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"EXWP38786782563973",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"LXMT10812156428867",
- "aba":"099721686"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"NZSK16080113775563",
+ "aba":"015601242"
 }

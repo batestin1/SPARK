@@ -1,0 +1,15 @@
+{
+ "id_client":"NRBC77943939179065",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4118598210509802",
+ "transaction_code":"GQBD06637515734541",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"12:43:25",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"243186.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CDF of Braavos"
+}

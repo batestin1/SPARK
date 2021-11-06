@@ -1,0 +1,15 @@
+{
+ "id_client":"MYMM56375179951807",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4284340555396",
+ "transaction_code":"ORLO16854533528230",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"11:31:14",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"105071.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TZS of Braavos"
+}

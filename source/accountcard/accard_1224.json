@@ -1,0 +1,15 @@
+{
+ "id_client":"OMTV37867726938984",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"588728519723",
+ "transaction_code":"EYSZ48759126159132",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"09:20:19",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"148567.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TZS of Braavos"
+}

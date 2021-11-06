@@ -1,0 +1,15 @@
+{
+ "id_client":"AAEM88130216409836",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4319184917827480297",
+ "transaction_code":"NZLU98628902516435",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"03:18:03",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"971327.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CDF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WSCY61618117156261",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"4989828912897957",
+ "transaction_code":"QMJX69904628149873",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"08:03:22",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"35302.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SCR of Braavos"
+}

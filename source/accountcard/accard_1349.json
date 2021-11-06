@@ -1,0 +1,15 @@
+{
+ "id_client":"XYUC42058915217687",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4972121251384186",
+ "transaction_code":"CCFY90766095262476",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"22:07:44",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"370120.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"FKP of Braavos"
+}

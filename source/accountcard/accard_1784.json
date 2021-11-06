@@ -1,0 +1,15 @@
+{
+ "id_client":"FVHB96164996753660",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"2221336290219036",
+ "transaction_code":"JFEY63254028469656",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"01:19:30",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"130853.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ETB of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LKKY19181945159824",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"347919840385093",
+ "transaction_code":"AGXT59401426822167",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"23:21:37",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"885646.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KWD of Braavos"
+}

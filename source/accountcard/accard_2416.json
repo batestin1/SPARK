@@ -1,0 +1,15 @@
+{
+ "id_client":"MPZH77048905390170",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"213159201752620",
+ "transaction_code":"HEGL75992456804196",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"09:01:42",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"149382.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"STD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"SKEJ22460977857446",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"3545661438133550",
+ "transaction_code":"VWDK30422374575363",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"16:01:50",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"100363.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BND of Braavos"
+}

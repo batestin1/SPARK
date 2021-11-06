@@ -1,0 +1,15 @@
+{
+ "id_client":"ASAF54850364552005",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4473451849349282",
+ "transaction_code":"RTGD47840270578832",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"07:04:16",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"504266.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XAF of Braavos"
+}

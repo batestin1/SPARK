@@ -1,0 +1,15 @@
+{
+ "id_client":"RCTH60333014830237",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"5281559940039005",
+ "transaction_code":"XBOP36634712929687",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"04:19:27",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"594459.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BSD of Braavos"
+}

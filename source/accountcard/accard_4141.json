@@ -1,0 +1,15 @@
+{
+ "id_client":"HDGA19592219395123",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"6011596805091288",
+ "transaction_code":"LANQ99414457189310",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"23:45:55",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"218932.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GYD of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"BQSI07791803040290",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "status_account_blocked":"activated",
- "card_number":"30505045443860",
- "transaction_code":"RWNK09791343264799",
- "date_transaction":"2021-11-14",
- "time_transaction":"00:44:11",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"533576.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"BND of Braavos"
+ "id_client":"XLKR97568955961301",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"3583111424990111",
+ "transaction_code":"RLBD51844490751169",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"07:48:29",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"609632.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SHP of Braavos"
 }

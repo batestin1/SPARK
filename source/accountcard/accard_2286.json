@@ -1,0 +1,15 @@
+{
+ "id_client":"AXHZ76134618611888",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"3571087101414464",
+ "transaction_code":"SWNH23166745427641",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"18:59:53",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"111552.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AUD of Braavos"
+}

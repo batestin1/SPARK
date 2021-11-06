@@ -1,0 +1,15 @@
+{
+ "id_client":"OOUW20298516830141",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"30149605074433",
+ "transaction_code":"PEHL88397082478058",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"18:16:32",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"676763.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GGP of Braavos"
+}

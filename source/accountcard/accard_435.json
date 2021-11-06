@@ -1,15 +1,15 @@
 {
- "id_client":"NHUR08724540269005",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"AIRI18136715613966",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "status_account_blocked":"not activated",
- "card_number":"180039563761659",
- "transaction_code":"DEKH76001090066619",
- "date_transaction":"2021-11-12",
- "time_transaction":"04:41:16",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"950113.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"CRC of Braavos"
+ "card_number":"2720325547069134",
+ "transaction_code":"FZSO62286624610685",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"13:05:21",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"141348.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ARS of Braavos"
 }

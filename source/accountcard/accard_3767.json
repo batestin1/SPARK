@@ -1,0 +1,15 @@
+{
+ "id_client":"HKKB97614175494467",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"2226942699214034",
+ "transaction_code":"ZSON93554421511259",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"02:59:27",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"34376.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GNF of Braavos"
+}

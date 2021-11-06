@@ -1,11 +1,11 @@
 {
- "id_client":"RPSP89459581503421",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"OYBD00826275084116",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"EVAP15691379935758",
- "aba":"017000060"
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"AHFH94167717325970",
+ "aba":"063038309"
 }

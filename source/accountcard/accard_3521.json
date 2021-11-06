@@ -1,0 +1,15 @@
+{
+ "id_client":"XEDP89616618918160",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"3580897559106316",
+ "transaction_code":"MPJI07247753488221",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"23:17:57",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"367342.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CHF of Braavos"
+}

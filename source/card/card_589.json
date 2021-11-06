@@ -1,12 +1,12 @@
 {
- "id_client":"ZLBJ03745794781753",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
- "card_number":"activated",
- "total_limit_value":"879523.0",
- "limit_value_available":"856891.0",
- "total_limit_used":"22632.0",
- "description_card":"VISA 13 digit",
- "security_card":"030",
- "expire_card_number":"03/31"
+ "id_client":"NKUX90030226657007",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "card_number":"not activated",
+ "total_limit_value":"59441.0",
+ "limit_value_available":"49666.0",
+ "total_limit_used":"9775.0",
+ "description_card":"Discover",
+ "security_card":"130",
+ "expire_card_number":"10/29"
 }

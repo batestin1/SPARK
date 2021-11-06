@@ -1,0 +1,15 @@
+{
+ "id_client":"KGFC40400103145809",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"6011006941878747",
+ "transaction_code":"GKKR36387083004724",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"13:07:08",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"405344.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BOB of Braavos"
+}

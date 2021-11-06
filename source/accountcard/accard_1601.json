@@ -1,0 +1,15 @@
+{
+ "id_client":"USFH31616224613136",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4639812525368783945",
+ "transaction_code":"PWGM19091967383831",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"22:26:06",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"92344.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"COP of Braavos"
+}

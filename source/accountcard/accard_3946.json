@@ -1,0 +1,15 @@
+{
+ "id_client":"HNEK19487359869381",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"30131747441902",
+ "transaction_code":"PVEF74139550737230",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"09:02:19",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"647866.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GHS of Braavos"
+}

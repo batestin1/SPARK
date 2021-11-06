@@ -1,15 +1,15 @@
 {
- "id_client":"IHSP10873122172628",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"BEJB29982365798064",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "status_account_blocked":"not activated",
- "card_number":"2252080943888498",
- "transaction_code":"SUPJ36275362851279",
- "date_transaction":"2021-11-09",
- "time_transaction":"20:31:22",
+ "card_number":"3514780167251024",
+ "transaction_code":"HGTP74296563321715",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"09:33:23",
  "describle_transaction":"wolfs",
- "original_transaction_amount":"406892.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"GTQ of Braavos"
+ "original_transaction_amount":"709348.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MRO of Braavos"
 }

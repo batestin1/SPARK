@@ -1,0 +1,15 @@
+{
+ "id_client":"QCUG15527872602748",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4094870498457350769",
+ "transaction_code":"CYTZ59457100163609",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"16:10:18",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"274651.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LRD of Braavos"
+}

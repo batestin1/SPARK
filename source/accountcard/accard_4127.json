@@ -1,0 +1,15 @@
+{
+ "id_client":"MSAR18362463438947",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"2716528371936932",
+ "transaction_code":"VBSW44400552826809",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"07:07:48",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"134389.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LRD of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"ZLAD38092938215804",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"GQNU69732041055191",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "status_account_blocked":"not activated",
- "card_number":"502035901250",
- "transaction_code":"ZQHM96005041872697",
+ "card_number":"180094672309437",
+ "transaction_code":"LNRU84036555291967",
  "date_transaction":"2021-11-23",
- "time_transaction":"01:03:37",
- "describle_transaction":"savage army",
- "original_transaction_amount":"826338.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"LRD of Braavos"
+ "time_transaction":"12:45:45",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"419059.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SRD of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"TMRD68386177526503",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"30525849922810",
+ "transaction_code":"BHAZ30527974638154",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"15:12:12",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"794313.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GEL of Braavos"
+}

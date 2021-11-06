@@ -1,0 +1,15 @@
+{
+ "id_client":"VFQP34604282759212",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4575522963629803",
+ "transaction_code":"XAHU62329549510296",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"16:15:37",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"642575.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RSD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"QCRA71075595174914",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"6573643988621661",
+ "transaction_code":"BAOK16595613783289",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"14:09:54",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"784240.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BBD of Braavos"
+}

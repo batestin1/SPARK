@@ -1,0 +1,15 @@
+{
+ "id_client":"MPAR36297355756066",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"4310913242854",
+ "transaction_code":"GKLI10625941256352",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"09:36:59",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"437348.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"LSL of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"UTZG35773504991803",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "status_account_blocked":"activated",
- "card_number":"3547774302906460",
- "transaction_code":"GHTV48245488304671",
- "date_transaction":"2021-11-12",
- "time_transaction":"02:17:23",
- "describle_transaction":"ships",
- "original_transaction_amount":"190700.0",
+ "id_client":"GFDV14841886254791",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"180010314391567",
+ "transaction_code":"WDSO81307324619426",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"13:40:13",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"20068.0",
  "number_installments_assign":"8",
  "current_installment":"7",
- "currency":"ALL of Braavos"
+ "currency":"IQD of Braavos"
 }

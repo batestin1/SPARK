@@ -1,15 +1,15 @@
 {
- "id_client":"RBKD15288694594345",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"GIST33842354175306",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
  "status_account_blocked":"not activated",
- "card_number":"3518746876727089",
- "transaction_code":"STCQ07727309901768",
- "date_transaction":"2021-11-10",
- "time_transaction":"05:15:06",
- "describle_transaction":"horses",
- "original_transaction_amount":"423724.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"JEP of Braavos"
+ "card_number":"3573856329293928",
+ "transaction_code":"GYRW10817221316226",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"03:40:59",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"311498.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XOF of Braavos"
 }

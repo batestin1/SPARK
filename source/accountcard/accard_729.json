@@ -1,15 +1,15 @@
 {
- "id_client":"YUQL33731538297611",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
- "status_account_blocked":"not activated",
- "card_number":"675941416314",
- "transaction_code":"PDJF19753336225757",
- "date_transaction":"2021-11-30",
- "time_transaction":"20:42:51",
+ "id_client":"FYWJ76599817546963",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4477792290202025",
+ "transaction_code":"FKHE35749688951049",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"10:26:05",
  "describle_transaction":"ships",
- "original_transaction_amount":"246987.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"MDL of Braavos"
+ "original_transaction_amount":"468787.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BAM of Braavos"
 }

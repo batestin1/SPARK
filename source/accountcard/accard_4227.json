@@ -1,0 +1,15 @@
+{
+ "id_client":"IJRB52525763749035",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"180077169088978",
+ "transaction_code":"LSXN16209398493250",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"20:46:52",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"619690.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TVD of Braavos"
+}

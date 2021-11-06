@@ -1,12 +1,12 @@
 {
- "id_client":"DCPR60052738571604",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "card_number":"activated",
- "total_limit_value":"402537.0",
- "limit_value_available":"352599.0",
- "total_limit_used":"49938.0",
+ "id_client":"VDTA96907672019768",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "card_number":"not activated",
+ "total_limit_value":"709775.0",
+ "limit_value_available":"617969.0",
+ "total_limit_used":"91806.0",
  "description_card":"American Express",
- "security_card":"745",
- "expire_card_number":"11/29"
+ "security_card":"3183",
+ "expire_card_number":"01/24"
 }

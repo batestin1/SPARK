@@ -1,0 +1,15 @@
+{
+ "id_client":"HLDN20532962445151",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"5368431455323305",
+ "transaction_code":"YAKD75604900564414",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"07:28:01",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"717955.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"RWF of Braavos"
+}

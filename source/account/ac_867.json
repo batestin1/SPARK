@@ -1,11 +1,11 @@
 {
- "id_client":"NYGP82820259136897",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"UOBY17989094609563",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"NXWJ15793634144181",
- "aba":"094217889"
+ "account_type":"dragon account",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"WVXU94963840848277",
+ "aba":"018799245"
 }

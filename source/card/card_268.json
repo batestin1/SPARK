@@ -1,12 +1,12 @@
 {
- "id_client":"IGIZ20259231295225",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"UHLB62910904745092",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "card_number":"activated",
- "total_limit_value":"778200.0",
- "limit_value_available":"690334.0",
- "total_limit_used":"87866.0",
- "description_card":"VISA 13 digit",
- "security_card":"167",
- "expire_card_number":"10/27"
+ "total_limit_value":"747416.0",
+ "limit_value_available":"679035.0",
+ "total_limit_used":"68381.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"347",
+ "expire_card_number":"10/25"
 }

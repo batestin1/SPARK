@@ -1,11 +1,11 @@
 {
- "id_client":"HOTO82257977181771",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"PWTB98105705828468",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "bank":"Braavos",
- "account_type":"dragon account",
+ "account_type":"checking account",
  "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"EOBF21838872075170",
- "aba":"074379869"
+ "account_status":"activated",
+ "bban_count":"BSHT04674964685063",
+ "aba":"038869531"
 }

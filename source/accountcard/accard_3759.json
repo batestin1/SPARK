@@ -1,0 +1,15 @@
+{
+ "id_client":"AASR98157626725185",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"180037047441690",
+ "transaction_code":"UVRA99932503363592",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"20:04:43",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"570464.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PYG of Braavos"
+}

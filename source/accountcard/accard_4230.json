@@ -1,0 +1,15 @@
+{
+ "id_client":"EPRE28294129209834",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4394051498163",
+ "transaction_code":"RPCT10382297388548",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:46:11",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"740161.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MGA of Braavos"
+}

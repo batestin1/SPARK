@@ -1,11 +1,11 @@
 {
- "id_client":"XKIJ57178606394946",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"ASLO34063022347103",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"checking account",
  "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"KTVP65319182700500",
- "aba":"013486402"
+ "account_status":"not activated",
+ "bban_count":"ZNPY58767002948147",
+ "aba":"067586869"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"PWSZ39838088264138",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6011680414635857",
+ "transaction_code":"BUOU23981543015065",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"00:14:31",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"418344.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GIP of Braavos"
+}

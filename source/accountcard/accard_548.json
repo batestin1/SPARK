@@ -1,15 +1,15 @@
 {
- "id_client":"URRB92148567973244",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
- "status_account_blocked":"activated",
- "card_number":"3545684339339316",
- "transaction_code":"BETJ33752068518274",
- "date_transaction":"2021-11-25",
- "time_transaction":"23:51:49",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"669907.0",
+ "id_client":"VUFH78861134490302",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4514830562635541",
+ "transaction_code":"WUNS95534800256468",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"10:16:08",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"340659.0",
  "number_installments_assign":"3",
  "current_installment":"2",
- "currency":"BGN of Braavos"
+ "currency":"ARS of Braavos"
 }

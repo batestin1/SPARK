@@ -1,0 +1,15 @@
+{
+ "id_client":"SDGW95971439908565",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2295728592886184",
+ "transaction_code":"MPOE92907387360087",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:38:07",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"106546.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GMD of Braavos"
+}

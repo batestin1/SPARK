@@ -1,0 +1,15 @@
+{
+ "id_client":"KBLC30785330899420",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"2708623723809331",
+ "transaction_code":"KFAG72163700897488",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"07:06:32",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"25768.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"UYU of Braavos"
+}

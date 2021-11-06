@@ -1,0 +1,15 @@
+{
+ "id_client":"IUEV93783323440495",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4022209582865",
+ "transaction_code":"JXCJ40961116101547",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"21:09:21",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"340197.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LTL of Braavos"
+}

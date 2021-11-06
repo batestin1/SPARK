@@ -1,11 +1,11 @@
 {
- "id_client":"SFKS06573306967259",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"GVPF76106006913299",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"SSFI05030161447856",
- "aba":"016884929"
+ "account_type":"savings account",
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"BDAW31165166349279",
+ "aba":"071098233"
 }

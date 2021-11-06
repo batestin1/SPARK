@@ -1,0 +1,15 @@
+{
+ "id_client":"IALY14485689331637",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4513267794448101430",
+ "transaction_code":"NCBS60828385966880",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"08:57:06",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"962728.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NPR of Braavos"
+}

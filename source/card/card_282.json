@@ -1,12 +1,12 @@
 {
- "id_client":"WYLV88752397958770",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"PXNS93798765131502",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "card_number":"activated",
- "total_limit_value":"205752.0",
- "limit_value_available":"149084.0",
- "total_limit_used":"56668.0",
+ "total_limit_value":"108036.0",
+ "limit_value_available":"40984.0",
+ "total_limit_used":"67052.0",
  "description_card":"Discover",
- "security_card":"109",
- "expire_card_number":"08/31"
+ "security_card":"104",
+ "expire_card_number":"11/28"
 }

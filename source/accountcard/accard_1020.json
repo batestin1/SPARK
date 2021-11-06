@@ -1,15 +1,15 @@
 {
- "id_client":"RKKO70387756631443",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "status_account_blocked":"activated",
- "card_number":"3515137330439888",
- "transaction_code":"VAPM06124338739146",
+ "id_client":"YSXH60984174986648",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"2697665802437024",
+ "transaction_code":"CYFE89820976803333",
  "date_transaction":"2021-11-26",
- "time_transaction":"06:29:18",
- "describle_transaction":"swords",
- "original_transaction_amount":"315916.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"LYD of Braavos"
+ "time_transaction":"21:51:53",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"205734.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CZK of Braavos"
 }

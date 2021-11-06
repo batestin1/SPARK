@@ -1,0 +1,15 @@
+{
+ "id_client":"TOWZ33559743868677",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3593665873806720",
+ "transaction_code":"FNPY93932417528856",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"19:38:15",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"331210.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BAM of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"STUH45454303438816",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "rent_income_value":"+334464.0",
- "description_chosen_income_method":"+557904.0",
- "total_account_value":"8029428.0",
- "current_account_total_value":"7611829.0",
- "total_amount_carried_over":"417599.0"
+ "id_client":"KTKO65220161048055",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "rent_income_value":"-826640.0",
+ "description_chosen_income_method":"-47203.0",
+ "total_account_value":"9698280.0",
+ "current_account_total_value":"9366810.0",
+ "total_amount_carried_over":"331470.0"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"FOJH85239760422609",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"30179371326659",
+ "transaction_code":"XRDV92380861233326",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"01:20:32",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"850099.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"HUF of Braavos"
+}

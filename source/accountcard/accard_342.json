@@ -1,15 +1,15 @@
 {
- "id_client":"VNHD15239234611138",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
- "status_account_blocked":"not activated",
- "card_number":"6011540387004533",
- "transaction_code":"OXEN28663301978959",
- "date_transaction":"2021-11-19",
- "time_transaction":"17:39:56",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"593256.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"GEL of Braavos"
+ "id_client":"JPCE00707030273043",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4364432288897074",
+ "transaction_code":"SECO50695232135847",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"13:26:23",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"62861.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UGX of Braavos"
 }

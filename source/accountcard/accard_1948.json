@@ -1,0 +1,15 @@
+{
+ "id_client":"HJBD52753929036929",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"2700455504140729",
+ "transaction_code":"THLB21793727452218",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"05:16:04",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"11153.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CNY of Braavos"
+}

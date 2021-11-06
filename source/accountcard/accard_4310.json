@@ -1,0 +1,15 @@
+{
+ "id_client":"HEOM93987641517492",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"6514956999723025",
+ "transaction_code":"LGRT10904153038605",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"12:31:17",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"150220.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"QAR of Braavos"
+}

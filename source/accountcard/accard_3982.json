@@ -1,0 +1,15 @@
+{
+ "id_client":"DTBV48691483015575",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"6011906521967671",
+ "transaction_code":"TBJU48494869441470",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"10:51:14",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"742305.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DOP of Braavos"
+}

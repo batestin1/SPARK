@@ -1,11 +1,11 @@
 {
- "id_client":"EHCX27519135953573",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"LEJK56805387231077",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"UOVM11944039969259",
- "aba":"057240754"
+ "account_type":"savings account",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"FQLI82018276734152",
+ "aba":"082080862"
 }

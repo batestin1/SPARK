@@ -1,15 +1,15 @@
 {
- "id_client":"FZJI74876407099582",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
- "status_account_blocked":"not activated",
- "card_number":"180071188110145",
- "transaction_code":"KXOO06784204358854",
- "date_transaction":"2021-11-16",
- "time_transaction":"18:02:18",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"757366.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"LYD of Braavos"
+ "id_client":"QKFX99004390518326",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"3508024758221338",
+ "transaction_code":"SMPY63167296056829",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"21:48:00",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"95210.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ALL of Braavos"
 }

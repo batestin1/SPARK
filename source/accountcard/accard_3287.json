@@ -1,0 +1,15 @@
+{
+ "id_client":"POVH21644187289176",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4309464716910",
+ "transaction_code":"WXDR64241443555305",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"12:42:14",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"301223.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SCR of Braavos"
+}

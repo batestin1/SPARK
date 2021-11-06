@@ -1,15 +1,15 @@
 {
- "id_client":"EUYF39866075276487",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"ULLE62117716733603",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"not activated",
- "card_number":"349011861816467",
- "transaction_code":"WYQL63839610242661",
- "date_transaction":"2021-11-06",
- "time_transaction":"04:32:21",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"635160.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"BND of Braavos"
+ "card_number":"375041177214898",
+ "transaction_code":"EKMY57789744447973",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"09:19:41",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"314254.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CUP of Braavos"
 }

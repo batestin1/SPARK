@@ -1,0 +1,15 @@
+{
+ "id_client":"KCEB01123574745857",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4702615688871158636",
+ "transaction_code":"PDTO70302635553993",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"21:01:21",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"375172.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SOS of Braavos"
+}

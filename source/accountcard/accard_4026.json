@@ -1,0 +1,15 @@
+{
+ "id_client":"ZKRE22017794883694",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4319472704266450",
+ "transaction_code":"LQDI20995453952997",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"13:24:08",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"227912.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ZMW of Braavos"
+}

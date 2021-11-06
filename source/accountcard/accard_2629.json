@@ -1,0 +1,15 @@
+{
+ "id_client":"MUTZ27784940581846",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4291806439229448615",
+ "transaction_code":"WGZB73293596341410",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"15:01:32",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"801684.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MNT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"BDOY45398265501101",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"30402228175651",
+ "transaction_code":"ZUZI31518859438062",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"09:19:06",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"108892.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"JPY of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RMIQ13854829645555",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"213143915783527",
+ "transaction_code":"QOTP43056621834525",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"05:51:13",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"99486.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SAR of Braavos"
+}

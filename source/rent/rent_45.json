@@ -1,10 +1,10 @@
 {
- "id_client":"INSQ72992234858465",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "rent_income_value":"+46575.0",
- "description_chosen_income_method":"+400411.0",
- "total_account_value":"4254055.0",
- "current_account_total_value":"3944144.0",
- "total_amount_carried_over":"309911.0"
+ "id_client":"TSUC62561098727505",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "rent_income_value":"-298821.0",
+ "description_chosen_income_method":"+436655.0",
+ "total_account_value":"4952120.0",
+ "current_account_total_value":"4256281.0",
+ "total_amount_carried_over":"695839.0"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"CYSU12528926882101",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"6568655351405834",
+ "transaction_code":"RECD07473727296000",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"11:44:59",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"72839.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TJS of Braavos"
+}

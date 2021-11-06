@@ -1,0 +1,15 @@
+{
+ "id_client":"EOQK30419855999190",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4569789631211037",
+ "transaction_code":"LIAD33722040463999",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"06:58:56",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"989144.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EUR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DNPT23462224769226",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4149762760573815",
+ "transaction_code":"VPBO29044291108781",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"13:33:03",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"834680.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"DKK of Braavos"
+}

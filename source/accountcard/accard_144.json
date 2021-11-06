@@ -1,15 +1,15 @@
 {
- "id_client":"VLTV54972251454033",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"CTWF33809749244450",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"not activated",
- "card_number":"4177497709669",
- "transaction_code":"PUJE17459047935020",
- "date_transaction":"2021-11-07",
- "time_transaction":"04:53:09",
+ "card_number":"4605427270089",
+ "transaction_code":"VKOH29633563626997",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"12:42:50",
  "describle_transaction":"swords",
- "original_transaction_amount":"25896.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"ALL of Braavos"
+ "original_transaction_amount":"924057.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"UAH of Braavos"
 }

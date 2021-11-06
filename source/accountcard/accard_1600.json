@@ -1,0 +1,15 @@
+{
+ "id_client":"ZIUJ37253183579667",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4577339028360",
+ "transaction_code":"VQES91547023440820",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:03:43",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"339415.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NPR of Braavos"
+}

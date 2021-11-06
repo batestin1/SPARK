@@ -1,0 +1,15 @@
+{
+ "id_client":"LODN43092638422167",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"30287122272906",
+ "transaction_code":"GJLZ42282866218258",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"04:35:39",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"648593.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IDR of Braavos"
+}

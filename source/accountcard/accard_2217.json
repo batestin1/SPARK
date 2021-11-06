@@ -1,0 +1,15 @@
+{
+ "id_client":"HPZV37660569388909",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"3566041157577887",
+ "transaction_code":"CBRJ98761089102078",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"12:48:12",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"392610.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"RSD of Braavos"
+}

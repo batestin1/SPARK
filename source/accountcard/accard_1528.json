@@ -1,0 +1,15 @@
+{
+ "id_client":"WEYY89900813300236",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"346428360706796",
+ "transaction_code":"LEST64761902092897",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"15:09:06",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"554070.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"FJD of Braavos"
+}

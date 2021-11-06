@@ -1,0 +1,15 @@
+{
+ "id_client":"ZVCA57546479407383",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"630421028469",
+ "transaction_code":"IVPS55384950740126",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"20:54:21",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"244924.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"RUB of Braavos"
+}

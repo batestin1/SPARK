@@ -1,15 +1,15 @@
 {
- "id_client":"VDTN40102022768765",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"PWWD00022667745254",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "status_account_blocked":"not activated",
- "card_number":"342152609078999",
- "transaction_code":"HXQY89828975173058",
- "date_transaction":"2021-11-29",
- "time_transaction":"21:21:22",
- "describle_transaction":"theater",
- "original_transaction_amount":"494541.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"BDT of Braavos"
+ "card_number":"4758223551896206",
+ "transaction_code":"KCOS67637274720275",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"11:59:31",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"160637.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CRC of Braavos"
 }

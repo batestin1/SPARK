@@ -1,0 +1,15 @@
+{
+ "id_client":"EDBN44458812826503",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"30451415468676",
+ "transaction_code":"QNBP03647184055597",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"04:25:21",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"669075.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SBD of Braavos"
+}

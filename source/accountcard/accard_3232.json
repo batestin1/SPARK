@@ -1,0 +1,15 @@
+{
+ "id_client":"RMRP16248359833019",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"180050942847218",
+ "transaction_code":"EZMA54751685020317",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"10:36:54",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"2327.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"WST of Braavos"
+}

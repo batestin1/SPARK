@@ -1,0 +1,15 @@
+{
+ "id_client":"DHEO63411576953977",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4770523030376199",
+ "transaction_code":"URSF44073800238982",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"21:54:53",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"404123.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LSL of Braavos"
+}

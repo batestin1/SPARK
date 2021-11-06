@@ -1,0 +1,15 @@
+{
+ "id_client":"NZAW74478406010877",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"572136813365",
+ "transaction_code":"DQEG61027722248481",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"12:59:24",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"85023.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ISK of Braavos"
+}

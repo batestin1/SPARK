@@ -1,0 +1,15 @@
+{
+ "id_client":"WNAY22412715114109",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"6011903711734854",
+ "transaction_code":"EKLB45421176014516",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"20:43:32",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"709116.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SEK of Braavos"
+}

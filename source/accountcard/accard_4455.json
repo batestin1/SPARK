@@ -1,0 +1,15 @@
+{
+ "id_client":"QGAZ97061405456630",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4711176548494995289",
+ "transaction_code":"IOBC67665666745931",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"09:41:47",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"568572.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CZK of Braavos"
+}

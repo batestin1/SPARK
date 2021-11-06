@@ -1,0 +1,15 @@
+{
+ "id_client":"MCRW35480220380375",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"2227790555125896",
+ "transaction_code":"RBIS77631551804204",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:50:12",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"844878.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"PHP of Braavos"
+}

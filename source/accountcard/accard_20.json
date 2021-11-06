@@ -1,15 +1,15 @@
 {
- "id_client":"LYYJ08620715775411",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "status_account_blocked":"activated",
- "card_number":"4293174973351226803",
- "transaction_code":"AHKR06276124500530",
+ "id_client":"NCYF58543039144163",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"3569071225306222",
+ "transaction_code":"WNPD84216090614142",
  "date_transaction":"2021-11-14",
- "time_transaction":"02:48:17",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"345574.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"CNY of Braavos"
+ "time_transaction":"11:13:48",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"846255.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"DOP of Braavos"
 }

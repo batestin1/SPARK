@@ -1,0 +1,15 @@
+{
+ "id_client":"KXEH98145246395284",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"6011011822177490",
+ "transaction_code":"YBSJ09980987070033",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"02:10:22",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"899390.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XAF of Braavos"
+}

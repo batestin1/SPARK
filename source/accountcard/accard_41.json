@@ -1,15 +1,15 @@
 {
- "id_client":"RAMS57528258500086",
+ "id_client":"FBDM43325824932813",
  "yearmonthday":"20211119",
  "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"3503987736016100",
- "transaction_code":"RDKF27001485938682",
- "date_transaction":"2021-11-09",
- "time_transaction":"21:02:47",
+ "card_number":"3532858177822113",
+ "transaction_code":"DDPG70981818349532",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"16:08:53",
  "describle_transaction":"Marketplace",
- "original_transaction_amount":"943006.0",
+ "original_transaction_amount":"41877.0",
  "number_installments_assign":"3",
  "current_installment":"2",
- "currency":"PLN of Braavos"
+ "currency":"KES of Braavos"
 }

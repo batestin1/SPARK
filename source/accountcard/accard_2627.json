@@ -1,0 +1,15 @@
+{
+ "id_client":"FIKA40504495991998",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"3566586038840581",
+ "transaction_code":"LWKO84345248623924",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"12:15:36",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"869325.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"JPY of Braavos"
+}

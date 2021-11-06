@@ -1,15 +1,15 @@
 {
- "id_client":"AGNQ85995393685060",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "status_account_blocked":"not activated",
- "card_number":"3578690246537132",
- "transaction_code":"HGTB07308555319844",
- "date_transaction":"2021-12-02",
- "time_transaction":"20:34:12",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"359965.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"IQD of Braavos"
+ "id_client":"JFYI13654905270159",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"3594436081647440",
+ "transaction_code":"TXKS97503527536969",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"16:41:54",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"47586.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"LBP of Braavos"
 }

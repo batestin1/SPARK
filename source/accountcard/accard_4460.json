@@ -1,0 +1,15 @@
+{
+ "id_client":"ZXFR63600167780952",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"676308852539",
+ "transaction_code":"UZPI76978132825392",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"05:09:28",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"993283.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NGN of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"PYRI05135507082583",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "rent_income_value":"-300107.0",
- "description_chosen_income_method":"-150373.0",
- "total_account_value":"7725398.0",
- "current_account_total_value":"6818408.0",
- "total_amount_carried_over":"906990.0"
+ "id_client":"JHPS02271171301985",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "rent_income_value":"+477840.0",
+ "description_chosen_income_method":"-412501.0",
+ "total_account_value":"375683.0",
+ "current_account_total_value":"-447636.0",
+ "total_amount_carried_over":"823319.0"
 }

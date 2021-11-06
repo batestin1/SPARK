@@ -1,0 +1,15 @@
+{
+ "id_client":"JVJF95678300607527",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4208319599397508",
+ "transaction_code":"NERV68647046806067",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"14:24:28",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"767999.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UYU of Braavos"
+}

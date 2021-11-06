@@ -1,0 +1,15 @@
+{
+ "id_client":"ALZW55868260230815",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"3541782583521649",
+ "transaction_code":"SAEU04186746568887",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"04:01:32",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"281966.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"THB of Braavos"
+}

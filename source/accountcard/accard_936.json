@@ -1,15 +1,15 @@
 {
- "id_client":"GQZY82807222167519",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
+ "id_client":"RTKS08123123204880",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"not activated",
- "card_number":"180083112839301",
- "transaction_code":"XYQG28314353047247",
- "date_transaction":"2021-11-06",
- "time_transaction":"15:47:20",
- "describle_transaction":"ships",
- "original_transaction_amount":"928434.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"CLP of Braavos"
+ "card_number":"30302875307922",
+ "transaction_code":"JWJE18173253141661",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"16:28:57",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"318233.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TWD of Braavos"
 }

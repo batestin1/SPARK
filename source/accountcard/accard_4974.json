@@ -1,0 +1,15 @@
+{
+ "id_client":"PIRU23962340768343",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"501815791782",
+ "transaction_code":"LEDB54280235648827",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"10:45:06",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"652919.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PGK of Braavos"
+}

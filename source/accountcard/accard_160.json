@@ -1,15 +1,15 @@
 {
- "id_client":"HSWO61108947589189",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "status_account_blocked":"not activated",
- "card_number":"3593807603053237",
- "transaction_code":"FEVP30661752778691",
- "date_transaction":"2021-11-28",
- "time_transaction":"03:16:37",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"859214.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"CHF of Braavos"
+ "id_client":"AWIU15124711155501",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"30047617661942",
+ "transaction_code":"DQOM49085789721402",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"15:36:57",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"926147.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RUB of Braavos"
 }

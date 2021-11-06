@@ -1,10 +1,10 @@
 {
- "id_client":"DAJM53568440118240",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
- "rent_income_value":"-351930.0",
- "description_chosen_income_method":"+690631.0",
- "total_account_value":"8161516.0",
- "current_account_total_value":"7695596.0",
- "total_amount_carried_over":"465920.0"
+ "id_client":"FMAC37382795637729",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "rent_income_value":"-487633.0",
+ "description_chosen_income_method":"-106868.0",
+ "total_account_value":"7557138.0",
+ "current_account_total_value":"7533894.0",
+ "total_amount_carried_over":"23244.0"
 }

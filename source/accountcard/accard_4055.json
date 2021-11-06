@@ -1,0 +1,15 @@
+{
+ "id_client":"FMAJ19910008500442",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4842728579357120",
+ "transaction_code":"CWLN22275761939858",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"16:40:31",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"439822.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ZWD of Braavos"
+}

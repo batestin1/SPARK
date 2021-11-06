@@ -1,0 +1,15 @@
+{
+ "id_client":"EEZG27407340337806",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4789175171911",
+ "transaction_code":"TJWD90616170280420",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"09:32:23",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"423883.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SCR of Braavos"
+}

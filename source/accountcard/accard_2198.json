@@ -1,0 +1,15 @@
+{
+ "id_client":"PNJZ44319078514371",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"213125179169840",
+ "transaction_code":"XCET40605088294722",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:02:19",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"141569.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UZS of Braavos"
+}

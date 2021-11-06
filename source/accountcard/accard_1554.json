@@ -1,0 +1,15 @@
+{
+ "id_client":"JBOG99460748482546",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4127195980581852",
+ "transaction_code":"CGGM27757962835374",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"07:44:38",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"73189.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"GGP of Braavos"
+}

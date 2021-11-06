@@ -1,15 +1,15 @@
 {
- "id_client":"WZXF30863753337006",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"LNBU09237253154024",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"3579494693672636",
- "transaction_code":"OZVV30911447037196",
- "date_transaction":"2021-11-16",
- "time_transaction":"11:30:38",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"246868.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"KMF of Braavos"
+ "card_number":"376394283355231",
+ "transaction_code":"QCPY96322428498556",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"07:36:47",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"469290.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TND of Braavos"
 }

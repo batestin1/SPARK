@@ -1,0 +1,15 @@
+{
+ "id_client":"EFFN82995481000677",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4380275659292",
+ "transaction_code":"CWWL04206012923245",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:04:05",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"560664.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MOP of Braavos"
+}

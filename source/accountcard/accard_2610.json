@@ -1,0 +1,15 @@
+{
+ "id_client":"VCCN29927688044822",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4391471851443",
+ "transaction_code":"EJQE92339611946096",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:32:31",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"340268.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ALL of Braavos"
+}

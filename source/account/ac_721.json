@@ -1,11 +1,11 @@
 {
- "id_client":"HBXL78808832504581",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"LDCH73964555962252",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"XQBD79722781847842",
- "aba":"064512990"
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"IDQS94603952422774",
+ "aba":"077835127"
 }

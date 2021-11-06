@@ -1,0 +1,15 @@
+{
+ "id_client":"KBGB20164432112023",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"4297715235051407118",
+ "transaction_code":"EUXS69304270782472",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"16:21:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"823526.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TJS of Braavos"
+}

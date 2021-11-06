@@ -1,0 +1,15 @@
+{
+ "id_client":"STNG15914453508123",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4260146082827",
+ "transaction_code":"ZHPW48821989508789",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"06:14:00",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"768027.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CRC of Braavos"
+}

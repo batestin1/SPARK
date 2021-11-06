@@ -1,0 +1,15 @@
+{
+ "id_client":"FOMT93092849792234",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"347296530301239",
+ "transaction_code":"LGQY07375011229071",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"02:14:16",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"497622.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"FKP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"JXIT37089684571046",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3573650477749801",
+ "transaction_code":"ZHLN45494725411137",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"12:09:36",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"806816.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ISK of Braavos"
+}

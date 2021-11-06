@@ -1,0 +1,15 @@
+{
+ "id_client":"VVDV02774638984227",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4742594113615573082",
+ "transaction_code":"PXSA92857683567534",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"10:03:05",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"323009.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RON of Braavos"
+}

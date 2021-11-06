@@ -1,11 +1,11 @@
 {
- "id_client":"OGRY46885710136790",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"SZWM21966499478815",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "bank":"Braavos",
  "account_type":"savings account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"IMIV31465077234025",
- "aba":"041252667"
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"INDC25804339087913",
+ "aba":"070462711"
 }

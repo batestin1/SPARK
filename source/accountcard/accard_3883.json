@@ -1,0 +1,15 @@
+{
+ "id_client":"EDII36356554272237",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"2704119262296182",
+ "transaction_code":"VXTB91200396116574",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"05:24:54",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"157165.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TWD of Braavos"
+}

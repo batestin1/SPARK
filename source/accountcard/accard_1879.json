@@ -1,0 +1,15 @@
+{
+ "id_client":"PLDO24083484788464",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"2674873605213785",
+ "transaction_code":"JBMT58887622264289",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"09:27:56",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"293225.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PYG of Braavos"
+}

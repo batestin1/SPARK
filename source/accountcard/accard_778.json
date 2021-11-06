@@ -1,15 +1,15 @@
 {
- "id_client":"VXTL69770686946104",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "status_account_blocked":"not activated",
- "card_number":"6011257672172541",
- "transaction_code":"QYUP69927613256820",
- "date_transaction":"2021-11-24",
- "time_transaction":"00:45:10",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"104962.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"THB of Braavos"
+ "id_client":"PRQA97073700406615",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"6011696638287580",
+ "transaction_code":"UKLH02525348536979",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"06:06:14",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"939958.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CDF of Braavos"
 }

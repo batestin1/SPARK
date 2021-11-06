@@ -1,0 +1,15 @@
+{
+ "id_client":"OPZK28367845118066",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3501106734040184",
+ "transaction_code":"HUSZ24715826462634",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"09:55:24",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"738593.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CVE of Braavos"
+}

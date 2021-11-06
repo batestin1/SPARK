@@ -1,0 +1,15 @@
+{
+ "id_client":"FXRF06592729794549",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"6011146857205830",
+ "transaction_code":"NJRG26506985114803",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"18:59:31",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"622365.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ETB of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"TCGR36263464065633",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "rent_income_value":"-164309.0",
- "description_chosen_income_method":"-85645.0",
- "total_account_value":"4482503.0",
- "current_account_total_value":"3760719.0",
- "total_amount_carried_over":"721784.0"
+ "id_client":"OUAM30661612610189",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "rent_income_value":"+302099.0",
+ "description_chosen_income_method":"+657781.0",
+ "total_account_value":"345348.0",
+ "current_account_total_value":"-136084.0",
+ "total_amount_carried_over":"481432.0"
 }

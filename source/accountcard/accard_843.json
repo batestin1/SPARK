@@ -1,15 +1,15 @@
 {
- "id_client":"DKAA87643608858049",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"MYUV22998027779872",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"not activated",
- "card_number":"3578748382732220",
- "transaction_code":"JAYI89343647067680",
- "date_transaction":"2021-11-14",
- "time_transaction":"17:14:12",
- "describle_transaction":"theater",
- "original_transaction_amount":"860190.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"BMD of Braavos"
+ "card_number":"4504849765483220",
+ "transaction_code":"DOGE01324531070042",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"21:52:59",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"641593.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MGA of Braavos"
 }

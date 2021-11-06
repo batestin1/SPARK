@@ -1,0 +1,15 @@
+{
+ "id_client":"NNYP09422339042775",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"213196874867566",
+ "transaction_code":"KPOD05416675970789",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"23:07:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"337219.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CRC of Braavos"
+}

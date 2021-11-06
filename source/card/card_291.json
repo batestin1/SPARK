@@ -1,12 +1,12 @@
 {
- "id_client":"QCUA37371167097702",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"JTDG51069886817754",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "card_number":"activated",
- "total_limit_value":"483983.0",
- "limit_value_available":"446971.0",
- "total_limit_used":"37012.0",
- "description_card":"Discover",
- "security_card":"372",
- "expire_card_number":"01/30"
+ "total_limit_value":"338094.0",
+ "limit_value_available":"303530.0",
+ "total_limit_used":"34564.0",
+ "description_card":"American Express",
+ "security_card":"164",
+ "expire_card_number":"07/29"
 }

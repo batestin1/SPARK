@@ -1,0 +1,15 @@
+{
+ "id_client":"FWLP11005134768022",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3557910390723097",
+ "transaction_code":"IWBU81001585388384",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"10:36:14",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"51363.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NGN of Braavos"
+}

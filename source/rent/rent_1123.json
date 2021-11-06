@@ -1,10 +1,10 @@
 {
- "id_client":"SEWC84102784244614",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
- "rent_income_value":"-812187.0",
- "description_chosen_income_method":"-780551.0",
- "total_account_value":"9627726.0",
- "current_account_total_value":"9341412.0",
- "total_amount_carried_over":"286314.0"
+ "id_client":"DOFL09487602175534",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "rent_income_value":"-487766.0",
+ "description_chosen_income_method":"+170576.0",
+ "total_account_value":"9354407.0",
+ "current_account_total_value":"8797812.0",
+ "total_amount_carried_over":"556595.0"
 }

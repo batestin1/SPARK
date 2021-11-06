@@ -1,15 +1,15 @@
 {
- "id_client":"YKJE85793799917188",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"KXQR86090919429756",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"activated",
- "card_number":"4337031305734719824",
- "transaction_code":"PFKN50966071474612",
- "date_transaction":"2021-11-07",
- "time_transaction":"16:59:57",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"261624.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"UZS of Braavos"
+ "card_number":"4604809491539098649",
+ "transaction_code":"TFHP30940004764461",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"15:20:22",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"302809.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KRW of Braavos"
 }

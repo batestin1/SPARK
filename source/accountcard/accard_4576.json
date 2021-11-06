@@ -1,0 +1,15 @@
+{
+ "id_client":"RVBA16143328817299",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"activated",
+ "card_number":"4968677293643",
+ "transaction_code":"HLWE61591802979835",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"21:51:53",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"378489.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
+}

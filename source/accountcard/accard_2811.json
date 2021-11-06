@@ -1,0 +1,15 @@
+{
+ "id_client":"OEKX80566042611536",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4394417249466",
+ "transaction_code":"IHSD25278000789257",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"10:25:49",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"727821.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ANG of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"CLJM85405647185077",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"379515090721838",
+ "transaction_code":"MTIE93164041404988",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"19:10:25",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"104552.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GHS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"THVK97323820495631",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4418115281990",
+ "transaction_code":"UCXB69371255857350",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"11:03:09",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"549403.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PHP of Braavos"
+}

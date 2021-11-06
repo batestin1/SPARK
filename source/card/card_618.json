@@ -1,12 +1,12 @@
 {
- "id_client":"FNIR69679954193319",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
- "card_number":"activated",
- "total_limit_value":"123275.0",
- "limit_value_available":"39577.0",
- "total_limit_used":"83698.0",
- "description_card":"Mastercard",
- "security_card":"182",
- "expire_card_number":"12/28"
+ "id_client":"JZLS47317237201697",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "card_number":"not activated",
+ "total_limit_value":"214680.0",
+ "limit_value_available":"118702.0",
+ "total_limit_used":"95978.0",
+ "description_card":"Maestro",
+ "security_card":"001",
+ "expire_card_number":"04/24"
 }

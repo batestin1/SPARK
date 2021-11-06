@@ -1,11 +1,11 @@
 {
- "id_client":"SFJV28748250181333",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"BQNQ67294397277790",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"CAIV95906084495934",
- "aba":"045074624"
+ "account_type":"checking account",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"LDBA10695042973981",
+ "aba":"035109553"
 }

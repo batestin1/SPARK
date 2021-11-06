@@ -1,0 +1,15 @@
+{
+ "id_client":"UHJP76152466045581",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4110966288543",
+ "transaction_code":"OBHS56335716410804",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"12:00:35",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"589521.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"PEN of Braavos"
+}

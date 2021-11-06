@@ -1,0 +1,15 @@
+{
+ "id_client":"IATO20112664894957",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"3512146982265056",
+ "transaction_code":"YCOD90277799233236",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:47:45",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"276362.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LKR of Braavos"
+}

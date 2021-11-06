@@ -1,12 +1,12 @@
 {
- "id_client":"DGOA36486685291226",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
- "card_number":"activated",
- "total_limit_value":"856710.0",
- "limit_value_available":"769648.0",
- "total_limit_used":"87062.0",
- "description_card":"Maestro",
- "security_card":"173",
- "expire_card_number":"02/28"
+ "id_client":"NDEC57024737245433",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "card_number":"not activated",
+ "total_limit_value":"928237.0",
+ "limit_value_available":"897508.0",
+ "total_limit_used":"30729.0",
+ "description_card":"JCB 16 digit",
+ "security_card":"984",
+ "expire_card_number":"03/30"
 }

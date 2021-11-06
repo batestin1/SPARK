@@ -1,0 +1,15 @@
+{
+ "id_client":"SHWU53244818639693",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4994565559537651",
+ "transaction_code":"ONVN86326410457069",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"01:46:47",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"713846.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NIS of Braavos"
+}

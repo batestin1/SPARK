@@ -1,11 +1,11 @@
 {
- "id_client":"YHPR97846262266619",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"HCQB70169003826593",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"OAHI68705212885013",
- "aba":"020069835"
+ "account_type":"savings account",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"OMIL40496685844470",
+ "aba":"095110027"
 }

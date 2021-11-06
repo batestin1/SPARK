@@ -1,0 +1,15 @@
+{
+ "id_client":"TSAO86063950099258",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"180067877022617",
+ "transaction_code":"HSPI33493346237582",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"17:35:14",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"386185.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AMD of Braavos"
+}

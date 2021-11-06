@@ -1,0 +1,15 @@
+{
+ "id_client":"WOGY70969925112613",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4073077219429",
+ "transaction_code":"ZAQZ34085574579565",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"12:33:02",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"165153.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"VUV of Braavos"
+}

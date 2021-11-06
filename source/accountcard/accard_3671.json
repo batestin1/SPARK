@@ -1,0 +1,15 @@
+{
+ "id_client":"VIBW90914390019861",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"30303376095891",
+ "transaction_code":"ZLUW66938160345805",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"19:01:21",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"587209.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ETB of Braavos"
+}

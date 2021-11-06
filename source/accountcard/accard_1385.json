@@ -1,0 +1,15 @@
+{
+ "id_client":"YWGN73829309032538",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"30352760934173",
+ "transaction_code":"OZDT45430554702960",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"07:39:05",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"923781.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MDL of Braavos"
+}

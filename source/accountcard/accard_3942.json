@@ -1,0 +1,15 @@
+{
+ "id_client":"COCU82842443159328",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4941789410141578",
+ "transaction_code":"CCMI69129970917664",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"15:58:51",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"255241.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ARS of Braavos"
+}

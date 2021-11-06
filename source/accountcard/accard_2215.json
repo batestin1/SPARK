@@ -1,0 +1,15 @@
+{
+ "id_client":"KOAF79762395565421",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4135504065105349",
+ "transaction_code":"UQGT13902740432467",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"22:51:18",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"225430.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SZL of Braavos"
+}

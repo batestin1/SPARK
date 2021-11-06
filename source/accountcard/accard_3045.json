@@ -1,0 +1,15 @@
+{
+ "id_client":"JGIM98657297450638",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"347838099810835",
+ "transaction_code":"LBCN73719565130853",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"02:05:12",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"861910.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KZT of Braavos"
+}

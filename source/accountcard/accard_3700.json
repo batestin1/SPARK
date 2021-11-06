@@ -1,0 +1,15 @@
+{
+ "id_client":"AFNC29149503231758",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"4320269570220",
+ "transaction_code":"EBZL43962668271180",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"13:09:56",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"843945.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KWD of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"RRYF36795823252260",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"CTDD51542508775248",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"FOGS34825002742651",
- "aba":"030106137"
+ "account_type":"savings account",
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"VUQR48663738810051",
+ "aba":"056766850"
 }

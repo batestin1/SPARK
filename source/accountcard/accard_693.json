@@ -1,15 +1,15 @@
 {
- "id_client":"RJZT29394182496659",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"CUZG53068039741535",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"30337169861697",
- "transaction_code":"KFUC32996489753058",
- "date_transaction":"2021-11-26",
- "time_transaction":"09:31:15",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"454649.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"BHD of Braavos"
+ "card_number":"503812376674",
+ "transaction_code":"LKYG13989671207565",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"16:35:13",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"760610.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RON of Braavos"
 }

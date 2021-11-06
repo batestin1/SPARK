@@ -1,0 +1,15 @@
+{
+ "id_client":"XZXX86116638965562",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"4613954789869",
+ "transaction_code":"ILAG22696041343071",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"19:19:55",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"241365.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NPR of Braavos"
+}

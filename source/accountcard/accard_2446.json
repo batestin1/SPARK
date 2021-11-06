@@ -1,0 +1,15 @@
+{
+ "id_client":"FVFE16927752518983",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4054609972086875",
+ "transaction_code":"LLMO92531221957571",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"03:00:50",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"661223.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"THB of Braavos"
+}

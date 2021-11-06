@@ -1,0 +1,15 @@
+{
+ "id_client":"OFIP64499736033509",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4357651178057635",
+ "transaction_code":"KRZD64417001723419",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"08:42:54",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"91728.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ERN of Braavos"
+}

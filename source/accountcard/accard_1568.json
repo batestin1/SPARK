@@ -1,0 +1,15 @@
+{
+ "id_client":"JARK92520915790573",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"213139299466804",
+ "transaction_code":"AVMO49660488467751",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"03:52:58",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"268202.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"XDR of Braavos"
+}

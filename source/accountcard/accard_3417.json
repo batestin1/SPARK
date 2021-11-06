@@ -1,0 +1,15 @@
+{
+ "id_client":"VDIL83144674418421",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4993681878587342",
+ "transaction_code":"ZKGA49625076565936",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"18:52:58",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"184703.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SRD of Braavos"
+}

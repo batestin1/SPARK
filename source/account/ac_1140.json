@@ -1,11 +1,11 @@
 {
- "id_client":"MSSL85961229123432",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"UQGT48763287128397",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"COXW36702021129795",
- "aba":"014582459"
+ "account_type":"checking account",
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"PZAH65952932867904",
+ "aba":"028168902"
 }

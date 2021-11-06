@@ -1,0 +1,15 @@
+{
+ "id_client":"UFWJ72924477808257",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3536377149676792",
+ "transaction_code":"KPQG28610087078285",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"02:38:21",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"221486.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XOF of Braavos"
+}

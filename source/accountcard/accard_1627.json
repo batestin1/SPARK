@@ -1,0 +1,15 @@
+{
+ "id_client":"CKCY36599332655850",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4843345773871399",
+ "transaction_code":"SNCI78669729323092",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"11:03:31",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"231062.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BRL of Braavos"
+}

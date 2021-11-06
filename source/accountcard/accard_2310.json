@@ -1,0 +1,15 @@
+{
+ "id_client":"NQML44795947827077",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4524388810647923",
+ "transaction_code":"XARI14156271598668",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"12:59:28",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"176331.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PEN of Braavos"
+}

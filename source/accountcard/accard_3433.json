@@ -1,0 +1,15 @@
+{
+ "id_client":"SFLI56001321972553",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"6011090093810146",
+ "transaction_code":"ZTJJ85576514108993",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"03:15:45",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"411269.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MAD of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"TQZH10417536880231",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"ZPOR01235635793314",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "status_account_blocked":"not activated",
- "card_number":"180022100979927",
- "transaction_code":"EUAJ81653669244242",
+ "card_number":"4952181166180",
+ "transaction_code":"ZDGA48956854868665",
  "date_transaction":"2021-11-26",
- "time_transaction":"05:45:17",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"297838.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"TTD of Braavos"
+ "time_transaction":"22:45:50",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"839800.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ERN of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"CVMH84355586730628",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4053104048868",
+ "transaction_code":"WBHN28402901148813",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"14:39:45",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"848375.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TWD of Braavos"
+}

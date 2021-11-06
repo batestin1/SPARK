@@ -1,0 +1,15 @@
+{
+ "id_client":"GJGS83894494979880",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4331175181804",
+ "transaction_code":"PZPG28130967913271",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"22:19:19",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"34764.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"USD of Braavos"
+}

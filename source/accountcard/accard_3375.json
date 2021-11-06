@@ -1,0 +1,15 @@
+{
+ "id_client":"TGIR81903512805537",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4176484891820878222",
+ "transaction_code":"CTGL77642193500620",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"08:52:24",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"874089.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ANG of Braavos"
+}

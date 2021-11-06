@@ -1,0 +1,15 @@
+{
+ "id_client":"CDZT52341007042070",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"347208714994135",
+ "transaction_code":"ENDW10807905817250",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"10:48:40",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"262007.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SRD of Braavos"
+}

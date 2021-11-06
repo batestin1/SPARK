@@ -1,0 +1,15 @@
+{
+ "id_client":"GWSO40556701400975",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4534227912161052",
+ "transaction_code":"FBEX14540000915534",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"11:02:24",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"594588.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BBD of Braavos"
+}

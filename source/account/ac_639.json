@@ -1,11 +1,11 @@
 {
- "id_client":"IXPQ24529865692997",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"XURG94628110494761",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "bank":"Braavos",
- "account_type":"salary bill",
+ "account_type":"dragon account",
  "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"TXBU73418602383488",
- "aba":"029428625"
+ "account_status":"not activated",
+ "bban_count":"ZWVZ44149272672242",
+ "aba":"073685386"
 }

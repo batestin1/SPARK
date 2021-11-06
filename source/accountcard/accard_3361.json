@@ -1,0 +1,15 @@
+{
+ "id_client":"SLBY75339802391049",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4367945075546304",
+ "transaction_code":"JSLS30591886868922",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"01:25:39",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"26488.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MZN of Braavos"
+}

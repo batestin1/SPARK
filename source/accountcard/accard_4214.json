@@ -1,0 +1,15 @@
+{
+ "id_client":"GTIR54676278340064",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3515897282669242",
+ "transaction_code":"PZBA20798806531762",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"00:47:40",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"112073.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ZWD of Braavos"
+}

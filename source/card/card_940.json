@@ -1,12 +1,12 @@
 {
- "id_client":"SDSP37077699200167",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"WDJN45551122771808",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "card_number":"activated",
- "total_limit_value":"503480.0",
- "limit_value_available":"486615.0",
- "total_limit_used":"16865.0",
- "description_card":"Mastercard",
- "security_card":"678",
- "expire_card_number":"12/24"
+ "total_limit_value":"823638.0",
+ "limit_value_available":"783695.0",
+ "total_limit_used":"39943.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"842",
+ "expire_card_number":"06/23"
 }

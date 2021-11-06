@@ -1,0 +1,15 @@
+{
+ "id_client":"WZEQ32390116428219",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"2279080036824185",
+ "transaction_code":"LMRB72111538975589",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"07:53:51",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"896754.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PKR of Braavos"
+}

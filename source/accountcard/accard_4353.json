@@ -1,0 +1,15 @@
+{
+ "id_client":"XMTN42887307640920",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"6526149371085496",
+ "transaction_code":"AKCK16853131685460",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"16:56:24",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"408545.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KES of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WKSL78662495288922",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"30284828487417",
+ "transaction_code":"CGRL67937405568401",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"01:01:05",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"256646.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SYP of Braavos"
+}

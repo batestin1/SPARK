@@ -1,0 +1,15 @@
+{
+ "id_client":"YJLW42582531739263",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4458739707716081447",
+ "transaction_code":"EQEG48001563106393",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"12:17:02",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"467757.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CRC of Braavos"
+}

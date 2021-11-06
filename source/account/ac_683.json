@@ -1,11 +1,11 @@
 {
- "id_client":"UTVA43185786813714",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"RDDG01506710761056",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"VLNW55883065523652",
- "aba":"063679558"
+ "account_type":"checking account",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"ETZF62215174786420",
+ "aba":"031061649"
 }

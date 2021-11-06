@@ -1,11 +1,11 @@
 {
- "id_client":"TCGR36263464065633",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"OUAM30661612610189",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"KLRA92268370537697",
- "aba":"046478356"
+ "account_type":"dragon account",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"WEBH68193694743500",
+ "aba":"042438451"
 }

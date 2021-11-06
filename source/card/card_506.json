@@ -1,12 +1,12 @@
 {
- "id_client":"HABK37845401647856",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "card_number":"not activated",
- "total_limit_value":"775780.0",
- "limit_value_available":"769222.0",
- "total_limit_used":"6558.0",
- "description_card":"VISA 16 digit",
- "security_card":"042",
- "expire_card_number":"10/31"
+ "id_client":"JRMQ54637690251473",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "card_number":"activated",
+ "total_limit_value":"712821.0",
+ "limit_value_available":"675739.0",
+ "total_limit_used":"37082.0",
+ "description_card":"Discover",
+ "security_card":"444",
+ "expire_card_number":"12/24"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"JEQQ35092013772123",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"OBMV64941914179972",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"4899556623323844",
- "transaction_code":"BQAZ11207547974605",
- "date_transaction":"2021-11-14",
- "time_transaction":"17:38:46",
+ "card_number":"180025324799856",
+ "transaction_code":"ZRMB40809322064608",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"05:47:46",
  "describle_transaction":"theater",
- "original_transaction_amount":"52687.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"SBD of Braavos"
+ "original_transaction_amount":"695136.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BZD of Braavos"
 }

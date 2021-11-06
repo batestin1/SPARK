@@ -1,15 +1,15 @@
 {
- "id_client":"QAYC07420212815973",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"YODF88656137862915",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"6572179751761666",
- "transaction_code":"UTLI11507263984430",
- "date_transaction":"2021-11-29",
- "time_transaction":"14:16:36",
- "describle_transaction":"brothel",
- "original_transaction_amount":"927888.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"CZK of Braavos"
+ "card_number":"3510796062596846",
+ "transaction_code":"KFIC17166324233199",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"20:40:40",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"804012.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"AFN of Braavos"
 }

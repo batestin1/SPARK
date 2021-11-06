@@ -1,11 +1,11 @@
 {
- "id_client":"CVBQ85542834442137",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"SUNT17245363777114",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
+ "account_type":"savings account",
+ "investor_profile":"Risky",
  "account_status":"activated",
- "bban_count":"RDFQ69024464440661",
- "aba":"063712846"
+ "bban_count":"SXWA46348514301892",
+ "aba":"038267761"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"YPFD86706090541864",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4434035823527392436",
+ "transaction_code":"PAHL70427696108327",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"16:41:55",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"332482.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"QAR of Braavos"
+}

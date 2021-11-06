@@ -1,0 +1,15 @@
+{
+ "id_client":"IZTT43014595807443",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4251487003180855",
+ "transaction_code":"YMCB58192619273128",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:21:16",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"69886.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CUP of Braavos"
+}

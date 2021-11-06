@@ -1,0 +1,15 @@
+{
+ "id_client":"WHCW12196270164095",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"349904366165671",
+ "transaction_code":"OTUK92666856239511",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:56:10",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"721814.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KZT of Braavos"
+}

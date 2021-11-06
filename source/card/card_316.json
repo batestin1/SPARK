@@ -1,12 +1,12 @@
 {
- "id_client":"LTVX69918666710832",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"TNDL81242170905527",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "card_number":"activated",
- "total_limit_value":"595507.0",
- "limit_value_available":"562307.0",
- "total_limit_used":"33200.0",
- "description_card":"JCB 16 digit",
- "security_card":"897",
- "expire_card_number":"05/25"
+ "total_limit_value":"297306.0",
+ "limit_value_available":"256059.0",
+ "total_limit_used":"41247.0",
+ "description_card":"JCB 15 digit",
+ "security_card":"636",
+ "expire_card_number":"02/23"
 }

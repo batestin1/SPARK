@@ -1,15 +1,15 @@
 {
- "id_client":"PNOB80964453384521",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"SXYF38909499133362",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"activated",
- "card_number":"3519975342485472",
- "transaction_code":"SOOH87924657945476",
- "date_transaction":"2021-11-28",
- "time_transaction":"18:36:39",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"5943.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"NPR of Braavos"
+ "card_number":"3531034511332125",
+ "transaction_code":"QZWL59253693912487",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"00:06:18",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"661824.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"COP of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"SXYP08296812912512",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"30203198974325",
+ "transaction_code":"NGXS38235767033471",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"03:15:07",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"968576.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GMD of Braavos"
+}

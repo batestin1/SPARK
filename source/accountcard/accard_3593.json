@@ -1,0 +1,15 @@
+{
+ "id_client":"SCPC94348263008058",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4893383711287043007",
+ "transaction_code":"ELHA44351325176441",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"12:08:18",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"628955.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SPL of Braavos"
+}

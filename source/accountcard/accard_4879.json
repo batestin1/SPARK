@@ -1,0 +1,15 @@
+{
+ "id_client":"TZDK36322767061501",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"30307501946068",
+ "transaction_code":"MSWN95948159526914",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"12:36:54",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"333044.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CUP of Braavos"
+}

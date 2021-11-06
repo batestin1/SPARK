@@ -1,15 +1,15 @@
 {
- "id_client":"KNVJ73203423262224",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "status_account_blocked":"activated",
- "card_number":"378629512373267",
- "transaction_code":"ZGXA11533362446220",
- "date_transaction":"2021-11-25",
- "time_transaction":"06:24:40",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"173299.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"SCR of Braavos"
+ "id_client":"BDUY82174080921860",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"213106435801764",
+ "transaction_code":"NVGH06369869649247",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"00:19:51",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"207745.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ISK of Braavos"
 }

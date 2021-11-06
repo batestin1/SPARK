@@ -1,11 +1,11 @@
 {
- "id_client":"SMOX55866432699383",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"UJCC89727844903401",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"DGDJ99754715275534",
- "aba":"074405832"
+ "account_type":"dragon account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"NLHG27976224179382",
+ "aba":"074806269"
 }

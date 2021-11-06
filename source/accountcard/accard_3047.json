@@ -1,0 +1,15 @@
+{
+ "id_client":"JZVH27020217073628",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4559386252770",
+ "transaction_code":"WSQW68076477411900",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"19:39:49",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"318483.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"THB of Braavos"
+}

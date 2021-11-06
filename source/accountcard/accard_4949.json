@@ -1,0 +1,15 @@
+{
+ "id_client":"SWTR95615555486078",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"639008128964",
+ "transaction_code":"FDFM85768613416660",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:26:07",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"627919.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GHS of Braavos"
+}

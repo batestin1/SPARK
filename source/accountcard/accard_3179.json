@@ -1,0 +1,15 @@
+{
+ "id_client":"UUHK85141436606848",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3560109348067005",
+ "transaction_code":"VBUT81470723288525",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"21:40:59",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"265415.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"AOA of Braavos"
+}

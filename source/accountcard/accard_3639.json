@@ -1,0 +1,15 @@
+{
+ "id_client":"YNXE04955342008463",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"38468601505345",
+ "transaction_code":"UKMD00459512987223",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"19:23:12",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"536498.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BIF of Braavos"
+}

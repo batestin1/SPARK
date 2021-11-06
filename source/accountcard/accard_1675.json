@@ -1,0 +1,15 @@
+{
+ "id_client":"LCYE86413423585225",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"2700119516206007",
+ "transaction_code":"DHBR48417139467044",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"18:52:22",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"11369.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BHD of Braavos"
+}

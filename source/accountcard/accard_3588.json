@@ -1,0 +1,15 @@
+{
+ "id_client":"GUFG86993280829081",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4683898313199937922",
+ "transaction_code":"PJVY39775527335557",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"21:59:06",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"744525.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GNF of Braavos"
+}

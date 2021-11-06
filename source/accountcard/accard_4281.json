@@ -1,0 +1,15 @@
+{
+ "id_client":"BNQP84559957531567",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4568662818849269291",
+ "transaction_code":"SLQY85018260516711",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"00:43:04",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"469463.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CUP of Braavos"
+}

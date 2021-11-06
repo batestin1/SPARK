@@ -1,10 +1,10 @@
 {
- "id_client":"VMSO01153631896172",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
- "rent_income_value":"+539368.0",
- "description_chosen_income_method":"-319936.0",
- "total_account_value":"5412156.0",
- "current_account_total_value":"5196659.0",
- "total_amount_carried_over":"215497.0"
+ "id_client":"LGWP39680575284363",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "rent_income_value":"-437996.0",
+ "description_chosen_income_method":"-179136.0",
+ "total_account_value":"8191309.0",
+ "current_account_total_value":"8050134.0",
+ "total_amount_carried_over":"141175.0"
 }

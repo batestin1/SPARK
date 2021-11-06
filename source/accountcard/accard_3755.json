@@ -1,0 +1,15 @@
+{
+ "id_client":"KFYG51934611533552",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3585709526504447",
+ "transaction_code":"MHGG62756476480637",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"13:11:28",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"60100.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"JEP of Braavos"
+}

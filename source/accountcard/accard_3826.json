@@ -1,0 +1,15 @@
+{
+ "id_client":"JGFC90401268500101",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"060404972931",
+ "transaction_code":"LEYD20498845196688",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"15:26:39",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"954502.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SZL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"YCAH54517437032262",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4575416287404664",
+ "transaction_code":"MCHG17931338487670",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"03:34:37",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"604957.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SBD of Braavos"
+}

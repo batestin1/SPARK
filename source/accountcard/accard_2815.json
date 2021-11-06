@@ -1,0 +1,15 @@
+{
+ "id_client":"RLHX43165548695883",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"5446952539559834",
+ "transaction_code":"AHJW80867776415846",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"19:32:38",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"156946.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XCD of Braavos"
+}

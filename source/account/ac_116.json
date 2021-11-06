@@ -1,11 +1,11 @@
 {
- "id_client":"KHHP59003047808262",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"MEDL59226649989102",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"JGRB52853816575815",
- "aba":"091138600"
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"KYHF86391388942261",
+ "aba":"024199130"
 }

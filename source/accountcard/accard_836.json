@@ -1,15 +1,15 @@
 {
- "id_client":"VYOQ11118702663041",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"MGSI98487901704260",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"4400725805770880",
- "transaction_code":"PHUC07297178387632",
- "date_transaction":"2021-12-03",
- "time_transaction":"10:00:00",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"523976.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"AFN of Braavos"
+ "card_number":"4914084344515767407",
+ "transaction_code":"SNXX22348423886399",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"21:52:48",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"394308.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MXN of Braavos"
 }

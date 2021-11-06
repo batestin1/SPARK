@@ -1,0 +1,15 @@
+{
+ "id_client":"OZQL18161811124413",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"213100448411075",
+ "transaction_code":"YZXY37591325026255",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"09:12:15",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"199183.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PHP of Braavos"
+}

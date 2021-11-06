@@ -1,0 +1,15 @@
+{
+ "id_client":"PANJ17931836237528",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4116175081072848",
+ "transaction_code":"AGXQ98007107985792",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"07:13:50",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"179325.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"JPY of Braavos"
+}

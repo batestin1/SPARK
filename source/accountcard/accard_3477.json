@@ -1,0 +1,15 @@
+{
+ "id_client":"QIKW38240152444276",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4577520713244525",
+ "transaction_code":"VOBM12388901995745",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"06:15:16",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"700160.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"YER of Braavos"
+}

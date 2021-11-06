@@ -1,10 +1,10 @@
 {
- "id_client":"ATGR12584804618867",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
- "rent_income_value":"-884418.0",
- "description_chosen_income_method":"-170079.0",
- "total_account_value":"5053559.0",
- "current_account_total_value":"4565350.0",
- "total_amount_carried_over":"488209.0"
+ "id_client":"STMT57115181691660",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "rent_income_value":"-254251.0",
+ "description_chosen_income_method":"-179024.0",
+ "total_account_value":"343905.0",
+ "current_account_total_value":"-269074.0",
+ "total_amount_carried_over":"612979.0"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"AUFG96633415808909",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4152652354764355",
+ "transaction_code":"HMHT85477578160189",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"08:22:00",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"967321.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SAR of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"ABYJ42513008226496",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"KITZ62155253220992",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "status_account_blocked":"activated",
- "card_number":"213130305442160",
- "transaction_code":"SQHC83432796130996",
- "date_transaction":"2021-11-12",
- "time_transaction":"15:43:41",
- "describle_transaction":"slaves",
- "original_transaction_amount":"453278.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"LTL of Braavos"
+ "card_number":"4346136461218502",
+ "transaction_code":"WZVH18439792069620",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"01:12:55",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"218838.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"JOD of Braavos"
 }

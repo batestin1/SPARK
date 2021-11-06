@@ -1,15 +1,15 @@
 {
- "id_client":"NJXV15899768814435",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"OBWQ17537487951225",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "status_account_blocked":"not activated",
- "card_number":"4101265726905770",
- "transaction_code":"VZVK25386794773506",
- "date_transaction":"2021-11-14",
- "time_transaction":"03:10:28",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"396226.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"BIF of Braavos"
+ "card_number":"4077481958340509",
+ "transaction_code":"TBJQ77027119568706",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"12:33:42",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"308991.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KHR of Braavos"
 }

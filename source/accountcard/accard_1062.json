@@ -1,15 +1,15 @@
 {
- "id_client":"VZYJ92227326659568",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "status_account_blocked":"activated",
- "card_number":"340190734458183",
- "transaction_code":"CBBQ33757328730077",
- "date_transaction":"2021-11-20",
- "time_transaction":"23:49:48",
- "describle_transaction":"slaves",
- "original_transaction_amount":"73758.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"LSL of Braavos"
+ "id_client":"RWRR65744423054472",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"30391756137516",
+ "transaction_code":"KQQV11499609428099",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"04:42:53",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"426565.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HKD of Braavos"
 }

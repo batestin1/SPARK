@@ -1,15 +1,15 @@
 {
- "id_client":"BIKW15629707358630",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"LEGK18732590054668",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"375588294827986",
- "transaction_code":"OOQM12479911605566",
- "date_transaction":"2021-11-17",
- "time_transaction":"10:12:51",
- "describle_transaction":"slaves",
- "original_transaction_amount":"603588.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"RSD of Braavos"
+ "card_number":"4486065802829349",
+ "transaction_code":"NKSR45461477361244",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"14:55:19",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"60769.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SLL of Braavos"
 }

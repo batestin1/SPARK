@@ -1,0 +1,15 @@
+{
+ "id_client":"PAPR90553456715420",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"3569278411160202",
+ "transaction_code":"HXQI27676863751609",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"10:35:54",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"919471.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"VEF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"PZZF07079055386029",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"30319365321171",
+ "transaction_code":"EBRZ06548484058534",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"07:02:52",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"363030.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MDL of Braavos"
+}

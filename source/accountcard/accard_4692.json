@@ -1,0 +1,15 @@
+{
+ "id_client":"MGJQ05598444549048",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"30549149429094",
+ "transaction_code":"OAAF14950177407991",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"06:32:06",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"579163.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"INR of Braavos"
+}

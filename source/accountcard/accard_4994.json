@@ -1,0 +1,15 @@
+{
+ "id_client":"EILI29162365981876",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4462826557565273",
+ "transaction_code":"VKYD90895533704541",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"13:55:15",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"580264.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HNL of Braavos"
+}

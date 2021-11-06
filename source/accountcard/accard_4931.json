@@ -1,0 +1,15 @@
+{
+ "id_client":"KGYU89929413322404",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4077104857447196728",
+ "transaction_code":"UWHR38127081557349",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"06:02:49",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"623047.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BRL of Braavos"
+}

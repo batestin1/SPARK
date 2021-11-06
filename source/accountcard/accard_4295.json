@@ -1,0 +1,15 @@
+{
+ "id_client":"GFOQ06715177421202",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"676171941054",
+ "transaction_code":"LWMN71337611919901",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"08:33:44",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"588921.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MYR of Braavos"
+}

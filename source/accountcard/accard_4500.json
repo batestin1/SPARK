@@ -1,0 +1,15 @@
+{
+ "id_client":"TZIM25829828754256",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"213102525957657",
+ "transaction_code":"SCOJ86033990765813",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"17:56:35",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"95863.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MNT of Braavos"
+}

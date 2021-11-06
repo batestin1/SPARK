@@ -1,0 +1,15 @@
+{
+ "id_client":"ZPGJ18900783526841",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"180020646686238",
+ "transaction_code":"TCWK79664343345346",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"06:39:12",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"91533.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MWK of Braavos"
+}

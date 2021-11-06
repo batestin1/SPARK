@@ -1,15 +1,15 @@
 {
- "id_client":"WBTZ89230787237905",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"BKLY78239160745261",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "status_account_blocked":"not activated",
- "card_number":"3543474306167912",
- "transaction_code":"JHDB09776108548673",
- "date_transaction":"2021-11-16",
- "time_transaction":"23:13:23",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"234832.0",
+ "card_number":"3554046207111144",
+ "transaction_code":"ZHYZ31717841120335",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"01:37:28",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"709985.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"YER of Braavos"
+ "currency":"KZT of Braavos"
 }

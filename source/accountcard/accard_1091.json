@@ -1,15 +1,15 @@
 {
- "id_client":"IKTY33339290849152",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"EBJA67958865758663",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "status_account_blocked":"not activated",
- "card_number":"30047132709507",
- "transaction_code":"FFMG86240697594658",
- "date_transaction":"2021-12-01",
- "time_transaction":"06:31:13",
- "describle_transaction":"horses",
- "original_transaction_amount":"556328.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"BBD of Braavos"
+ "card_number":"4620700041722031",
+ "transaction_code":"ZCRX68903505965777",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"23:34:57",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"366651.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SAR of Braavos"
 }

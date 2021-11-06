@@ -1,0 +1,15 @@
+{
+ "id_client":"SOMO04059989223487",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3590435567264989",
+ "transaction_code":"HMKE95296350174391",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"12:10:18",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"145654.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"XAF of Braavos"
+}

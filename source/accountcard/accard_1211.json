@@ -1,0 +1,15 @@
+{
+ "id_client":"SMEN17450654017597",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4951000044356526",
+ "transaction_code":"QMBA14665075560478",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"07:36:58",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"960674.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KYD of Braavos"
+}

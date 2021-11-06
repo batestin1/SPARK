@@ -1,0 +1,15 @@
+{
+ "id_client":"BIPM37121114390563",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4145953479283",
+ "transaction_code":"RHFQ90566747732223",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"13:04:34",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"20222.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EGP of Braavos"
+}

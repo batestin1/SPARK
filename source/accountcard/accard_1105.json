@@ -1,15 +1,15 @@
 {
- "id_client":"PISX62296730101869",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"ZBMJ33103745337724",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"not activated",
- "card_number":"4520285133761742",
- "transaction_code":"RSNI63180464963797",
- "date_transaction":"2021-11-22",
- "time_transaction":"14:48:59",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"321416.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"GGP of Braavos"
+ "card_number":"4415039439522",
+ "transaction_code":"XXSF92120723457632",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"22:46:19",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"14745.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AZN of Braavos"
 }

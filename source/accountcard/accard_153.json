@@ -1,15 +1,15 @@
 {
- "id_client":"DGST39989358925404",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"TBJH99407464747492",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"not activated",
- "card_number":"676229103111",
- "transaction_code":"QOOK51826951450678",
- "date_transaction":"2021-12-03",
- "time_transaction":"18:56:33",
- "describle_transaction":"theater",
- "original_transaction_amount":"457440.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"HTG of Braavos"
+ "card_number":"30569617749104",
+ "transaction_code":"FAUX17232409624146",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"11:48:44",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"381506.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"RSD of Braavos"
 }

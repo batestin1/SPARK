@@ -1,0 +1,15 @@
+{
+ "id_client":"IBZH68273326836547",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4744998285230254",
+ "transaction_code":"NWWR39365902229748",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"05:24:52",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"473582.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MDL of Braavos"
+}

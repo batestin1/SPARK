@@ -1,0 +1,15 @@
+{
+ "id_client":"VHST19251807955356",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4929421308413606",
+ "transaction_code":"UTVP24826351317850",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"22:34:11",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"239816.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
+}

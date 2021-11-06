@@ -1,15 +1,15 @@
 {
- "id_client":"RVHR81713890950879",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"NRSK04983901562719",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"not activated",
- "card_number":"2720573339345200",
- "transaction_code":"UVDZ11575371291579",
+ "card_number":"4872715452856545",
+ "transaction_code":"AAKP32252079251654",
  "date_transaction":"2021-11-18",
- "time_transaction":"14:40:45",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"60819.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"SDG of Braavos"
+ "time_transaction":"18:11:04",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"161212.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VEF of Braavos"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"EQSC49399438419006",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "status_account_blocked":"activated",
- "card_number":"36685291247373",
- "transaction_code":"SEZE90044788433616",
- "date_transaction":"2021-11-28",
- "time_transaction":"12:35:47",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"222939.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"JPY of Braavos"
+ "id_client":"TTGF06514584704190",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"6011972045847948",
+ "transaction_code":"KURB04751011886749",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"13:09:11",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"316388.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NAD of Braavos"
 }

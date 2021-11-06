@@ -1,0 +1,15 @@
+{
+ "id_client":"RRTK59059848029890",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"370998726446864",
+ "transaction_code":"AIRT53497930903312",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"18:32:18",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"306036.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LTL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"UMKT91287550770880",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"3518301800429194",
+ "transaction_code":"VAXD54151571682635",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"15:42:19",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"201964.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SDG of Braavos"
+}

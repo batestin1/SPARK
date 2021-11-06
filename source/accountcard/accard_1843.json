@@ -1,0 +1,15 @@
+{
+ "id_client":"MCDT58923016994597",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4731698386113605543",
+ "transaction_code":"ZEOB35363054169314",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"05:30:16",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"313960.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CHF of Braavos"
+}

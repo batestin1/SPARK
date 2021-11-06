@@ -1,0 +1,15 @@
+{
+ "id_client":"EVDY52225936477938",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4325547961463",
+ "transaction_code":"AOIW82192752069702",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"14:55:28",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"136843.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"PHP of Braavos"
+}

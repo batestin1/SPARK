@@ -1,11 +1,11 @@
 {
- "id_client":"HIUI90133785597841",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"ERLQ25076912330917",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"TZKX59441457358407",
- "aba":"044924354"
+ "account_type":"savings account",
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"MWHR68071882975499",
+ "aba":"055966752"
 }

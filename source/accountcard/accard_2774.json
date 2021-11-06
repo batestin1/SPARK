@@ -1,0 +1,15 @@
+{
+ "id_client":"JOFY72252586425836",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"6508792454638095",
+ "transaction_code":"JTXW92713432592846",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"12:37:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"592604.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NIO of Braavos"
+}

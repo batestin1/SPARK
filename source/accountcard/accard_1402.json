@@ -1,0 +1,15 @@
+{
+ "id_client":"NKQL78825479474674",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3534385907043487",
+ "transaction_code":"HQRM79443826593254",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"03:47:51",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"362388.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TJS of Braavos"
+}

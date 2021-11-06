@@ -1,0 +1,15 @@
+{
+ "id_client":"TIYS25370298225099",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"3513719283904893",
+ "transaction_code":"ZDDD18048457776429",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"08:04:07",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"625207.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"INR of Braavos"
+}

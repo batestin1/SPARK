@@ -1,0 +1,15 @@
+{
+ "id_client":"EBYW91650446058727",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"4721082345762659677",
+ "transaction_code":"KCIR68719594170330",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"22:45:05",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"276873.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KPW of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TSMA96995877580555",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"5364234004636506",
+ "transaction_code":"PKEO58099091735471",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"04:29:42",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"359581.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MRO of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WNTE20457059204016",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"36680171172122",
+ "transaction_code":"VLSK31407357685055",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"13:35:18",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"900335.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ANG of Braavos"
+}

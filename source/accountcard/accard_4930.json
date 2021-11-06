@@ -1,0 +1,15 @@
+{
+ "id_client":"BXGI19333210240046",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"5165931036456800",
+ "transaction_code":"MAUI17411547933955",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"12:35:48",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"161025.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KZT of Braavos"
+}

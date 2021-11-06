@@ -1,11 +1,11 @@
 {
- "id_client":"LUMX02517865702787",
+ "id_client":"SPKO69687552776906",
  "yearmonthday":"20211130",
  "_yearmonthday":"20211130",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"XCDZ76082998803985",
- "aba":"098972582"
+ "account_type":"checking account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"HSBG58338270269193",
+ "aba":"018395982"
 }

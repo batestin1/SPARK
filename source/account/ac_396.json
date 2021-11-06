@@ -1,11 +1,11 @@
 {
- "id_client":"TNVP29101706317194",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"HERN76009106128215",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"MFPP64737123656908",
- "aba":"077930618"
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"TZXM47947281132793",
+ "aba":"021447036"
 }

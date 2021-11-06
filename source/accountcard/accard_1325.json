@@ -1,0 +1,15 @@
+{
+ "id_client":"CQWU63287042442590",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3588128173271415",
+ "transaction_code":"AYID82421928054866",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"21:47:37",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"828197.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BTN of Braavos"
+}

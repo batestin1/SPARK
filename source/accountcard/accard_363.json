@@ -1,15 +1,15 @@
 {
- "id_client":"OIYW27751340160127",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
+ "id_client":"FZBQ74222003128079",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"not activated",
- "card_number":"3524362727786373",
- "transaction_code":"USKQ52763087610111",
- "date_transaction":"2021-11-10",
- "time_transaction":"15:42:30",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"690528.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"GTQ of Braavos"
+ "card_number":"3563314440931887",
+ "transaction_code":"DHIM77938603217117",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"02:48:22",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"427851.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KGS of Braavos"
 }

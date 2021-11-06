@@ -1,0 +1,15 @@
+{
+ "id_client":"TMBQ79610146834741",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"213105114383862",
+ "transaction_code":"LJHZ40145896749193",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"08:03:55",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"672867.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MWK of Braavos"
+}

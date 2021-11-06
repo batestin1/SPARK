@@ -1,15 +1,15 @@
 {
- "id_client":"OGFL16064867306827",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
+ "id_client":"NLSX09053462430719",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"activated",
- "card_number":"676184823539",
- "transaction_code":"DVDS25499165017726",
- "date_transaction":"2021-11-10",
- "time_transaction":"03:58:16",
+ "card_number":"180075049544160",
+ "transaction_code":"FMPP07940549826079",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"11:46:28",
  "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"409956.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"LRD of Braavos"
+ "original_transaction_amount":"847963.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BAM of Braavos"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"IJXL54061423032633",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"XOHO73963769868749",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"4528505872875",
- "transaction_code":"NOER91076823008288",
- "date_transaction":"2021-11-10",
- "time_transaction":"08:01:32",
- "describle_transaction":"theater",
- "original_transaction_amount":"12106.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"STD of Braavos"
+ "card_number":"213124155381016",
+ "transaction_code":"SWHC09677360164380",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"13:21:00",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"437427.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HKD of Braavos"
 }

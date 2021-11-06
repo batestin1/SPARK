@@ -1,0 +1,15 @@
+{
+ "id_client":"WSHI02317053671608",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4496445610853285",
+ "transaction_code":"OMSM73199186449829",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"09:14:50",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"111266.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CNY of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"FOCD04178938661324",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"QNVY32615012762498",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"NDZY08879437176558",
- "aba":"035938022"
+ "account_type":"savings account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"XPTS88226268628661",
+ "aba":"064490047"
 }

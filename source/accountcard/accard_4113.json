@@ -1,0 +1,15 @@
+{
+ "id_client":"NZMN99707478128992",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"30302577772241",
+ "transaction_code":"ERSS45165005655094",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"05:40:44",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"638057.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TZS of Braavos"
+}

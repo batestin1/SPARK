@@ -1,15 +1,15 @@
 {
- "id_client":"QCUA37371167097702",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"JTDG51069886817754",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"activated",
- "card_number":"4729277099305097188",
- "transaction_code":"VMDE88399888892043",
- "date_transaction":"2021-11-17",
- "time_transaction":"10:16:46",
- "describle_transaction":"golden company",
- "original_transaction_amount":"798988.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"CUP of Braavos"
+ "card_number":"377418204035306",
+ "transaction_code":"YQGT73630261472510",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"03:18:37",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"804406.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KZT of Braavos"
 }

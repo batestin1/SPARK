@@ -1,12 +1,12 @@
 {
- "id_client":"QOME09996043643627",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"FXIX90219192966970",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "card_number":"not activated",
- "total_limit_value":"76789.0",
- "limit_value_available":"50769.0",
- "total_limit_used":"26020.0",
- "description_card":"American Express",
- "security_card":"937",
- "expire_card_number":"08/23"
+ "total_limit_value":"806270.0",
+ "limit_value_available":"735526.0",
+ "total_limit_used":"70744.0",
+ "description_card":"Discover",
+ "security_card":"987",
+ "expire_card_number":"06/22"
 }

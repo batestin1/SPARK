@@ -1,0 +1,15 @@
+{
+ "id_client":"IVES72966957365450",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"378401363411277",
+ "transaction_code":"QMWU50570515223551",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"16:17:39",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"25208.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MMK of Braavos"
+}

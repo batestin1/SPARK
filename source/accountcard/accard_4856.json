@@ -1,0 +1,15 @@
+{
+ "id_client":"QICU61816661475848",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4220380603627821",
+ "transaction_code":"GGXP49105487131351",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"04:26:27",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"60422.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"VUV of Braavos"
+}

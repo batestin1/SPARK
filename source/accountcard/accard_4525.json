@@ -1,0 +1,15 @@
+{
+ "id_client":"MPNQ84184995488715",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4232198741174593703",
+ "transaction_code":"QZKB06125954007223",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"21:23:11",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"243151.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NZD of Braavos"
+}

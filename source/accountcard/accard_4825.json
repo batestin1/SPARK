@@ -1,0 +1,15 @@
+{
+ "id_client":"JRXO32980276536227",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"180036098290154",
+ "transaction_code":"OHOS18156496469224",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"06:48:55",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"665637.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SPL of Braavos"
+}

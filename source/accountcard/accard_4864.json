@@ -1,0 +1,15 @@
+{
+ "id_client":"RKJK20524800098515",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4004446185629",
+ "transaction_code":"MMGV31539988860099",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"09:59:57",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"110075.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"UYU of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"OBVA91960614743100",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4250605431397152",
+ "transaction_code":"VZFC36346558496088",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"07:01:06",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"466351.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NAD of Braavos"
+}

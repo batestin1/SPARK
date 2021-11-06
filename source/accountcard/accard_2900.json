@@ -1,0 +1,15 @@
+{
+ "id_client":"IMAN05325694501195",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3516224046323355",
+ "transaction_code":"OMAW06717403135151",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:13:10",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"869095.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NAD of Braavos"
+}

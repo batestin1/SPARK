@@ -1,0 +1,15 @@
+{
+ "id_client":"DVKO06612648195704",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"3536257697397365",
+ "transaction_code":"DCGZ24447691942583",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"10:49:22",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"29744.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MOP of Braavos"
+}

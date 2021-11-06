@@ -1,0 +1,15 @@
+{
+ "id_client":"RDYA12460323820103",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4259068054887907958",
+ "transaction_code":"UMNS89948668793476",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"09:00:47",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"955134.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BGN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"VIAV65976466723847",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4086893185298681",
+ "transaction_code":"ONOO83771119495777",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"02:35:47",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"922880.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NAD of Braavos"
+}

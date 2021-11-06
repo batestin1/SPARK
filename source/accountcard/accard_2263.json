@@ -1,0 +1,15 @@
+{
+ "id_client":"FNXH64378633711966",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"3572031287945635",
+ "transaction_code":"GXMJ49627317996097",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"20:36:44",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"785905.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BSD of Braavos"
+}

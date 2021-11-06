@@ -1,0 +1,15 @@
+{
+ "id_client":"EIBH95351338684020",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"2709533185504099",
+ "transaction_code":"DXLN24679255905801",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"07:03:08",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"83583.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MDL of Braavos"
+}

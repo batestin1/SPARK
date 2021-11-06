@@ -1,15 +1,15 @@
 {
- "id_client":"OMQP23074655477856",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "status_account_blocked":"activated",
- "card_number":"4930253886144777596",
- "transaction_code":"KCWQ19875166356962",
- "date_transaction":"2021-11-07",
- "time_transaction":"08:47:53",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"790788.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"VEF of Braavos"
+ "id_client":"RFTJ87141151415877",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"3573479050150256",
+ "transaction_code":"FRYY53772409808549",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"22:26:47",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"980396.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KMF of Braavos"
 }

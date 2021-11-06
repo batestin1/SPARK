@@ -1,12 +1,12 @@
 {
- "id_client":"ZIHV13525661487525",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"HRDW53177580228716",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "card_number":"activated",
- "total_limit_value":"339729.0",
- "limit_value_available":"291461.0",
- "total_limit_used":"48268.0",
- "description_card":"VISA 16 digit",
- "security_card":"309",
- "expire_card_number":"11/27"
+ "total_limit_value":"738277.0",
+ "limit_value_available":"681008.0",
+ "total_limit_used":"57269.0",
+ "description_card":"Discover",
+ "security_card":"152",
+ "expire_card_number":"01/26"
 }

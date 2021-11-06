@@ -1,0 +1,15 @@
+{
+ "id_client":"OPLM54822310908419",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4630979717147405522",
+ "transaction_code":"FXJK44837252752248",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"00:57:06",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"425479.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SHP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"VEOW31334283118308",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"579211318798",
+ "transaction_code":"LJDS97299445067969",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"20:17:50",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"706379.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SEK of Braavos"
+}

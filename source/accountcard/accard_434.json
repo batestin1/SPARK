@@ -1,15 +1,15 @@
 {
- "id_client":"BQBP03861700255908",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"CMTB19417677965014",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"activated",
- "card_number":"4281854226978189",
- "transaction_code":"VINY01415544874901",
- "date_transaction":"2021-11-22",
- "time_transaction":"10:21:05",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"963339.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"UAH of Braavos"
+ "card_number":"4875316706331226318",
+ "transaction_code":"WCRA80378075367981",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"06:25:09",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"220745.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PHP of Braavos"
 }

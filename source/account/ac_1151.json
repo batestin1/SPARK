@@ -1,11 +1,11 @@
 {
- "id_client":"FZWI12380843896802",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"UFAZ13213426294846",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Temporary",
+ "account_type":"checking account",
+ "investor_profile":"Risky",
  "account_status":"not activated",
- "bban_count":"HAEQ44270830901890",
- "aba":"028734817"
+ "bban_count":"VSJG81263451273059",
+ "aba":"095262969"
 }

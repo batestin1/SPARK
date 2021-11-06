@@ -1,0 +1,15 @@
+{
+ "id_client":"GXIC37123835469220",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"3579894759680565",
+ "transaction_code":"YGGF23161187460255",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"05:41:53",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"4303.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BRL of Braavos"
+}

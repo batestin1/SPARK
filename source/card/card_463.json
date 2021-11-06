@@ -1,12 +1,12 @@
 {
- "id_client":"ILST96398967204206",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "card_number":"not activated",
- "total_limit_value":"191817.0",
- "limit_value_available":"101602.0",
- "total_limit_used":"90215.0",
+ "id_client":"ZRYQ02645838793314",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "card_number":"activated",
+ "total_limit_value":"806172.0",
+ "limit_value_available":"771486.0",
+ "total_limit_used":"34686.0",
  "description_card":"VISA 16 digit",
- "security_card":"109",
- "expire_card_number":"06/29"
+ "security_card":"973",
+ "expire_card_number":"11/23"
 }

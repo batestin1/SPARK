@@ -1,0 +1,15 @@
+{
+ "id_client":"VBOX75512879346588",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"3506766039717946",
+ "transaction_code":"OTGB43723164297064",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"23:43:12",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"815603.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BSD of Braavos"
+}

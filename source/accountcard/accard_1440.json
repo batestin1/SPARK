@@ -1,0 +1,15 @@
+{
+ "id_client":"EHBI67986682942346",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4992841891504",
+ "transaction_code":"WLQT16841846916888",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"14:31:01",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"218015.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TJS of Braavos"
+}

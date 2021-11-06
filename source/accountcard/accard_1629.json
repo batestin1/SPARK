@@ -1,0 +1,15 @@
+{
+ "id_client":"JJAM66502091012146",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"5245976461336724",
+ "transaction_code":"QQHN41416417902705",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"20:04:18",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"510196.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NOK of Braavos"
+}

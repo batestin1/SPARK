@@ -1,0 +1,15 @@
+{
+ "id_client":"KCUJ62705846655065",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"213190996806743",
+ "transaction_code":"ULBQ39493262023561",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"10:44:02",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"312523.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"JPY of Braavos"
+}

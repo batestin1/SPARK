@@ -1,12 +1,12 @@
 {
- "id_client":"YMES13097474602283",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
- "card_number":"activated",
- "total_limit_value":"532498.0",
- "limit_value_available":"493845.0",
- "total_limit_used":"38653.0",
- "description_card":"Discover",
- "security_card":"580",
- "expire_card_number":"08/27"
+ "id_client":"PKDH29462784999908",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "card_number":"not activated",
+ "total_limit_value":"591707.0",
+ "limit_value_available":"562772.0",
+ "total_limit_used":"28935.0",
+ "description_card":"American Express",
+ "security_card":"340",
+ "expire_card_number":"09/25"
 }

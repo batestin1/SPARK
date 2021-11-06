@@ -1,0 +1,15 @@
+{
+ "id_client":"AULV06161517551989",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4309693518606217",
+ "transaction_code":"FFIC41979263520572",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"02:40:06",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"999621.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"JMD of Braavos"
+}

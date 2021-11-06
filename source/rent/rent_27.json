@@ -1,10 +1,10 @@
 {
- "id_client":"LTAR53324670664035",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "rent_income_value":"-785092.0",
- "description_chosen_income_method":"-217021.0",
- "total_account_value":"9721521.0",
- "current_account_total_value":"9301815.0",
- "total_amount_carried_over":"419706.0"
+ "id_client":"SSCL51787336775618",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "rent_income_value":"-538959.0",
+ "description_chosen_income_method":"+896391.0",
+ "total_account_value":"1105776.0",
+ "current_account_total_value":"557970.0",
+ "total_amount_carried_over":"547806.0"
 }

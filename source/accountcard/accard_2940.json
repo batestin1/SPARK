@@ -1,0 +1,15 @@
+{
+ "id_client":"YQVM14055300020690",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"213138028345511",
+ "transaction_code":"NHPN80588814123029",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"15:49:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"814738.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"STD of Braavos"
+}

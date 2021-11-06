@@ -1,0 +1,15 @@
+{
+ "id_client":"YYPM14747701196839",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4427888229383",
+ "transaction_code":"CJWM21573211434282",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"09:16:11",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"453623.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XDR of Braavos"
+}

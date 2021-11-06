@@ -1,0 +1,15 @@
+{
+ "id_client":"TQTX86335252720269",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"213115869645837",
+ "transaction_code":"ZRQT29204261097338",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"18:37:37",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"79891.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SOS of Braavos"
+}

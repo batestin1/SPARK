@@ -1,0 +1,15 @@
+{
+ "id_client":"CBMR54718961432333",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"6011981393309690",
+ "transaction_code":"YZOM79969602575066",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"15:04:35",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"16076.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UYU of Braavos"
+}

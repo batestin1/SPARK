@@ -1,15 +1,15 @@
 {
- "id_client":"AIHG74910929158701",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
- "status_account_blocked":"activated",
- "card_number":"4792351182520",
- "transaction_code":"BZFI12478685767622",
- "date_transaction":"2021-11-28",
- "time_transaction":"20:00:10",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"644218.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"CLP of Braavos"
+ "id_client":"BRTP98835798090035",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"3544830865077611",
+ "transaction_code":"MKDL35479801835663",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"17:57:39",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"308593.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CUP of Braavos"
 }

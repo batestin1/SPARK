@@ -1,0 +1,15 @@
+{
+ "id_client":"GBZT29137387673847",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"3532114849004205",
+ "transaction_code":"HSKX75419115868902",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"01:13:56",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"631642.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HUF of Braavos"
+}

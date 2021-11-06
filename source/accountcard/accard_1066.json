@@ -1,15 +1,15 @@
 {
- "id_client":"LKHC31135345376345",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"REFL81592039038183",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"activated",
- "card_number":"4844649176820",
- "transaction_code":"OVCJ48080707556305",
+ "card_number":"30316037209701",
+ "transaction_code":"THNJ20062963976046",
  "date_transaction":"2021-11-22",
- "time_transaction":"11:50:29",
- "describle_transaction":"theater",
- "original_transaction_amount":"623242.0",
+ "time_transaction":"06:36:16",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"596766.0",
  "number_installments_assign":"9",
  "current_installment":"8",
- "currency":"BND of Braavos"
+ "currency":"JEP of Braavos"
 }

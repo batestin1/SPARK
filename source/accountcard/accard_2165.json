@@ -1,0 +1,15 @@
+{
+ "id_client":"CSDX93391421289125",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"375958039921818",
+ "transaction_code":"VQLR22120203617074",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"20:06:32",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"732929.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BND of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LUZZ19369777622516",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"2700015519585746",
+ "transaction_code":"VRSW09226238734921",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"22:16:57",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"596665.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GNF of Braavos"
+}

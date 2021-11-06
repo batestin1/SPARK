@@ -1,0 +1,15 @@
+{
+ "id_client":"BHCS30325804762574",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"501867985589",
+ "transaction_code":"HKJC08085269338411",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"05:35:39",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"454003.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"GTQ of Braavos"
+}

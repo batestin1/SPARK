@@ -1,0 +1,15 @@
+{
+ "id_client":"GSPS90021682560816",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"30354076622302",
+ "transaction_code":"TLYB32867657487279",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"20:29:06",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"145924.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BWP of Braavos"
+}

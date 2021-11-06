@@ -1,0 +1,15 @@
+{
+ "id_client":"WEWK95454011044033",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"3545596239379228",
+ "transaction_code":"ZUAH80126569003715",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:13:46",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"64976.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CVE of Braavos"
+}

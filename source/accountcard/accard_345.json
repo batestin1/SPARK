@@ -1,15 +1,15 @@
 {
- "id_client":"KTCH13946223512211",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"BQMP94489951815233",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "status_account_blocked":"not activated",
- "card_number":"3523751266897180",
- "transaction_code":"UFFZ06620377168150",
- "date_transaction":"2021-11-06",
- "time_transaction":"01:52:47",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"826769.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"SDG of Braavos"
+ "card_number":"630481844805",
+ "transaction_code":"RIWR63197014074973",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"15:37:32",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"786370.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SYP of Braavos"
 }

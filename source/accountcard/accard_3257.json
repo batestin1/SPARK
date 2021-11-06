@@ -1,0 +1,15 @@
+{
+ "id_client":"TJCM18884040028419",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"30583698725800",
+ "transaction_code":"YBDN55345967495436",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"13:31:26",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"885451.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MNT of Braavos"
+}

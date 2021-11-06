@@ -1,15 +1,15 @@
 {
- "id_client":"RPMU75178969197750",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"DEFQ98619702437403",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"not activated",
- "card_number":"3591668079612662",
- "transaction_code":"GQGU20069387379631",
- "date_transaction":"2021-11-25",
- "time_transaction":"07:59:39",
- "describle_transaction":"brothel",
- "original_transaction_amount":"331269.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"UAH of Braavos"
+ "card_number":"2319770259914745",
+ "transaction_code":"OYMA39920323695135",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"17:58:25",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"615362.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LBP of Braavos"
 }

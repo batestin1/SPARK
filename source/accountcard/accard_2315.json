@@ -1,0 +1,15 @@
+{
+ "id_client":"MXKN17000186185813",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"2624186859579905",
+ "transaction_code":"USLF45187653601686",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"17:22:27",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"143848.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BAM of Braavos"
+}

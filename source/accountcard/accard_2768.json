@@ -1,0 +1,15 @@
+{
+ "id_client":"IMCD81758752887310",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"38175691269753",
+ "transaction_code":"FMTC66217066405578",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"05:06:30",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"515751.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HUF of Braavos"
+}

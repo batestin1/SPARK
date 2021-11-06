@@ -1,0 +1,15 @@
+{
+ "id_client":"RESW24528334973387",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"347714177809702",
+ "transaction_code":"OPSC40396162255510",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"01:46:31",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"557595.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"USD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ROSV25843000744655",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4807116245423216",
+ "transaction_code":"BAFR76874746155693",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"00:36:23",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"470193.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PGK of Braavos"
+}

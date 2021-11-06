@@ -1,15 +1,15 @@
 {
- "id_client":"TMKI21049091960999",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"VBCH80274882206782",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"activated",
- "card_number":"6011239433054465",
- "transaction_code":"EQNM53973547936611",
- "date_transaction":"2021-11-13",
- "time_transaction":"20:40:02",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"667075.0",
+ "card_number":"4588750105597660215",
+ "transaction_code":"SOWV91875834859303",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"18:05:12",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"720970.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"MWK of Braavos"
+ "currency":"NGN of Braavos"
 }

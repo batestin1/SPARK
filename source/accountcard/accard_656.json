@@ -1,15 +1,15 @@
 {
- "id_client":"BTRH76172818781620",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"AEBN79394119850066",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"activated",
- "card_number":"3570533228725770",
- "transaction_code":"OPVZ95392434093744",
- "date_transaction":"2021-11-24",
- "time_transaction":"12:37:03",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"406737.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"EGP of Braavos"
+ "card_number":"4986260424380368",
+ "transaction_code":"LIQT59481292014202",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:51:31",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"606747.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GYD of Braavos"
 }

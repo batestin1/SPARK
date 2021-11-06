@@ -1,11 +1,11 @@
 {
- "id_client":"OTVH29107351811035",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"PDNH68290839026844",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "bank":"Braavos",
- "account_type":"salary bill",
+ "account_type":"savings account",
  "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"XMJB01315107129321",
- "aba":"084116004"
+ "account_status":"not activated",
+ "bban_count":"OZCY75699702823287",
+ "aba":"021234797"
 }

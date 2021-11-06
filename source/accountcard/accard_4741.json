@@ -1,0 +1,15 @@
+{
+ "id_client":"SAGM70739383718956",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"30445354764699",
+ "transaction_code":"GZZT13556380805039",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"00:54:00",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"511689.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MDL of Braavos"
+}

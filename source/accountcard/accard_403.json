@@ -1,15 +1,15 @@
 {
- "id_client":"WHBP81220169393431",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"IXKR89028112378133",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "status_account_blocked":"not activated",
- "card_number":"501845679528",
- "transaction_code":"VSPU53284822469878",
- "date_transaction":"2021-11-28",
- "time_transaction":"04:05:53",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"87725.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"ETB of Braavos"
+ "card_number":"6011749099589018",
+ "transaction_code":"VECC26460524539451",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"01:09:20",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"85078.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"FKP of Braavos"
 }

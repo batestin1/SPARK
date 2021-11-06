@@ -1,12 +1,12 @@
 {
- "id_client":"FDLO80638871710700",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "card_number":"not activated",
- "total_limit_value":"394345.0",
- "limit_value_available":"368596.0",
- "total_limit_used":"25749.0",
+ "id_client":"HFFL62277706947931",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "card_number":"activated",
+ "total_limit_value":"705559.0",
+ "limit_value_available":"654456.0",
+ "total_limit_used":"51103.0",
  "description_card":"VISA 13 digit",
- "security_card":"013",
- "expire_card_number":"02/25"
+ "security_card":"736",
+ "expire_card_number":"03/28"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"ENNE88116143028380",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"30259570531547",
+ "transaction_code":"DSHL93045263083599",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"20:31:25",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"453842.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ETB of Braavos"
+}

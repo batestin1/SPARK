@@ -1,0 +1,15 @@
+{
+ "id_client":"WEKZ56411624541286",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"567198448217",
+ "transaction_code":"BTCI08582746173422",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:09:37",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"26974.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"FKP of Braavos"
+}

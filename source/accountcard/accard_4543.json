@@ -1,0 +1,15 @@
+{
+ "id_client":"UZTA48602278113770",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4595107971793",
+ "transaction_code":"XOXW60317979901111",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"02:28:01",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"548086.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MNT of Braavos"
+}

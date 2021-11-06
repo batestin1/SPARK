@@ -1,0 +1,15 @@
+{
+ "id_client":"MTPD57670056397205",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"6011754187039579",
+ "transaction_code":"RQRY51659229003497",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"01:20:23",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"989332.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"LYD of Braavos"
+}

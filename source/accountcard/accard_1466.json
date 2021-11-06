@@ -1,0 +1,15 @@
+{
+ "id_client":"EAVZ89229531634443",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"4220645945537197",
+ "transaction_code":"ZDSO78604943782079",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"04:06:26",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"741211.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BYR of Braavos"
+}

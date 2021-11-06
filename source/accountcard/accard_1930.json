@@ -1,0 +1,15 @@
+{
+ "id_client":"LDJH10989841090301",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"372108041946733",
+ "transaction_code":"NSQC38630160511009",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"20:53:55",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"723668.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KZT of Braavos"
+}

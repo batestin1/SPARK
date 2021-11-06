@@ -1,0 +1,15 @@
+{
+ "id_client":"ESMC92226369361841",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"3564319604548988",
+ "transaction_code":"ZWPJ08181218647879",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"18:33:14",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"419372.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MVR of Braavos"
+}

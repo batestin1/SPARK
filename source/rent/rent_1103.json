@@ -1,10 +1,10 @@
 {
- "id_client":"TINV60688782305689",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "rent_income_value":"+605919.0",
- "description_chosen_income_method":"+202326.0",
- "total_account_value":"7058523.0",
- "current_account_total_value":"6865003.0",
- "total_amount_carried_over":"193520.0"
+ "id_client":"CVNP60001439629688",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "rent_income_value":"-794205.0",
+ "description_chosen_income_method":"-997134.0",
+ "total_account_value":"8266496.0",
+ "current_account_total_value":"7383729.0",
+ "total_amount_carried_over":"882767.0"
 }

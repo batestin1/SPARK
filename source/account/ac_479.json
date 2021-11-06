@@ -1,11 +1,11 @@
 {
- "id_client":"VYDC92757598359985",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"ZWGO89215575975479",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"DRCA36618991459593",
- "aba":"014086133"
+ "account_type":"salary bill",
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"BNIB37556211714599",
+ "aba":"086853458"
 }

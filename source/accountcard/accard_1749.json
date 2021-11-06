@@ -1,0 +1,15 @@
+{
+ "id_client":"CFIF44528643442651",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4140928794048384",
+ "transaction_code":"MPKV86325211477034",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"08:47:50",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"611688.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ALL of Braavos"
+}

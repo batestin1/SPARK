@@ -1,0 +1,15 @@
+{
+ "id_client":"AZEG42555535210276",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"30424411702489",
+ "transaction_code":"NJTT40924272170067",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"13:02:16",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"409060.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AFN of Braavos"
+}

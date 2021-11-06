@@ -1,0 +1,15 @@
+{
+ "id_client":"PILX00155278526916",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"3503802558881293",
+ "transaction_code":"QBAO17029925608670",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"14:06:49",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"863830.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MGA of Braavos"
+}

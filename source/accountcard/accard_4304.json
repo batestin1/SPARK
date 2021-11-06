@@ -1,0 +1,15 @@
+{
+ "id_client":"CFSV21897768896160",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"501872917940",
+ "transaction_code":"HLCJ84414968823827",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"18:35:02",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"652720.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PHP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"XVKV86122946283328",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4332265236360715",
+ "transaction_code":"CIQP46010680442804",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"10:26:19",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"780499.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AMD of Braavos"
+}

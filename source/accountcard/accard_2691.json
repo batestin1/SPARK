@@ -1,0 +1,15 @@
+{
+ "id_client":"HART56495583455571",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"3504905320387306",
+ "transaction_code":"EZVT86030417523012",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"10:31:42",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"579481.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GMD of Braavos"
+}

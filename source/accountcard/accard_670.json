@@ -1,15 +1,15 @@
 {
- "id_client":"AKXA63324872860737",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"PKJD64346724359765",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"activated",
- "card_number":"2282930680159533",
- "transaction_code":"HJPQ81891507923959",
- "date_transaction":"2021-12-03",
- "time_transaction":"10:12:44",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"858636.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"TVD of Braavos"
+ "card_number":"3581880605056932",
+ "transaction_code":"UMGG20308258169986",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"17:18:24",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"709788.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MGA of Braavos"
 }

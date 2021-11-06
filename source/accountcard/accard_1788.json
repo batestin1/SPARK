@@ -1,0 +1,15 @@
+{
+ "id_client":"DOUG74089415523729",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"6011824873397720",
+ "transaction_code":"MUZJ04543929280517",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"16:07:01",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"253202.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TRY of Braavos"
+}

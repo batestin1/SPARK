@@ -1,0 +1,15 @@
+{
+ "id_client":"TAEL95456478671429",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"6569652052121348",
+ "transaction_code":"VUYC23312800974382",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:24:17",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"392453.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MXN of Braavos"
+}

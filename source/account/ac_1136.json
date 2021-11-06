@@ -1,11 +1,11 @@
 {
- "id_client":"VFYB91864815009339",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"FENE86065121840659",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"TPTQ05290665012792",
- "aba":"042870868"
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"CCYJ45932285709312",
+ "aba":"038788580"
 }

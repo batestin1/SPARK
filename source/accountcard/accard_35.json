@@ -1,15 +1,15 @@
 {
- "id_client":"BAVH97704418303298",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"CWQW55419271503220",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"2419260516557528",
- "transaction_code":"VQPV14176180059812",
+ "card_number":"4597691995773923",
+ "transaction_code":"AKQF19191118552476",
  "date_transaction":"2021-11-22",
- "time_transaction":"14:39:22",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"311319.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"KHR of Braavos"
+ "time_transaction":"13:37:30",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"510271.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MZN of Braavos"
 }

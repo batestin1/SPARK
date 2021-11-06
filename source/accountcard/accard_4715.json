@@ -1,0 +1,15 @@
+{
+ "id_client":"OGXN15710920367138",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"501813518344",
+ "transaction_code":"LFJW06110104103438",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"17:55:07",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"724845.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"IDR of Braavos"
+}

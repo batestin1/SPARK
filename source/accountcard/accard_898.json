@@ -1,15 +1,15 @@
 {
- "id_client":"ZRBV41360305912267",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"VLJZ84704996658399",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "status_account_blocked":"not activated",
- "card_number":"3518559210793661",
- "transaction_code":"HJQW43857731049522",
- "date_transaction":"2021-11-24",
- "time_transaction":"21:06:29",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"433377.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"MRO of Braavos"
+ "card_number":"3554225155223032",
+ "transaction_code":"JSOI83288594482815",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"10:45:50",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"757022.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LRD of Braavos"
 }

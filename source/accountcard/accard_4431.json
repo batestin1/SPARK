@@ -1,0 +1,15 @@
+{
+ "id_client":"NKQS96603824287609",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"2720967169793168",
+ "transaction_code":"BOUC09175361691239",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"17:56:34",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"219599.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ILS of Braavos"
+}

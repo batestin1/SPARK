@@ -1,0 +1,15 @@
+{
+ "id_client":"LANH35793376673686",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4100077995773122596",
+ "transaction_code":"NTWF55003086783307",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"15:40:29",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"80839.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UZS of Braavos"
+}

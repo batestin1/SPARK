@@ -1,0 +1,15 @@
+{
+ "id_client":"CZMQ74663187551506",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"3593872601774010",
+ "transaction_code":"NGDZ48032717754258",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"15:55:27",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"389003.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KWD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"PCUN40210758544133",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"348884316800059",
+ "transaction_code":"QCOV05416060808275",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"10:25:04",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"693361.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GBP of Braavos"
+}

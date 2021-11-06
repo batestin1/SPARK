@@ -1,0 +1,15 @@
+{
+ "id_client":"IIHZ61924201698808",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"630483952218",
+ "transaction_code":"BKVO99554872622466",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"01:44:54",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"821010.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TWD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HUKX95315756528179",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"376021680654789",
+ "transaction_code":"CCUS28996950498721",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"14:45:17",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"381208.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KMF of Braavos"
+}

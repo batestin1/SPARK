@@ -1,11 +1,11 @@
 {
- "id_client":"WIZR97912138430127",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"ICRM48396195591215",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"YFDJ99935992314244",
- "aba":"016438853"
+ "account_type":"savings account",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"KCIA19918170246770",
+ "aba":"036325320"
 }

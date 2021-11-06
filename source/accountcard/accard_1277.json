@@ -1,0 +1,15 @@
+{
+ "id_client":"NKEA73354513843074",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4840715775207557",
+ "transaction_code":"HXDI83618435385864",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"14:12:45",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"408518.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LSL of Braavos"
+}

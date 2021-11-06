@@ -1,0 +1,15 @@
+{
+ "id_client":"HZLL13388706219845",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"30553795015355",
+ "transaction_code":"ITIF99203349504235",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"11:59:44",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"365331.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PEN of Braavos"
+}

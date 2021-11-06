@@ -1,12 +1,12 @@
 {
- "id_client":"ZGVQ39743891905780",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"ZCHB39230996353288",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "card_number":"not activated",
- "total_limit_value":"467240.0",
- "limit_value_available":"376115.0",
- "total_limit_used":"91125.0",
- "description_card":"American Express",
- "security_card":"883",
- "expire_card_number":"11/24"
+ "total_limit_value":"593802.0",
+ "limit_value_available":"558450.0",
+ "total_limit_used":"35352.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"991",
+ "expire_card_number":"09/31"
 }

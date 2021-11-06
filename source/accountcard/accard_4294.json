@@ -1,0 +1,15 @@
+{
+ "id_client":"VRDV17496610229189",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"676323848348",
+ "transaction_code":"DUYY12081844514364",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"10:36:48",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"102348.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NIO of Braavos"
+}

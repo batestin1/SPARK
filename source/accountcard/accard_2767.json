@@ -1,0 +1,15 @@
+{
+ "id_client":"FHKB05868984356762",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4495270616488782",
+ "transaction_code":"SLCY42514454966006",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"09:28:55",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"358967.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"IQD of Braavos"
+}

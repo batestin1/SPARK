@@ -1,0 +1,15 @@
+{
+ "id_client":"ILSF53441047006275",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"346450574080255",
+ "transaction_code":"CVQW13315975586150",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"00:36:32",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"850596.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BRL of Braavos"
+}

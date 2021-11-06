@@ -1,0 +1,15 @@
+{
+ "id_client":"PEFF56521809854106",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6519363410650678",
+ "transaction_code":"JBMY61709822614816",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:25:18",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"871393.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TMT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"AQXZ77087426827670",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3593921691795375",
+ "transaction_code":"ZSLR93000309232407",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"12:06:12",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"527997.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LSL of Braavos"
+}

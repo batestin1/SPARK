@@ -1,0 +1,15 @@
+{
+ "id_client":"KGZV58997572704968",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"2274827473585850",
+ "transaction_code":"YSUS17407935165311",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"09:25:50",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"190589.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CNY of Braavos"
+}

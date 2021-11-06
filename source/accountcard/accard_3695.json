@@ -1,0 +1,15 @@
+{
+ "id_client":"UZIA25084941526903",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"3535073088101840",
+ "transaction_code":"CIZZ98415651556623",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"22:27:39",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"186377.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NAD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LXCN78029486206121",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"676182487667",
+ "transaction_code":"FKAH50775470329517",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"14:11:14",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"12341.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NGN of Braavos"
+}

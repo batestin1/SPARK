@@ -1,0 +1,15 @@
+{
+ "id_client":"JKUM71325358433182",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4787892420937618",
+ "transaction_code":"JRMT18564778600658",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"03:36:09",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"985002.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BSD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"NYVI73939473167594",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"502038054602",
+ "transaction_code":"PIVY76009275898350",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"08:40:12",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"186818.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TTD of Braavos"
+}

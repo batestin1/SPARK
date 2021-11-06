@@ -1,0 +1,15 @@
+{
+ "id_client":"WKWE78363399173753",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"30471791697490",
+ "transaction_code":"XRAA11862047229336",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:48:59",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"842452.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"AWG of Braavos"
+}

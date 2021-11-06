@@ -1,0 +1,15 @@
+{
+ "id_client":"GBIR10591124206933",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"6541046121946327",
+ "transaction_code":"IOXM85789484567343",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"10:58:05",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"512021.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"EUR of Braavos"
+}

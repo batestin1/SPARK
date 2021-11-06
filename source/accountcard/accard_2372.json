@@ -1,0 +1,15 @@
+{
+ "id_client":"RMBL79119377677725",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4121223180694477242",
+ "transaction_code":"BLQN62272281650942",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"15:53:43",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"330218.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LTL of Braavos"
+}

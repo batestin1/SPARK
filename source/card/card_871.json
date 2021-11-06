@@ -1,12 +1,12 @@
 {
- "id_client":"QRLG23029800169058",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"HRMD03645080494083",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "card_number":"activated",
- "total_limit_value":"160987.0",
- "limit_value_available":"101477.0",
- "total_limit_used":"59510.0",
- "description_card":"Discover",
- "security_card":"366",
- "expire_card_number":"07/30"
+ "total_limit_value":"181832.0",
+ "limit_value_available":"159927.0",
+ "total_limit_used":"21905.0",
+ "description_card":"VISA 13 digit",
+ "security_card":"147",
+ "expire_card_number":"03/30"
 }

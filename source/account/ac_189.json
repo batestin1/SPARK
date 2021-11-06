@@ -1,11 +1,11 @@
 {
- "id_client":"NJXV15899768814435",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"OBWQ17537487951225",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"DSSE51321408221641",
- "aba":"052777204"
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"JPEH60717329952987",
+ "aba":"023243576"
 }

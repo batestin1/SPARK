@@ -1,0 +1,15 @@
+{
+ "id_client":"NMII06919912101428",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4154972240296349",
+ "transaction_code":"AXMT20421963234343",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"06:19:50",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"236908.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MWK of Braavos"
+}

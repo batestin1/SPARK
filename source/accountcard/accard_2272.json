@@ -1,0 +1,15 @@
+{
+ "id_client":"XYFY78814386916526",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4481663884701595",
+ "transaction_code":"OXOC26440595893289",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"22:58:40",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"643993.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CRC of Braavos"
+}

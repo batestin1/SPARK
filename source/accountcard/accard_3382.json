@@ -1,0 +1,15 @@
+{
+ "id_client":"GBVJ31547051804420",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"6504948083762748",
+ "transaction_code":"DQXJ23715903032072",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"15:13:36",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"258626.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ETB of Braavos"
+}

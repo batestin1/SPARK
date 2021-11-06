@@ -1,0 +1,15 @@
+{
+ "id_client":"SVJP06519120704234",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"30572085511626",
+ "transaction_code":"EUEA20800733814602",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"02:31:33",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"538468.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JPY of Braavos"
+}

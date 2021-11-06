@@ -1,15 +1,15 @@
 {
- "id_client":"QRLG23029800169058",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"HRMD03645080494083",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "status_account_blocked":"activated",
- "card_number":"340590415683068",
- "transaction_code":"QJGN55506161262554",
- "date_transaction":"2021-11-16",
- "time_transaction":"17:23:39",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"503287.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"NIO of Braavos"
+ "card_number":"503870431759",
+ "transaction_code":"ASTR31965581552567",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"13:15:21",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"246035.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JPY of Braavos"
 }

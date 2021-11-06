@@ -1,11 +1,11 @@
 {
- "id_client":"ZWEB06129275629926",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"CKIB88233139025919",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"DRFU60279444002811",
- "aba":"081370433"
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"BRLQ57061619441702",
+ "aba":"034223780"
 }

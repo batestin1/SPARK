@@ -1,0 +1,15 @@
+{
+ "id_client":"ILRP71120723580293",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4624633337652610",
+ "transaction_code":"PXCE81237527746416",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"22:36:48",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"910269.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"EGP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LQZS15613635307036",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"6011248356664861",
+ "transaction_code":"CQQO86757277643410",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"04:59:00",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"244373.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"PKR of Braavos"
+}

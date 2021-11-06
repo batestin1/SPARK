@@ -1,12 +1,12 @@
 {
- "id_client":"ABYJ42513008226496",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"KITZ62155253220992",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "card_number":"activated",
- "total_limit_value":"314782.0",
- "limit_value_available":"299456.0",
- "total_limit_used":"15326.0",
+ "total_limit_value":"954256.0",
+ "limit_value_available":"861371.0",
+ "total_limit_used":"92885.0",
  "description_card":"VISA 16 digit",
- "security_card":"297",
- "expire_card_number":"06/28"
+ "security_card":"767",
+ "expire_card_number":"08/26"
 }

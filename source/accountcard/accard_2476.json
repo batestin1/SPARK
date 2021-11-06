@@ -1,0 +1,15 @@
+{
+ "id_client":"FWXP67540667626991",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"6011378536505955",
+ "transaction_code":"SHRU15993276303356",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"08:48:20",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"91882.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LTL of Braavos"
+}

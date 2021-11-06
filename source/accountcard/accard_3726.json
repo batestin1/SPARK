@@ -1,0 +1,15 @@
+{
+ "id_client":"NXOS67851283256737",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"5449850350819054",
+ "transaction_code":"PLNM26083841865865",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"19:01:48",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"766356.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"HUF of Braavos"
+}

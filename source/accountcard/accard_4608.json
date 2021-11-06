@@ -1,0 +1,15 @@
+{
+ "id_client":"PCVZ78287345288055",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4267230090903991",
+ "transaction_code":"WRQP99240978152664",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"21:15:41",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"20983.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MXN of Braavos"
+}

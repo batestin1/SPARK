@@ -1,15 +1,15 @@
 {
- "id_client":"LLYS20305107987286",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
- "status_account_blocked":"not activated",
- "card_number":"4453023431387",
- "transaction_code":"EOVJ27982709837483",
- "date_transaction":"2021-12-01",
- "time_transaction":"11:28:31",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"870113.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"BBD of Braavos"
+ "id_client":"DUCQ38727311111289",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"374308714169757",
+ "transaction_code":"LHYB29857917788278",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"09:24:14",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"133443.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GNF of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"HQTB50132713662268",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4979457741818386268",
+ "transaction_code":"MJCG42377825764629",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"07:01:12",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"181275.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CDF of Braavos"
+}

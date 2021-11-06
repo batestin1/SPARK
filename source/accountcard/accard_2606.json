@@ -1,0 +1,15 @@
+{
+ "id_client":"WNGT55907388166272",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"3570161553991021",
+ "transaction_code":"ENTV39806244621253",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"14:42:07",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"449478.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ARS of Braavos"
+}

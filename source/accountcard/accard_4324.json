@@ -1,0 +1,15 @@
+{
+ "id_client":"MLOD13539985547897",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"30091145465939",
+ "transaction_code":"XLBK19151926546307",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"15:39:55",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"624107.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MZN of Braavos"
+}

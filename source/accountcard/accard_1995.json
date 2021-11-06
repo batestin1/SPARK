@@ -1,0 +1,15 @@
+{
+ "id_client":"TMBQ40350828591548",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3557631878742678",
+ "transaction_code":"AZXM54554040468606",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"11:52:14",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"69993.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"EUR of Braavos"
+}

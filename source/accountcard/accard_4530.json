@@ -1,0 +1,15 @@
+{
+ "id_client":"EDYS17052447838140",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"2222133948689416",
+ "transaction_code":"JJEI93919159539658",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"06:38:13",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"642046.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ARS of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"UPLE55309961925637",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"VXVR08905564292328",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "status_account_blocked":"not activated",
- "card_number":"4035555838977670",
- "transaction_code":"NLGJ67858408218676",
- "date_transaction":"2021-11-22",
- "time_transaction":"01:49:50",
- "describle_transaction":"swords",
- "original_transaction_amount":"733772.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"XDR of Braavos"
+ "card_number":"3522489644527044",
+ "transaction_code":"GMDE51664902888053",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"21:15:22",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"455829.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UGX of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"BYFW60904166506161",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"349107781216844",
+ "transaction_code":"NCTV62946508123437",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"14:56:32",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"197088.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AUD of Braavos"
+}

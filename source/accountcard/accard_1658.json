@@ -1,0 +1,15 @@
+{
+ "id_client":"LUDL44198051372099",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"213154728958537",
+ "transaction_code":"IOBS20027350534380",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"16:15:19",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"14548.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"WST of Braavos"
+}

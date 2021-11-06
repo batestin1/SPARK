@@ -1,0 +1,15 @@
+{
+ "id_client":"AFIB92388837197669",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"3583151923496798",
+ "transaction_code":"NGZI44853405491644",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"05:12:45",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"280348.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CAD of Braavos"
+}

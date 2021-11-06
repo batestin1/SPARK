@@ -1,0 +1,15 @@
+{
+ "id_client":"KUUB93130860136314",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"371305278199389",
+ "transaction_code":"DAYD87875966351667",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"19:40:44",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"498196.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BIF of Braavos"
+}

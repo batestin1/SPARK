@@ -1,12 +1,12 @@
 {
- "id_client":"WRZV43024719472298",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"RFES20586341959673",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "card_number":"activated",
- "total_limit_value":"693924.0",
- "limit_value_available":"642773.0",
- "total_limit_used":"51151.0",
+ "total_limit_value":"880993.0",
+ "limit_value_available":"805547.0",
+ "total_limit_used":"75446.0",
  "description_card":"Mastercard",
- "security_card":"066",
- "expire_card_number":"02/31"
+ "security_card":"592",
+ "expire_card_number":"10/26"
 }

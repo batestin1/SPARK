@@ -1,0 +1,15 @@
+{
+ "id_client":"NLQU12623165090248",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"6562669441149217",
+ "transaction_code":"ULZI74521615039618",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"17:04:21",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"455416.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CNY of Braavos"
+}

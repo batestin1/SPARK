@@ -1,0 +1,15 @@
+{
+ "id_client":"TZXA83191123731820",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"5331678686687254",
+ "transaction_code":"UEMJ56917839730562",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"22:00:26",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"272692.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BDT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TJFH77822731361131",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"6011536229527277",
+ "transaction_code":"MLAE56011970172898",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"18:37:06",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"755263.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MNT of Braavos"
+}

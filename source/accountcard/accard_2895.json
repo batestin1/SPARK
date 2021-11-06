@@ -1,0 +1,15 @@
+{
+ "id_client":"JZSR06565775794175",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4335891526593850",
+ "transaction_code":"AXPL03777939187196",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"11:41:34",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"838142.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"EUR of Braavos"
+}

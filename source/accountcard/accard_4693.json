@@ -1,0 +1,15 @@
+{
+ "id_client":"ESPD45438332418461",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3584922540358804",
+ "transaction_code":"RMQJ24569889221328",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"00:07:54",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"369274.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XCD of Braavos"
+}

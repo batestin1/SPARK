@@ -1,0 +1,15 @@
+{
+ "id_client":"GQJA00608394235836",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"6011430442836295",
+ "transaction_code":"TWVO70019776199009",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"05:06:43",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"40619.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TOP of Braavos"
+}

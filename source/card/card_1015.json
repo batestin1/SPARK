@@ -1,12 +1,12 @@
 {
- "id_client":"ETEZ38388104271837",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"HEVC13978329752671",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "card_number":"activated",
- "total_limit_value":"38254.0",
- "limit_value_available":"-48304.0",
- "total_limit_used":"86558.0",
- "description_card":"VISA 16 digit",
- "security_card":"236",
- "expire_card_number":"06/28"
+ "total_limit_value":"462612.0",
+ "limit_value_available":"399054.0",
+ "total_limit_used":"63558.0",
+ "description_card":"Discover",
+ "security_card":"4574",
+ "expire_card_number":"02/26"
 }

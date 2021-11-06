@@ -1,15 +1,15 @@
 {
- "id_client":"XBKV74251792160318",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"JGQV58957874607851",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"activated",
- "card_number":"3548840214506224",
- "transaction_code":"AHNI45877154295670",
- "date_transaction":"2021-11-28",
- "time_transaction":"05:20:42",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"533772.0",
+ "card_number":"4280473460883",
+ "transaction_code":"CBUX51916789870739",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"17:08:49",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"711715.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"GBP of Braavos"
+ "currency":"SEK of Braavos"
 }

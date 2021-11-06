@@ -1,0 +1,15 @@
+{
+ "id_client":"EXFC52956024476249",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"2714420160576636",
+ "transaction_code":"CKRZ13052112090285",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:34:07",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"259764.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AFN of Braavos"
+}

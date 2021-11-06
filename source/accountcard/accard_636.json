@@ -1,15 +1,15 @@
 {
- "id_client":"YLAE10885019123375",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "status_account_blocked":"not activated",
- "card_number":"4293602872456",
- "transaction_code":"ZWWN37495910305741",
- "date_transaction":"2021-11-18",
- "time_transaction":"15:03:01",
- "describle_transaction":"savage army",
- "original_transaction_amount":"201085.0",
+ "id_client":"AFXA79006614847127",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4141124763085",
+ "transaction_code":"TKAP87964442091342",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"18:36:27",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"445724.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"HRK of Braavos"
+ "currency":"LTL of Braavos"
 }

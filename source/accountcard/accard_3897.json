@@ -1,0 +1,15 @@
+{
+ "id_client":"WFTG97999278455083",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"36228914578138",
+ "transaction_code":"LNCD49636250039947",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"07:23:34",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"381015.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XCD of Braavos"
+}

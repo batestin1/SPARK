@@ -1,15 +1,15 @@
 {
- "id_client":"EYOI78567377380559",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "status_account_blocked":"not activated",
- "card_number":"676238771668",
- "transaction_code":"TEYW53054254990987",
- "date_transaction":"2021-11-24",
- "time_transaction":"06:49:41",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"335530.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"DZD of Braavos"
+ "id_client":"SKLZ99475321192186",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4989096180032998721",
+ "transaction_code":"BCYF38980877902596",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"07:39:00",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"907407.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LAK of Braavos"
 }

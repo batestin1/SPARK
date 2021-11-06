@@ -1,12 +1,12 @@
 {
- "id_client":"CGUB20738580453416",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"ELCM37454445686154",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "card_number":"activated",
- "total_limit_value":"604588.0",
- "limit_value_available":"528116.0",
- "total_limit_used":"76472.0",
- "description_card":"American Express",
- "security_card":"399",
- "expire_card_number":"04/28"
+ "total_limit_value":"544888.0",
+ "limit_value_available":"544620.0",
+ "total_limit_used":"268.0",
+ "description_card":"Discover",
+ "security_card":"932",
+ "expire_card_number":"10/26"
 }

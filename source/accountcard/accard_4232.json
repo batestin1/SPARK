@@ -1,0 +1,15 @@
+{
+ "id_client":"UACI16545322516676",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"213112536230317",
+ "transaction_code":"LVQK90403712788664",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"16:06:20",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"202532.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TVD of Braavos"
+}

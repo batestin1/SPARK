@@ -1,0 +1,15 @@
+{
+ "id_client":"GYGV15503824247347",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"376376900718818",
+ "transaction_code":"BFJS37700935958725",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"22:07:18",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"472830.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MUR of Braavos"
+}

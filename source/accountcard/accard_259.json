@@ -1,15 +1,15 @@
 {
- "id_client":"VZXI11055805332603",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
- "status_account_blocked":"activated",
- "card_number":"180030970127527",
- "transaction_code":"RSTA71084936887320",
- "date_transaction":"2021-12-04",
- "time_transaction":"01:06:36",
- "describle_transaction":"golden company",
- "original_transaction_amount":"835064.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"NGN of Braavos"
+ "id_client":"RMET62110138093494",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"5463714722144321",
+ "transaction_code":"KGLR47925124927102",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"19:47:24",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"956867.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NIO of Braavos"
 }

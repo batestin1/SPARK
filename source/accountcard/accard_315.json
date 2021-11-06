@@ -1,15 +1,15 @@
 {
- "id_client":"MCPR90934811594963",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"GDMF87084683476488",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "status_account_blocked":"activated",
- "card_number":"5134603429934861",
- "transaction_code":"CAGP64230516725727",
- "date_transaction":"2021-12-02",
- "time_transaction":"06:49:46",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"330760.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"CDF of Braavos"
+ "card_number":"4841116551679664",
+ "transaction_code":"VGYR38210216287207",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"05:00:16",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"471008.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"STD of Braavos"
 }

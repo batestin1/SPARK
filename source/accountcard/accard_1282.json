@@ -1,0 +1,15 @@
+{
+ "id_client":"MAGX00682871850483",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4643876766093993566",
+ "transaction_code":"CBFW66186701697248",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"18:14:34",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"40594.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SHP of Braavos"
+}

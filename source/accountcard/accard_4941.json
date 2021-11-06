@@ -1,0 +1,15 @@
+{
+ "id_client":"ILWG58044013003765",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4222448286827884249",
+ "transaction_code":"DNRQ01202916216025",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"09:12:00",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"404551.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AMD of Braavos"
+}

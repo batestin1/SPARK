@@ -1,0 +1,15 @@
+{
+ "id_client":"ZQAT66260304970704",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"379743474941570",
+ "transaction_code":"FMUL23367906736625",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"11:48:33",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"316679.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"JEP of Braavos"
+}

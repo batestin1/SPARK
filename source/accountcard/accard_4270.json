@@ -1,0 +1,15 @@
+{
+ "id_client":"JXZU82515430880559",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4775121071885263176",
+ "transaction_code":"BXCQ01476439493595",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"04:30:45",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"765690.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MYR of Braavos"
+}

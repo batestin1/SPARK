@@ -1,15 +1,15 @@
 {
- "id_client":"ZHOI05602848113782",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "status_account_blocked":"activated",
- "card_number":"676179365967",
- "transaction_code":"LWLN08457867259209",
- "date_transaction":"2021-11-27",
- "time_transaction":"19:31:04",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"18531.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"SOS of Braavos"
+ "id_client":"NXCN28233711884775",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"213165827787114",
+ "transaction_code":"NGOY46011498320840",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"19:44:58",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"260252.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MXN of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"EPMF72099462849630",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"377292262215153",
+ "transaction_code":"KLYP26324830150221",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"11:48:55",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"40345.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"NIS of Braavos"
+}

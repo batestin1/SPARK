@@ -1,0 +1,15 @@
+{
+ "id_client":"GUCG61628192235896",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"38656177690208",
+ "transaction_code":"NQXU76604633781821",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"13:11:50",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"362190.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"THB of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"CXJA99249912767406",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
- "card_number":"not activated",
- "total_limit_value":"264737.0",
- "limit_value_available":"197490.0",
- "total_limit_used":"67247.0",
- "description_card":"Mastercard",
- "security_card":"087",
- "expire_card_number":"09/22"
+ "id_client":"OTVY84029154883693",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "card_number":"activated",
+ "total_limit_value":"576081.0",
+ "limit_value_available":"519732.0",
+ "total_limit_used":"56349.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"786",
+ "expire_card_number":"06/28"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"GTIS35641666325484",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4525833527869640",
+ "transaction_code":"EFTH65807327508494",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"02:59:23",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"448215.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"USD of Braavos"
+}

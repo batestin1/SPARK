@@ -1,11 +1,11 @@
 {
- "id_client":"TAMM07503121099883",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"CNNU86000026558807",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"TWDA09703421698504",
- "aba":"047120467"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"ZNQN37966399010886",
+ "aba":"034284977"
 }

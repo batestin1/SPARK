@@ -1,0 +1,15 @@
+{
+ "id_client":"WSJE44669246170248",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"060462527080",
+ "transaction_code":"SVUM49309162871220",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"09:07:04",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"219747.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"HTG of Braavos"
+}

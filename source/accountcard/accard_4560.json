@@ -1,0 +1,15 @@
+{
+ "id_client":"BTKE57084629995231",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"378564633508071",
+ "transaction_code":"PDMH43400409812076",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"02:44:44",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"545920.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VEF of Braavos"
+}

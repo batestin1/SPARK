@@ -1,11 +1,11 @@
 {
- "id_client":"ICFM04545200603851",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"PSBK86229727820638",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "bank":"Braavos",
- "account_type":"checking account",
+ "account_type":"salary bill",
  "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"KKIX41192405754636",
- "aba":"047055470"
+ "account_status":"not activated",
+ "bban_count":"XKUZ85787350225419",
+ "aba":"016033523"
 }

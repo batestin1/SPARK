@@ -1,11 +1,11 @@
 {
- "id_client":"LUSZ64117422395724",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"HRFH23075863040546",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"KZEE37629950284231",
- "aba":"066851860"
+ "account_type":"checking account",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"LHSS01787942520921",
+ "aba":"029360771"
 }

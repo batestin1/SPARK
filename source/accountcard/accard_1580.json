@@ -1,0 +1,15 @@
+{
+ "id_client":"JCJQ30039199631142",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"3525583219133571",
+ "transaction_code":"PGFE37965725116752",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"22:39:57",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"892287.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CHF of Braavos"
+}

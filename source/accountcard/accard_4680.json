@@ -1,0 +1,15 @@
+{
+ "id_client":"PTMT11322282606810",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"347986484521382",
+ "transaction_code":"VDFQ70614502263368",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"10:28:44",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"380742.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"IDR of Braavos"
+}

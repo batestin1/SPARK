@@ -1,0 +1,15 @@
+{
+ "id_client":"KVGB19760271437644",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4679030875761222",
+ "transaction_code":"ACJG85025467749374",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"12:14:55",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"534409.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"JEP of Braavos"
+}

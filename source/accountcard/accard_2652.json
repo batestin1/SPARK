@@ -1,0 +1,15 @@
+{
+ "id_client":"JDPZ08794893764001",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"3563687538563906",
+ "transaction_code":"UZSA66629452361744",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"19:08:16",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"408187.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BGN of Braavos"
+}

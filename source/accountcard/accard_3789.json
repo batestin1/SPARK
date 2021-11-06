@@ -1,0 +1,15 @@
+{
+ "id_client":"NDPQ11964473326682",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"3509467585629372",
+ "transaction_code":"RCXL57862582873193",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"02:00:03",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"814288.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SOS of Braavos"
+}

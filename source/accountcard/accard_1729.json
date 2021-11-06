@@ -1,0 +1,15 @@
+{
+ "id_client":"PZOZ12775221296574",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"6011759979954281",
+ "transaction_code":"BGYK11178032110616",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"11:38:30",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"756535.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AOA of Braavos"
+}

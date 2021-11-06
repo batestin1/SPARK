@@ -1,0 +1,15 @@
+{
+ "id_client":"WSMP17919528064166",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"30067054624252",
+ "transaction_code":"UYHQ53447378025756",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:00:02",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"484345.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LYD of Braavos"
+}

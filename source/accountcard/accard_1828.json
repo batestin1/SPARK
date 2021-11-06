@@ -1,0 +1,15 @@
+{
+ "id_client":"TAVE30078371443517",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4665014381832129",
+ "transaction_code":"NTTT08107420599193",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"00:29:57",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"970172.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KPW of Braavos"
+}

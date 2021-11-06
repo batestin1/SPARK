@@ -1,0 +1,15 @@
+{
+ "id_client":"IPNO12600897988998",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"376860245187227",
+ "transaction_code":"YRQN09787321476737",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"21:35:41",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"549622.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PHP of Braavos"
+}

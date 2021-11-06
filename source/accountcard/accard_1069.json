@@ -1,15 +1,15 @@
 {
- "id_client":"XYGS17949756535834",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
+ "id_client":"MXLS96627695774532",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"not activated",
- "card_number":"4373095132905",
- "transaction_code":"KMZT83100278160559",
- "date_transaction":"2021-11-06",
- "time_transaction":"17:14:43",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"470307.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"TRY of Braavos"
+ "card_number":"6547704991131750",
+ "transaction_code":"KYWN24470020403305",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"02:02:15",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"538770.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"RUB of Braavos"
 }

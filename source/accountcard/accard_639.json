@@ -1,15 +1,15 @@
 {
- "id_client":"IXPQ24529865692997",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"XURG94628110494761",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"not activated",
- "card_number":"348146217459421",
- "transaction_code":"PZSK65656828396421",
- "date_transaction":"2021-11-22",
- "time_transaction":"18:56:43",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"907620.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"WST of Braavos"
+ "card_number":"213180394274362",
+ "transaction_code":"MXKI74288591319563",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"14:25:49",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"510314.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XAF of Braavos"
 }

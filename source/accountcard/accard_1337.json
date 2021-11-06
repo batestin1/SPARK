@@ -1,0 +1,15 @@
+{
+ "id_client":"ZSLQ58312990434456",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"6011372388775964",
+ "transaction_code":"TWHE86994434643421",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"07:59:19",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"359473.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HTG of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DBUF32779196122466",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"6011482264568696",
+ "transaction_code":"GOKG91272791502290",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"11:34:28",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"887373.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BYR of Braavos"
+}

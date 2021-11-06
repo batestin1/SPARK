@@ -1,0 +1,15 @@
+{
+ "id_client":"GSUE17968522492345",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4664820803906437",
+ "transaction_code":"DWJG79913627121637",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"01:41:46",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"612786.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NGN of Braavos"
+}

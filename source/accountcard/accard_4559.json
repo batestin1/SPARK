@@ -1,0 +1,15 @@
+{
+ "id_client":"CSTS98302532702009",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"30189696074470",
+ "transaction_code":"BZAW76004599307231",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"18:26:23",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"997443.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MWK of Braavos"
+}

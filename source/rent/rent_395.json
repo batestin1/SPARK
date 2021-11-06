@@ -1,10 +1,10 @@
 {
- "id_client":"NPRM87748862932208",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
- "rent_income_value":"+798070.0",
- "description_chosen_income_method":"-651902.0",
- "total_account_value":"3228604.0",
- "current_account_total_value":"2929464.0",
- "total_amount_carried_over":"299140.0"
+ "id_client":"FCAA19311237845074",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "rent_income_value":"-776376.0",
+ "description_chosen_income_method":"+942374.0",
+ "total_account_value":"2062402.0",
+ "current_account_total_value":"1933692.0",
+ "total_amount_carried_over":"128710.0"
 }

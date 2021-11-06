@@ -1,12 +1,12 @@
 {
- "id_client":"LTFT98363617836830",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"ANHL09402898519026",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "card_number":"activated",
- "total_limit_value":"135442.0",
- "limit_value_available":"68124.0",
- "total_limit_used":"67318.0",
- "description_card":"JCB 16 digit",
- "security_card":"179",
- "expire_card_number":"05/24"
+ "total_limit_value":"586.0",
+ "limit_value_available":"-96653.0",
+ "total_limit_used":"97239.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"719",
+ "expire_card_number":"06/24"
 }

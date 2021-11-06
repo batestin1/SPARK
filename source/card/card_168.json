@@ -1,12 +1,12 @@
 {
- "id_client":"OCQC67586513302142",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "card_number":"activated",
- "total_limit_value":"583057.0",
- "limit_value_available":"520872.0",
- "total_limit_used":"62185.0",
- "description_card":"Mastercard",
- "security_card":"299",
- "expire_card_number":"03/25"
+ "id_client":"FPCV28595413485296",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "card_number":"not activated",
+ "total_limit_value":"219797.0",
+ "limit_value_available":"152867.0",
+ "total_limit_used":"66930.0",
+ "description_card":"JCB 15 digit",
+ "security_card":"230",
+ "expire_card_number":"09/31"
 }

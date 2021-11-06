@@ -1,0 +1,15 @@
+{
+ "id_client":"FUOZ15250481808256",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"373869545935493",
+ "transaction_code":"FZPG59773644168619",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"06:45:43",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"86521.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"LRD of Braavos"
+}

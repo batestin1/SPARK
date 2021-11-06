@@ -1,0 +1,15 @@
+{
+ "id_client":"ILLE04072929125671",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4279277644971647471",
+ "transaction_code":"OYNO53306454623419",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"07:19:52",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"248970.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TVD of Braavos"
+}

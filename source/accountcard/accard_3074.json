@@ -1,0 +1,15 @@
+{
+ "id_client":"AKMP35032272302488",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4289834216147559",
+ "transaction_code":"ASCN14374321410869",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"21:33:56",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"802451.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GIP of Braavos"
+}

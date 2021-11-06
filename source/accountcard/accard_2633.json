@@ -1,0 +1,15 @@
+{
+ "id_client":"DSVK66833056915144",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"3503968994790636",
+ "transaction_code":"SAFD61458193375698",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"18:13:06",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"816731.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ILS of Braavos"
+}

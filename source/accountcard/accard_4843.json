@@ -1,0 +1,15 @@
+{
+ "id_client":"UMIE92162752832730",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"3563657180387847",
+ "transaction_code":"AUAK32864648034654",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"12:35:53",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"808170.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SHP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"EGBQ27749834233641",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"2273476545199760",
+ "transaction_code":"LMIY40735233728621",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:45:09",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"141219.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LTL of Braavos"
+}

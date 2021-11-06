@@ -1,15 +1,15 @@
 {
- "id_client":"AOVR07612221160812",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"UIRC70461325993295",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"6011259709923797",
- "transaction_code":"ACAD63236326683804",
- "date_transaction":"2021-11-15",
- "time_transaction":"11:09:16",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"693209.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"LAK of Braavos"
+ "card_number":"571114885528",
+ "transaction_code":"XRHR78271250858503",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"03:00:24",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"274267.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"PHP of Braavos"
 }

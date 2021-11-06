@@ -1,12 +1,12 @@
 {
- "id_client":"BPNK06878727450905",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
- "card_number":"not activated",
- "total_limit_value":"624234.0",
- "limit_value_available":"552589.0",
- "total_limit_used":"71645.0",
+ "id_client":"VFWQ55360333117405",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "card_number":"activated",
+ "total_limit_value":"426135.0",
+ "limit_value_available":"341797.0",
+ "total_limit_used":"84338.0",
  "description_card":"JCB 16 digit",
- "security_card":"598",
- "expire_card_number":"11/26"
+ "security_card":"938",
+ "expire_card_number":"03/31"
 }

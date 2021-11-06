@@ -1,0 +1,15 @@
+{
+ "id_client":"SBOI39470787855794",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3553741534315837",
+ "transaction_code":"FPDJ45650806309992",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"00:03:41",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"23084.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XOF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TIEU05859754079828",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"2518718024847731",
+ "transaction_code":"GFIP37711299886930",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"07:30:28",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"250365.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CDF of Braavos"
+}

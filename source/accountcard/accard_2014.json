@@ -1,0 +1,15 @@
+{
+ "id_client":"WSEE90412626363799",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"371524352362727",
+ "transaction_code":"SZRD80222902302769",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"17:53:18",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"836600.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"INR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HEPN17148258001192",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"2268854168267592",
+ "transaction_code":"AYAL36510464859949",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"05:51:43",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"843111.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"YER of Braavos"
+}

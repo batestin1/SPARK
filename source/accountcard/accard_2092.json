@@ -1,0 +1,15 @@
+{
+ "id_client":"RVXE63773121460009",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2370173973972063",
+ "transaction_code":"TFQS68217140008381",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"13:00:13",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"532751.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SCR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WCEM89934316956465",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"370040301938245",
+ "transaction_code":"HVZB73842426963332",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"01:04:57",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"875061.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HTG of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"SCMC90566361000720",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4594025102268",
+ "transaction_code":"EYGN12449041905995",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"00:25:36",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"146588.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"IDR of Braavos"
+}

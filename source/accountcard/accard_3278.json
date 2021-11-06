@@ -1,0 +1,15 @@
+{
+ "id_client":"KVCW82993509655361",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"503887003450",
+ "transaction_code":"RMTO03763533455958",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"01:23:50",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"192405.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"IQD of Braavos"
+}

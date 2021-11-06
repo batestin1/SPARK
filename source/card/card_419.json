@@ -1,12 +1,12 @@
 {
- "id_client":"VSTE21340573784329",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "card_number":"not activated",
- "total_limit_value":"927352.0",
- "limit_value_available":"924347.0",
- "total_limit_used":"3005.0",
- "description_card":"VISA 16 digit",
- "security_card":"013",
- "expire_card_number":"01/28"
+ "id_client":"MCLR19764048057548",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "card_number":"activated",
+ "total_limit_value":"359683.0",
+ "limit_value_available":"295704.0",
+ "total_limit_used":"63979.0",
+ "description_card":"Mastercard",
+ "security_card":"730",
+ "expire_card_number":"12/22"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"FFYL56605864862143",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"AEZH96618440964557",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"not activated",
- "card_number":"4954940861774334",
- "transaction_code":"CUTN95037980531359",
+ "card_number":"6505831479999000",
+ "transaction_code":"BARE05051803419277",
  "date_transaction":"2021-11-19",
- "time_transaction":"16:27:11",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"841238.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"AUD of Braavos"
+ "time_transaction":"04:14:52",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"371564.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MUR of Braavos"
 }

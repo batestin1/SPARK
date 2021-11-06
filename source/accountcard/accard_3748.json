@@ -1,0 +1,15 @@
+{
+ "id_client":"AWWT73048098727441",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4518745365512968",
+ "transaction_code":"JGHI45321551414235",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"18:34:57",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"837038.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ARS of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"LTRK43421464711601",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "status_account_blocked":"activated",
- "card_number":"341743126811176",
- "transaction_code":"AKFB29175771430668",
- "date_transaction":"2021-11-06",
- "time_transaction":"14:38:43",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"599869.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"MDL of Braavos"
+ "id_client":"WBJK15096700628014",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"346466688665419",
+ "transaction_code":"CEAA50387028374642",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"09:40:01",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"81054.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AOA of Braavos"
 }

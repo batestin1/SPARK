@@ -1,12 +1,12 @@
 {
- "id_client":"JEVE69694689817201",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "card_number":"activated",
- "total_limit_value":"138297.0",
- "limit_value_available":"125964.0",
- "total_limit_used":"12333.0",
- "description_card":"Maestro",
- "security_card":"009",
- "expire_card_number":"09/31"
+ "id_client":"SPAS62003694742698",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "card_number":"not activated",
+ "total_limit_value":"113893.0",
+ "limit_value_available":"29114.0",
+ "total_limit_used":"84779.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"607",
+ "expire_card_number":"09/26"
 }

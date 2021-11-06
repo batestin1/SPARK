@@ -1,15 +1,15 @@
 {
- "id_client":"QCDR88235632648843",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"OXAO64061741557081",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"not activated",
- "card_number":"6011695664249506",
- "transaction_code":"PNSB43034000525775",
- "date_transaction":"2021-11-16",
- "time_transaction":"17:47:50",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"289385.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"MYR of Braavos"
+ "card_number":"213116448243243",
+ "transaction_code":"NTUN72058306424908",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"22:43:02",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"999971.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"AUD of Braavos"
 }

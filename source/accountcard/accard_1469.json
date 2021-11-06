@@ -1,0 +1,15 @@
+{
+ "id_client":"DMRQ17908288212521",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4594970211776362",
+ "transaction_code":"FAIU65053575070666",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"16:10:35",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"475448.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MAD of Braavos"
+}

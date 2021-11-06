@@ -1,12 +1,12 @@
 {
- "id_client":"SFKS06573306967259",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"GVPF76106006913299",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
  "card_number":"activated",
- "total_limit_value":"242293.0",
- "limit_value_available":"236381.0",
- "total_limit_used":"5912.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"044",
- "expire_card_number":"07/25"
+ "total_limit_value":"79928.0",
+ "limit_value_available":"24919.0",
+ "total_limit_used":"55009.0",
+ "description_card":"American Express",
+ "security_card":"985",
+ "expire_card_number":"08/29"
 }

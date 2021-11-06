@@ -1,0 +1,15 @@
+{
+ "id_client":"WKTO89345456744828",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6011665029348293",
+ "transaction_code":"FZKX22334407690096",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"17:12:14",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"222406.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NZD of Braavos"
+}

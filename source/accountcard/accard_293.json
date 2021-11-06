@@ -1,15 +1,15 @@
 {
- "id_client":"QZTE92969667260403",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"DBBT53954486953798",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"activated",
- "card_number":"4637371752246197",
- "transaction_code":"HQEA12847855687291",
- "date_transaction":"2021-11-25",
- "time_transaction":"23:51:10",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"678588.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"MOP of Braavos"
+ "card_number":"30339361592674",
+ "transaction_code":"LYCM72663006997143",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"15:35:41",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"663576.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"STD of Braavos"
 }

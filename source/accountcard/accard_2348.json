@@ -1,0 +1,15 @@
+{
+ "id_client":"QAQZ02882802498320",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4738936462171816",
+ "transaction_code":"LAZL78885948503047",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"01:00:43",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"930340.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"XCD of Braavos"
+}

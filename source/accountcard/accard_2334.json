@@ -1,0 +1,15 @@
+{
+ "id_client":"NGKK33280998345361",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4521821991248",
+ "transaction_code":"KLNA65698884486594",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"23:27:53",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"250172.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MYR of Braavos"
+}

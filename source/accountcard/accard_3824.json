@@ -1,0 +1,15 @@
+{
+ "id_client":"EPHP65522103242399",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"3563993238657851",
+ "transaction_code":"QUKA99864289375179",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"16:51:27",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"522992.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BOB of Braavos"
+}

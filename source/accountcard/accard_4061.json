@@ -1,0 +1,15 @@
+{
+ "id_client":"AKVZ90081301241628",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3553288381972542",
+ "transaction_code":"WINP38438012877727",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"13:31:32",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"700695.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HTG of Braavos"
+}

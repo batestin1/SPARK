@@ -1,0 +1,15 @@
+{
+ "id_client":"MQVB46831686327110",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"372605030902254",
+ "transaction_code":"PWEW02508626412819",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"14:01:52",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"329502.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KYD of Braavos"
+}

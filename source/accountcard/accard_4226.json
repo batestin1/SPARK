@@ -1,0 +1,15 @@
+{
+ "id_client":"MAVN85125121404775",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"2389646170924150",
+ "transaction_code":"TEZF19206787796838",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"08:23:44",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"110438.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CAD of Braavos"
+}

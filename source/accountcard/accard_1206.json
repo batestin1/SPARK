@@ -1,0 +1,15 @@
+{
+ "id_client":"KJWN62130925149613",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4816980455658293",
+ "transaction_code":"XFCQ15306734558034",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"19:09:21",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"787782.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MUR of Braavos"
+}

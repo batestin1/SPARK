@@ -1,0 +1,15 @@
+{
+ "id_client":"RQUM46614027528436",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"6011342947404448",
+ "transaction_code":"WRBB54635988306749",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"02:13:34",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"483157.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KYD of Braavos"
+}

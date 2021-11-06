@@ -1,0 +1,15 @@
+{
+ "id_client":"XGCL66569980336235",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"577201816425",
+ "transaction_code":"PHWL77883362871244",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"21:32:53",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"772546.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MKD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"AMJL60579088447586",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"345445939257144",
+ "transaction_code":"ZAJS79943970200253",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"01:09:06",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"192073.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CAD of Braavos"
+}

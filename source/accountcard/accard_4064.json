@@ -1,0 +1,15 @@
+{
+ "id_client":"KMVZ65696763753747",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"180021232678662",
+ "transaction_code":"NEYF85993048683346",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"11:10:12",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"671510.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"VEF of Braavos"
+}

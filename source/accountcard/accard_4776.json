@@ -1,0 +1,15 @@
+{
+ "id_client":"KBPX04241772463766",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"5477231039441914",
+ "transaction_code":"LASK37002608368653",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"13:14:35",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"798465.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LKR of Braavos"
+}

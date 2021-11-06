@@ -1,0 +1,15 @@
+{
+ "id_client":"KIMK34257246253982",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"2228610960988796",
+ "transaction_code":"FETU91633489058826",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"04:42:09",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"425896.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"VUV of Braavos"
+}

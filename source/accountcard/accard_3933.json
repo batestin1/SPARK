@@ -1,0 +1,15 @@
+{
+ "id_client":"UQPS16143605534595",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4156587164696031",
+ "transaction_code":"IUUL01170069620611",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"12:54:59",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"40437.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ZMW of Braavos"
+}

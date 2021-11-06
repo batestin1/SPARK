@@ -1,0 +1,15 @@
+{
+ "id_client":"LWJG28238513758210",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4271187171379",
+ "transaction_code":"DIUL20804513867326",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"22:50:04",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"761175.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"DKK of Braavos"
+}

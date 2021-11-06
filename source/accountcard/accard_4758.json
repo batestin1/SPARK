@@ -1,0 +1,15 @@
+{
+ "id_client":"WNBE53903942299837",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"340414756319523",
+ "transaction_code":"GEKD87232850719283",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"10:24:12",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"525713.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MVR of Braavos"
+}

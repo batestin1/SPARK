@@ -1,0 +1,15 @@
+{
+ "id_client":"RCCB44889037613566",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4570240440312844265",
+ "transaction_code":"BFJJ69656645370236",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"14:55:07",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"738983.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SVC of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"ZUQH81887899084185",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"NZXF85507329287653",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"activated",
- "card_number":"4753991604539",
- "transaction_code":"AVMT02919834979684",
- "date_transaction":"2021-11-28",
- "time_transaction":"18:02:51",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"998464.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"TND of Braavos"
+ "card_number":"3593221550914161",
+ "transaction_code":"KGFJ81569367144005",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"16:44:18",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"991297.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PLN of Braavos"
 }

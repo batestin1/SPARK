@@ -1,0 +1,15 @@
+{
+ "id_client":"EJWD23715329599558",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"30395808403974",
+ "transaction_code":"DZFM54268713786244",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"16:31:42",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"456692.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UYU of Braavos"
+}

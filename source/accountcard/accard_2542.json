@@ -1,0 +1,15 @@
+{
+ "id_client":"BAHM90792360833285",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"36703512879658",
+ "transaction_code":"DMRU02546175836318",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"11:01:06",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"520235.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"RSD of Braavos"
+}

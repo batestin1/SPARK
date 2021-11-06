@@ -1,11 +1,11 @@
 {
- "id_client":"ABTZ42251733242029",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"IURK48925050383043",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"DGSC07314442985225",
- "aba":"063816915"
+ "account_type":"account for the long winter",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"COEN34085218118462",
+ "aba":"052738166"
 }

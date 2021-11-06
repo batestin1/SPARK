@@ -1,12 +1,12 @@
 {
- "id_client":"BIFG84455778878748",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "card_number":"not activated",
- "total_limit_value":"646549.0",
- "limit_value_available":"592793.0",
- "total_limit_used":"53756.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"186",
- "expire_card_number":"04/29"
+ "id_client":"FAPP61797484486002",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "card_number":"activated",
+ "total_limit_value":"471960.0",
+ "limit_value_available":"450805.0",
+ "total_limit_used":"21155.0",
+ "description_card":"Discover",
+ "security_card":"385",
+ "expire_card_number":"12/22"
 }

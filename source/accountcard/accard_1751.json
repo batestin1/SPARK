@@ -1,0 +1,15 @@
+{
+ "id_client":"KYDZ98956010477031",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4753383920703387",
+ "transaction_code":"JHWO21696883590685",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"18:42:48",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"666717.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CLP of Braavos"
+}

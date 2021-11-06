@@ -1,0 +1,15 @@
+{
+ "id_client":"PKWL23157127727326",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3540493804258364",
+ "transaction_code":"ODRZ07895992259573",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"22:42:31",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"95162.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HTG of Braavos"
+}

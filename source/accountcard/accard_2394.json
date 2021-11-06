@@ -1,0 +1,15 @@
+{
+ "id_client":"PHGL51393684813353",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"2606519210801083",
+ "transaction_code":"MSJG31006358540532",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:50:09",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"699330.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DKK of Braavos"
+}

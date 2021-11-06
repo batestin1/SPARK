@@ -1,0 +1,15 @@
+{
+ "id_client":"UWKI12243312264614",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"4172866691429474",
+ "transaction_code":"ETXX60539000729213",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"18:03:29",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"543868.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GYD of Braavos"
+}

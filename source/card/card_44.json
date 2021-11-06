@@ -1,12 +1,12 @@
 {
- "id_client":"PQQQ36513490713394",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"LGIA32150425612333",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "card_number":"not activated",
- "total_limit_value":"546226.0",
- "limit_value_available":"460039.0",
- "total_limit_used":"86187.0",
- "description_card":"VISA 13 digit",
- "security_card":"890",
- "expire_card_number":"06/28"
+ "total_limit_value":"697304.0",
+ "limit_value_available":"638387.0",
+ "total_limit_used":"58917.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"478",
+ "expire_card_number":"11/22"
 }

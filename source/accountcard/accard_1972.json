@@ -1,0 +1,15 @@
+{
+ "id_client":"TIIK52838176000895",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4957000300441377257",
+ "transaction_code":"ZPIV34168901644979",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"12:35:07",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"189967.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PEN of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"AXJV28369763055156",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"BECM29283503702085",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Temporary",
+ "account_type":"checking account",
+ "investor_profile":"Vicious",
  "account_status":"activated",
- "bban_count":"SLCT43301485574810",
- "aba":"065326279"
+ "bban_count":"JDEV18408826849842",
+ "aba":"088450674"
 }

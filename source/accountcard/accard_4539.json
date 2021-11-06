@@ -1,0 +1,15 @@
+{
+ "id_client":"PXFM45206081526466",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"345540771600623",
+ "transaction_code":"CXON16879540066014",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"20:08:32",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"268487.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SBD of Braavos"
+}

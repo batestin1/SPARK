@@ -1,15 +1,15 @@
 {
- "id_client":"RSZT52869833445908",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"SXOM42415458275483",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"4954391040957",
- "transaction_code":"GXPK23630293550541",
- "date_transaction":"2021-11-16",
- "time_transaction":"08:14:19",
- "describle_transaction":"swords",
- "original_transaction_amount":"425331.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"PLN of Braavos"
+ "card_number":"344509146680082",
+ "transaction_code":"GMRU49744529696608",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"19:29:46",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"294575.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TTD of Braavos"
 }

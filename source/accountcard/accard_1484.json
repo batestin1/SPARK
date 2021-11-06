@@ -1,0 +1,15 @@
+{
+ "id_client":"GPOI39797201965560",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4086719372092761",
+ "transaction_code":"JMBL21256267268358",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"08:23:06",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"76812.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PHP of Braavos"
+}

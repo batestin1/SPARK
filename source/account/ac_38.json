@@ -1,11 +1,11 @@
 {
- "id_client":"FPQP57012457063317",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"WLNN75721490168106",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"dragon account",
+ "account_type":"checking account",
  "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"RSBB62324183282544",
- "aba":"078847126"
+ "account_status":"activated",
+ "bban_count":"SJND54038925311615",
+ "aba":"035255476"
 }

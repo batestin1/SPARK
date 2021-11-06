@@ -1,0 +1,15 @@
+{
+ "id_client":"JTBA24500590143242",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"5397933762062844",
+ "transaction_code":"FSYB01841381423201",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"08:21:00",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"19680.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NPR of Braavos"
+}

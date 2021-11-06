@@ -1,0 +1,15 @@
+{
+ "id_client":"IYWP46293948484384",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"180009279162187",
+ "transaction_code":"SEHW37480116812335",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"00:12:16",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"970086.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BMD of Braavos"
+}

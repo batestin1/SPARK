@@ -1,12 +1,12 @@
 {
- "id_client":"FDAN24180249904969",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"NYKW27742752218313",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "card_number":"activated",
- "total_limit_value":"797610.0",
- "limit_value_available":"786494.0",
- "total_limit_used":"11116.0",
- "description_card":"VISA 16 digit",
- "security_card":"851",
- "expire_card_number":"08/29"
+ "total_limit_value":"709662.0",
+ "limit_value_available":"625361.0",
+ "total_limit_used":"84301.0",
+ "description_card":"Maestro",
+ "security_card":"881",
+ "expire_card_number":"03/22"
 }

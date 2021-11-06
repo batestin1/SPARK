@@ -1,15 +1,15 @@
 {
- "id_client":"DVZJ21076151152304",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"SAPA80208636870211",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"activated",
- "card_number":"4368312060179634",
- "transaction_code":"QTKS83760125672199",
- "date_transaction":"2021-11-30",
- "time_transaction":"22:51:01",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"685918.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"JMD of Braavos"
+ "card_number":"375161584763855",
+ "transaction_code":"XIEH73732504010928",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"16:08:07",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"464559.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BZD of Braavos"
 }

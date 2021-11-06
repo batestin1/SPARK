@@ -1,11 +1,11 @@
 {
- "id_client":"ZQKL54447710527115",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"KPOW32099889218009",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"RVDP53384914693778",
- "aba":"096031058"
+ "account_type":"checking account",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"ULJH30557233526829",
+ "aba":"091611551"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"RNLY27759009597486",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"YBWW52739192861122",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "status_account_blocked":"not activated",
- "card_number":"4247187356924354271",
- "transaction_code":"TJWB47332640629121",
- "date_transaction":"2021-11-06",
- "time_transaction":"20:45:02",
- "describle_transaction":"horses",
- "original_transaction_amount":"794192.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"LYD of Braavos"
+ "card_number":"5186496771232324",
+ "transaction_code":"HFPV43127728758179",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"15:49:47",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"445738.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"COP of Braavos"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"ZXNC80875575761710",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "status_account_blocked":"activated",
- "card_number":"6534796474259558",
- "transaction_code":"BJWN76029788265498",
- "date_transaction":"2021-11-06",
- "time_transaction":"10:10:15",
- "describle_transaction":"horses",
- "original_transaction_amount":"479437.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"HRK of Braavos"
+ "id_client":"HRAC07584452606308",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"676233653101",
+ "transaction_code":"HROP38033546207296",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"23:30:41",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"476114.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"PEN of Braavos"
 }

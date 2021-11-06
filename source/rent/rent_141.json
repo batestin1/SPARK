@@ -1,10 +1,10 @@
 {
- "id_client":"LDSX37124454843311",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "rent_income_value":"+766996.0",
- "description_chosen_income_method":"+327047.0",
- "total_account_value":"6195407.0",
- "current_account_total_value":"6100001.0",
- "total_amount_carried_over":"95406.0"
+ "id_client":"EEVT88546604246199",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "rent_income_value":"-365139.0",
+ "description_chosen_income_method":"-142349.0",
+ "total_account_value":"587144.0",
+ "current_account_total_value":"293088.0",
+ "total_amount_carried_over":"294056.0"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"DSFB41485796770932",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"30113168001167",
+ "transaction_code":"ARFF03476173156551",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"14:09:32",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"57836.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XDR of Braavos"
+}

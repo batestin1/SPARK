@@ -1,0 +1,15 @@
+{
+ "id_client":"PFDI12024099919122",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4400934444382871",
+ "transaction_code":"NRXQ40798425988184",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"21:46:54",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"670718.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BSD of Braavos"
+}

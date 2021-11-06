@@ -1,0 +1,15 @@
+{
+ "id_client":"BPJG73298024921191",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"30537361573517",
+ "transaction_code":"UVZI47552716526110",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:01:15",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"655841.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"UAH of Braavos"
+}

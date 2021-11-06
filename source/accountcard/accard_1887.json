@@ -1,0 +1,15 @@
+{
+ "id_client":"BFSL97205418309392",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"2485362587026315",
+ "transaction_code":"MQJY73120967225916",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"13:56:42",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"584681.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BZD of Braavos"
+}

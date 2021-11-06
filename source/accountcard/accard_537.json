@@ -1,15 +1,15 @@
 {
- "id_client":"EPIU85287477003447",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"JHFY71135318127332",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"2716144753841698",
- "transaction_code":"PHFF83843597263491",
- "date_transaction":"2021-11-21",
- "time_transaction":"01:07:40",
- "describle_transaction":"golden company",
- "original_transaction_amount":"563502.0",
+ "card_number":"2244779237527248",
+ "transaction_code":"PDJY13480247251925",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"00:07:43",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"386866.0",
  "number_installments_assign":"8",
  "current_installment":"7",
- "currency":"EGP of Braavos"
+ "currency":"XPF of Braavos"
 }

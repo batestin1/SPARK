@@ -1,0 +1,15 @@
+{
+ "id_client":"RUCN94690448961984",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"584216435241",
+ "transaction_code":"KZSH38408234597858",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"00:30:24",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"474320.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"LKR of Braavos"
+}

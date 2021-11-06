@@ -1,0 +1,15 @@
+{
+ "id_client":"ROCX06894971092951",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"activated",
+ "card_number":"6519553011096392",
+ "transaction_code":"LIWZ19002845321387",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"07:17:03",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"65491.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CZK of Braavos"
+}

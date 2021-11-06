@@ -1,0 +1,15 @@
+{
+ "id_client":"BCLT29660037892246",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"3569661372706446",
+ "transaction_code":"WTTO33679613261061",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"11:01:30",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"516442.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MGA of Braavos"
+}

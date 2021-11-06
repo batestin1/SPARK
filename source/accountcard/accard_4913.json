@@ -1,0 +1,15 @@
+{
+ "id_client":"IQGP35332176673954",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"502007304988",
+ "transaction_code":"WMMW59211256153392",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"07:42:02",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"379782.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"VUV of Braavos"
+}

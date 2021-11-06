@@ -1,0 +1,15 @@
+{
+ "id_client":"QDNC10591979061883",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"3532717886852425",
+ "transaction_code":"VUHF35524760843394",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"22:43:29",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"936282.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CHF of Braavos"
+}

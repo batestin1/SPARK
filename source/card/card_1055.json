@@ -1,12 +1,12 @@
 {
- "id_client":"FTIC40537456368880",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"KRYO81822730283254",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "card_number":"activated",
- "total_limit_value":"18626.0",
- "limit_value_available":"-69095.0",
- "total_limit_used":"87721.0",
- "description_card":"American Express",
- "security_card":"123",
- "expire_card_number":"09/23"
+ "total_limit_value":"575818.0",
+ "limit_value_available":"486222.0",
+ "total_limit_used":"89596.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"196",
+ "expire_card_number":"02/30"
 }

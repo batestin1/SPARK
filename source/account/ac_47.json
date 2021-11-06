@@ -1,11 +1,11 @@
 {
- "id_client":"HQSO28394094835036",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"XJAC65784168390143",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"BSKY68170549943076",
- "aba":"095500356"
+ "account_type":"dragon account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"GCVC62777865642946",
+ "aba":"048019111"
 }

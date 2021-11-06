@@ -1,0 +1,15 @@
+{
+ "id_client":"YPLA62792421773761",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"639094632671",
+ "transaction_code":"OUAO44568658595208",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"20:44:14",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"990782.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KRW of Braavos"
+}

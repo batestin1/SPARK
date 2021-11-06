@@ -1,15 +1,15 @@
 {
- "id_client":"SNDY25875017964463",
+ "id_client":"PTYU61969335329833",
  "yearmonthday":"20211127",
  "_yearmonthday":"20211127",
- "status_account_blocked":"not activated",
- "card_number":"30233213967095",
- "transaction_code":"ESWH24383801615472",
- "date_transaction":"2021-11-16",
- "time_transaction":"11:03:45",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"595961.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"SZL of Braavos"
+ "status_account_blocked":"activated",
+ "card_number":"3514210186052492",
+ "transaction_code":"YALZ08659339459029",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"23:49:10",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"439145.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MKD of Braavos"
 }

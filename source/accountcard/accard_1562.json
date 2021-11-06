@@ -1,0 +1,15 @@
+{
+ "id_client":"WAQU82937463011015",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"582634848524",
+ "transaction_code":"QZVM13166793419718",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"19:13:09",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"502218.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BYR of Braavos"
+}

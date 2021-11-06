@@ -1,15 +1,15 @@
 {
- "id_client":"CEHP02944333166374",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"BHWF21620170419382",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"213196335984877",
- "transaction_code":"CBHR51478518274102",
- "date_transaction":"2021-11-10",
- "time_transaction":"11:28:34",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"335621.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"SZL of Braavos"
+ "card_number":"340984423289564",
+ "transaction_code":"FSDS43973434187207",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"20:08:40",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"82333.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ZWD of Braavos"
 }

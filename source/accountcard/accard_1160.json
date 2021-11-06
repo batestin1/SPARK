@@ -1,15 +1,15 @@
 {
- "id_client":"ZNIP35598607505454",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"UIRX17828500955388",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"not activated",
- "card_number":"5298747094534480",
- "transaction_code":"MYVB97475645040696",
- "date_transaction":"2021-11-18",
- "time_transaction":"12:15:07",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"379266.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"KYD of Braavos"
+ "card_number":"4060469749404287",
+ "transaction_code":"JLGS30402711553537",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"23:40:35",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"814435.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SVC of Braavos"
 }

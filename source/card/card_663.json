@@ -1,12 +1,12 @@
 {
- "id_client":"NIEO05537320949104",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"UJVX06239156824146",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "card_number":"not activated",
- "total_limit_value":"37174.0",
- "limit_value_available":"-18795.0",
- "total_limit_used":"55969.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"949",
- "expire_card_number":"08/22"
+ "total_limit_value":"920489.0",
+ "limit_value_available":"886265.0",
+ "total_limit_used":"34224.0",
+ "description_card":"American Express",
+ "security_card":"507",
+ "expire_card_number":"01/29"
 }

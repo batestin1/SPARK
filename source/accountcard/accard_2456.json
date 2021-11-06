@@ -1,0 +1,15 @@
+{
+ "id_client":"FFOF39552025483293",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"378037965943968",
+ "transaction_code":"DNQA51092071743169",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"10:54:54",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"991343.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"OMR of Braavos"
+}

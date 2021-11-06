@@ -1,15 +1,15 @@
 {
- "id_client":"AEAQ52735686293833",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
- "status_account_blocked":"not activated",
- "card_number":"213160850443206",
- "transaction_code":"OPFG77633579501873",
- "date_transaction":"2021-11-21",
- "time_transaction":"10:55:20",
- "describle_transaction":"ships",
- "original_transaction_amount":"408992.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"SRD of Braavos"
+ "id_client":"OQNQ37071598863426",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"6011403164650376",
+ "transaction_code":"EMVR73161035444153",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"10:18:34",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"329102.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MXN of Braavos"
 }

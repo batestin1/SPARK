@@ -1,0 +1,15 @@
+{
+ "id_client":"MODI04088208869212",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"562116098657",
+ "transaction_code":"BOXT35245378626965",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"12:31:23",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"827621.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"FJD of Braavos"
+}

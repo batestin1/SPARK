@@ -1,0 +1,15 @@
+{
+ "id_client":"WKAS59470911897858",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"30475818467027",
+ "transaction_code":"HWKG12419677033295",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"09:17:32",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"330789.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EUR of Braavos"
+}

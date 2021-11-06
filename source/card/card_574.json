@@ -1,12 +1,12 @@
 {
- "id_client":"DVZJ21076151152304",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"SAPA80208636870211",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "card_number":"activated",
- "total_limit_value":"764804.0",
- "limit_value_available":"764777.0",
- "total_limit_used":"27.0",
- "description_card":"Maestro",
- "security_card":"0463",
- "expire_card_number":"12/22"
+ "total_limit_value":"694051.0",
+ "limit_value_available":"637351.0",
+ "total_limit_used":"56700.0",
+ "description_card":"JCB 15 digit",
+ "security_card":"785",
+ "expire_card_number":"10/26"
 }

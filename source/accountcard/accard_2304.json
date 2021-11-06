@@ -1,0 +1,15 @@
+{
+ "id_client":"GTTG17024545338279",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"213144690693857",
+ "transaction_code":"IDRQ36382426828755",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"14:08:15",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"906015.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SGD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"JCZF66948118423423",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4308405345920",
+ "transaction_code":"TWSF19486343664467",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:29:22",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"479161.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"IRR of Braavos"
+}

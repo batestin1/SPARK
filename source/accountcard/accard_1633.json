@@ -1,0 +1,15 @@
+{
+ "id_client":"LDJD35939566192346",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"348524719597460",
+ "transaction_code":"MUOV20335326212974",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"21:20:59",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"458874.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"DZD of Braavos"
+}

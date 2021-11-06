@@ -1,0 +1,15 @@
+{
+ "id_client":"EMCG93457835234203",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"30480752052603",
+ "transaction_code":"RCNN84531549348246",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"20:20:17",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"163134.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ARS of Braavos"
+}

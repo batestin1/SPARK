@@ -1,0 +1,15 @@
+{
+ "id_client":"NTUZ77015628654329",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4548211059692693",
+ "transaction_code":"XILR57617759461661",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"01:00:06",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"61020.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BND of Braavos"
+}

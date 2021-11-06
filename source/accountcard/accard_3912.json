@@ -1,0 +1,15 @@
+{
+ "id_client":"OXXU41724612936557",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"6507887304766244",
+ "transaction_code":"DYXP81011676254380",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"20:10:21",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"341617.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MAD of Braavos"
+}

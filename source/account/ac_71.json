@@ -1,11 +1,11 @@
 {
- "id_client":"UOIM85800879059604",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"NAVT35063709289673",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"QBOQ72704469736649",
- "aba":"092314094"
+ "account_type":"dragon account",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"HYRV96176520710447",
+ "aba":"041546191"
 }

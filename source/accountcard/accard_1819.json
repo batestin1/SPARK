@@ -1,0 +1,15 @@
+{
+ "id_client":"ZATS38786950894596",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4154766592925343",
+ "transaction_code":"DRBN68106306954663",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"08:46:06",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"546635.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BOB of Braavos"
+}

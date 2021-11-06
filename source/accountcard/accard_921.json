@@ -1,15 +1,15 @@
 {
- "id_client":"IRQL06129266361315",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"MXMQ70610977816437",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "status_account_blocked":"activated",
- "card_number":"180070919061015",
- "transaction_code":"QKZJ46779158179949",
- "date_transaction":"2021-11-27",
- "time_transaction":"17:30:50",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"308257.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"EGP of Braavos"
+ "card_number":"2232308759877460",
+ "transaction_code":"AKFF76134985425786",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"10:33:04",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"441665.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MVR of Braavos"
 }

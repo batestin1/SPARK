@@ -1,0 +1,15 @@
+{
+ "id_client":"MLAD06364549256270",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"30066753300339",
+ "transaction_code":"ECRI17382808709824",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"03:22:49",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"962395.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MXN of Braavos"
+}

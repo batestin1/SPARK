@@ -1,0 +1,15 @@
+{
+ "id_client":"HTOE02459943850537",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"503898787463",
+ "transaction_code":"QVTG90915574034787",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"01:04:37",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"350549.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BMD of Braavos"
+}

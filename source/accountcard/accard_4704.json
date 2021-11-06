@@ -1,0 +1,15 @@
+{
+ "id_client":"FSHZ60733996542050",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"2259394043119719",
+ "transaction_code":"IVAL34133871822642",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"18:51:17",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"20519.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SBD of Braavos"
+}

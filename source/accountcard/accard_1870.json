@@ -1,0 +1,15 @@
+{
+ "id_client":"GQGC30850274983127",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"581622311255",
+ "transaction_code":"XWVF08223566593569",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"03:34:33",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"494603.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"VND of Braavos"
+}

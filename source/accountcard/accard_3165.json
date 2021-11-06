@@ -1,0 +1,15 @@
+{
+ "id_client":"IMPA19664888694800",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3586920612875133",
+ "transaction_code":"NEOF97544312596174",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:30:29",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"3488.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CNY of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"SIBG11901035109541",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"213115696627040",
+ "transaction_code":"WGIA19408460700410",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"12:13:18",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"306145.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LRD of Braavos"
+}

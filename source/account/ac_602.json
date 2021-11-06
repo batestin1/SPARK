@@ -1,11 +1,11 @@
 {
- "id_client":"AOIL44456143169631",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"RGLX35502878204375",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"dragon account",
  "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"DIMZ25029250836861",
- "aba":"015630112"
+ "account_status":"activated",
+ "bban_count":"ACXP68940312755976",
+ "aba":"083746611"
 }

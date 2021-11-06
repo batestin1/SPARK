@@ -1,15 +1,15 @@
 {
- "id_client":"UTVA43185786813714",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"RDDG01506710761056",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "status_account_blocked":"activated",
- "card_number":"2720141820322268",
- "transaction_code":"KRQG67168075969005",
- "date_transaction":"2021-11-18",
- "time_transaction":"14:10:23",
- "describle_transaction":"brothel",
- "original_transaction_amount":"29525.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"CUP of Braavos"
+ "card_number":"4169857724538347657",
+ "transaction_code":"XDSA78078634908188",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:42:37",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"526562.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TOP of Braavos"
 }

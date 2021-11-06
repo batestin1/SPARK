@@ -1,0 +1,15 @@
+{
+ "id_client":"DMLS46150656546298",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"3543201074007818",
+ "transaction_code":"WELP36084808649985",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"11:44:44",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"12323.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"XAF of Braavos"
+}

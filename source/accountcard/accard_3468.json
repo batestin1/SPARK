@@ -1,0 +1,15 @@
+{
+ "id_client":"SDIN97594372158003",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"38609647159676",
+ "transaction_code":"POIP01499746018457",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"12:20:01",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"629984.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ANG of Braavos"
+}

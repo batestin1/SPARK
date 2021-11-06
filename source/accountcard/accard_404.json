@@ -1,15 +1,15 @@
 {
- "id_client":"HJVD29398082912017",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"JJWI12087899801525",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"not activated",
- "card_number":"4839511825190940287",
- "transaction_code":"FOIA72610072002148",
- "date_transaction":"2021-11-07",
- "time_transaction":"00:24:06",
- "describle_transaction":"theater",
- "original_transaction_amount":"485708.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"CRC of Braavos"
+ "card_number":"6565378662270838",
+ "transaction_code":"BBEJ00227166568750",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"11:22:32",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"161943.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TJS of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"DQTD18158107907078",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4989855661475578",
+ "transaction_code":"NWAJ04980139308169",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"04:41:47",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"653475.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PKR of Braavos"
+}

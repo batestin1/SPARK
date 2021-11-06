@@ -1,0 +1,15 @@
+{
+ "id_client":"SCTX30494904079419",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"5517969863891207",
+ "transaction_code":"BUGZ31598059722431",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"10:53:17",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"182537.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"RSD of Braavos"
+}

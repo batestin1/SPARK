@@ -1,15 +1,15 @@
 {
- "id_client":"WVDG83840496145889",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"ZBBF76830044605975",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "status_account_blocked":"activated",
- "card_number":"6520899385466126",
- "transaction_code":"CKXI90424366302976",
- "date_transaction":"2021-11-08",
- "time_transaction":"17:53:58",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"15907.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"SAR of Braavos"
+ "card_number":"4015539677361794",
+ "transaction_code":"LPCJ88003353986238",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"02:03:46",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"713437.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CNY of Braavos"
 }

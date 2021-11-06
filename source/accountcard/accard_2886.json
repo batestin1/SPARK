@@ -1,0 +1,15 @@
+{
+ "id_client":"JCDR25180832823169",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4299963071099783",
+ "transaction_code":"OXLI19999906063064",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"04:44:18",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"646778.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LBP of Braavos"
+}

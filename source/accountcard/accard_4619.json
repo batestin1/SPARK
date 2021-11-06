@@ -1,0 +1,15 @@
+{
+ "id_client":"ZZSD49204587144284",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"6509494365080546",
+ "transaction_code":"HBRB51739460866162",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"05:25:02",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"394499.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"VEF of Braavos"
+}

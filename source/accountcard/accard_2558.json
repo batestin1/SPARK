@@ -1,0 +1,15 @@
+{
+ "id_client":"BCYR89321513463115",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"6573650864612193",
+ "transaction_code":"WUEF07031628549338",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"21:02:00",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"578719.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"STD of Braavos"
+}

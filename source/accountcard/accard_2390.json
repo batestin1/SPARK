@@ -1,0 +1,15 @@
+{
+ "id_client":"FCVN01574732504311",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4043658958875680",
+ "transaction_code":"KDGW66817239504581",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:51:35",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"969552.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"IMP of Braavos"
+}

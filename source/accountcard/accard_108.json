@@ -1,15 +1,15 @@
 {
- "id_client":"TOHM20716269727706",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"EMLB11500014734063",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"activated",
- "card_number":"2229909444709946",
- "transaction_code":"YEPG12787452866507",
- "date_transaction":"2021-11-13",
- "time_transaction":"15:19:45",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"135582.0",
+ "card_number":"3561177486358741",
+ "transaction_code":"DEPB12929676715185",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"07:53:05",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"305994.0",
  "number_installments_assign":"1",
  "current_installment":"0",
- "currency":"ZWD of Braavos"
+ "currency":"GNF of Braavos"
 }

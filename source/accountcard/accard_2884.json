@@ -1,0 +1,15 @@
+{
+ "id_client":"JJFX48481437558674",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3545885077875813",
+ "transaction_code":"BRJM02029968606802",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"23:19:01",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"990636.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"AED of Braavos"
+}

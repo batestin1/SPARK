@@ -1,0 +1,15 @@
+{
+ "id_client":"XGPS33848336322353",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"2720793207933792",
+ "transaction_code":"WKYU07123802904866",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"23:52:47",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"281101.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"IDR of Braavos"
+}

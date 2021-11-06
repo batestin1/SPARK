@@ -1,0 +1,15 @@
+{
+ "id_client":"SCOQ56679285030332",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"4058602198263",
+ "transaction_code":"VWLM38956508262200",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"17:15:57",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"231314.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"WST of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"UTLN16860372979150",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"GXYS70980140132758",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"3583548554063765",
- "transaction_code":"IJPV49979419245099",
- "date_transaction":"2021-11-21",
- "time_transaction":"22:48:41",
- "describle_transaction":"ships",
- "original_transaction_amount":"330363.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"INR of Braavos"
+ "card_number":"4803091228384582",
+ "transaction_code":"PVKL57535123768401",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"19:42:26",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"368324.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"DJF of Braavos"
 }

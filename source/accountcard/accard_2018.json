@@ -1,0 +1,15 @@
+{
+ "id_client":"FGXL23540917262549",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"6011297183150461",
+ "transaction_code":"JUMT48832418542214",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"05:20:56",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"434460.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UZS of Braavos"
+}

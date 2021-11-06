@@ -1,0 +1,15 @@
+{
+ "id_client":"KJSM24756778691302",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"180036355661527",
+ "transaction_code":"DHBR21938746179834",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"21:52:56",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"657713.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BIF of Braavos"
+}

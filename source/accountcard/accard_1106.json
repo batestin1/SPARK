@@ -1,15 +1,15 @@
 {
- "id_client":"SYMT54147027714844",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"XQTG34537191375773",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "status_account_blocked":"activated",
- "card_number":"376840903246705",
- "transaction_code":"TVTR74155388505072",
- "date_transaction":"2021-11-27",
- "time_transaction":"04:19:35",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"487041.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"LSL of Braavos"
+ "card_number":"345882127728819",
+ "transaction_code":"SUQL30092482835862",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:32:54",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"852927.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AED of Braavos"
 }

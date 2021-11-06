@@ -1,0 +1,15 @@
+{
+ "id_client":"WVYZ00794996773158",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"2545077906106626",
+ "transaction_code":"ZSWU67760520446535",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"00:23:34",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"672975.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"DOP of Braavos"
+}

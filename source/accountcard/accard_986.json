@@ -1,15 +1,15 @@
 {
- "id_client":"WMSW04944708377579",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "status_account_blocked":"activated",
- "card_number":"3558262258102074",
- "transaction_code":"ILFS45494684048546",
- "date_transaction":"2021-11-23",
- "time_transaction":"23:18:22",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"849001.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"RUB of Braavos"
+ "id_client":"DGXP74358092609998",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"2271616623005395",
+ "transaction_code":"KXCK10811630067032",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"04:14:31",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"106790.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KRW of Braavos"
 }

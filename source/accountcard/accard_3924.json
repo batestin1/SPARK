@@ -1,0 +1,15 @@
+{
+ "id_client":"AMIJ80126802955128",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"6525935785808148",
+ "transaction_code":"BLNY43828099556167",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"04:28:33",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"431865.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BSD of Braavos"
+}

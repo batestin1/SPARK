@@ -1,0 +1,15 @@
+{
+ "id_client":"QIUL45959578169050",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4596116294438433",
+ "transaction_code":"XAPQ89369561235820",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"20:31:03",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"830669.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ARS of Braavos"
+}

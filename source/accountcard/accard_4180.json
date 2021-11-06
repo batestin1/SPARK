@@ -1,0 +1,15 @@
+{
+ "id_client":"MSED20395538500081",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4091294947366",
+ "transaction_code":"QMBR03970636988457",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"11:45:07",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"705407.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"COP of Braavos"
+}

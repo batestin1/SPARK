@@ -1,0 +1,15 @@
+{
+ "id_client":"YGRO39538516462826",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"346543761987462",
+ "transaction_code":"JEEX08300231043090",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"05:04:49",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"788831.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JOD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"UKRS67331846939729",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"6011004265949939",
+ "transaction_code":"HKGO00785569075514",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"14:59:56",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"421310.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MYR of Braavos"
+}

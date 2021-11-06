@@ -1,11 +1,11 @@
 {
- "id_client":"MEDN81964894834906",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"RRUT84047316580327",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
+ "account_type":"savings account",
+ "investor_profile":"Risky",
  "account_status":"activated",
- "bban_count":"RLIL18844590223954",
- "aba":"048797297"
+ "bban_count":"ABGP73742092621167",
+ "aba":"044586000"
 }

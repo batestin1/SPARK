@@ -1,0 +1,15 @@
+{
+ "id_client":"EVSU15278683566461",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4208683841947646",
+ "transaction_code":"VPAK73345801452290",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"19:03:17",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"794062.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"OMR of Braavos"
+}

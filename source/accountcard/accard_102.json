@@ -1,15 +1,15 @@
 {
- "id_client":"ACLD06713088423896",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"NFLG17698368697984",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"36629092199482",
- "transaction_code":"LSWC43554956135743",
- "date_transaction":"2021-11-28",
- "time_transaction":"13:58:13",
- "describle_transaction":"brothel",
- "original_transaction_amount":"496133.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"SOS of Braavos"
+ "card_number":"180052165244024",
+ "transaction_code":"XKEK32192980627813",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"04:01:35",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"891701.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BDT of Braavos"
 }

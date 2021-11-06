@@ -1,11 +1,11 @@
 {
- "id_client":"JOWH17117533604528",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"MRPB46460184405703",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
  "account_status":"activated",
- "bban_count":"ICZJ20495354033186",
- "aba":"031920416"
+ "bban_count":"OWNL41008494890101",
+ "aba":"030558529"
 }

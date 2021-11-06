@@ -1,15 +1,15 @@
 {
- "id_client":"BYGL92172990101630",
+ "id_client":"KRAF20390034118392",
  "yearmonthday":"20211119",
  "_yearmonthday":"20211119",
- "status_account_blocked":"activated",
- "card_number":"370693772700252",
- "transaction_code":"WRAL33818468273087",
- "date_transaction":"2021-11-22",
- "time_transaction":"21:55:33",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"195946.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"KZT of Braavos"
+ "status_account_blocked":"not activated",
+ "card_number":"4549804047416654193",
+ "transaction_code":"HTGT52377183485180",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"02:54:19",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"996808.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AED of Braavos"
 }

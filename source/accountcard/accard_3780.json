@@ -1,0 +1,15 @@
+{
+ "id_client":"EEKD93323519438016",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3548649142169553",
+ "transaction_code":"AGPY73312810663266",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"15:25:26",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"121780.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CUC of Braavos"
+}

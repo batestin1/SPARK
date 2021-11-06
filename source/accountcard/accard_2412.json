@@ -1,0 +1,15 @@
+{
+ "id_client":"LCDL40230766944752",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"3588202609710104",
+ "transaction_code":"PUBE69369449258609",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:14:17",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"949377.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MGA of Braavos"
+}

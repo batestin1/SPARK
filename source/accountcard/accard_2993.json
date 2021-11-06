@@ -1,0 +1,15 @@
+{
+ "id_client":"KIOK26185161021562",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4803837737314",
+ "transaction_code":"GAOL71231453009671",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"21:37:23",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"21952.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SCR of Braavos"
+}

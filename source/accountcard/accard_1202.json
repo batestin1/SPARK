@@ -1,0 +1,15 @@
+{
+ "id_client":"MXXQ31224245999849",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"2710299788818313",
+ "transaction_code":"XMYK14837992037971",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"05:08:45",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"130257.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KWD of Braavos"
+}

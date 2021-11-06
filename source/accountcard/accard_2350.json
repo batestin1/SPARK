@@ -1,0 +1,15 @@
+{
+ "id_client":"GUBD93398849682107",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"503829754384",
+ "transaction_code":"BJKP02070625147258",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:29:18",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"131062.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KHR of Braavos"
+}

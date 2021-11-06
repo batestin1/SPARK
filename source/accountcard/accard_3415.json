@@ -1,0 +1,15 @@
+{
+ "id_client":"FUJR64651437897758",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"676174259819",
+ "transaction_code":"UJFG92809933005846",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"06:23:34",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"151253.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GBP of Braavos"
+}

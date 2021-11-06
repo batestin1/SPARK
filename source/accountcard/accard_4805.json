@@ -1,0 +1,15 @@
+{
+ "id_client":"NHNX93558182444357",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"3536526822416682",
+ "transaction_code":"CECF94707015075761",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"05:22:13",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"870286.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BHD of Braavos"
+}

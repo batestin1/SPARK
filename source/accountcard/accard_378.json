@@ -1,15 +1,15 @@
 {
- "id_client":"KZKS79018982311275",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"THVP50785465771913",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"3589699109793259",
- "transaction_code":"NGZG74505019510411",
- "date_transaction":"2021-12-03",
- "time_transaction":"14:47:10",
+ "card_number":"4155568453607",
+ "transaction_code":"HNBI46789362651472",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"04:58:03",
  "describle_transaction":"ships",
- "original_transaction_amount":"443167.0",
+ "original_transaction_amount":"498036.0",
  "number_installments_assign":"9",
  "current_installment":"8",
- "currency":"BGN of Braavos"
+ "currency":"MDL of Braavos"
 }

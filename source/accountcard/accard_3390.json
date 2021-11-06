@@ -1,0 +1,15 @@
+{
+ "id_client":"DOCF05776285538255",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4513796732526756",
+ "transaction_code":"LJCG90665945142579",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"12:07:17",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"968461.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SEK of Braavos"
+}

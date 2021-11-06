@@ -1,15 +1,15 @@
 {
- "id_client":"XGWT93884048412238",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"FWJL94668909512853",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "status_account_blocked":"not activated",
- "card_number":"3560874715286666",
- "transaction_code":"WBNK05959683279494",
- "date_transaction":"2021-11-11",
- "time_transaction":"23:25:04",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"918528.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"GEL of Braavos"
+ "card_number":"30046505866555",
+ "transaction_code":"KPSJ47494282817644",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"09:27:49",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"457921.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ZAR of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"NAGG97683524239430",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4081333507097094",
+ "transaction_code":"AXMN87369332373278",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"05:46:54",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"910549.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GIP of Braavos"
+}

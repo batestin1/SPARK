@@ -1,11 +1,11 @@
 {
- "id_client":"UANG97103673536854",
+ "id_client":"OANL38709082972549",
  "yearmonthday":"20211123",
  "_yearmonthday":"20211123",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"WBWO04726519514694",
- "aba":"033900344"
+ "account_type":"checking account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"NYRI20038543674588",
+ "aba":"096295905"
 }

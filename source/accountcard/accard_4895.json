@@ -1,0 +1,15 @@
+{
+ "id_client":"OSMN47170723299211",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"676136667463",
+ "transaction_code":"DKJT01957474584147",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"02:02:25",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"343907.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ANG of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"KFTV50033345187509",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"3518518074979089",
+ "transaction_code":"MNEP91510156787572",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"09:01:51",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"539055.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MKD of Braavos"
+}

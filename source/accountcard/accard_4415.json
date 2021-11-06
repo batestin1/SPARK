@@ -1,0 +1,15 @@
+{
+ "id_client":"OVNF02601127184968",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4235603973718",
+ "transaction_code":"AYBM48073203976639",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"23:18:08",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"300389.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ISK of Braavos"
+}

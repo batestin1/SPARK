@@ -1,0 +1,15 @@
+{
+ "id_client":"NKDS63400529523895",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4276663668801149",
+ "transaction_code":"SJAR58801259887182",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"23:52:03",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"827220.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BAM of Braavos"
+}

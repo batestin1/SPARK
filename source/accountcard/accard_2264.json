@@ -1,0 +1,15 @@
+{
+ "id_client":"BCGH51781518909583",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4980451722747",
+ "transaction_code":"SNQH32531828358293",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"13:05:22",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"330411.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BWP of Braavos"
+}

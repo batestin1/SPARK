@@ -1,15 +1,15 @@
 {
- "id_client":"EFOC42343354582039",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"DSLQ11857463595555",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"activated",
- "card_number":"4867234105210925",
- "transaction_code":"DWHD49965180236144",
- "date_transaction":"2021-11-07",
- "time_transaction":"06:13:52",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"982577.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"CNY of Braavos"
+ "card_number":"2287336590498547",
+ "transaction_code":"EDIR61910329382952",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"11:36:37",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"211421.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"UZS of Braavos"
 }

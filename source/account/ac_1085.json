@@ -1,11 +1,11 @@
 {
- "id_client":"ACQW89013974760621",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"YPIA51814755631684",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"CWGD90542236677094",
- "aba":"036523225"
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"IKRE76303936942343",
+ "aba":"016734247"
 }

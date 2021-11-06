@@ -1,15 +1,15 @@
 {
- "id_client":"HKWK95452501494803",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"VKIN71642896168283",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "status_account_blocked":"not activated",
- "card_number":"4276334413129737",
- "transaction_code":"NUSY54099605682841",
- "date_transaction":"2021-11-23",
- "time_transaction":"23:53:49",
- "describle_transaction":"horses",
- "original_transaction_amount":"875993.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"SYP of Braavos"
+ "card_number":"2710102454746661",
+ "transaction_code":"EDJC31454276560689",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"20:16:35",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"619716.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NZD of Braavos"
 }

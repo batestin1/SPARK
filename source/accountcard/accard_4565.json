@@ -1,0 +1,15 @@
+{
+ "id_client":"ETDF08046818893758",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"5568767242115373",
+ "transaction_code":"IAYT99069145363139",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"14:17:32",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"346935.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BAM of Braavos"
+}

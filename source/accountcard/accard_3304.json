@@ -1,0 +1,15 @@
+{
+ "id_client":"ZOET36362491334141",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"676221490649",
+ "transaction_code":"ZVGS76213619781902",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"18:12:09",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"380437.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ZMW of Braavos"
+}

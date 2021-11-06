@@ -1,0 +1,15 @@
+{
+ "id_client":"JUPS45123672632245",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4591967134129334",
+ "transaction_code":"UKDU96669701572062",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"16:20:05",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"289099.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"COP of Braavos"
+}

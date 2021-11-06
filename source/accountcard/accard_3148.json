@@ -1,0 +1,15 @@
+{
+ "id_client":"RDOX60893300091413",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"343098319721130",
+ "transaction_code":"VTII91308364827949",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:04:40",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"273680.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BIF of Braavos"
+}

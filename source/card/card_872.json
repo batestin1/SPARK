@@ -1,12 +1,12 @@
 {
- "id_client":"SBJN42831720036625",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"SMCK02641961769993",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "card_number":"not activated",
- "total_limit_value":"163485.0",
- "limit_value_available":"134844.0",
- "total_limit_used":"28641.0",
- "description_card":"Discover",
- "security_card":"472",
- "expire_card_number":"11/29"
+ "total_limit_value":"542275.0",
+ "limit_value_available":"536907.0",
+ "total_limit_used":"5368.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"185",
+ "expire_card_number":"01/24"
 }

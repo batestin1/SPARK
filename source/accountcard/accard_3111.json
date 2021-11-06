@@ -1,0 +1,15 @@
+{
+ "id_client":"IOPT36008481229142",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"6011194995484867",
+ "transaction_code":"HNRM66465138906764",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"18:31:12",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"250902.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CLP of Braavos"
+}

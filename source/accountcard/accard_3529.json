@@ -1,0 +1,15 @@
+{
+ "id_client":"CHBN38377656427635",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"30095438507422",
+ "transaction_code":"TUBI93150663356703",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"13:09:17",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"52021.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TZS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"PHIC17343242940880",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4538306471978159",
+ "transaction_code":"XUUE95445191197326",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"21:10:39",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"740547.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"LTL of Braavos"
+}

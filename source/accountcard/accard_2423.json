@@ -1,0 +1,15 @@
+{
+ "id_client":"SGAX70901841741923",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4562746653315",
+ "transaction_code":"GZYR65667485874516",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"04:04:51",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"191886.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"UAH of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"TAMM07503121099883",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
- "rent_income_value":"-384659.0",
- "description_chosen_income_method":"+976556.0",
- "total_account_value":"6863465.0",
- "current_account_total_value":"6770974.0",
- "total_amount_carried_over":"92491.0"
+ "id_client":"CNNU86000026558807",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "rent_income_value":"+931835.0",
+ "description_chosen_income_method":"+692461.0",
+ "total_account_value":"7838516.0",
+ "current_account_total_value":"7086637.0",
+ "total_amount_carried_over":"751879.0"
 }

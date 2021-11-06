@@ -1,0 +1,15 @@
+{
+ "id_client":"RONU12541249734936",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4761703946742",
+ "transaction_code":"AHLE66352080155822",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"22:03:19",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"821312.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NPR of Braavos"
+}

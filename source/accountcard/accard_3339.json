@@ -1,0 +1,15 @@
+{
+ "id_client":"BJNM79375404864107",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4024685530673",
+ "transaction_code":"ASTK23603154100521",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"00:13:48",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"847792.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"VEF of Braavos"
+}

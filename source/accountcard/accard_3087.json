@@ -1,0 +1,15 @@
+{
+ "id_client":"UMDD94039520477144",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"180060283853493",
+ "transaction_code":"WFQT80032683975148",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:58:38",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"550690.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"RUB of Braavos"
+}

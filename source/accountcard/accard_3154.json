@@ -1,0 +1,15 @@
+{
+ "id_client":"VIZI95807793554844",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"6011462909843217",
+ "transaction_code":"ARYO49440243049247",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"08:21:36",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"159594.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GHS of Braavos"
+}

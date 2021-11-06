@@ -1,0 +1,15 @@
+{
+ "id_client":"LKIA87677779806016",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"4933108086971509",
+ "transaction_code":"VGKO23434754086305",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"17:13:04",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"93523.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"OMR of Braavos"
+}

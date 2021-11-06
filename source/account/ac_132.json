@@ -1,11 +1,11 @@
 {
- "id_client":"SPBM54082141183293",
+ "id_client":"YPKA29619228453010",
  "yearmonthday":"20211119",
  "_yearmonthday":"20211119",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Reliable",
+ "account_type":"checking account",
+ "investor_profile":"Risky",
  "account_status":"not activated",
- "bban_count":"BRCW23327195511929",
- "aba":"035963387"
+ "bban_count":"SOPO02701667718939",
+ "aba":"068764324"
 }

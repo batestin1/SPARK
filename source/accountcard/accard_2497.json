@@ -1,0 +1,15 @@
+{
+ "id_client":"HBHB07530341085980",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4270139471814534",
+ "transaction_code":"FNOU29661907282128",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"22:05:06",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"956508.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HRK of Braavos"
+}

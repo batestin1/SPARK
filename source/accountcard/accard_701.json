@@ -1,15 +1,15 @@
 {
- "id_client":"IOLO69733737428644",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"VVVR32154130963352",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"30100213293709",
- "transaction_code":"IRCH91418854444243",
- "date_transaction":"2021-11-25",
- "time_transaction":"11:24:06",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"336399.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"RON of Braavos"
+ "card_number":"4638696807791089",
+ "transaction_code":"GEOM88249734490684",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"21:10:30",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"510370.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MXN of Braavos"
 }

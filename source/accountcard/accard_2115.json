@@ -1,0 +1,15 @@
+{
+ "id_client":"QNFH27807677075528",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4779547822200",
+ "transaction_code":"TRPK37987422027546",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:31:11",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"178408.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DKK of Braavos"
+}

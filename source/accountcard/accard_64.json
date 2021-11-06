@@ -1,15 +1,15 @@
 {
- "id_client":"GLFQ64756724157509",
+ "id_client":"DKPF36578776521610",
  "yearmonthday":"20211115",
  "_yearmonthday":"20211115",
- "status_account_blocked":"not activated",
- "card_number":"4031209664669068",
- "transaction_code":"FWEA60297950349835",
- "date_transaction":"2021-11-09",
- "time_transaction":"05:46:58",
- "describle_transaction":"swords",
- "original_transaction_amount":"76089.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"LYD of Braavos"
+ "status_account_blocked":"activated",
+ "card_number":"583945304967",
+ "transaction_code":"VQXP23931426952208",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"13:55:21",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"170638.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KMF of Braavos"
 }

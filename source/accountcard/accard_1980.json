@@ -1,0 +1,15 @@
+{
+ "id_client":"QGLD77257103765308",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"3554404682541840",
+ "transaction_code":"SZXZ21237326298627",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"13:08:14",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"267061.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CHF of Braavos"
+}

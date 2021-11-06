@@ -1,10 +1,10 @@
 {
- "id_client":"HGDT98457987255362",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "rent_income_value":"-497351.0",
- "description_chosen_income_method":"+129153.0",
- "total_account_value":"2704160.0",
- "current_account_total_value":"2515683.0",
- "total_amount_carried_over":"188477.0"
+ "id_client":"NUCU02817348897537",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "rent_income_value":"+315822.0",
+ "description_chosen_income_method":"-611110.0",
+ "total_account_value":"1475705.0",
+ "current_account_total_value":"679181.0",
+ "total_amount_carried_over":"796524.0"
 }

@@ -1,11 +1,11 @@
 {
- "id_client":"GLBR56123172691436",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"PHXA45259254674702",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"GWBM99740692147366",
- "aba":"088563622"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"PLRF98984626181675",
+ "aba":"023400698"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"LQXK37152698769748",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"213148251448734",
+ "transaction_code":"AEAG18605232181342",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"02:38:51",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"579289.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LAK of Braavos"
+}

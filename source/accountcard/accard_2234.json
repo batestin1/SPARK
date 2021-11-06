@@ -1,0 +1,15 @@
+{
+ "id_client":"JCUJ56553934469443",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4174898813494902",
+ "transaction_code":"LBPN60808001873886",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"15:49:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"825945.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UGX of Braavos"
+}

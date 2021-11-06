@@ -1,0 +1,15 @@
+{
+ "id_client":"UCHU58041420471041",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4782790100522",
+ "transaction_code":"ZWUQ04480642433526",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"20:56:07",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"367811.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SEK of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HVLZ93407456797093",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"375505055655034",
+ "transaction_code":"FQOK54174409458753",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"12:00:16",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"42999.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TTD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"IFWJ71487399032758",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4183443756843838",
+ "transaction_code":"TWZR58982797518973",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"12:15:35",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"664037.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UGX of Braavos"
+}

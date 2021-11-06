@@ -1,0 +1,15 @@
+{
+ "id_client":"LEYW42424201816675",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"378761023686471",
+ "transaction_code":"TJUR54550211318340",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"09:03:37",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"365771.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"VND of Braavos"
+}

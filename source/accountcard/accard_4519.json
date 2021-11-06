@@ -1,0 +1,15 @@
+{
+ "id_client":"KXXY80573246588958",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"3523966965051265",
+ "transaction_code":"ZPAR46743298341608",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"03:35:12",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"144281.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BND of Braavos"
+}

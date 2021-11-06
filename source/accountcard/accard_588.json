@@ -1,15 +1,15 @@
 {
- "id_client":"CJVA28910942560671",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"BZKR29619829155097",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "status_account_blocked":"not activated",
- "card_number":"4083099249109913",
- "transaction_code":"LKAA64124732177843",
- "date_transaction":"2021-11-26",
- "time_transaction":"02:12:40",
+ "card_number":"501873178179",
+ "transaction_code":"WCXJ89740690175379",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"22:21:09",
  "describle_transaction":"Marketplace",
- "original_transaction_amount":"616793.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"FJD of Braavos"
+ "original_transaction_amount":"732132.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KRW of Braavos"
 }

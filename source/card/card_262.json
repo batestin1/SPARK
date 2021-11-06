@@ -1,12 +1,12 @@
 {
- "id_client":"XLDG36603077440936",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"WBWV98572574659719",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "card_number":"activated",
- "total_limit_value":"897678.0",
- "limit_value_available":"852222.0",
- "total_limit_used":"45456.0",
- "description_card":"Maestro",
- "security_card":"7116",
- "expire_card_number":"07/28"
+ "total_limit_value":"864921.0",
+ "limit_value_available":"832639.0",
+ "total_limit_used":"32282.0",
+ "description_card":"Discover",
+ "security_card":"830",
+ "expire_card_number":"01/30"
 }

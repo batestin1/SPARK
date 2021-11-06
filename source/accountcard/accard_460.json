@@ -1,15 +1,15 @@
 {
- "id_client":"SWIU93860777495107",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
+ "id_client":"IWHB45434118176155",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"activated",
- "card_number":"343640400871363",
- "transaction_code":"IGQH65979070222579",
- "date_transaction":"2021-11-16",
- "time_transaction":"07:20:15",
- "describle_transaction":"brothel",
- "original_transaction_amount":"125293.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"CZK of Braavos"
+ "card_number":"630402394278",
+ "transaction_code":"UWJY48676081264166",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"16:24:50",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"198039.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"UAH of Braavos"
 }

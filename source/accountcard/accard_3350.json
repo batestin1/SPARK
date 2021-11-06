@@ -1,0 +1,15 @@
+{
+ "id_client":"NRML75977926618788",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"6011716184875933",
+ "transaction_code":"BMJA08731075637974",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"10:50:11",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"75727.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"STD of Braavos"
+}

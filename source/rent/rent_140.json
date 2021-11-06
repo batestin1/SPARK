@@ -1,10 +1,10 @@
 {
- "id_client":"TCUD07467466558793",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
- "rent_income_value":"+892600.0",
- "description_chosen_income_method":"-317788.0",
- "total_account_value":"449797.0",
- "current_account_total_value":"411366.0",
- "total_amount_carried_over":"38431.0"
+ "id_client":"OKPS63291073337706",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "rent_income_value":"-572040.0",
+ "description_chosen_income_method":"+133688.0",
+ "total_account_value":"1329681.0",
+ "current_account_total_value":"1171083.0",
+ "total_amount_carried_over":"158598.0"
 }

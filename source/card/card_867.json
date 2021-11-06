@@ -1,12 +1,12 @@
 {
- "id_client":"NYGP82820259136897",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"UOBY17989094609563",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "card_number":"activated",
- "total_limit_value":"181784.0",
- "limit_value_available":"121268.0",
- "total_limit_used":"60516.0",
- "description_card":"JCB 15 digit",
- "security_card":"375",
- "expire_card_number":"07/31"
+ "total_limit_value":"955760.0",
+ "limit_value_available":"858382.0",
+ "total_limit_used":"97378.0",
+ "description_card":"Discover",
+ "security_card":"2133",
+ "expire_card_number":"10/27"
 }

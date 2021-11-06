@@ -1,0 +1,15 @@
+{
+ "id_client":"NKSC41004141047750",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"3517693725805420",
+ "transaction_code":"WTPK91619972933521",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"19:32:33",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"989811.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AMD of Braavos"
+}

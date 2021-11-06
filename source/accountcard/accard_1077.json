@@ -1,15 +1,15 @@
 {
- "id_client":"VLKQ52969420762063",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
- "status_account_blocked":"not activated",
- "card_number":"6011321387656840",
- "transaction_code":"WBQL10063431755799",
- "date_transaction":"2021-11-13",
- "time_transaction":"13:40:02",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"9371.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"PKR of Braavos"
+ "id_client":"WIYQ38238159549622",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"6580141855720220",
+ "transaction_code":"GBOF20891244367007",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"15:00:44",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"292340.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CVE of Braavos"
 }

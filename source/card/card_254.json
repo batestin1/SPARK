@@ -1,12 +1,12 @@
 {
- "id_client":"OASV47882487495263",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"UIUK31274504233490",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "card_number":"activated",
- "total_limit_value":"424976.0",
- "limit_value_available":"336178.0",
- "total_limit_used":"88798.0",
- "description_card":"Maestro",
- "security_card":"973",
- "expire_card_number":"01/27"
+ "total_limit_value":"806520.0",
+ "limit_value_available":"736420.0",
+ "total_limit_used":"70100.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"624",
+ "expire_card_number":"06/30"
 }

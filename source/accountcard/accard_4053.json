@@ -1,0 +1,15 @@
+{
+ "id_client":"NIVJ81086149390851",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"2264037239716599",
+ "transaction_code":"MQFF62239123440028",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"07:34:16",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"885806.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ERN of Braavos"
+}

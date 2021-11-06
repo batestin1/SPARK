@@ -1,15 +1,15 @@
 {
- "id_client":"ABTZ42251733242029",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"IURK48925050383043",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"2709969873776864",
- "transaction_code":"XMBN24346625492506",
- "date_transaction":"2021-12-03",
- "time_transaction":"02:13:36",
- "describle_transaction":"ships",
- "original_transaction_amount":"642521.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"TRY of Braavos"
+ "card_number":"344694385392241",
+ "transaction_code":"YGUO64259821839837",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"02:24:33",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"345526.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UZS of Braavos"
 }

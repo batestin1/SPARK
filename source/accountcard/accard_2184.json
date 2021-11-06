@@ -1,0 +1,15 @@
+{
+ "id_client":"HPPN25195714919916",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"3580412324362358",
+ "transaction_code":"FSPH85910536854813",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"02:48:29",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"64479.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KRW of Braavos"
+}

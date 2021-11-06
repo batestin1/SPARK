@@ -1,0 +1,15 @@
+{
+ "id_client":"LSFY04598044465418",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"2232526948201843",
+ "transaction_code":"WHLR46539919610660",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"23:25:50",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"390081.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CUP of Braavos"
+}

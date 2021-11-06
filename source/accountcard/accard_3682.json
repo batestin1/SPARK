@@ -1,0 +1,15 @@
+{
+ "id_client":"VRWZ62817273608668",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"6011134604187642",
+ "transaction_code":"ROCL08893371063218",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"14:05:00",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"406472.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BND of Braavos"
+}

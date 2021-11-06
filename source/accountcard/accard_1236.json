@@ -1,0 +1,15 @@
+{
+ "id_client":"UECK57297244944929",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4158446025662",
+ "transaction_code":"CZSH74863497868205",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"19:22:42",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"193086.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MGA of Braavos"
+}

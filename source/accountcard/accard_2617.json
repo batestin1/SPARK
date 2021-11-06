@@ -1,0 +1,15 @@
+{
+ "id_client":"NPIT54831698896030",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"38567382769358",
+ "transaction_code":"MWAR05555818838838",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"01:59:53",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"732700.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"QAR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TXFR04877987557598",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"5194866405274225",
+ "transaction_code":"OIRT00859272775520",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"17:57:47",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"974105.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KPW of Braavos"
+}

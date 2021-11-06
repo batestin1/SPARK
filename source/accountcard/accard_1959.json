@@ -1,0 +1,15 @@
+{
+ "id_client":"OYTS88054357813200",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"639001608665",
+ "transaction_code":"SERG26776300805146",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"03:35:42",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"256779.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MZN of Braavos"
+}

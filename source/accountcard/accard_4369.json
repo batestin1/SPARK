@@ -1,0 +1,15 @@
+{
+ "id_client":"SYJJ31732420640842",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"2262140995386193",
+ "transaction_code":"QXGJ80877026095360",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"14:24:12",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"339996.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MAD of Braavos"
+}

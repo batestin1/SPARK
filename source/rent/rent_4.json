@@ -1,10 +1,10 @@
 {
- "id_client":"EMTZ31281089002472",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
- "rent_income_value":"-498370.0",
- "description_chosen_income_method":"-479054.0",
- "total_account_value":"4043090.0",
- "current_account_total_value":"3919664.0",
- "total_amount_carried_over":"123426.0"
+ "id_client":"VOIX31144347235548",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "rent_income_value":"+632421.0",
+ "description_chosen_income_method":"+195276.0",
+ "total_account_value":"5454199.0",
+ "current_account_total_value":"4552537.0",
+ "total_amount_carried_over":"901662.0"
 }

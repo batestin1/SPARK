@@ -1,0 +1,15 @@
+{
+ "id_client":"DOZI26527672865052",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4599694495166",
+ "transaction_code":"ONZA31013255434728",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"06:02:26",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"347302.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"XOF of Braavos"
+}

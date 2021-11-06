@@ -1,0 +1,15 @@
+{
+ "id_client":"MAZC24982380476392",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"213126487630135",
+ "transaction_code":"IKEI54176104203038",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"09:28:33",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"752300.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"JOD of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"UUTV90826350997726",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
- "card_number":"activated",
- "total_limit_value":"649855.0",
- "limit_value_available":"631205.0",
- "total_limit_used":"18650.0",
- "description_card":"Discover",
- "security_card":"695",
- "expire_card_number":"06/28"
+ "id_client":"ETJM01463823242703",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "card_number":"not activated",
+ "total_limit_value":"481639.0",
+ "limit_value_available":"405838.0",
+ "total_limit_used":"75801.0",
+ "description_card":"Maestro",
+ "security_card":"376",
+ "expire_card_number":"01/26"
 }

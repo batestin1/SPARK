@@ -1,0 +1,15 @@
+{
+ "id_client":"LWUB57677336191701",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"6565672797227212",
+ "transaction_code":"KTHU21192606676045",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"13:08:05",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"17395.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MUR of Braavos"
+}

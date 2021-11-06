@@ -1,15 +1,15 @@
 {
- "id_client":"VUXL83443932117137",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"CYGZ11750008182713",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"4037577245098831",
- "transaction_code":"OUEO14231628900280",
- "date_transaction":"2021-11-10",
- "time_transaction":"19:31:59",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"814951.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"SBD of Braavos"
+ "card_number":"4918829984789",
+ "transaction_code":"LCAH71566881482550",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"13:55:35",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"925977.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BZD of Braavos"
 }

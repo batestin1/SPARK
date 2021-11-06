@@ -1,0 +1,15 @@
+{
+ "id_client":"PSTO19409793662242",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"6011142488286810",
+ "transaction_code":"VPOS78911250701152",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"16:10:07",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"72498.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SZL of Braavos"
+}

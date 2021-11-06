@@ -1,0 +1,15 @@
+{
+ "id_client":"HCWZ46861997538779",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3597302596368541",
+ "transaction_code":"PFPL63163486621742",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"02:30:51",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"976108.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LAK of Braavos"
+}

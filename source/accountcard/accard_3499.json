@@ -1,0 +1,15 @@
+{
+ "id_client":"QBYH08628986169066",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4337820884067056",
+ "transaction_code":"QPWH55057043190464",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"21:45:32",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"108637.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MDL of Braavos"
+}

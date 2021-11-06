@@ -1,0 +1,15 @@
+{
+ "id_client":"VNDD92014726329998",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"30405394649391",
+ "transaction_code":"ZJZL63491589952148",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"19:23:38",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"231418.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CLP of Braavos"
+}

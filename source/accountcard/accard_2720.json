@@ -1,0 +1,15 @@
+{
+ "id_client":"BEHA93967884736676",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4130478576110",
+ "transaction_code":"TFZE05518739154846",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"12:51:50",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"278589.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ETB of Braavos"
+}

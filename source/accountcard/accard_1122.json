@@ -1,15 +1,15 @@
 {
- "id_client":"EULG36843638888517",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"IIIT14830825470547",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"not activated",
- "card_number":"4487479569803",
- "transaction_code":"RAPE69892257419679",
- "date_transaction":"2021-11-18",
- "time_transaction":"03:57:26",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"124065.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"SRD of Braavos"
+ "card_number":"4607822746420202576",
+ "transaction_code":"TBNH02008513114287",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"23:27:07",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"264941.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"EGP of Braavos"
 }

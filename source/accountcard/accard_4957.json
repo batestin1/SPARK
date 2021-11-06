@@ -1,0 +1,15 @@
+{
+ "id_client":"IRZK40947701929479",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"30006489314675",
+ "transaction_code":"JGQA89721838067181",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"18:26:53",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"894728.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BND of Braavos"
+}

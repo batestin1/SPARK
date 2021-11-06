@@ -1,0 +1,15 @@
+{
+ "id_client":"IFTT02472936766182",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"503847853689",
+ "transaction_code":"VDLJ21105423288961",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"16:49:18",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"829610.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KZT of Braavos"
+}

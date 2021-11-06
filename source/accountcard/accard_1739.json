@@ -1,0 +1,15 @@
+{
+ "id_client":"LNUJ45347699010342",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"30269262978583",
+ "transaction_code":"JUPT03999816809436",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"09:33:28",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"215374.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"NZD of Braavos"
+}

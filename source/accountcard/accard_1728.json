@@ -1,0 +1,15 @@
+{
+ "id_client":"MGUO40339713224865",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"3550373727209339",
+ "transaction_code":"EWSS01397329590382",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"08:45:04",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"486050.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SRD of Braavos"
+}

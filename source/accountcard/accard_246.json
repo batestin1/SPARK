@@ -1,15 +1,15 @@
 {
- "id_client":"CQLN77299752852727",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"SVFF95806428988460",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"activated",
- "card_number":"2720762098808330",
- "transaction_code":"UJHA20150850827607",
- "date_transaction":"2021-11-23",
- "time_transaction":"21:04:12",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"451730.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"BDT of Braavos"
+ "card_number":"2226082437491030",
+ "transaction_code":"ENZZ26537325445049",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"19:11:44",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"327599.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BRL of Braavos"
 }

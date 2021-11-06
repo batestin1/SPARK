@@ -1,0 +1,15 @@
+{
+ "id_client":"EDGE79820823802302",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4434514969785045",
+ "transaction_code":"EHAG28163512296475",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"08:21:54",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"451251.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"UAH of Braavos"
+}

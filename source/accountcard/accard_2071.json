@@ -1,0 +1,15 @@
+{
+ "id_client":"UMMY22616485700850",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"30312946373688",
+ "transaction_code":"HFVD82998975450151",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"09:31:48",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"394939.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BMD of Braavos"
+}

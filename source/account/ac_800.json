@@ -1,11 +1,11 @@
 {
- "id_client":"KEQL90387695177010",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"CSIT52310478404745",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
  "account_status":"not activated",
- "bban_count":"VRDP90627900355079",
- "aba":"095819341"
+ "bban_count":"MFLA46611219295251",
+ "aba":"094121105"
 }

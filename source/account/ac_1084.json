@@ -1,11 +1,11 @@
 {
- "id_client":"KBLE29398406215780",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"AFWW32885288194568",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"PSWM55802828527036",
- "aba":"058571352"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"LPNO36537301361369",
+ "aba":"092116313"
 }

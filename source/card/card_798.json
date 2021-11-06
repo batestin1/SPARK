@@ -1,12 +1,12 @@
 {
- "id_client":"ZQKL54447710527115",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
- "card_number":"not activated",
- "total_limit_value":"129737.0",
- "limit_value_available":"90646.0",
- "total_limit_used":"39091.0",
- "description_card":"American Express",
- "security_card":"711",
- "expire_card_number":"01/25"
+ "id_client":"KPOW32099889218009",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "card_number":"activated",
+ "total_limit_value":"127395.0",
+ "limit_value_available":"88955.0",
+ "total_limit_used":"38440.0",
+ "description_card":"Mastercard",
+ "security_card":"409",
+ "expire_card_number":"05/27"
 }

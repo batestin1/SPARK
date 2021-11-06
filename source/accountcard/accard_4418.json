@@ -1,0 +1,15 @@
+{
+ "id_client":"GUEV79313683786811",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"2244838728992277",
+ "transaction_code":"RXVU35095357037848",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"14:42:21",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"784235.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TVD of Braavos"
+}

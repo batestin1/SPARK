@@ -1,0 +1,15 @@
+{
+ "id_client":"DVRX77404031024843",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"6011001070642444",
+ "transaction_code":"UQIG10692032379555",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"09:28:14",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"884726.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"WST of Braavos"
+}

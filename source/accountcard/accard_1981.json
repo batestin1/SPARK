@@ -1,0 +1,15 @@
+{
+ "id_client":"EXCP78728206448619",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4753728457878467",
+ "transaction_code":"LGAY23646634273594",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"15:36:26",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"225796.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BYR of Braavos"
+}

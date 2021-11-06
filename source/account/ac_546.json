@@ -1,11 +1,11 @@
 {
- "id_client":"CSAE94356318487403",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"VYAV03790816860892",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "bank":"Braavos",
  "account_type":"savings account",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"CMSE88682925256859",
- "aba":"026987072"
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"RRHM69978436513355",
+ "aba":"013233716"
 }

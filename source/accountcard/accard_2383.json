@@ -1,0 +1,15 @@
+{
+ "id_client":"OVRJ46083136024319",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"675949758071",
+ "transaction_code":"WTSA87933858376534",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"21:47:29",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"338963.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BHD of Braavos"
+}

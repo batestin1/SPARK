@@ -1,0 +1,15 @@
+{
+ "id_client":"CDTP58730954622618",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"3544066492799034",
+ "transaction_code":"WTMF05712562226010",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"19:55:04",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"707557.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"RSD of Braavos"
+}

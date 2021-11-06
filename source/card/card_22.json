@@ -1,12 +1,12 @@
 {
- "id_client":"JPCE32656177517906",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "card_number":"activated",
- "total_limit_value":"608690.0",
- "limit_value_available":"547625.0",
- "total_limit_used":"61065.0",
- "description_card":"VISA 13 digit",
- "security_card":"819",
- "expire_card_number":"04/27"
+ "id_client":"CBCI75734382491555",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "card_number":"not activated",
+ "total_limit_value":"324408.0",
+ "limit_value_available":"247171.0",
+ "total_limit_used":"77237.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"757",
+ "expire_card_number":"11/24"
 }

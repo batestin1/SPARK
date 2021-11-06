@@ -1,15 +1,15 @@
 {
- "id_client":"DRNV71780210378515",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"XALU58169701693594",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"activated",
- "card_number":"581465469616",
- "transaction_code":"RZWU14755059847275",
- "date_transaction":"2021-11-16",
- "time_transaction":"11:50:46",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"838780.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"HUF of Braavos"
+ "card_number":"3529112035211035",
+ "transaction_code":"RATS99177656330951",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"09:37:31",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"262123.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MAD of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"UZGK17618357429642",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"5355108385430898",
+ "transaction_code":"EYKH67792667450591",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"09:30:06",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"637473.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MXN of Braavos"
+}

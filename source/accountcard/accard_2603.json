@@ -1,0 +1,15 @@
+{
+ "id_client":"NGMN42205130500670",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"344848758697079",
+ "transaction_code":"SRND91301658822081",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"04:48:40",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"791348.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"RUB of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"EMRR20228641427492",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"372378811963230",
+ "transaction_code":"ZROD00023989371450",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"03:36:39",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"738648.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MKD of Braavos"
+}

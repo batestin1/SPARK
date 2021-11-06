@@ -1,0 +1,15 @@
+{
+ "id_client":"KFWZ83587132013749",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"570170395406",
+ "transaction_code":"FPUP39479959184951",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"13:57:03",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"76129.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PKR of Braavos"
+}

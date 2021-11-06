@@ -1,11 +1,11 @@
 {
- "id_client":"CGUB20738580453416",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"ELCM37454445686154",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"GDFH72785200667778",
- "aba":"017246103"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"RBTI73684055861589",
+ "aba":"041992992"
 }

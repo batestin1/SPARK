@@ -1,0 +1,15 @@
+{
+ "id_client":"SSMK63234557547579",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"2234020125984007",
+ "transaction_code":"GALS95023089744263",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"08:26:49",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"964626.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"WST of Braavos"
+}

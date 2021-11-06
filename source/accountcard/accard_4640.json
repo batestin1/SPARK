@@ -1,0 +1,15 @@
+{
+ "id_client":"OEOU82991204531777",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"36879905273442",
+ "transaction_code":"OATP48624002121681",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"09:31:23",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"966758.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PAB of Braavos"
+}

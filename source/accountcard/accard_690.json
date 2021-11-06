@@ -1,15 +1,15 @@
 {
- "id_client":"VPYV47979941425001",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"SUBB80968252398575",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"not activated",
- "card_number":"4916956064186677",
- "transaction_code":"JRKA81968006500966",
- "date_transaction":"2021-12-01",
- "time_transaction":"00:02:33",
- "describle_transaction":"horses",
- "original_transaction_amount":"809415.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"EGP of Braavos"
+ "card_number":"30558122498422",
+ "transaction_code":"QISJ06090699792755",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"15:20:18",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"616059.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"UZS of Braavos"
 }

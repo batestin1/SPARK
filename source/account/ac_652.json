@@ -1,11 +1,11 @@
 {
- "id_client":"VDTN40102022768765",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"PWWD00022667745254",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"CTSZ66213975632393",
- "aba":"027702520"
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"XIDP45710428714453",
+ "aba":"043209946"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"VWUC08341671482391",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4734516453166860",
+ "transaction_code":"TUHB13787863537526",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"14:42:30",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"320092.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"FJD of Braavos"
+}

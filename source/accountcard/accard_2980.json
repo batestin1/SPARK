@@ -1,0 +1,15 @@
+{
+ "id_client":"GFYE08742990137700",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4476835694600319",
+ "transaction_code":"OCWP61586126352385",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"00:47:38",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"317206.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ISK of Braavos"
+}

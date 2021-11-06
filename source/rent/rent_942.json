@@ -1,10 +1,10 @@
 {
- "id_client":"ABSX08975779282716",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "rent_income_value":"-715350.0",
- "description_chosen_income_method":"+555865.0",
- "total_account_value":"4313164.0",
- "current_account_total_value":"3412998.0",
- "total_amount_carried_over":"900166.0"
+ "id_client":"NYQI68505571128200",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "rent_income_value":"+738106.0",
+ "description_chosen_income_method":"-278558.0",
+ "total_account_value":"9066574.0",
+ "current_account_total_value":"8555312.0",
+ "total_amount_carried_over":"511262.0"
 }

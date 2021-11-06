@@ -1,0 +1,15 @@
+{
+ "id_client":"MFIU61082795545684",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4045469183151912093",
+ "transaction_code":"HMRU90408842185910",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"22:52:16",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"419541.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"HRK of Braavos"
+}

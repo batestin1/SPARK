@@ -1,15 +1,15 @@
 {
- "id_client":"CPMK76086760126606",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"YTTL30777588435063",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"6515509500193813",
- "transaction_code":"HYVY87463133362316",
- "date_transaction":"2021-11-09",
- "time_transaction":"22:56:39",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"787525.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"BRL of Braavos"
+ "card_number":"6011790934693987",
+ "transaction_code":"KLZR04647218863313",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"11:19:31",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"811925.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KRW of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"HMTF47743202935465",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"3557265337650188",
+ "transaction_code":"HJVC79946368222598",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"09:39:21",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"961879.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TZS of Braavos"
+}

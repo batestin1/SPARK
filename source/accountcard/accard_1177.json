@@ -1,15 +1,15 @@
 {
- "id_client":"NHAM13435055722639",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"ZGOQ18645226383352",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"not activated",
- "card_number":"676227829444",
- "transaction_code":"KHGA09108952023064",
- "date_transaction":"2021-11-13",
- "time_transaction":"05:32:08",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"744167.0",
+ "card_number":"4828719028020730",
+ "transaction_code":"DLPD93072639163908",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"10:44:30",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"677696.0",
  "number_installments_assign":"8",
  "current_installment":"7",
- "currency":"NPR of Braavos"
+ "currency":"TTD of Braavos"
 }

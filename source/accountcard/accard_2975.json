@@ -1,0 +1,15 @@
+{
+ "id_client":"ZVSG45298857724819",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"3562517080278523",
+ "transaction_code":"HPKX00955047484582",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"20:22:29",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"221386.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"AMD of Braavos"
+}

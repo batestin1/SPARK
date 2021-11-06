@@ -1,0 +1,15 @@
+{
+ "id_client":"MIFM34991459801760",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"30538843733315",
+ "transaction_code":"IDSI04864071903674",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"13:23:17",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"563478.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BTN of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"NRHQ04635847735570",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"ZFTC81119823724624",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "card_number":"activated",
- "total_limit_value":"242629.0",
- "limit_value_available":"142677.0",
- "total_limit_used":"99952.0",
- "description_card":"American Express",
- "security_card":"207",
- "expire_card_number":"09/26"
+ "total_limit_value":"771200.0",
+ "limit_value_available":"749775.0",
+ "total_limit_used":"21425.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"612",
+ "expire_card_number":"11/24"
 }

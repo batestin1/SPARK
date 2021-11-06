@@ -1,11 +1,11 @@
 {
- "id_client":"PZWM11245925499460",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"LAOG88947281379239",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "bank":"Braavos",
  "account_type":"salary bill",
  "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"NMXJ93341028944106",
- "aba":"099476590"
+ "account_status":"not activated",
+ "bban_count":"PNYW99605868055313",
+ "aba":"057846484"
 }

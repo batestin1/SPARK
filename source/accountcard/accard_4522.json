@@ -1,0 +1,15 @@
+{
+ "id_client":"XFWX26457254667976",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"676193738462",
+ "transaction_code":"SNDL11502501554182",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"11:55:30",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"252242.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MUR of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"HQGZ49378084332840",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"KUAP16292305044284",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"not activated",
- "card_number":"213157516209443",
- "transaction_code":"FGUC63673279106222",
- "date_transaction":"2021-12-02",
- "time_transaction":"08:14:35",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"166432.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"AWG of Braavos"
+ "card_number":"4583207943127066",
+ "transaction_code":"FNJT84674427411962",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"05:11:35",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"131372.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GIP of Braavos"
 }

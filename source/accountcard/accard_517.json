@@ -1,15 +1,15 @@
 {
- "id_client":"AKNZ97301979910026",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "status_account_blocked":"not activated",
- "card_number":"6011317273012734",
- "transaction_code":"GWMF01981599233659",
- "date_transaction":"2021-11-21",
- "time_transaction":"08:45:33",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"573615.0",
+ "id_client":"AHQR06515129788430",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"502035380075",
+ "transaction_code":"CTRR78352549760905",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"19:13:45",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"835670.0",
  "number_installments_assign":"1",
  "current_installment":"0",
- "currency":"BRL of Braavos"
+ "currency":"KZT of Braavos"
 }

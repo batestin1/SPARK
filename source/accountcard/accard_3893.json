@@ -1,0 +1,15 @@
+{
+ "id_client":"HJLI06301027546971",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4123465401841195351",
+ "transaction_code":"KJAD00444589801824",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"00:08:06",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"112.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"QAR of Braavos"
+}

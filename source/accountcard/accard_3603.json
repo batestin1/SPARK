@@ -1,0 +1,15 @@
+{
+ "id_client":"YRAS43252596745526",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"584925283809",
+ "transaction_code":"FISB08893200376930",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"12:56:39",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"311743.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BIF of Braavos"
+}

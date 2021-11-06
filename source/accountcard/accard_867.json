@@ -1,15 +1,15 @@
 {
- "id_client":"NYGP82820259136897",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"UOBY17989094609563",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"activated",
- "card_number":"341244829527862",
- "transaction_code":"VMNX47670284514292",
- "date_transaction":"2021-11-12",
- "time_transaction":"01:07:06",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"12739.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"HNL of Braavos"
+ "card_number":"30286056041220",
+ "transaction_code":"IUTP55986244335236",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"19:49:34",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"444553.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BOB of Braavos"
 }

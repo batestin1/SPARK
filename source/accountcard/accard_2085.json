@@ -1,0 +1,15 @@
+{
+ "id_client":"JSIC30565038118360",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"30020888129329",
+ "transaction_code":"TCIP61798708452506",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"11:19:38",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"612187.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PHP of Braavos"
+}

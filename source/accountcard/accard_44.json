@@ -1,15 +1,15 @@
 {
- "id_client":"PQQQ36513490713394",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"LGIA32150425612333",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "status_account_blocked":"not activated",
- "card_number":"675948288005",
- "transaction_code":"PGDE44454478020536",
- "date_transaction":"2021-11-22",
- "time_transaction":"14:34:33",
- "describle_transaction":"swords",
- "original_transaction_amount":"736948.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"NGN of Braavos"
+ "card_number":"3516760225648955",
+ "transaction_code":"UUVA98299320215656",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"00:22:23",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"14451.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GEL of Braavos"
 }

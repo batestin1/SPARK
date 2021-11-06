@@ -1,0 +1,15 @@
+{
+ "id_client":"TREW02502861367614",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3592016097380715",
+ "transaction_code":"UFSX28394761981651",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"05:32:16",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"19278.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ETB of Braavos"
+}

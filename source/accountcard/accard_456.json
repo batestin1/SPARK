@@ -1,15 +1,15 @@
 {
- "id_client":"KSHP80493263571156",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"SEII43379771036796",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "status_account_blocked":"not activated",
- "card_number":"4389234239751934",
- "transaction_code":"CXSC71735610610180",
- "date_transaction":"2021-11-10",
- "time_transaction":"08:06:01",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"117571.0",
+ "card_number":"36565927998674",
+ "transaction_code":"EBNS54232704645433",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"06:55:55",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"396544.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"SLL of Braavos"
+ "currency":"CAD of Braavos"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"BHAE80756738811131",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "status_account_blocked":"not activated",
- "card_number":"36059345543379",
- "transaction_code":"KGZI50283047235587",
- "date_transaction":"2021-11-20",
- "time_transaction":"02:12:36",
- "describle_transaction":"swords",
- "original_transaction_amount":"360812.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"EUR of Braavos"
+ "id_client":"SBXX72261148869919",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"6578456779773657",
+ "transaction_code":"JQAW37558808519097",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"15:46:59",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"36550.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SRD of Braavos"
 }

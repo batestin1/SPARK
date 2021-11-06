@@ -1,0 +1,15 @@
+{
+ "id_client":"GQFT59677556303585",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"3585802832774943",
+ "transaction_code":"SVVJ65239173101382",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"06:19:06",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"889008.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PEN of Braavos"
+}

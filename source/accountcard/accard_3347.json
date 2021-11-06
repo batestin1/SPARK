@@ -1,0 +1,15 @@
+{
+ "id_client":"JELH10470152412857",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4952562891678640",
+ "transaction_code":"MLXA51984763549510",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"18:45:47",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"389548.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BRL of Braavos"
+}

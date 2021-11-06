@@ -1,15 +1,15 @@
 {
- "id_client":"VUWM66500493210452",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"FUXE07662919565290",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "status_account_blocked":"activated",
- "card_number":"5358592157475099",
- "transaction_code":"KHLG31345116736522",
- "date_transaction":"2021-11-19",
- "time_transaction":"13:08:23",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"665938.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"VUV of Braavos"
+ "card_number":"3578422337525192",
+ "transaction_code":"EKHT79653588297199",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"13:41:43",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"620087.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BND of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"UYAL20003599044549",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"213136470633350",
+ "transaction_code":"KWAL62299001553292",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"05:37:48",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"950014.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PHP of Braavos"
+}

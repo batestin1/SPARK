@@ -1,0 +1,15 @@
+{
+ "id_client":"CPQR03581549954945",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"30036201200019",
+ "transaction_code":"RTDP92179448131349",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"23:28:43",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"985706.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SLL of Braavos"
+}

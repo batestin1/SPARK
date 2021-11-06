@@ -1,0 +1,15 @@
+{
+ "id_client":"AEYP71305002613271",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"36335082068725",
+ "transaction_code":"RLVS93365242342122",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"04:53:22",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"263999.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NGN of Braavos"
+}

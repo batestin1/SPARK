@@ -1,0 +1,15 @@
+{
+ "id_client":"ZQEP05075570013599",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4559130167931809",
+ "transaction_code":"YAAC05496997032792",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"17:17:47",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"617795.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MMK of Braavos"
+}

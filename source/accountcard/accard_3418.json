@@ -1,0 +1,15 @@
+{
+ "id_client":"HSRQ35436795996802",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"180026589681466",
+ "transaction_code":"OQIG77143850870154",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"11:43:26",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"631909.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"XAF of Braavos"
+}

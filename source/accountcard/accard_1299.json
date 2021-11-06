@@ -1,0 +1,15 @@
+{
+ "id_client":"URTK47445709140074",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"3529942278345151",
+ "transaction_code":"QFXE25634004096196",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"11:23:24",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"26667.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BGN of Braavos"
+}

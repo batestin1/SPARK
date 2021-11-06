@@ -1,0 +1,15 @@
+{
+ "id_client":"YROF47880481042874",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"180001363930025",
+ "transaction_code":"GRLV32647120222720",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"15:26:19",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"653824.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CDF of Braavos"
+}

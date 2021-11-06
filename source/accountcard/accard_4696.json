@@ -1,0 +1,15 @@
+{
+ "id_client":"GZWI11001955101222",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"377942846353397",
+ "transaction_code":"EDQZ58372518206035",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"16:12:36",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"308738.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PKR of Braavos"
+}

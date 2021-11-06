@@ -1,0 +1,15 @@
+{
+ "id_client":"MMTW29477067524713",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4538611264395218",
+ "transaction_code":"UTPR01405467541237",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"18:20:07",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"279659.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"JMD of Braavos"
+}

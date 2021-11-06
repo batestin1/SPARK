@@ -1,15 +1,15 @@
 {
- "id_client":"GFML02472681324851",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"FQRT30601424699055",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"not activated",
- "card_number":"3586816539241096",
- "transaction_code":"KPQF14937724897937",
- "date_transaction":"2021-11-19",
- "time_transaction":"17:39:11",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"886965.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"AFN of Braavos"
+ "card_number":"213145020799702",
+ "transaction_code":"BIRR64465689761607",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"13:14:50",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"644710.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UGX of Braavos"
 }

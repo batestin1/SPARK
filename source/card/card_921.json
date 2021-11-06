@@ -1,12 +1,12 @@
 {
- "id_client":"IRQL06129266361315",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"MXMQ70610977816437",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "card_number":"activated",
- "total_limit_value":"319139.0",
- "limit_value_available":"298659.0",
- "total_limit_used":"20480.0",
- "description_card":"VISA 16 digit",
- "security_card":"015",
- "expire_card_number":"08/23"
+ "total_limit_value":"815986.0",
+ "limit_value_available":"777542.0",
+ "total_limit_used":"38444.0",
+ "description_card":"JCB 16 digit",
+ "security_card":"950",
+ "expire_card_number":"05/28"
 }

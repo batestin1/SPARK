@@ -1,0 +1,15 @@
+{
+ "id_client":"LWXC12827086170214",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4138741143393379413",
+ "transaction_code":"EXVD74203257933762",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"02:16:38",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"551824.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KRW of Braavos"
+}

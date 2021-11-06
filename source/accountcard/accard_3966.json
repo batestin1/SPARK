@@ -1,0 +1,15 @@
+{
+ "id_client":"DNXA09465364281936",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"345350800447123",
+ "transaction_code":"HHNS59972977511382",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"00:15:22",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"384950.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"RON of Braavos"
+}

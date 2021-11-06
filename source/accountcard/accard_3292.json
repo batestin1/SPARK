@@ -1,0 +1,15 @@
+{
+ "id_client":"CUOH06462349125668",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4681443374313265750",
+ "transaction_code":"TGCE75972373545537",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"13:40:25",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"476900.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KPW of Braavos"
+}

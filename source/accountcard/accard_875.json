@@ -1,15 +1,15 @@
 {
- "id_client":"SMIJ53925339937586",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"LRSI14144360922187",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"activated",
- "card_number":"4624082037147",
- "transaction_code":"ITOI94891249380677",
- "date_transaction":"2021-11-29",
- "time_transaction":"20:30:08",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"677988.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"ISK of Braavos"
+ "card_number":"4336643313557075318",
+ "transaction_code":"VSAX21935222530539",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"18:55:47",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"695072.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TND of Braavos"
 }

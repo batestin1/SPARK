@@ -1,0 +1,15 @@
+{
+ "id_client":"DITD98905954585160",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"180002210906200",
+ "transaction_code":"XBAM86760297473754",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"07:46:41",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"737491.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SYP of Braavos"
+}

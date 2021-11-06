@@ -1,0 +1,15 @@
+{
+ "id_client":"ZDUQ98905020104325",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4401490435610628209",
+ "transaction_code":"YCVP97201032170831",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"00:52:01",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"126511.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PHP of Braavos"
+}

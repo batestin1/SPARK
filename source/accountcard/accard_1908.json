@@ -1,0 +1,15 @@
+{
+ "id_client":"CCMZ11481868616342",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"36577662005706",
+ "transaction_code":"CLCS18217202836209",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"17:00:59",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"337315.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NGN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DTUS80891241010233",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"6515736450378520",
+ "transaction_code":"GXYF77279186152729",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"19:51:37",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"613138.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SCR of Braavos"
+}

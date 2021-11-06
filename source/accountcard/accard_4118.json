@@ -1,0 +1,15 @@
+{
+ "id_client":"JGMV18354990363708",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"3538117405684876",
+ "transaction_code":"TJAV21921230847104",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"02:58:15",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"963865.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NZD of Braavos"
+}

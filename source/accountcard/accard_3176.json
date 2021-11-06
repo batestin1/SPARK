@@ -1,0 +1,15 @@
+{
+ "id_client":"HFFS66261472273267",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"582353494666",
+ "transaction_code":"HMVX41029783400786",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"07:02:20",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"911743.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CRC of Braavos"
+}

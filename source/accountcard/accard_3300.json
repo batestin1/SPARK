@@ -1,0 +1,15 @@
+{
+ "id_client":"ZTTA51031927864613",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4025295003038808",
+ "transaction_code":"SVPM59034261152174",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"13:21:16",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"666236.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TRY of Braavos"
+}

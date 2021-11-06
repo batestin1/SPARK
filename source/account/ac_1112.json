@@ -1,11 +1,11 @@
 {
- "id_client":"OMQP23074655477856",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"RFTJ87141151415877",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"ZKFV73212342533762",
- "aba":"092300404"
+ "account_type":"checking account",
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"FNBQ10203345279701",
+ "aba":"065411148"
 }

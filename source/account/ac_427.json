@@ -1,11 +1,11 @@
 {
- "id_client":"FDBA86970520926828",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"RIPW12383611230078",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"UMDR89964800267028",
- "aba":"037578235"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"KXTK68141577237007",
+ "aba":"053695709"
 }

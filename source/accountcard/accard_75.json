@@ -1,15 +1,15 @@
 {
- "id_client":"OUEJ60777910617889",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"COKF11663164000716",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "status_account_blocked":"activated",
- "card_number":"4462973873444748975",
- "transaction_code":"VQTT60825406710009",
- "date_transaction":"2021-11-27",
- "time_transaction":"06:36:51",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"174767.0",
+ "card_number":"213124565825404",
+ "transaction_code":"IUIK04285383080585",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"07:50:23",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"350423.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"SDG of Braavos"
+ "currency":"PLN of Braavos"
 }

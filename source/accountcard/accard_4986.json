@@ -1,0 +1,15 @@
+{
+ "id_client":"GSXA42951371378934",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"2265319755266079",
+ "transaction_code":"SPAM07819948270585",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"03:54:02",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"880728.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CZK of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"AFIP09262595223853",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "status_account_blocked":"activated",
- "card_number":"6528180489270363",
- "transaction_code":"XLPH65667687288502",
- "date_transaction":"2021-11-11",
- "time_transaction":"18:24:01",
- "describle_transaction":"swords",
- "original_transaction_amount":"130.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"AFN of Braavos"
+ "id_client":"XARU54214143605125",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"371157522211332",
+ "transaction_code":"JCKS12921350407669",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"09:45:28",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"105151.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"XPF of Braavos"
 }

@@ -1,12 +1,12 @@
 {
- "id_client":"CMIZ73076212606258",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "card_number":"not activated",
- "total_limit_value":"835278.0",
- "limit_value_available":"755884.0",
- "total_limit_used":"79394.0",
- "description_card":"JCB 16 digit",
- "security_card":"145",
- "expire_card_number":"09/26"
+ "id_client":"UHZJ31248095868869",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "card_number":"activated",
+ "total_limit_value":"646197.0",
+ "limit_value_available":"602283.0",
+ "total_limit_used":"43914.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"596",
+ "expire_card_number":"08/31"
 }

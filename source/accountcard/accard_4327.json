@@ -1,0 +1,15 @@
+{
+ "id_client":"PKGA10588849329745",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"30463133161632",
+ "transaction_code":"MMEX30770097732285",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"12:57:20",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"568757.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CVE of Braavos"
+}

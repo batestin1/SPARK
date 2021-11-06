@@ -1,0 +1,15 @@
+{
+ "id_client":"ATVV72819937654797",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"5522381531182097",
+ "transaction_code":"NYBM70911541206396",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"21:45:45",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"827825.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"YER of Braavos"
+}

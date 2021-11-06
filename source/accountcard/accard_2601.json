@@ -1,0 +1,15 @@
+{
+ "id_client":"KTOD76372244442019",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"374081644615179",
+ "transaction_code":"XNKM26908411995340",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"21:20:59",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"923546.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TWD of Braavos"
+}

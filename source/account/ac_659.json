@@ -1,11 +1,11 @@
 {
- "id_client":"WNAX61529212771307",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"EJAW97812099336407",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"CJDS40626400378774",
- "aba":"037370882"
+ "account_type":"salary bill",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"QDRM02504238704956",
+ "aba":"053256042"
 }

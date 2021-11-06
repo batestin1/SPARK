@@ -1,11 +1,11 @@
 {
- "id_client":"TINV60688782305689",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"CVNP60001439629688",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"YLTR42228373982819",
- "aba":"040031459"
+ "account_type":"savings account",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"JTCZ54934103331787",
+ "aba":"064135535"
 }

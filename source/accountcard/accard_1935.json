@@ -1,0 +1,15 @@
+{
+ "id_client":"UUSX26888126752025",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4261042789663",
+ "transaction_code":"JEFI59398204753361",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"19:20:48",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"220380.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ARS of Braavos"
+}

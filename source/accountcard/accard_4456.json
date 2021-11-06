@@ -1,0 +1,15 @@
+{
+ "id_client":"CKJP00613283671433",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"376610359739150",
+ "transaction_code":"NKLB49511305783855",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"00:45:03",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"449860.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AED of Braavos"
+}

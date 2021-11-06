@@ -1,0 +1,15 @@
+{
+ "id_client":"DCXV95985192468971",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"213118723950773",
+ "transaction_code":"VPBO22374554920040",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"00:06:22",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"329431.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"FKP of Braavos"
+}

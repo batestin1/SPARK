@@ -1,0 +1,15 @@
+{
+ "id_client":"BLKH10181587185369",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4645892698672697323",
+ "transaction_code":"MVLW13553629487023",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"19:59:09",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"209946.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ZMW of Braavos"
+}

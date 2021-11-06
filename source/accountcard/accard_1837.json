@@ -1,0 +1,15 @@
+{
+ "id_client":"WBDV37142139560982",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"3546041810372655",
+ "transaction_code":"CRNF79420079387089",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"23:05:30",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"78503.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PEN of Braavos"
+}

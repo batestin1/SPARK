@@ -1,0 +1,15 @@
+{
+ "id_client":"RZOR05687870772090",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"3545922285377033",
+ "transaction_code":"XHFD17505752595266",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"09:55:26",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"568639.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"PAB of Braavos"
+}

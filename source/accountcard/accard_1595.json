@@ -1,0 +1,15 @@
+{
+ "id_client":"FOMQ67735548882799",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"180096494626393",
+ "transaction_code":"SXNG84058860197445",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"15:05:33",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"588666.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HTG of Braavos"
+}

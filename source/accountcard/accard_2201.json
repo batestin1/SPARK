@@ -1,0 +1,15 @@
+{
+ "id_client":"FEIE26788900732391",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"2720319509292636",
+ "transaction_code":"WCNN35623213243692",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"08:26:31",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"298785.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LYD of Braavos"
+}

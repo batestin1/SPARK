@@ -1,0 +1,15 @@
+{
+ "id_client":"SMAR89518735192412",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"3581256074880849",
+ "transaction_code":"MDQY69000720473449",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"21:08:57",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"331695.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TJS of Braavos"
+}

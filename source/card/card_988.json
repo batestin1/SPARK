@@ -1,12 +1,12 @@
 {
- "id_client":"OWVK97717973728534",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"JPAC70299224702428",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "card_number":"not activated",
- "total_limit_value":"632199.0",
- "limit_value_available":"580780.0",
- "total_limit_used":"51419.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"594",
+ "total_limit_value":"888766.0",
+ "limit_value_available":"853059.0",
+ "total_limit_used":"35707.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"818",
  "expire_card_number":"02/25"
 }

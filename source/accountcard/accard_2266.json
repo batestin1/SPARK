@@ -1,0 +1,15 @@
+{
+ "id_client":"DIXD10043649813885",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4265362836715",
+ "transaction_code":"PFFC88477415406671",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"23:46:39",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"560881.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VND of Braavos"
+}

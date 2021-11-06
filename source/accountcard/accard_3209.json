@@ -1,0 +1,15 @@
+{
+ "id_client":"OPLP96114377226864",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"180030744692541",
+ "transaction_code":"EPDL24105193312456",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"16:09:57",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"413362.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LBP of Braavos"
+}

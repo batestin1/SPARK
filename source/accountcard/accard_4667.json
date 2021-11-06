@@ -1,0 +1,15 @@
+{
+ "id_client":"OTEI17489527612417",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4667750289375",
+ "transaction_code":"FYNU64982230918606",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"18:52:40",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"771490.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LAK of Braavos"
+}

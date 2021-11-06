@@ -1,11 +1,11 @@
 {
- "id_client":"VSTE21340573784329",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"MCLR19764048057548",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"BXZG31814914211184",
- "aba":"023989178"
+ "account_type":"account for the long winter",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"QJUA71195693192436",
+ "aba":"086568431"
 }

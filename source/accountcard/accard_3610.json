@@ -1,0 +1,15 @@
+{
+ "id_client":"VVYC83955383545221",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4385997579317706",
+ "transaction_code":"PVYI57442916008600",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"22:00:23",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"2580.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TZS of Braavos"
+}

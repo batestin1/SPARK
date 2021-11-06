@@ -1,15 +1,15 @@
 {
- "id_client":"GGVT01126064269622",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "status_account_blocked":"activated",
- "card_number":"180048779608802",
- "transaction_code":"SPRT37268658957082",
- "date_transaction":"2021-11-12",
- "time_transaction":"01:14:31",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"14855.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"HUF of Braavos"
+ "id_client":"XFRW28469570927705",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"6011088930225049",
+ "transaction_code":"DDZI16648741752086",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"16:15:56",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"108979.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GNF of Braavos"
 }

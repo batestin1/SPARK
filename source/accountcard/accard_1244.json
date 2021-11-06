@@ -1,0 +1,15 @@
+{
+ "id_client":"KWCT08819676614072",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"3503293734216911",
+ "transaction_code":"OBKE51162754167942",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"08:51:41",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"150679.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CDF of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"WBNX36199380739862",
+ "id_client":"BFRD69557520456428",
  "yearmonthday":"20211123",
  "_yearmonthday":"20211123",
- "status_account_blocked":"activated",
- "card_number":"213167056961634",
- "transaction_code":"QJOQ72603022951771",
- "date_transaction":"2021-11-15",
- "time_transaction":"05:48:13",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"558195.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"NIS of Braavos"
+ "status_account_blocked":"not activated",
+ "card_number":"676390561113",
+ "transaction_code":"WJZX03928303563224",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"19:51:35",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"684557.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TTD of Braavos"
 }

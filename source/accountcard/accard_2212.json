@@ -1,0 +1,15 @@
+{
+ "id_client":"ZMXZ58472985465730",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4595072826352",
+ "transaction_code":"PDLQ38630620880533",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"02:24:54",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"730720.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KZT of Braavos"
+}

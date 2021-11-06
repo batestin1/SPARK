@@ -1,0 +1,15 @@
+{
+ "id_client":"ZXML62454659040953",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4090797183113749",
+ "transaction_code":"ECWZ27939724826221",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"15:59:21",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"922321.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MVR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"GAIS81653364412610",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"30210874228496",
+ "transaction_code":"PBZY28842953923464",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"09:13:57",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"538958.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"VEF of Braavos"
+}

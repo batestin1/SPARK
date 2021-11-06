@@ -1,0 +1,15 @@
+{
+ "id_client":"NWJA53812713297235",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4422121533835902",
+ "transaction_code":"WWOB89726109974287",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"17:53:46",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"831700.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"DOP of Braavos"
+}

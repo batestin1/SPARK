@@ -1,0 +1,15 @@
+{
+ "id_client":"NDID33180541891691",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4671411360674534",
+ "transaction_code":"FLBQ33904427702996",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"19:18:36",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"683905.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IRR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"FGHF56253322017738",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"6011664072411371",
+ "transaction_code":"BFGZ85235278022319",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"06:39:50",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"226299.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CDF of Braavos"
+}

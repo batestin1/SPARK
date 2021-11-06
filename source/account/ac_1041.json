@@ -1,11 +1,11 @@
 {
- "id_client":"CSWB39089033512186",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"IEMR05257191279651",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"HCNI23815695923364",
- "aba":"019704579"
+ "account_type":"savings account",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"RRGY43430783550332",
+ "aba":"035730126"
 }

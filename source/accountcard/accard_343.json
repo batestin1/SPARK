@@ -1,15 +1,15 @@
 {
- "id_client":"PYRI05135507082583",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"JHPS02271171301985",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"not activated",
- "card_number":"3548051153106071",
- "transaction_code":"PBRR03991460381110",
- "date_transaction":"2021-11-12",
- "time_transaction":"21:09:33",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"923338.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"BWP of Braavos"
+ "card_number":"4256981929825",
+ "transaction_code":"XEJC65283861356751",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"15:11:14",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"790082.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NAD of Braavos"
 }

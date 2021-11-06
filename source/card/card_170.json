@@ -1,12 +1,12 @@
 {
- "id_client":"KZKX39571357812531",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "card_number":"activated",
- "total_limit_value":"508062.0",
- "limit_value_available":"464124.0",
- "total_limit_used":"43938.0",
- "description_card":"VISA 19 digit",
- "security_card":"530",
- "expire_card_number":"05/22"
+ "id_client":"PTEM89459901336937",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "card_number":"not activated",
+ "total_limit_value":"188657.0",
+ "limit_value_available":"167558.0",
+ "total_limit_used":"21099.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"355",
+ "expire_card_number":"11/22"
 }

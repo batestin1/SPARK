@@ -1,0 +1,15 @@
+{
+ "id_client":"JLJX42498218150528",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4099459758635",
+ "transaction_code":"PCEQ85846395334278",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"08:39:20",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"34346.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"WST of Braavos"
+}

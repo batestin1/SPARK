@@ -1,0 +1,15 @@
+{
+ "id_client":"BLRF55054064482693",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4855675679761087",
+ "transaction_code":"WPZW05474885762256",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"14:57:11",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"967052.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"INR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TVDZ57454794314521",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"372895518585727",
+ "transaction_code":"MTQD32389062417211",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"03:29:02",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"533155.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BRL of Braavos"
+}

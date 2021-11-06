@@ -1,0 +1,15 @@
+{
+ "id_client":"DRLQ01564036696070",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"6506463378128090",
+ "transaction_code":"JZAG09148241965877",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"17:49:00",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"501475.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GHS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"NIDA20034585982026",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4121384058234083",
+ "transaction_code":"YHCX78867961603912",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"02:38:54",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"326087.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NOK of Braavos"
+}

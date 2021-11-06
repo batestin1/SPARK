@@ -1,0 +1,15 @@
+{
+ "id_client":"UMMC34103304607062",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"574396151544",
+ "transaction_code":"NTLQ16545022807590",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"10:01:00",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"805076.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PLN of Braavos"
+}

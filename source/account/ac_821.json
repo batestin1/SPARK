@@ -1,11 +1,11 @@
 {
- "id_client":"VEVI31764214728624",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"YHQY55573632935763",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"ERLQ69465860960492",
- "aba":"054870848"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"QDVM06462449900322",
+ "aba":"058417005"
 }

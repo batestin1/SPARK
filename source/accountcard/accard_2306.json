@@ -1,0 +1,15 @@
+{
+ "id_client":"ZOVV23556934077744",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"2720457265954385",
+ "transaction_code":"DGVJ68051315272685",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"22:48:37",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"52236.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"RSD of Braavos"
+}

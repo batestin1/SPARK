@@ -1,0 +1,12 @@
+{
+ "id_client":"ABHP82265330552622",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "card_number":"activated",
+ "total_limit_value":"539434.0",
+ "limit_value_available":"453728.0",
+ "total_limit_used":"85706.0",
+ "description_card":"Maestro",
+ "security_card":"666",
+ "expire_card_number":"10/31"
+}

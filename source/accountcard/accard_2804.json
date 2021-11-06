@@ -1,0 +1,15 @@
+{
+ "id_client":"CYQC28889252679475",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"3528843107679961",
+ "transaction_code":"ZRAT54516487660420",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"08:17:07",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"844374.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ISK of Braavos"
+}

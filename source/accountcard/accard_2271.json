@@ -1,0 +1,15 @@
+{
+ "id_client":"QOAW02296291164566",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"5283655570993491",
+ "transaction_code":"NQSN57974666014159",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"21:19:42",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"675102.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XAF of Braavos"
+}

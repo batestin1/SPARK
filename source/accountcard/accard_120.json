@@ -1,15 +1,15 @@
 {
- "id_client":"DEYF23954191367555",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "status_account_blocked":"activated",
- "card_number":"180032058339107",
- "transaction_code":"EYEH61214075798905",
- "date_transaction":"2021-11-10",
- "time_transaction":"22:14:03",
- "describle_transaction":"slaves",
- "original_transaction_amount":"152173.0",
+ "id_client":"JSIU18355357190862",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4178822079934506",
+ "transaction_code":"EVJU83522934168821",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"18:20:16",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"71412.0",
  "number_installments_assign":"3",
  "current_installment":"2",
- "currency":"BSD of Braavos"
+ "currency":"AWG of Braavos"
 }

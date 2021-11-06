@@ -1,15 +1,15 @@
 {
- "id_client":"PQRB73044706128753",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"NGXU93461723523496",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "status_account_blocked":"not activated",
- "card_number":"4883232760747959",
- "transaction_code":"LQYT86995332834435",
- "date_transaction":"2021-11-09",
- "time_transaction":"09:13:33",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"785022.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"BMD of Braavos"
+ "card_number":"3513620673316252",
+ "transaction_code":"GKLE61853037303700",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"19:01:08",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"935032.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LKR of Braavos"
 }

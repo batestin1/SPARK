@@ -1,0 +1,15 @@
+{
+ "id_client":"NLFH81029022874985",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4284773667078688",
+ "transaction_code":"YJPF19469563341118",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"07:01:48",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"722484.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"AED of Braavos"
+}

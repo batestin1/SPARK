@@ -1,15 +1,15 @@
 {
- "id_client":"AAPQ72802298130988",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
- "status_account_blocked":"activated",
- "card_number":"4268862483660744",
- "transaction_code":"RODQ61785996777716",
- "date_transaction":"2021-11-19",
- "time_transaction":"15:48:30",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"116025.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"XAF of Braavos"
+ "id_client":"RIUO76414676671033",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"6011905258402159",
+ "transaction_code":"ALHG42160287595209",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"01:58:40",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"944160.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"COP of Braavos"
 }

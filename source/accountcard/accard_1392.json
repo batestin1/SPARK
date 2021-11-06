@@ -1,0 +1,15 @@
+{
+ "id_client":"DOVU98246709972725",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"38436872826856",
+ "transaction_code":"KGUK77630152876527",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"15:42:16",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"24944.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CHF of Braavos"
+}

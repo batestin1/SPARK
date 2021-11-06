@@ -1,0 +1,15 @@
+{
+ "id_client":"CFUE93361747535788",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"342989900550303",
+ "transaction_code":"QPAD90169022729300",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"17:18:11",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"723692.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AOA of Braavos"
+}

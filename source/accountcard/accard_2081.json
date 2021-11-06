@@ -1,0 +1,15 @@
+{
+ "id_client":"PKYK35795070045486",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"5357992506895305",
+ "transaction_code":"ULEM14082860309697",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"12:42:13",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"673166.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BAM of Braavos"
+}

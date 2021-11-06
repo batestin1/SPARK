@@ -1,0 +1,15 @@
+{
+ "id_client":"BMWM06091568328982",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"503828537947",
+ "transaction_code":"VVKQ67368617618956",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"15:36:16",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"995633.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UAH of Braavos"
+}

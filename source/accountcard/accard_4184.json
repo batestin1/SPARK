@@ -1,0 +1,15 @@
+{
+ "id_client":"ALKU31001493535048",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4876462529004280",
+ "transaction_code":"NRXX51696712922055",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"18:22:39",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"832757.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KES of Braavos"
+}

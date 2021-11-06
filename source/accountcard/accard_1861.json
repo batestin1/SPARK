@@ -1,0 +1,15 @@
+{
+ "id_client":"TMCL65839831713653",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"6011433070199580",
+ "transaction_code":"ZKHA08354151223181",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"11:58:24",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"308824.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BIF of Braavos"
+}

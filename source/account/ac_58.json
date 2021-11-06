@@ -1,11 +1,11 @@
 {
- "id_client":"GVXV63913382723315",
+ "id_client":"IPIQ10466166536937",
  "yearmonthday":"20211108",
  "_yearmonthday":"20211108",
  "bank":"Braavos",
- "account_type":"salary bill",
+ "account_type":"savings account",
  "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"UMFV79903897070226",
- "aba":"053096837"
+ "account_status":"not activated",
+ "bban_count":"ZWGF15231353317159",
+ "aba":"084974262"
 }

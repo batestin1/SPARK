@@ -1,0 +1,15 @@
+{
+ "id_client":"XJHN23258016213494",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3503039613001456",
+ "transaction_code":"TNXP23648289281912",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"12:03:16",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"660340.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"VUV of Braavos"
+}

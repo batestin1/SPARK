@@ -1,0 +1,15 @@
+{
+ "id_client":"IAYW79882006583443",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4178821270077548838",
+ "transaction_code":"DCQT48997090997105",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"09:36:15",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"60416.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"USD of Braavos"
+}

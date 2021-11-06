@@ -1,0 +1,15 @@
+{
+ "id_client":"YLNK82933912870305",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"060451101293",
+ "transaction_code":"QMVP27201222924704",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"02:11:48",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"815749.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CDF of Braavos"
+}

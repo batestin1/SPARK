@@ -1,0 +1,15 @@
+{
+ "id_client":"OOVR62210787850915",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"4718173671896249",
+ "transaction_code":"SPVB16385026807244",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"05:36:27",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"912162.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CRC of Braavos"
+}

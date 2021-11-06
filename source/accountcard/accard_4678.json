@@ -1,0 +1,15 @@
+{
+ "id_client":"PNHN41800831943230",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4141266359392635",
+ "transaction_code":"KTQA63426308934968",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"04:23:43",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"508726.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KYD of Braavos"
+}

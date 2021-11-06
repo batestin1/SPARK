@@ -1,15 +1,15 @@
 {
- "id_client":"XDZQ97194124726769",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"ZAFN27822448910021",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"4179072654336",
- "transaction_code":"NSJM79589604471998",
- "date_transaction":"2021-11-22",
- "time_transaction":"12:34:12",
- "describle_transaction":"slaves",
- "original_transaction_amount":"434628.0",
+ "card_number":"060419196674",
+ "transaction_code":"BWLM70795968636885",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"02:39:36",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"284160.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"NZD of Braavos"
+ "currency":"CAD of Braavos"
 }

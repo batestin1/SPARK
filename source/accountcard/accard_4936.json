@@ -1,0 +1,15 @@
+{
+ "id_client":"LSTX84365992151371",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"6011282365675683",
+ "transaction_code":"YUIX82725791485224",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"17:58:27",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"46227.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"INR of Braavos"
+}

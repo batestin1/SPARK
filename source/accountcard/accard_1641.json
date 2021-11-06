@@ -1,0 +1,15 @@
+{
+ "id_client":"QPRF85700401212508",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"30350844423734",
+ "transaction_code":"EGRV51058355784737",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"07:56:45",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"352121.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SHP of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"CNUZ43031049121519",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"PZUF46268326646050",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"JDTY71766575770838",
- "aba":"078810629"
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"MDPY02834649270115",
+ "aba":"073494433"
 }

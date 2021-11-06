@@ -1,10 +1,10 @@
 {
- "id_client":"ELHD19911608624307",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
- "rent_income_value":"-100797.0",
- "description_chosen_income_method":"+695208.0",
- "total_account_value":"9774796.0",
- "current_account_total_value":"8975233.0",
- "total_amount_carried_over":"799563.0"
+ "id_client":"POCD75934755828466",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "rent_income_value":"-825005.0",
+ "description_chosen_income_method":"-600557.0",
+ "total_account_value":"693133.0",
+ "current_account_total_value":"438254.0",
+ "total_amount_carried_over":"254879.0"
 }

@@ -1,11 +1,11 @@
 {
- "id_client":"AJHM63955369150943",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"GDEX02553472917571",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"CHIF10923807435709",
- "aba":"071005792"
+ "account_type":"checking account",
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"IXOY29166635376117",
+ "aba":"063442479"
 }

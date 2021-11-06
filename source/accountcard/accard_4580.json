@@ -1,0 +1,15 @@
+{
+ "id_client":"CIMD90931626341595",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"213115960759222",
+ "transaction_code":"VIOW58634067401395",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"18:26:19",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"972196.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BWP of Braavos"
+}

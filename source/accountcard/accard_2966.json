@@ -1,0 +1,15 @@
+{
+ "id_client":"ZABQ30077311659779",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4753800469084283",
+ "transaction_code":"BXEA90389510301495",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"15:11:07",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"147279.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CZK of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RIML73955509713542",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3566104767358468",
+ "transaction_code":"OQQF95079853113147",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"13:48:27",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"770030.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MKD of Braavos"
+}

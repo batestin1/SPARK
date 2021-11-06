@@ -1,11 +1,11 @@
 {
- "id_client":"GLXM46813321177521",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"ERIU32557666750211",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"SYVL84204905553786",
- "aba":"018118437"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"XZJH92051481122413",
+ "aba":"083937466"
 }

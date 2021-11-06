@@ -1,15 +1,15 @@
 {
- "id_client":"NRGW67956116576060",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"SBDI70353838549801",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "status_account_blocked":"not activated",
- "card_number":"3503651724778580",
- "transaction_code":"MHQM97757346009825",
- "date_transaction":"2021-11-26",
- "time_transaction":"02:47:28",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"55608.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"SLL of Braavos"
+ "card_number":"4479996613047813454",
+ "transaction_code":"DOCW85969398344004",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"04:01:15",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"479348.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KGS of Braavos"
 }

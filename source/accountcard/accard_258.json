@@ -1,15 +1,15 @@
 {
- "id_client":"DGOA36486685291226",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
- "status_account_blocked":"activated",
- "card_number":"2703633124281779",
- "transaction_code":"EBEU04696054928507",
- "date_transaction":"2021-12-02",
- "time_transaction":"16:04:03",
+ "id_client":"NDEC57024737245433",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"6011297015466135",
+ "transaction_code":"HSLN95048315749515",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"11:14:45",
  "describle_transaction":"Giants Army",
- "original_transaction_amount":"81855.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"IMP of Braavos"
+ "original_transaction_amount":"374347.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NIS of Braavos"
 }

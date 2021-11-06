@@ -1,15 +1,15 @@
 {
- "id_client":"IJVH06439582004206",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "status_account_blocked":"not activated",
- "card_number":"630473199622",
- "transaction_code":"OXBH29784799140889",
- "date_transaction":"2021-11-26",
- "time_transaction":"19:38:08",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"230733.0",
+ "id_client":"OCMH70892079433123",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4593099886453452",
+ "transaction_code":"TJHB17452957284623",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"14:15:28",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"417707.0",
  "number_installments_assign":"9",
  "current_installment":"8",
- "currency":"BIF of Braavos"
+ "currency":"UAH of Braavos"
 }

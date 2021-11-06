@@ -1,0 +1,15 @@
+{
+ "id_client":"DQCP59689225296677",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4128423759984761",
+ "transaction_code":"NZAR27633969082489",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"17:28:30",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"611882.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"UZS of Braavos"
+}

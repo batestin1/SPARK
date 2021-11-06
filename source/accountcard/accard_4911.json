@@ -1,0 +1,15 @@
+{
+ "id_client":"KRJI15619482155881",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4066710179737",
+ "transaction_code":"GBIP11959435421599",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"21:15:59",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"689450.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RON of Braavos"
+}

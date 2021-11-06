@@ -1,0 +1,15 @@
+{
+ "id_client":"XTVL02091493592902",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3585459651129616",
+ "transaction_code":"BCYG67840387884778",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"05:23:26",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"537936.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BOB of Braavos"
+}

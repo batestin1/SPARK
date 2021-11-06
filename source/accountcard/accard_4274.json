@@ -1,0 +1,15 @@
+{
+ "id_client":"KOMJ51874198481053",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4692676226296269",
+ "transaction_code":"PJLR26761323802082",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"00:11:59",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"539906.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BAM of Braavos"
+}

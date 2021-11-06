@@ -1,0 +1,15 @@
+{
+ "id_client":"GVDP00559382713047",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4825608180856804",
+ "transaction_code":"VRVS36647129293329",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:57:20",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"263608.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"STD of Braavos"
+}

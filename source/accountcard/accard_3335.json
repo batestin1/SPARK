@@ -1,0 +1,15 @@
+{
+ "id_client":"QQSC05530007265544",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"349105676240788",
+ "transaction_code":"SXVD78639121227082",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"21:55:17",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"380647.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XAF of Braavos"
+}

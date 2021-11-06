@@ -1,0 +1,15 @@
+{
+ "id_client":"FVLD98042179191483",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4882816426614281861",
+ "transaction_code":"WZWP15529431722723",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"04:59:59",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"139651.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"DJF of Braavos"
+}

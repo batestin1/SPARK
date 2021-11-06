@@ -1,0 +1,15 @@
+{
+ "id_client":"BVVQ45518578027538",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3506014254708708",
+ "transaction_code":"QSNU36574043001143",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:54:58",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"155761.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CNY of Braavos"
+}

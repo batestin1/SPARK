@@ -1,0 +1,15 @@
+{
+ "id_client":"HPCT59482204994308",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"503863930049",
+ "transaction_code":"AGLC80835112822705",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"00:30:40",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"96513.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BHD of Braavos"
+}

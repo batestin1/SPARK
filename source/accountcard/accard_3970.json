@@ -1,0 +1,15 @@
+{
+ "id_client":"KPWZ22466607243281",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4728092822705638",
+ "transaction_code":"PBXQ11908504199389",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"19:27:43",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"283931.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"WST of Braavos"
+}

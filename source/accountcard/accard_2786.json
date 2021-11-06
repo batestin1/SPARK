@@ -1,0 +1,15 @@
+{
+ "id_client":"JSSJ78927778249645",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"30314419369060",
+ "transaction_code":"AMUT27665251827388",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"12:34:19",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"929318.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MZN of Braavos"
+}

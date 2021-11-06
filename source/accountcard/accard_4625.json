@@ -1,0 +1,15 @@
+{
+ "id_client":"WQVU13303052881347",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"377090343552663",
+ "transaction_code":"FNXT47939098522553",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"02:33:05",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"227920.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"LSL of Braavos"
+}

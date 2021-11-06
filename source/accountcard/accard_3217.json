@@ -1,0 +1,15 @@
+{
+ "id_client":"TBKX23813128827632",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4730249236422175256",
+ "transaction_code":"BAOC53425910995852",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"15:37:17",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"241456.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"STD of Braavos"
+}

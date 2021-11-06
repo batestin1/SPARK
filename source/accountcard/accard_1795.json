@@ -1,0 +1,15 @@
+{
+ "id_client":"CINS95609721305652",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"373027695092462",
+ "transaction_code":"WIVX31162950305240",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"17:45:28",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"140551.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PYG of Braavos"
+}

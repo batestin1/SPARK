@@ -1,15 +1,15 @@
 {
- "id_client":"MHKP04498004868661",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"YLGW89464173256354",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"activated",
- "card_number":"180089908023695",
- "transaction_code":"BEML90213791104879",
+ "card_number":"3545269563272845",
+ "transaction_code":"NSVS64346558278942",
  "date_transaction":"2021-11-19",
- "time_transaction":"15:38:09",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"463221.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"BRL of Braavos"
+ "time_transaction":"16:33:20",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"344150.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SVC of Braavos"
 }

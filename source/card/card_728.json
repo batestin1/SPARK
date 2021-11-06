@@ -1,12 +1,12 @@
 {
- "id_client":"XCJF38628641451105",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
- "card_number":"activated",
- "total_limit_value":"981761.0",
- "limit_value_available":"973131.0",
- "total_limit_used":"8630.0",
- "description_card":"JCB 15 digit",
- "security_card":"251",
- "expire_card_number":"06/28"
+ "id_client":"FQBJ07829779701531",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "card_number":"not activated",
+ "total_limit_value":"987938.0",
+ "limit_value_available":"902356.0",
+ "total_limit_used":"85582.0",
+ "description_card":"Maestro",
+ "security_card":"609",
+ "expire_card_number":"01/29"
 }

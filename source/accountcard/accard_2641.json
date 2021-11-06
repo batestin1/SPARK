@@ -1,0 +1,15 @@
+{
+ "id_client":"QDBY14890959211492",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4756091384076151",
+ "transaction_code":"FYJJ23784602529568",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"12:32:21",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"414965.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ETB of Braavos"
+}

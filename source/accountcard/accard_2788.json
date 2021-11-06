@@ -1,0 +1,15 @@
+{
+ "id_client":"AIKA47856318469190",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3585008970635660",
+ "transaction_code":"FBYK00310561022331",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"11:29:14",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"431790.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"AFN of Braavos"
+}

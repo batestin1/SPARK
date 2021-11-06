@@ -1,10 +1,10 @@
 {
- "id_client":"SDXW21915850074047",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "rent_income_value":"-941062.0",
- "description_chosen_income_method":"+840945.0",
- "total_account_value":"8834462.0",
- "current_account_total_value":"8531176.0",
- "total_amount_carried_over":"303286.0"
+ "id_client":"ASJE08248387019467",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "rent_income_value":"+655733.0",
+ "description_chosen_income_method":"+105250.0",
+ "total_account_value":"6426937.0",
+ "current_account_total_value":"5706233.0",
+ "total_amount_carried_over":"720704.0"
 }

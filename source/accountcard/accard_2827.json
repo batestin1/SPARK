@@ -1,0 +1,15 @@
+{
+ "id_client":"NUZA80980012629464",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"567403932179",
+ "transaction_code":"FRTD70945237142465",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"01:00:37",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"719929.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UZS of Braavos"
+}

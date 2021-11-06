@@ -1,0 +1,15 @@
+{
+ "id_client":"DPTR24188752656297",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"30010783383568",
+ "transaction_code":"XDMK19149272639070",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"12:26:56",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"944122.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BDT of Braavos"
+}

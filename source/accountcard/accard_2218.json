@@ -1,0 +1,15 @@
+{
+ "id_client":"RTPO91874641327441",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"2705709102994456",
+ "transaction_code":"AJMC98264078647752",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"01:41:33",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"928271.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KES of Braavos"
+}

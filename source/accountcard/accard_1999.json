@@ -1,0 +1,15 @@
+{
+ "id_client":"XTFJ45714581152636",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4500508949062318",
+ "transaction_code":"STNP90614939568503",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"04:49:08",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"397020.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MOP of Braavos"
+}

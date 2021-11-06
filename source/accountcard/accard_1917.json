@@ -1,0 +1,15 @@
+{
+ "id_client":"JDHD61552515217601",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"372120920436520",
+ "transaction_code":"WNJB10138229797856",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"09:06:37",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"924321.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"OMR of Braavos"
+}

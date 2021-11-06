@@ -1,0 +1,15 @@
+{
+ "id_client":"LQEV33005398102132",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"3569639807292760",
+ "transaction_code":"UNTF59703164937458",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"18:37:59",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"129542.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TWD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"BXKK37816122332637",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"2555033949223164",
+ "transaction_code":"PJYN87966835775702",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"15:56:04",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"421924.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GBP of Braavos"
+}

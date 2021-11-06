@@ -1,0 +1,15 @@
+{
+ "id_client":"SOWQ06646243427738",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"340249851192361",
+ "transaction_code":"VFSB35862567453059",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"18:05:08",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"892941.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KPW of Braavos"
+}

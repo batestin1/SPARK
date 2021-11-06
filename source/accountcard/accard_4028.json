@@ -1,0 +1,15 @@
+{
+ "id_client":"MLFW42315516259313",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"30209681867546",
+ "transaction_code":"QKXL13937477470341",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"02:51:50",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"479913.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"IDR of Braavos"
+}

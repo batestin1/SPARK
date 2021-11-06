@@ -1,15 +1,15 @@
 {
- "id_client":"KBBP01724744363511",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"DLHN99776662063885",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"activated",
- "card_number":"060467776955",
- "transaction_code":"LCEE61402108307283",
- "date_transaction":"2021-11-25",
- "time_transaction":"22:42:08",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"331143.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"CNY of Braavos"
+ "card_number":"3521151290840060",
+ "transaction_code":"TOSI91686318393232",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"16:10:52",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"787528.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"AUD of Braavos"
 }

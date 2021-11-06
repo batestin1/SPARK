@@ -1,0 +1,15 @@
+{
+ "id_client":"PUTL00990330336421",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4071296743812272958",
+ "transaction_code":"FRYH23548106365730",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"04:32:04",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"86934.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"RUB of Braavos"
+}

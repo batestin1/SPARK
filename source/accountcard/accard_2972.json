@@ -1,0 +1,15 @@
+{
+ "id_client":"VGGW23475353820878",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"582618982414",
+ "transaction_code":"RHMZ71058298366207",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"14:24:38",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"740192.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XPF of Braavos"
+}

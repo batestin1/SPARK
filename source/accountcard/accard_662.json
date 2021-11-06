@@ -1,15 +1,15 @@
 {
- "id_client":"LSRK85471941569666",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "status_account_blocked":"not activated",
- "card_number":"3574285553654754",
- "transaction_code":"JTXZ57059651650632",
- "date_transaction":"2021-11-17",
- "time_transaction":"20:18:00",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"162304.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"BWP of Braavos"
+ "id_client":"HMYZ78911309146417",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3574401884603143",
+ "transaction_code":"GRIA72358319810726",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"09:13:26",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"963116.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TTD of Braavos"
 }

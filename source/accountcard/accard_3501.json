@@ -1,0 +1,15 @@
+{
+ "id_client":"FZYR70548356508139",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"180095126893959",
+ "transaction_code":"BKUH71465904244433",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"22:34:19",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"163647.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"HUF of Braavos"
+}

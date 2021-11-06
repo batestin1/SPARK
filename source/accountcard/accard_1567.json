@@ -1,0 +1,15 @@
+{
+ "id_client":"HEUR16622701912859",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4174370174021179464",
+ "transaction_code":"LJRE91795990985337",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"11:39:45",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"125154.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AWG of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"BCMB82098289644785",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"630417158767",
+ "transaction_code":"WGCI76009122209325",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"20:51:03",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"145652.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MNT of Braavos"
+}

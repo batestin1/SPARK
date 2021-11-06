@@ -1,0 +1,15 @@
+{
+ "id_client":"EXRV48493734417805",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"675988350046",
+ "transaction_code":"ZOGB18558015336496",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:54:10",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"355041.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CUP of Braavos"
+}

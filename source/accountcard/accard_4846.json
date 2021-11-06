@@ -1,0 +1,15 @@
+{
+ "id_client":"NYGV98619240496931",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4719521902445492",
+ "transaction_code":"XHQS14164378665198",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"11:04:29",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"353993.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"THB of Braavos"
+}

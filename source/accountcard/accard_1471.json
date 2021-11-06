@@ -1,0 +1,15 @@
+{
+ "id_client":"OZSP16251236191245",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"341004841832108",
+ "transaction_code":"QNVB05133984170554",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"11:58:40",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"581990.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GHS of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"TLRS85161917007826",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "rent_income_value":"-179684.0",
- "description_chosen_income_method":"-175776.0",
- "total_account_value":"5832630.0",
- "current_account_total_value":"5493680.0",
- "total_amount_carried_over":"338950.0"
+ "id_client":"MAIU77770088657003",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "rent_income_value":"+619586.0",
+ "description_chosen_income_method":"+312120.0",
+ "total_account_value":"8653255.0",
+ "current_account_total_value":"8068315.0",
+ "total_amount_carried_over":"584940.0"
 }

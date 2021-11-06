@@ -1,0 +1,15 @@
+{
+ "id_client":"KEJH49693722549374",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4699648263745105",
+ "transaction_code":"HWWD60946423321199",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:09:52",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"369389.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CAD of Braavos"
+}

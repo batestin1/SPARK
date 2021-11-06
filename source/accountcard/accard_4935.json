@@ -1,0 +1,15 @@
+{
+ "id_client":"KBRX84768589268210",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4694827907994296",
+ "transaction_code":"FMVK20455737391134",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:54:26",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"465389.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GTQ of Braavos"
+}

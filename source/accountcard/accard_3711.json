@@ -1,0 +1,15 @@
+{
+ "id_client":"EOGS97425672740411",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"373462593259634",
+ "transaction_code":"LMGN27526127473141",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"14:15:57",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"125034.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"IRR of Braavos"
+}

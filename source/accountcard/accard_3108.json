@@ -1,0 +1,15 @@
+{
+ "id_client":"QCZA42644949185408",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"2274245022163626",
+ "transaction_code":"AIWB56235928585512",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:35:14",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"764666.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SVC of Braavos"
+}

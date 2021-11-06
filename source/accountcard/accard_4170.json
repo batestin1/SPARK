@@ -1,0 +1,15 @@
+{
+ "id_client":"AAAB87737191773090",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"30590937106643",
+ "transaction_code":"QIZP42099516225199",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"10:52:18",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"24655.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GMD of Braavos"
+}

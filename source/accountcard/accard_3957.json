@@ -1,0 +1,15 @@
+{
+ "id_client":"EHEZ27808653445252",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3518867711634205",
+ "transaction_code":"GAXN53016817136187",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"17:48:47",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"403596.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XDR of Braavos"
+}

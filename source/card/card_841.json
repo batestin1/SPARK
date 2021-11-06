@@ -1,12 +1,12 @@
 {
- "id_client":"TNGG55086770647079",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"YPFM74202753266485",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "card_number":"activated",
- "total_limit_value":"477752.0",
- "limit_value_available":"433950.0",
- "total_limit_used":"43802.0",
- "description_card":"Discover",
- "security_card":"208",
- "expire_card_number":"03/27"
+ "total_limit_value":"266400.0",
+ "limit_value_available":"246968.0",
+ "total_limit_used":"19432.0",
+ "description_card":"Maestro",
+ "security_card":"958",
+ "expire_card_number":"05/24"
 }

@@ -1,12 +1,12 @@
 {
- "id_client":"HLKH81236114822930",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"XFRS14318343809014",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "card_number":"not activated",
- "total_limit_value":"563213.0",
- "limit_value_available":"496960.0",
- "total_limit_used":"66253.0",
- "description_card":"VISA 19 digit",
- "security_card":"985",
- "expire_card_number":"07/29"
+ "total_limit_value":"91763.0",
+ "limit_value_available":"62327.0",
+ "total_limit_used":"29436.0",
+ "description_card":"VISA 13 digit",
+ "security_card":"4634",
+ "expire_card_number":"04/27"
 }

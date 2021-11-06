@@ -1,0 +1,15 @@
+{
+ "id_client":"PUYL34916721565983",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4672037669092",
+ "transaction_code":"RSQG81791713667166",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"18:00:42",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"248392.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ARS of Braavos"
+}

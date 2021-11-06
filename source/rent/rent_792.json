@@ -1,10 +1,10 @@
 {
- "id_client":"AFIP09262595223853",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "rent_income_value":"+925589.0",
- "description_chosen_income_method":"-205988.0",
- "total_account_value":"5495475.0",
- "current_account_total_value":"5043603.0",
- "total_amount_carried_over":"451872.0"
+ "id_client":"XARU54214143605125",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "rent_income_value":"-500843.0",
+ "description_chosen_income_method":"+596692.0",
+ "total_account_value":"554818.0",
+ "current_account_total_value":"436666.0",
+ "total_amount_carried_over":"118152.0"
 }

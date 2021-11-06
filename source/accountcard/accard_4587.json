@@ -1,0 +1,15 @@
+{
+ "id_client":"NTDC26801139892955",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"6536633765372048",
+ "transaction_code":"EIDX59867205018401",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"19:14:55",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"582919.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PAB of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"NYHK47071398134178",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"3585590245094872",
+ "transaction_code":"ACHL35860667181096",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"23:12:11",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"730197.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"COP of Braavos"
+}

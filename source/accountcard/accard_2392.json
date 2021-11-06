@@ -1,0 +1,15 @@
+{
+ "id_client":"GJOC21464617128331",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"378120961967221",
+ "transaction_code":"ROYL93706724502918",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"18:48:10",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"90403.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KGS of Braavos"
+}

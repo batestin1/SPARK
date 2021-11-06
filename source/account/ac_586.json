@@ -1,11 +1,11 @@
 {
- "id_client":"CECF38378700471749",
+ "id_client":"OBOY53996013856005",
  "yearmonthday":"20211112",
  "_yearmonthday":"20211112",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"KUSF94307932391407",
- "aba":"033895748"
+ "account_type":"dragon account",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"SCHZ16018170275055",
+ "aba":"027909090"
 }

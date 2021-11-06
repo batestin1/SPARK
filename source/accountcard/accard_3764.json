@@ -1,0 +1,15 @@
+{
+ "id_client":"MMAT48899893757118",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4281846858589",
+ "transaction_code":"KPGB32921779723690",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"20:56:27",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"764747.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BND of Braavos"
+}

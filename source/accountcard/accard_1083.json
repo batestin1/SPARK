@@ -1,15 +1,15 @@
 {
- "id_client":"YNLX26973845848856",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"PPWI51068658688886",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "status_account_blocked":"not activated",
- "card_number":"4462464004744",
- "transaction_code":"LSGW00973509220171",
- "date_transaction":"2021-11-14",
- "time_transaction":"14:30:45",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"639917.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"NIO of Braavos"
+ "card_number":"3558230280199954",
+ "transaction_code":"HDHC60594841822069",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"18:16:19",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"304998.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MDL of Braavos"
 }

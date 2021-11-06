@@ -1,0 +1,15 @@
+{
+ "id_client":"BPOW82801460096789",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"213189450801208",
+ "transaction_code":"JMEE25151559888092",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"14:38:36",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"117551.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XDR of Braavos"
+}

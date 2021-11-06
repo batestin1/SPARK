@@ -1,0 +1,15 @@
+{
+ "id_client":"JZPW11388747377907",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"6011574038700645",
+ "transaction_code":"GQYW48340516180182",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"20:37:39",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"96066.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LTL of Braavos"
+}

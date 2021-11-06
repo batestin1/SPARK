@@ -1,0 +1,15 @@
+{
+ "id_client":"ESHT15335935896984",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4192050737868591",
+ "transaction_code":"BFDC40272505744557",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"07:45:56",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"760846.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"EGP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"UVNH74304360748986",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4802080234342",
+ "transaction_code":"ZPAA30757535719124",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"08:56:07",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"91553.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XAF of Braavos"
+}

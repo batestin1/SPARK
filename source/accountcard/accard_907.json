@@ -1,15 +1,15 @@
 {
- "id_client":"WZMT82568459638801",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"KURQ15435304047856",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"not activated",
- "card_number":"676387319392",
- "transaction_code":"DZPP79178529421522",
- "date_transaction":"2021-11-19",
- "time_transaction":"11:15:23",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"352363.0",
+ "card_number":"4070692432163",
+ "transaction_code":"NMQD87670848667122",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"06:06:41",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"318519.0",
  "number_installments_assign":"2",
  "current_installment":"1",
- "currency":"GGP of Braavos"
+ "currency":"BDT of Braavos"
 }

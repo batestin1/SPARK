@@ -1,11 +1,11 @@
 {
- "id_client":"JEVE69694689817201",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"SPAS62003694742698",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"VBAR89569585010069",
- "aba":"018890561"
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"TMKB72794625613459",
+ "aba":"077943466"
 }

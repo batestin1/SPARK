@@ -1,15 +1,15 @@
 {
- "id_client":"MPKS82418634648004",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
- "status_account_blocked":"activated",
- "card_number":"3551878271161537",
- "transaction_code":"BVJX12846565338399",
- "date_transaction":"2021-11-11",
- "time_transaction":"12:22:50",
- "describle_transaction":"brothel",
- "original_transaction_amount":"862366.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"HRK of Braavos"
+ "id_client":"YTXV95597255617715",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"3506196827986646",
+ "transaction_code":"XZDS97587337772979",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"23:57:41",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"901169.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HUF of Braavos"
 }

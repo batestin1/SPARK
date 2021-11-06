@@ -1,0 +1,15 @@
+{
+ "id_client":"IMMN03660103880518",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"2376043615231273",
+ "transaction_code":"RCJJ99545990530848",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"22:22:54",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"357229.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NIO of Braavos"
+}

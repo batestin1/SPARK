@@ -1,0 +1,15 @@
+{
+ "id_client":"IART74622471936216",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"30206171817668",
+ "transaction_code":"FVUY11369913408732",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"14:12:00",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"165705.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PLN of Braavos"
+}

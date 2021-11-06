@@ -1,0 +1,15 @@
+{
+ "id_client":"NBJI02592223085443",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4827584528240829",
+ "transaction_code":"JNUD51392828563043",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"12:06:15",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"137560.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"COP of Braavos"
+}

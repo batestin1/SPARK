@@ -1,0 +1,15 @@
+{
+ "id_client":"VYBT03363587502678",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"373923199005572",
+ "transaction_code":"QXYY97051947665902",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"05:31:32",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"948594.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SVC of Braavos"
+}

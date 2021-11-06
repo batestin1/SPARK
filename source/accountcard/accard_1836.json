@@ -1,0 +1,15 @@
+{
+ "id_client":"GSPB26720689749738",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4852169015203",
+ "transaction_code":"KTEW21567007248708",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"14:30:26",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"321351.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"QAR of Braavos"
+}

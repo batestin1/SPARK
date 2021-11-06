@@ -1,0 +1,15 @@
+{
+ "id_client":"MJRC28750962842393",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"6011823734381980",
+ "transaction_code":"OYMJ44065516601638",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"10:04:16",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"941224.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MZN of Braavos"
+}

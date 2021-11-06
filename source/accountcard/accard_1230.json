@@ -1,0 +1,15 @@
+{
+ "id_client":"DNBL13505912785142",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"3537651068532544",
+ "transaction_code":"SAMD02080924376059",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"19:02:44",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"532399.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"IMP of Braavos"
+}

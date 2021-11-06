@@ -1,15 +1,15 @@
 {
- "id_client":"UYRA30912266011506",
+ "id_client":"QIHW30523891102768",
  "yearmonthday":"20211128",
  "_yearmonthday":"20211128",
  "status_account_blocked":"activated",
- "card_number":"4987366849762",
- "transaction_code":"BQDQ51402346501575",
- "date_transaction":"2021-12-01",
- "time_transaction":"11:54:24",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"92388.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"OMR of Braavos"
+ "card_number":"4337683680085791",
+ "transaction_code":"BATV43037324533861",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"07:27:14",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"657366.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MXN of Braavos"
 }

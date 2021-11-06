@@ -1,0 +1,15 @@
+{
+ "id_client":"DYCH96388170709395",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"374810212887947",
+ "transaction_code":"AODT84733985392412",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"00:53:26",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"400888.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SZL of Braavos"
+}

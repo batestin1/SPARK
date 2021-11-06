@@ -1,12 +1,12 @@
 {
- "id_client":"BTRH76172818781620",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"AEBN79394119850066",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "card_number":"activated",
- "total_limit_value":"301917.0",
- "limit_value_available":"211509.0",
- "total_limit_used":"90408.0",
- "description_card":"VISA 19 digit",
- "security_card":"026",
- "expire_card_number":"11/25"
+ "total_limit_value":"865636.0",
+ "limit_value_available":"781494.0",
+ "total_limit_used":"84142.0",
+ "description_card":"Mastercard",
+ "security_card":"494",
+ "expire_card_number":"07/30"
 }

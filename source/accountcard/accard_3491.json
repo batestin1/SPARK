@@ -1,0 +1,15 @@
+{
+ "id_client":"DTTP08962997156287",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"501899169327",
+ "transaction_code":"KJNB98733175163836",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"03:34:05",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"757500.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MMK of Braavos"
+}

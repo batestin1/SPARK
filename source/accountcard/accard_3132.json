@@ -1,0 +1,15 @@
+{
+ "id_client":"QSPN68969120467703",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"2707672764162291",
+ "transaction_code":"KHXB53608767678280",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"03:24:44",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"538814.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BTN of Braavos"
+}

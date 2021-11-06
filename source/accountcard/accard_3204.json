@@ -1,0 +1,15 @@
+{
+ "id_client":"DPDM40718977312095",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"2242080965893320",
+ "transaction_code":"HUTW82705500004135",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"21:04:46",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"699586.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GEL of Braavos"
+}

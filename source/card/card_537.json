@@ -1,12 +1,12 @@
 {
- "id_client":"EPIU85287477003447",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"JHFY71135318127332",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "card_number":"not activated",
- "total_limit_value":"123055.0",
- "limit_value_available":"39294.0",
- "total_limit_used":"83761.0",
- "description_card":"Discover",
- "security_card":"573",
- "expire_card_number":"07/24"
+ "total_limit_value":"845742.0",
+ "limit_value_available":"767274.0",
+ "total_limit_used":"78468.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"334",
+ "expire_card_number":"12/22"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"VEBM79479308975556",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"PAGG90117754856997",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"activated",
- "card_number":"586374591749",
- "transaction_code":"OJOZ76158834379492",
- "date_transaction":"2021-11-22",
- "time_transaction":"08:08:36",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"469880.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"PHP of Braavos"
+ "card_number":"4491168299616923",
+ "transaction_code":"ZQYT78562905098975",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"21:39:54",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"338216.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BMD of Braavos"
 }

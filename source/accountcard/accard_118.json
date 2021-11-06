@@ -1,15 +1,15 @@
 {
- "id_client":"YNJT75168032519538",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"MASO70347512041686",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"not activated",
- "card_number":"4047190609194309",
- "transaction_code":"WJKE98914799664331",
- "date_transaction":"2021-11-10",
- "time_transaction":"06:35:39",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"875036.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"LRD of Braavos"
+ "card_number":"4121152445136",
+ "transaction_code":"BUYT25195298195005",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"23:53:22",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"698719.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UYU of Braavos"
 }

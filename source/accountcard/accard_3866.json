@@ -1,0 +1,15 @@
+{
+ "id_client":"EWJU96504476669115",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"213102323725876",
+ "transaction_code":"BHJO21407057600830",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"10:18:13",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"572041.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MGA of Braavos"
+}

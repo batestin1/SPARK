@@ -1,0 +1,15 @@
+{
+ "id_client":"HUVB16480842988820",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"570996183093",
+ "transaction_code":"AOKP06244748498409",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"08:03:16",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"914761.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"THB of Braavos"
+}

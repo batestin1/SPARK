@@ -1,12 +1,12 @@
 {
- "id_client":"FCSA89552485979079",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"EPGP81244246613410",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "card_number":"not activated",
- "total_limit_value":"91136.0",
- "limit_value_available":"43176.0",
- "total_limit_used":"47960.0",
- "description_card":"JCB 16 digit",
- "security_card":"488",
- "expire_card_number":"04/24"
+ "total_limit_value":"385017.0",
+ "limit_value_available":"345572.0",
+ "total_limit_used":"39445.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"652",
+ "expire_card_number":"08/24"
 }

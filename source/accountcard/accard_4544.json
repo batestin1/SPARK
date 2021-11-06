@@ -1,0 +1,15 @@
+{
+ "id_client":"VISA56796159323027",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2327678966736709",
+ "transaction_code":"RPDJ25004363307292",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"14:16:03",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"723254.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AZN of Braavos"
+}

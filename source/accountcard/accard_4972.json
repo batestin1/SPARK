@@ -1,0 +1,15 @@
+{
+ "id_client":"CENK30448676779138",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"2451358099573430",
+ "transaction_code":"ZEGL94999292713663",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"12:08:47",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"219388.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NGN of Braavos"
+}

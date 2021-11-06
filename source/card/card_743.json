@@ -1,12 +1,12 @@
 {
- "id_client":"MHKN88704743568493",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"BCNU83294705447645",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "card_number":"not activated",
- "total_limit_value":"478060.0",
- "limit_value_available":"442367.0",
- "total_limit_used":"35693.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"740",
- "expire_card_number":"06/28"
+ "total_limit_value":"986477.0",
+ "limit_value_available":"888050.0",
+ "total_limit_used":"98427.0",
+ "description_card":"Mastercard",
+ "security_card":"149",
+ "expire_card_number":"10/28"
 }

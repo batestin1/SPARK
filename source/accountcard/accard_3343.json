@@ -1,0 +1,15 @@
+{
+ "id_client":"ELKJ92998612033472",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"6011478512357338",
+ "transaction_code":"PNNN33091858334573",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"09:01:40",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"241039.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LTL of Braavos"
+}

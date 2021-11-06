@@ -1,0 +1,15 @@
+{
+ "id_client":"FPQY19042177204988",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2720561563169859",
+ "transaction_code":"TIYM40741517559467",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"09:51:28",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"293714.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ARS of Braavos"
+}

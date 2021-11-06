@@ -1,0 +1,15 @@
+{
+ "id_client":"SJUJ94976678184411",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4269264516281219",
+ "transaction_code":"CIEZ49998978440483",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"13:29:59",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"569369.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BGN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WVGZ69288727434665",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"3548126688552203",
+ "transaction_code":"TEUX90792650787312",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"03:39:33",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"395310.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CAD of Braavos"
+}

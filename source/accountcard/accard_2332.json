@@ -1,0 +1,15 @@
+{
+ "id_client":"MVRW91974766725545",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4345271162231263",
+ "transaction_code":"FZAS67771573580703",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"21:25:06",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"783801.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AFN of Braavos"
+}

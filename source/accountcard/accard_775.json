@@ -1,15 +1,15 @@
 {
- "id_client":"POCB78118271111755",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"PJKT32891894265036",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "status_account_blocked":"activated",
- "card_number":"4296834872271009",
- "transaction_code":"YVHD08743613416437",
- "date_transaction":"2021-12-03",
- "time_transaction":"19:28:24",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"91956.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"CZK of Braavos"
+ "card_number":"3598494399055737",
+ "transaction_code":"PTRP48589506648988",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:05:28",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"62645.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"QAR of Braavos"
 }

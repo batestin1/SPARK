@@ -1,0 +1,15 @@
+{
+ "id_client":"TWEZ01784570171337",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4569897868924886761",
+ "transaction_code":"TLWL12505954611791",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"09:39:05",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"503209.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KMF of Braavos"
+}

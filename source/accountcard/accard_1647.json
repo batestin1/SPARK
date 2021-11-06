@@ -1,0 +1,15 @@
+{
+ "id_client":"QYDC97337204426846",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"676357985768",
+ "transaction_code":"GJOP46209989305466",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"13:42:31",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"140638.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CZK of Braavos"
+}

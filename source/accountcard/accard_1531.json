@@ -1,0 +1,15 @@
+{
+ "id_client":"ZUES87876192411758",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4750038411513850",
+ "transaction_code":"ARSY70996951687445",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"06:31:27",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"507895.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XDR of Braavos"
+}

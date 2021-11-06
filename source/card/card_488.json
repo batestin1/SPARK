@@ -1,12 +1,12 @@
 {
- "id_client":"ZFUM76550941290638",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"AVPO83157580868597",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "card_number":"activated",
- "total_limit_value":"983055.0",
- "limit_value_available":"976055.0",
- "total_limit_used":"7000.0",
- "description_card":"JCB 16 digit",
- "security_card":"677",
- "expire_card_number":"03/30"
+ "total_limit_value":"946872.0",
+ "limit_value_available":"910785.0",
+ "total_limit_used":"36087.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"944",
+ "expire_card_number":"09/26"
 }

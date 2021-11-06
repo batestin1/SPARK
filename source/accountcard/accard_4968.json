@@ -1,0 +1,15 @@
+{
+ "id_client":"IWKK32091877224220",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"5141022098808960",
+ "transaction_code":"ILER78906784713377",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"15:16:36",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"542187.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"EUR of Braavos"
+}

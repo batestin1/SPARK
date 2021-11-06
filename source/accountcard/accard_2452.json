@@ -1,0 +1,15 @@
+{
+ "id_client":"VSBB26897860164248",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"343326121925684",
+ "transaction_code":"SYNW90205280264384",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"06:55:41",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"265152.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"UZS of Braavos"
+}

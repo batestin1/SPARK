@@ -1,10 +1,10 @@
 {
- "id_client":"FCBQ02878810502034",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "rent_income_value":"-819634.0",
- "description_chosen_income_method":"+266726.0",
- "total_account_value":"8252046.0",
- "current_account_total_value":"7338961.0",
- "total_amount_carried_over":"913085.0"
+ "id_client":"TVTX51032425830365",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "rent_income_value":"-246433.0",
+ "description_chosen_income_method":"-63966.0",
+ "total_account_value":"4258250.0",
+ "current_account_total_value":"4063577.0",
+ "total_amount_carried_over":"194673.0"
 }

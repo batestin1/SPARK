@@ -1,15 +1,15 @@
 {
- "id_client":"PWJY50231279966541",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "status_account_blocked":"not activated",
- "card_number":"3592658206082219",
- "transaction_code":"ZZZS12929552427605",
- "date_transaction":"2021-11-22",
- "time_transaction":"06:56:50",
- "describle_transaction":"theater",
- "original_transaction_amount":"700882.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"MNT of Braavos"
+ "id_client":"ZYWL14082621634085",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4839512535821",
+ "transaction_code":"OPFF84851976147306",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"02:24:21",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"464850.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BIF of Braavos"
 }

@@ -1,10 +1,10 @@
 {
- "id_client":"EARF70371392881220",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "rent_income_value":"-479172.0",
- "description_chosen_income_method":"-86116.0",
- "total_account_value":"3464305.0",
- "current_account_total_value":"3269968.0",
- "total_amount_carried_over":"194337.0"
+ "id_client":"PEMM45940366708600",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "rent_income_value":"+606426.0",
+ "description_chosen_income_method":"-342572.0",
+ "total_account_value":"8696196.0",
+ "current_account_total_value":"8214588.0",
+ "total_amount_carried_over":"481608.0"
 }

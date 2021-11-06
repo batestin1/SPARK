@@ -1,11 +1,11 @@
 {
- "id_client":"WDHH09264691443115",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"LDYL21156505184805",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"FVPU83328021897972",
- "aba":"065637238"
+ "account_type":"savings account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"GAAV38399235028745",
+ "aba":"037589587"
 }

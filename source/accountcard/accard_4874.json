@@ -1,0 +1,15 @@
+{
+ "id_client":"GAZW19003646175350",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"30400665599698",
+ "transaction_code":"JUDX16725121600698",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"16:30:35",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"165787.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MUR of Braavos"
+}

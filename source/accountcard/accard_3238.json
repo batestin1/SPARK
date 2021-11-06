@@ -1,0 +1,15 @@
+{
+ "id_client":"KUQN56945626147302",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"676178110588",
+ "transaction_code":"QOMT38740715847155",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"20:20:16",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"342904.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BDT of Braavos"
+}

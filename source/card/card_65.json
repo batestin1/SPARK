@@ -1,12 +1,12 @@
 {
- "id_client":"EZET20513550983289",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"EJMF29227274933705",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "card_number":"not activated",
- "total_limit_value":"419024.0",
- "limit_value_available":"381922.0",
- "total_limit_used":"37102.0",
+ "total_limit_value":"272980.0",
+ "limit_value_available":"223779.0",
+ "total_limit_used":"49201.0",
  "description_card":"JCB 16 digit",
- "security_card":"575",
- "expire_card_number":"07/24"
+ "security_card":"469",
+ "expire_card_number":"10/30"
 }

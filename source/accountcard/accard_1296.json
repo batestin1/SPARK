@@ -1,0 +1,15 @@
+{
+ "id_client":"RWLU90180249214044",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4620911261790505",
+ "transaction_code":"EMIU84260496654531",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"22:15:00",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"102940.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NPR of Braavos"
+}

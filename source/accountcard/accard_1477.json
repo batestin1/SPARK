@@ -1,0 +1,15 @@
+{
+ "id_client":"ULOC23366477065750",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"180020913121737",
+ "transaction_code":"TRNS33962994912935",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"12:30:48",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"241259.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"FKP of Braavos"
+}

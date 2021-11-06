@@ -1,0 +1,15 @@
+{
+ "id_client":"ZXUP61284410989315",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"180018644485652",
+ "transaction_code":"JIVU50912044777275",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"17:29:50",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"2303.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GYD of Braavos"
+}

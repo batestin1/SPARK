@@ -1,0 +1,15 @@
+{
+ "id_client":"EUZT70179277139392",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"3592041318958396",
+ "transaction_code":"VINR16259030963364",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"17:53:32",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"988360.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ISK of Braavos"
+}

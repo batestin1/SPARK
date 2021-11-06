@@ -1,0 +1,15 @@
+{
+ "id_client":"XGEC37083023547686",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"2424029291488818",
+ "transaction_code":"CDLN81205487852168",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"23:40:56",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"544020.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"IQD of Braavos"
+}

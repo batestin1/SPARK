@@ -1,11 +1,11 @@
 {
- "id_client":"MHKN88704743568493",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"BCNU83294705447645",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Risky",
+ "account_type":"checking account",
+ "investor_profile":"Reliable",
  "account_status":"activated",
- "bban_count":"YZUT27650240527891",
- "aba":"065024641"
+ "bban_count":"QLNR83902297976236",
+ "aba":"018728737"
 }

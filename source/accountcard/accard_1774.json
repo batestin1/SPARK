@@ -1,0 +1,15 @@
+{
+ "id_client":"HMNC51434672044209",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"4265665374599729092",
+ "transaction_code":"FXMJ65393708284697",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"11:21:25",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"647773.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NIS of Braavos"
+}

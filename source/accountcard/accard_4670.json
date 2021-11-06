@@ -1,0 +1,15 @@
+{
+ "id_client":"SSZM73265003546348",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4872748758038922",
+ "transaction_code":"RWRK92633312246513",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"02:43:36",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"169592.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SCR of Braavos"
+}

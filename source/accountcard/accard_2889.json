@@ -1,0 +1,15 @@
+{
+ "id_client":"JWZA27670407699358",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4502300441166476",
+ "transaction_code":"LSAR83242516097944",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"22:52:52",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"958741.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PEN of Braavos"
+}

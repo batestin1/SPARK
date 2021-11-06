@@ -1,0 +1,15 @@
+{
+ "id_client":"ZXSB81700440692598",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"3530152910570110",
+ "transaction_code":"LBEH98191582402451",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"15:50:21",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"925515.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SDG of Braavos"
+}

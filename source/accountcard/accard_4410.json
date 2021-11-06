@@ -1,0 +1,15 @@
+{
+ "id_client":"JRTH66733286100345",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"5561676862206536",
+ "transaction_code":"BYTN31176615745598",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"18:22:19",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"233935.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TND of Braavos"
+}

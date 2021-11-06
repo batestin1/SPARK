@@ -1,12 +1,12 @@
 {
- "id_client":"CWBT49813495775540",
+ "id_client":"ENMY98894905560470",
  "yearmonthday":"20211203",
  "_yearmonthday":"20211203",
- "card_number":"not activated",
- "total_limit_value":"436494.0",
- "limit_value_available":"417667.0",
- "total_limit_used":"18827.0",
- "description_card":"Discover",
- "security_card":"526",
- "expire_card_number":"05/24"
+ "card_number":"activated",
+ "total_limit_value":"697364.0",
+ "limit_value_available":"676886.0",
+ "total_limit_used":"20478.0",
+ "description_card":"American Express",
+ "security_card":"520",
+ "expire_card_number":"05/26"
 }

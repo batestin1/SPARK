@@ -1,0 +1,15 @@
+{
+ "id_client":"QZQW79485636726508",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"30002541500427",
+ "transaction_code":"WPFS57219680105566",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"11:11:48",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"913086.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"VND of Braavos"
+}

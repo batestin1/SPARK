@@ -1,15 +1,15 @@
 {
- "id_client":"FCSA89552485979079",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"EPGP81244246613410",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "status_account_blocked":"not activated",
- "card_number":"36529932426279",
- "transaction_code":"IQND31577127674483",
- "date_transaction":"2021-11-11",
- "time_transaction":"19:29:25",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"891138.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"ISK of Braavos"
+ "card_number":"4757015664569",
+ "transaction_code":"OVZQ85345531326840",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"01:39:54",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"603896.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NZD of Braavos"
 }

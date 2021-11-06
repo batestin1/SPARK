@@ -1,0 +1,15 @@
+{
+ "id_client":"LOIB57521699918648",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4963643201752408148",
+ "transaction_code":"EDMB10425898839442",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"10:33:01",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"400817.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"PHP of Braavos"
+}

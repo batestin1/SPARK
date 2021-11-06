@@ -1,0 +1,15 @@
+{
+ "id_client":"SNVN45715423201831",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"30418436039380",
+ "transaction_code":"TPAN42011273611424",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"00:51:56",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"75849.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MDL of Braavos"
+}

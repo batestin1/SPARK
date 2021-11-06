@@ -1,0 +1,15 @@
+{
+ "id_client":"PNIQ10803390184740",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4583870723906",
+ "transaction_code":"WULG50558749186482",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"11:23:24",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"128343.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KRW of Braavos"
+}

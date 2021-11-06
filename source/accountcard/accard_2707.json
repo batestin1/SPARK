@@ -1,0 +1,15 @@
+{
+ "id_client":"WEFO47913445751213",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3544747791525523",
+ "transaction_code":"GJOU06938267648394",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"10:30:55",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"732314.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SCR of Braavos"
+}

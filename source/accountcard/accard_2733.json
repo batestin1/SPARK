@@ -1,0 +1,15 @@
+{
+ "id_client":"KBAX84186453633354",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"568166783205",
+ "transaction_code":"IVIV28251211030173",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"02:17:39",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"15436.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"WST of Braavos"
+}

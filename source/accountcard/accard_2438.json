@@ -1,0 +1,15 @@
+{
+ "id_client":"VABV66989668356206",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"349856779609689",
+ "transaction_code":"KFIN34675492036861",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"01:22:38",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"599603.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"THB of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"VHHI15321824184522",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"AMAI90187484778477",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
+ "account_type":"savings account",
+ "investor_profile":"Reliable",
  "account_status":"activated",
- "bban_count":"NFKZ08815393761548",
- "aba":"090194023"
+ "bban_count":"MKII63231626710265",
+ "aba":"043010535"
 }

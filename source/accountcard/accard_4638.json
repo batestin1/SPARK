@@ -1,0 +1,15 @@
+{
+ "id_client":"GKAP94414229148512",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"503841192134",
+ "transaction_code":"IVXR96011533763414",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"03:57:35",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"298370.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"DKK of Braavos"
+}

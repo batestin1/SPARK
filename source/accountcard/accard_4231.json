@@ -1,0 +1,15 @@
+{
+ "id_client":"TWMF36721822161195",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4295868053985764",
+ "transaction_code":"MNOU94905426566450",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"10:29:13",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"826430.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ISK of Braavos"
+}

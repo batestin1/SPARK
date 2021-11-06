@@ -1,0 +1,15 @@
+{
+ "id_client":"SAPJ53737570968644",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4038799037067316",
+ "transaction_code":"KDRD98647825737259",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"17:21:58",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"142659.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GTQ of Braavos"
+}

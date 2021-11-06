@@ -1,0 +1,15 @@
+{
+ "id_client":"GQXZ36733898950584",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4679076567082468",
+ "transaction_code":"HOWZ00597980726212",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"15:43:40",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"685573.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"QAR of Braavos"
+}

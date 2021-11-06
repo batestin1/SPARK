@@ -1,0 +1,15 @@
+{
+ "id_client":"LVCT40492893333492",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"30041645796796",
+ "transaction_code":"FVDO05022092880529",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"03:31:26",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"601840.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MOP of Braavos"
+}

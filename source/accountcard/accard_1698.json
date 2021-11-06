@@ -1,0 +1,15 @@
+{
+ "id_client":"OAJH49177011337877",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"503852782799",
+ "transaction_code":"YMTE95642618657531",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"08:15:07",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"501708.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TMT of Braavos"
+}

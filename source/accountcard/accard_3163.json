@@ -1,0 +1,15 @@
+{
+ "id_client":"ESIG72221663680890",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"2618998743102076",
+ "transaction_code":"PMPV98242734237671",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"15:16:32",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"438158.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"WST of Braavos"
+}

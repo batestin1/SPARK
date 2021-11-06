@@ -1,15 +1,15 @@
 {
- "id_client":"KBLE29398406215780",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"AFWW32885288194568",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "status_account_blocked":"not activated",
- "card_number":"3504040905225752",
- "transaction_code":"AYLZ85549717839834",
- "date_transaction":"2021-11-21",
- "time_transaction":"07:40:36",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"18601.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"SRD of Braavos"
+ "card_number":"4545201678711614693",
+ "transaction_code":"BBBF51278821563178",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"02:28:53",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"983409.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GYD of Braavos"
 }

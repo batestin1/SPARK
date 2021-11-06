@@ -1,11 +1,11 @@
 {
- "id_client":"TNEP54577047526782",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"KIKM53588998577135",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"salary bill",
  "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"YLIR21488703389220",
- "aba":"019050819"
+ "account_status":"not activated",
+ "bban_count":"HLRZ71001970881277",
+ "aba":"069731656"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"BLAM86735161447938",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"180006134593754",
+ "transaction_code":"ZUTQ78037211785742",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"18:03:31",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"876311.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"RON of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"KPLL19829080687271",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"675941450289",
+ "transaction_code":"CYNN54625697516018",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"10:33:20",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"457925.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NPR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"XSTH21973622513175",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"213147526528320",
+ "transaction_code":"NPLF53541684082394",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"19:37:16",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"325364.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"COP of Braavos"
+}

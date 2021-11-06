@@ -1,0 +1,15 @@
+{
+ "id_client":"EZQW37039632060824",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"639007075125",
+ "transaction_code":"KFOM04568682144280",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"09:34:51",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"71462.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CLP of Braavos"
+}

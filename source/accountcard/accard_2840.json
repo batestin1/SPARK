@@ -1,0 +1,15 @@
+{
+ "id_client":"FXZR10442314395685",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4002908317118416",
+ "transaction_code":"AFOO80637476501841",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"09:51:59",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"368702.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"LBP of Braavos"
+}

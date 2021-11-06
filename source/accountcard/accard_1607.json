@@ -1,0 +1,15 @@
+{
+ "id_client":"SSRA13243599750190",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4214802070972",
+ "transaction_code":"IFDR56795409755023",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"04:43:54",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"215119.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NIO of Braavos"
+}

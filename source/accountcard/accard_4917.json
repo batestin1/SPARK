@@ -1,0 +1,15 @@
+{
+ "id_client":"AZPN28980890855396",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3529126032486440",
+ "transaction_code":"FGAU39962258008644",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"04:38:46",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"445802.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SDG of Braavos"
+}

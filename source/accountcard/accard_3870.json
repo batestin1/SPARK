@@ -1,0 +1,15 @@
+{
+ "id_client":"VLBW92061862499333",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4128744399077",
+ "transaction_code":"UPBM11147886600196",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"15:24:12",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"570880.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PKR of Braavos"
+}

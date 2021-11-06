@@ -1,0 +1,15 @@
+{
+ "id_client":"DSMR99675421442524",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4065876493273830",
+ "transaction_code":"PWJW94983674406125",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"12:39:37",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"3714.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AOA of Braavos"
+}

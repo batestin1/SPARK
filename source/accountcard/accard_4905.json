@@ -1,0 +1,15 @@
+{
+ "id_client":"RCLF65133905664231",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"572238027310",
+ "transaction_code":"MHUX52054252266428",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:15:29",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"961111.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KHR of Braavos"
+}

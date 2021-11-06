@@ -1,11 +1,11 @@
 {
- "id_client":"NIEQ42117251214549",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"WRRP73458864980041",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"PMCI19151971608456",
- "aba":"011204405"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"DBZQ54799277232582",
+ "aba":"056700219"
 }

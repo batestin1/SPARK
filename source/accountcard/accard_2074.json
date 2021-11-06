@@ -1,0 +1,15 @@
+{
+ "id_client":"WJOD67555987965773",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4960511923113",
+ "transaction_code":"SHJM32349534039618",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"06:23:38",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"813717.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BOB of Braavos"
+}

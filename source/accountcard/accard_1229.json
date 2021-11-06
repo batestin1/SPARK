@@ -1,0 +1,15 @@
+{
+ "id_client":"GMUU38141955307704",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"2244821345050125",
+ "transaction_code":"JIVM71823642033063",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"08:33:27",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"550998.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BND of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"MKVK84990560970771",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4008553620912057",
+ "transaction_code":"VLJC15700347201787",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"23:05:19",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"245747.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MUR of Braavos"
+}

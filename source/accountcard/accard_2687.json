@@ -1,0 +1,15 @@
+{
+ "id_client":"LGDY22513309172034",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"3519565577702855",
+ "transaction_code":"KKTC30696432379656",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"04:11:33",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"775780.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GMD of Braavos"
+}

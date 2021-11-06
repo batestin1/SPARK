@@ -1,11 +1,11 @@
 {
- "id_client":"NBLO87804704556531",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"LAOM06506455973497",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"FMJS02075847831360",
- "aba":"099958091"
+ "account_type":"checking account",
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"YVJH96435149292564",
+ "aba":"098825232"
 }

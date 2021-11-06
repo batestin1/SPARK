@@ -1,0 +1,15 @@
+{
+ "id_client":"NULZ85406380284145",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"30284137293027",
+ "transaction_code":"FOVG24754449454386",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"19:35:30",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"252191.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"IMP of Braavos"
+}

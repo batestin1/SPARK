@@ -1,0 +1,15 @@
+{
+ "id_client":"JEHX12464667568587",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4428627938784036",
+ "transaction_code":"CNVJ57570605528919",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"08:11:12",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"232553.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PHP of Braavos"
+}

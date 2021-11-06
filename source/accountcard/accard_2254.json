@@ -1,0 +1,15 @@
+{
+ "id_client":"KMDJ09866091846618",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4572752479523710",
+ "transaction_code":"IHMP04991419652008",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"12:48:59",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"863105.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MDL of Braavos"
+}

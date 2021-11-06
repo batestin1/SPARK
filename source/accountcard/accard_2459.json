@@ -1,0 +1,15 @@
+{
+ "id_client":"ELNM68475909138435",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"5241793682216336",
+ "transaction_code":"EFUS72678928286648",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"23:39:04",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"897718.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"FKP of Braavos"
+}

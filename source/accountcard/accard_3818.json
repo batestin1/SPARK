@@ -1,0 +1,15 @@
+{
+ "id_client":"OCHW76440895511007",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"3578365620435761",
+ "transaction_code":"TKQT60978525057426",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"05:30:10",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"222353.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ALL of Braavos"
+}

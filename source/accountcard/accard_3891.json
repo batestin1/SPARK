@@ -1,0 +1,15 @@
+{
+ "id_client":"GJZH32481962888950",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"3521042205573476",
+ "transaction_code":"EBMI22696496227309",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"20:51:56",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"44528.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BIF of Braavos"
+}

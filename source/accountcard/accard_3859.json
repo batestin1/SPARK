@@ -1,0 +1,15 @@
+{
+ "id_client":"MMZX52009730619713",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4622677012050030",
+ "transaction_code":"MIER43505738002043",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"13:35:49",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"327182.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CNY of Braavos"
+}

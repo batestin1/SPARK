@@ -1,0 +1,15 @@
+{
+ "id_client":"GZPR70959404048921",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"2286708987837514",
+ "transaction_code":"FQVF94218791291158",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"16:37:42",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"417444.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KYD of Braavos"
+}

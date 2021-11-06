@@ -1,0 +1,15 @@
+{
+ "id_client":"NLWT82162850878330",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4079135933711",
+ "transaction_code":"FFOI66182410976319",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"22:32:57",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"267698.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BIF of Braavos"
+}

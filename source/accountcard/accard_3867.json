@@ -1,0 +1,15 @@
+{
+ "id_client":"NCFQ81551428777326",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"3571335007441580",
+ "transaction_code":"QEGT73846310653032",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"11:51:23",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"744270.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SEK of Braavos"
+}

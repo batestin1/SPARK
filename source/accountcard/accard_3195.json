@@ -1,0 +1,15 @@
+{
+ "id_client":"MQSO15571541755394",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4052505019155",
+ "transaction_code":"IRSH13253568876218",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"02:05:20",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"191421.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ZWD of Braavos"
+}

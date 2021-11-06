@@ -1,0 +1,15 @@
+{
+ "id_client":"HMKB11062309361094",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"30421065499495",
+ "transaction_code":"CIWF42016679737045",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:23:17",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"494556.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CUC of Braavos"
+}

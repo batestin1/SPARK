@@ -1,0 +1,15 @@
+{
+ "id_client":"EYPX82354277917823",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"3561304434375243",
+ "transaction_code":"DXED84473347194679",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"21:24:12",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"494110.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SEK of Braavos"
+}

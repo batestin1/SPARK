@@ -1,0 +1,15 @@
+{
+ "id_client":"CTIJ46218056768674",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"180033499286097",
+ "transaction_code":"XBSI77003763651453",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"21:48:08",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"428574.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MGA of Braavos"
+}

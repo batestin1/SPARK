@@ -1,0 +1,15 @@
+{
+ "id_client":"LSEN94737928349153",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"346796512160231",
+ "transaction_code":"AZCP79792573513367",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"03:36:59",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"997434.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GIP of Braavos"
+}

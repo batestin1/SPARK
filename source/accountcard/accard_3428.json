@@ -1,0 +1,15 @@
+{
+ "id_client":"PYGS72064915309373",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"376464983200639",
+ "transaction_code":"MOAJ85753856219497",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"01:07:25",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"470905.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NGN of Braavos"
+}

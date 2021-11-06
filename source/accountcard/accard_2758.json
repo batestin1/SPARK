@@ -1,0 +1,15 @@
+{
+ "id_client":"WYGR05706068223200",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"213101820495280",
+ "transaction_code":"EPPR36284956872768",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"02:56:11",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"743606.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CVE of Braavos"
+}

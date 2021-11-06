@@ -1,0 +1,15 @@
+{
+ "id_client":"AQSR52048239779307",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"3598348625727537",
+ "transaction_code":"KBVJ34749072278346",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"14:08:41",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"838842.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BWP of Braavos"
+}

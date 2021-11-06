@@ -1,15 +1,15 @@
 {
- "id_client":"FWJO38101743750740",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"EXQU41736107374355",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"activated",
- "card_number":"36614830958597",
- "transaction_code":"ZIYL56848410489102",
- "date_transaction":"2021-11-12",
- "time_transaction":"13:35:31",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"605897.0",
+ "card_number":"2280119429459055",
+ "transaction_code":"XACA11220188862340",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"00:09:49",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"922096.0",
  "number_installments_assign":"8",
  "current_installment":"7",
- "currency":"ALL of Braavos"
+ "currency":"LAK of Braavos"
 }

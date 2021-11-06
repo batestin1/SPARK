@@ -1,0 +1,15 @@
+{
+ "id_client":"OUMU05863351504394",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4575232229541301",
+ "transaction_code":"BVBI85958148916821",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"09:33:20",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"189019.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ETB of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"VMSO01153631896172",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"LGWP39680575284363",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"NSYG05523194239948",
- "aba":"076106135"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"VMPT44922738358664",
+ "aba":"053860521"
 }

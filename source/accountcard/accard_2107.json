@@ -1,0 +1,15 @@
+{
+ "id_client":"RFQG78597812107084",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4238574801254814",
+ "transaction_code":"RZEH17371250824243",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"04:48:24",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"348171.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"OMR of Braavos"
+}

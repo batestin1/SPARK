@@ -1,15 +1,15 @@
 {
- "id_client":"MTVX60115378968306",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"IHAD66129210259274",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "status_account_blocked":"activated",
- "card_number":"4694771342795191",
- "transaction_code":"IIGR97937297584113",
- "date_transaction":"2021-11-16",
- "time_transaction":"21:20:57",
- "describle_transaction":"slaves",
- "original_transaction_amount":"100279.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"BZD of Braavos"
+ "card_number":"4257207414162",
+ "transaction_code":"ONMW13982492911061",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"18:33:27",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"124199.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SGD of Braavos"
 }

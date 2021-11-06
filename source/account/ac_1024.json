@@ -1,11 +1,11 @@
 {
- "id_client":"SIPM98321735508162",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"NKDD27071673234872",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"APOQ25995172188151",
- "aba":"019442948"
+ "account_type":"checking account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"UZPE35125743999212",
+ "aba":"053993743"
 }

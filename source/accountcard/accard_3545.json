@@ -1,0 +1,15 @@
+{
+ "id_client":"WAMP03921537957752",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"3596017176919387",
+ "transaction_code":"LCXZ31291131060961",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"18:13:02",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"718271.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MUR of Braavos"
+}

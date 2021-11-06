@@ -1,0 +1,15 @@
+{
+ "id_client":"HSDK87513715315001",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"349058061089775",
+ "transaction_code":"AIXZ49672019534201",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"22:55:29",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"432721.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SHP of Braavos"
+}

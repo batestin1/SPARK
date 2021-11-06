@@ -1,15 +1,15 @@
 {
- "id_client":"PEQX51434148761392",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"CINA15108339128517",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"activated",
- "card_number":"4027064370028679",
- "transaction_code":"BDFO68602441877164",
- "date_transaction":"2021-12-01",
- "time_transaction":"22:20:24",
- "describle_transaction":"savage army",
- "original_transaction_amount":"595611.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"TVD of Braavos"
+ "card_number":"4398873872340346",
+ "transaction_code":"ZYOH17056599687174",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"22:50:40",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"708228.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TMT of Braavos"
 }

@@ -1,11 +1,11 @@
 {
- "id_client":"CSYK92826460599658",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"HUTB87665928033275",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"MYPF13126527476936",
- "aba":"029804721"
+ "account_type":"savings account",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"HDZI72072995613909",
+ "aba":"077301198"
 }

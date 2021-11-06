@@ -1,0 +1,15 @@
+{
+ "id_client":"LFYC33753927283615",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3562119010510685",
+ "transaction_code":"FCLH45835466189767",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"11:15:24",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"646832.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XOF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HMAM08157729376533",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3552929661878237",
+ "transaction_code":"BLDO61558076310888",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"23:41:48",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"116035.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KWD of Braavos"
+}

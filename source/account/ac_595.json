@@ -1,11 +1,11 @@
 {
- "id_client":"EZZQ76291526333213",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"UKPP85623822284529",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"YZAY03403849003077",
- "aba":"050821521"
+ "account_type":"savings account",
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"OGQM80020908537465",
+ "aba":"033793248"
 }

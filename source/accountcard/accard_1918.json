@@ -1,0 +1,15 @@
+{
+ "id_client":"KBMG03092103739200",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"180017002301980",
+ "transaction_code":"FAKZ54379651923499",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"07:11:43",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"19573.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KZT of Braavos"
+}

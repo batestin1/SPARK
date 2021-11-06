@@ -1,0 +1,15 @@
+{
+ "id_client":"YOPD87455834663417",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"340104698633558",
+ "transaction_code":"MIBB44451983609762",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"08:17:57",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"860716.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NIO of Braavos"
+}

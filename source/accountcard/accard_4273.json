@@ -1,0 +1,15 @@
+{
+ "id_client":"SCYE08111563981356",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4259954023378100",
+ "transaction_code":"QSDX65990227469326",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"15:47:19",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"419540.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XOF of Braavos"
+}

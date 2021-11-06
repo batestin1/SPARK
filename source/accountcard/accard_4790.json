@@ -1,0 +1,15 @@
+{
+ "id_client":"KQCE60273972506178",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4969399199141547",
+ "transaction_code":"ZZHW50289599105996",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"22:30:16",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"74502.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MMK of Braavos"
+}

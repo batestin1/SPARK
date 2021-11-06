@@ -1,0 +1,15 @@
+{
+ "id_client":"JWKC59249872844567",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"30402666698891",
+ "transaction_code":"WQUJ95555184252554",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"11:44:08",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"913404.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UAH of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"CBNW05597444418707",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4538467879529",
+ "transaction_code":"FTZM46468451265283",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"15:42:52",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"311748.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CUC of Braavos"
+}

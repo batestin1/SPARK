@@ -1,12 +1,12 @@
 {
- "id_client":"TNCJ99015739696940",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"GHJX54239365037068",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "card_number":"activated",
- "total_limit_value":"496138.0",
- "limit_value_available":"472503.0",
- "total_limit_used":"23635.0",
+ "total_limit_value":"636284.0",
+ "limit_value_available":"581642.0",
+ "total_limit_used":"54642.0",
  "description_card":"Discover",
- "security_card":"651",
- "expire_card_number":"07/22"
+ "security_card":"832",
+ "expire_card_number":"12/29"
 }

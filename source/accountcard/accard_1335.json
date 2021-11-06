@@ -1,0 +1,15 @@
+{
+ "id_client":"UCEQ80767140409647",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"30527000277653",
+ "transaction_code":"YKEA44407327691911",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"11:55:25",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"110456.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MAD of Braavos"
+}

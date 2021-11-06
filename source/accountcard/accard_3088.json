@@ -1,0 +1,15 @@
+{
+ "id_client":"UIFA67458306971078",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"180071173009195",
+ "transaction_code":"KMQT30391972678072",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"23:56:42",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"367433.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SHP of Braavos"
+}

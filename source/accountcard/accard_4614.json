@@ -1,0 +1,15 @@
+{
+ "id_client":"BCOY63555643527060",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"372746341137378",
+ "transaction_code":"EEJN09259862458033",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"07:42:40",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"613972.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"DOP of Braavos"
+}

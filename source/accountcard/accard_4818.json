@@ -1,0 +1,15 @@
+{
+ "id_client":"GVMI38372473915604",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"30092212097324",
+ "transaction_code":"MYDH62306155988180",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"20:18:54",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"198419.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"QAR of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"DKXC54759865435614",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "status_account_blocked":"not activated",
- "card_number":"3506517753941877",
- "transaction_code":"HNBU92452817633694",
- "date_transaction":"2021-11-27",
- "time_transaction":"15:27:09",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"577395.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"NGN of Braavos"
+ "id_client":"LKCX97778149860083",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"580997952784",
+ "transaction_code":"LLRE00302092656307",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"03:25:50",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"377184.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"JOD of Braavos"
 }

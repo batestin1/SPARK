@@ -1,11 +1,11 @@
 {
- "id_client":"QEMF95033521535180",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"EHPE29208290290769",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
  "account_status":"activated",
- "bban_count":"KVSI30905106960189",
- "aba":"065139488"
+ "bban_count":"RACE98576639245496",
+ "aba":"060763385"
 }

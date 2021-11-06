@@ -1,0 +1,15 @@
+{
+ "id_client":"IAOA04366311298436",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"503890835468",
+ "transaction_code":"QZBP35605570316750",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"23:58:00",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"300786.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SBD of Braavos"
+}

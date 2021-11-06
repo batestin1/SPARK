@@ -1,12 +1,12 @@
 {
- "id_client":"STEH17985501192610",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"ISJQ82049516205318",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "card_number":"not activated",
- "total_limit_value":"168873.0",
- "limit_value_available":"83576.0",
- "total_limit_used":"85297.0",
- "description_card":"VISA 19 digit",
- "security_card":"541",
- "expire_card_number":"12/26"
+ "total_limit_value":"235795.0",
+ "limit_value_available":"171888.0",
+ "total_limit_used":"63907.0",
+ "description_card":"Discover",
+ "security_card":"069",
+ "expire_card_number":"12/27"
 }

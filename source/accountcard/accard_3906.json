@@ -1,0 +1,15 @@
+{
+ "id_client":"RJPK06733363738936",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"587790281691",
+ "transaction_code":"ZUZO46283344702440",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"15:33:16",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"182599.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GHS of Braavos"
+}

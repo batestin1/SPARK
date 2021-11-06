@@ -1,15 +1,15 @@
 {
- "id_client":"BQNM69320457158994",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "status_account_blocked":"activated",
- "card_number":"4593962895544076",
- "transaction_code":"YEEI83776714031800",
- "date_transaction":"2021-11-15",
- "time_transaction":"21:21:08",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"111897.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"BRL of Braavos"
+ "id_client":"QWWN31571091089011",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"379190994722611",
+ "transaction_code":"QBYP43843059389246",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"20:45:52",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"133038.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SBD of Braavos"
 }

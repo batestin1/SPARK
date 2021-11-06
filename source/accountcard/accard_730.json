@@ -1,15 +1,15 @@
 {
- "id_client":"YLJF97763871496372",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"TQBQ98588949868822",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "status_account_blocked":"activated",
- "card_number":"4332961483940426966",
- "transaction_code":"FNCP05599466442287",
- "date_transaction":"2021-11-27",
- "time_transaction":"01:10:16",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"177194.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"TVD of Braavos"
+ "card_number":"6591486376983618",
+ "transaction_code":"ULRO02458634364459",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"01:53:16",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"353995.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AZN of Braavos"
 }

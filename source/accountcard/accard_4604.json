@@ -1,0 +1,15 @@
+{
+ "id_client":"CVDN29951982168155",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4900909280280343",
+ "transaction_code":"SEKX47220503556875",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"01:54:37",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"307984.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SYP of Braavos"
+}

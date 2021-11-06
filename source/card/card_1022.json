@@ -1,12 +1,12 @@
 {
- "id_client":"LGOP21910739666746",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
- "card_number":"activated",
- "total_limit_value":"630335.0",
- "limit_value_available":"562957.0",
- "total_limit_used":"67378.0",
- "description_card":"American Express",
- "security_card":"628",
- "expire_card_number":"01/27"
+ "id_client":"XESM54356831024471",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "card_number":"not activated",
+ "total_limit_value":"529355.0",
+ "limit_value_available":"452934.0",
+ "total_limit_used":"76421.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"801",
+ "expire_card_number":"05/23"
 }

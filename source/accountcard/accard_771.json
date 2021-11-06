@@ -1,15 +1,15 @@
 {
- "id_client":"BEKD65508359782950",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"XCLS32830453802598",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"activated",
- "card_number":"577719766880",
- "transaction_code":"QMPO68904889138048",
- "date_transaction":"2021-11-26",
- "time_transaction":"14:51:04",
+ "card_number":"213115325571270",
+ "transaction_code":"ZXUP49537682137767",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"13:14:47",
  "describle_transaction":"witchcraft",
- "original_transaction_amount":"256591.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"ANG of Braavos"
+ "original_transaction_amount":"520383.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KPW of Braavos"
 }

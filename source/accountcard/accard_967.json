@@ -1,15 +1,15 @@
 {
- "id_client":"KRMP62673228464509",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"LVKV21047120580664",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"6011648827699919",
- "transaction_code":"MKWR29636809225815",
- "date_transaction":"2021-11-30",
- "time_transaction":"18:46:09",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"900490.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"TOP of Braavos"
+ "card_number":"6504337263532933",
+ "transaction_code":"OGUJ72406245438543",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"10:11:48",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"953416.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AMD of Braavos"
 }

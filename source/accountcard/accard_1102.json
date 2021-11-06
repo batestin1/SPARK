@@ -1,15 +1,15 @@
 {
- "id_client":"XHBN13369167620553",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "status_account_blocked":"activated",
- "card_number":"180038370554851",
- "transaction_code":"MAGX85095584112160",
- "date_transaction":"2021-11-19",
- "time_transaction":"10:22:01",
- "describle_transaction":"brothel",
- "original_transaction_amount":"650343.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"TMT of Braavos"
+ "id_client":"ASOJ30478644150916",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2349808445597737",
+ "transaction_code":"XFQB32354321428308",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"15:53:02",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"505552.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TOP of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"EPWH40165637949247",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"6011675031521936",
+ "transaction_code":"CLOF97435659397787",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"03:18:36",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"801563.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BRL of Braavos"
+}

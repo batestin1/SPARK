@@ -1,0 +1,15 @@
+{
+ "id_client":"DGIJ97546587898217",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6011567158978116",
+ "transaction_code":"DCOJ77562003275898",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"20:26:42",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"247326.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SRD of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"GTWP15563299135424",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"KFRX66383606613325",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"WTRY36580776553652",
- "aba":"086953924"
+ "account_type":"checking account",
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"OOMT93010619703780",
+ "aba":"057599038"
 }

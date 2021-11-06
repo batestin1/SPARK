@@ -1,0 +1,15 @@
+{
+ "id_client":"MBZV81287248195892",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4567171043664982",
+ "transaction_code":"TBVB57874094579645",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"12:41:39",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"189916.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SOS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WXPT06118709862888",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4629269335600772261",
+ "transaction_code":"GJDX02865354921715",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"19:16:38",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"467054.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MKD of Braavos"
+}

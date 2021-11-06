@@ -1,0 +1,15 @@
+{
+ "id_client":"QDRQ96373380004194",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"6539280364652185",
+ "transaction_code":"HUMU46853445069863",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"09:45:07",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"383755.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NPR of Braavos"
+}

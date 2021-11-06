@@ -1,12 +1,12 @@
 {
- "id_client":"IEZF87365806520039",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"TCAV60438656006542",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "card_number":"activated",
- "total_limit_value":"940605.0",
- "limit_value_available":"858342.0",
- "total_limit_used":"82263.0",
- "description_card":"VISA 16 digit",
- "security_card":"851",
- "expire_card_number":"08/30"
+ "total_limit_value":"850894.0",
+ "limit_value_available":"848554.0",
+ "total_limit_used":"2340.0",
+ "description_card":"Mastercard",
+ "security_card":"7645",
+ "expire_card_number":"09/28"
 }

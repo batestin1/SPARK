@@ -1,0 +1,15 @@
+{
+ "id_client":"MQSS67095368700759",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"501857974676",
+ "transaction_code":"QOKZ16179771473074",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"07:05:56",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"730443.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TVD of Braavos"
+}

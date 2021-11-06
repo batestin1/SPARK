@@ -1,0 +1,15 @@
+{
+ "id_client":"TYQG66186511629100",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"213106480735230",
+ "transaction_code":"MEOG29495988186722",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"01:44:01",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"35291.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MKD of Braavos"
+}

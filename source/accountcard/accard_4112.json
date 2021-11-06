@@ -1,0 +1,15 @@
+{
+ "id_client":"RMBY56093739377885",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"3567723416178289",
+ "transaction_code":"UHIC53928507551969",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"16:58:03",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"700552.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TMT of Braavos"
+}

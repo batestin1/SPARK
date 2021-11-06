@@ -1,0 +1,15 @@
+{
+ "id_client":"XCWB29462231631974",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4847479723349671",
+ "transaction_code":"IUVX75905011590879",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"14:31:13",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"842048.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HTG of Braavos"
+}

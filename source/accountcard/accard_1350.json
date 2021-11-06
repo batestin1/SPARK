@@ -1,0 +1,15 @@
+{
+ "id_client":"EFQY29349021730151",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4191437126488569533",
+ "transaction_code":"TLWD41584582827621",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"23:16:41",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"922016.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MAD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LRVA59902270741754",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"3512024388278686",
+ "transaction_code":"OSYW89923442361874",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"03:20:13",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"750160.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"RWF of Braavos"
+}

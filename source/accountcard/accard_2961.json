@@ -1,0 +1,15 @@
+{
+ "id_client":"WJHF64636840302691",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3586267358100353",
+ "transaction_code":"LSMN31735851578889",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"17:12:21",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"360246.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"INR of Braavos"
+}

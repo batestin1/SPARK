@@ -1,0 +1,15 @@
+{
+ "id_client":"MLPG64605733349799",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"501806989759",
+ "transaction_code":"REOF34872593004286",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"10:46:15",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"431701.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"COP of Braavos"
+}

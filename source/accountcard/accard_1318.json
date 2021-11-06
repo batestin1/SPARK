@@ -1,0 +1,15 @@
+{
+ "id_client":"QTVA00831724123564",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"180022601581545",
+ "transaction_code":"FAHE04037891403799",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"07:40:56",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"678304.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"EUR of Braavos"
+}

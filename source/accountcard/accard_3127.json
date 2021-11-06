@@ -1,0 +1,15 @@
+{
+ "id_client":"IBPY21696741433199",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"502044265770",
+ "transaction_code":"SRUF03065980822178",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"19:14:12",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"854077.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CVE of Braavos"
+}

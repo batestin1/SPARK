@@ -1,0 +1,15 @@
+{
+ "id_client":"CEWH49339692699158",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"2250683370364537",
+ "transaction_code":"IHPC37143556450785",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"04:37:45",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"178516.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MWK of Braavos"
+}

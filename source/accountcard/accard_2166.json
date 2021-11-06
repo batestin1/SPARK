@@ -1,0 +1,15 @@
+{
+ "id_client":"IHHV96791738772442",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"30330453555711",
+ "transaction_code":"VLDC26615398551752",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"05:19:28",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"718575.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"WST of Braavos"
+}

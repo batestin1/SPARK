@@ -1,0 +1,15 @@
+{
+ "id_client":"ABVE77975110137883",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4849343727836",
+ "transaction_code":"ZVQU48329147453297",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"13:40:21",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"50053.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"QAR of Braavos"
+}

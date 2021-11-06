@@ -1,0 +1,15 @@
+{
+ "id_client":"ZOLY65546426578149",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"340088338147089",
+ "transaction_code":"XVIY91292374827708",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"09:39:54",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"209709.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CRC of Braavos"
+}

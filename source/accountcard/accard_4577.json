@@ -1,0 +1,15 @@
+{
+ "id_client":"PRGI47266175697082",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4590484951389420006",
+ "transaction_code":"HYQT35515678904903",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"14:17:33",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"973836.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LAK of Braavos"
+}

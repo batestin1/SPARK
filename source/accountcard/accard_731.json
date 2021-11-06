@@ -1,15 +1,15 @@
 {
- "id_client":"YHPR97846262266619",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "status_account_blocked":"activated",
- "card_number":"3575899656847039",
- "transaction_code":"ZJLD58758171596141",
- "date_transaction":"2021-11-25",
- "time_transaction":"10:55:41",
- "describle_transaction":"horses",
- "original_transaction_amount":"318335.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"GBP of Braavos"
+ "id_client":"HCQB70169003826593",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4828247328822266",
+ "transaction_code":"JZFR34162051902586",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"18:46:08",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"391357.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XAF of Braavos"
 }

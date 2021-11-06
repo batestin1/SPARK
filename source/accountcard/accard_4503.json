@@ -1,0 +1,15 @@
+{
+ "id_client":"GAHI68546310719260",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4556647268126669",
+ "transaction_code":"KDBP00177521818529",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"09:18:19",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"968842.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XAF of Braavos"
+}

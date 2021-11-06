@@ -1,11 +1,11 @@
 {
- "id_client":"IRAX49714178648119",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"TAOM41157519120904",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"ZFAA16602175483197",
- "aba":"012145932"
+ "account_type":"dragon account",
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"ASZP05384978792818",
+ "aba":"090690140"
 }

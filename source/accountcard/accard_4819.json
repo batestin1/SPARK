@@ -1,0 +1,15 @@
+{
+ "id_client":"QTJA39169449961238",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"6574592258305142",
+ "transaction_code":"DCFS59756380534962",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"22:04:22",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"862251.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HNL of Braavos"
+}

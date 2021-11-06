@@ -1,0 +1,15 @@
+{
+ "id_client":"FJZS50401597991018",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3519440454729019",
+ "transaction_code":"CHOQ50796469147119",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"06:30:58",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"242499.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TJS of Braavos"
+}

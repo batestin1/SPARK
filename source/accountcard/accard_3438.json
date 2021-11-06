@@ -1,0 +1,15 @@
+{
+ "id_client":"UHEB60494392826454",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"213172544332620",
+ "transaction_code":"KJLB53442384951949",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:09:12",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"199291.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LSL of Braavos"
+}

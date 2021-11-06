@@ -1,0 +1,15 @@
+{
+ "id_client":"AIJV18321240674237",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"676133985652",
+ "transaction_code":"ZFVC43778452529301",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"23:28:57",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"334081.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SPL of Braavos"
+}

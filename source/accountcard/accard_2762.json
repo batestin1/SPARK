@@ -1,0 +1,15 @@
+{
+ "id_client":"CQHH23030536171920",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4110061452671",
+ "transaction_code":"BSUQ31513253371025",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"03:42:57",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"104156.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"DOP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"MNPE02382003105038",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4261108572169",
+ "transaction_code":"JPFT00696430680014",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"09:15:12",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"560596.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SLL of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"MLTL63602344830251",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "card_number":"not activated",
- "total_limit_value":"778050.0",
- "limit_value_available":"728940.0",
- "total_limit_used":"49110.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"606",
- "expire_card_number":"03/29"
+ "id_client":"ODGW40306988464998",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "card_number":"activated",
+ "total_limit_value":"183910.0",
+ "limit_value_available":"110748.0",
+ "total_limit_used":"73162.0",
+ "description_card":"Maestro",
+ "security_card":"408",
+ "expire_card_number":"04/23"
 }

@@ -1,12 +1,12 @@
 {
- "id_client":"PGFN79920628248673",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
- "card_number":"not activated",
- "total_limit_value":"369525.0",
- "limit_value_available":"346663.0",
- "total_limit_used":"22862.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"3278",
- "expire_card_number":"03/24"
+ "id_client":"UFJH82612763508717",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "card_number":"activated",
+ "total_limit_value":"289640.0",
+ "limit_value_available":"275795.0",
+ "total_limit_used":"13845.0",
+ "description_card":"American Express",
+ "security_card":"428",
+ "expire_card_number":"09/24"
 }

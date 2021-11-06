@@ -1,0 +1,15 @@
+{
+ "id_client":"SWIC81618542512625",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"6545962046127460",
+ "transaction_code":"ZEXL19878390099555",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"05:03:29",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"350493.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"USD of Braavos"
+}

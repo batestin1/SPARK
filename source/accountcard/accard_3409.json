@@ -1,0 +1,15 @@
+{
+ "id_client":"NGML75224644099814",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4443962651608",
+ "transaction_code":"OCUK12916555387136",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"05:06:54",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"449518.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XPF of Braavos"
+}

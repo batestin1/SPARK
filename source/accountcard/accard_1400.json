@@ -1,0 +1,15 @@
+{
+ "id_client":"OHSC69879668008524",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"3535485643792857",
+ "transaction_code":"IDRX15796073369072",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"16:08:18",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"59771.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TOP of Braavos"
+}

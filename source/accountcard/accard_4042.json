@@ -1,0 +1,15 @@
+{
+ "id_client":"CFIJ96639160709703",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"2577215622921255",
+ "transaction_code":"VPMN92553106646639",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"04:16:15",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"553419.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DKK of Braavos"
+}

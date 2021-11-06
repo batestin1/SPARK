@@ -1,0 +1,15 @@
+{
+ "id_client":"IBZM16595227091895",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4561953904814830",
+ "transaction_code":"HCKJ09674251562100",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"08:36:29",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"332154.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MDL of Braavos"
+}

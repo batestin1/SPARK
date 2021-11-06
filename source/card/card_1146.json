@@ -1,12 +1,12 @@
 {
- "id_client":"ZIXX50881101402810",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"ZIVT83331531075746",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "card_number":"activated",
- "total_limit_value":"692713.0",
- "limit_value_available":"614661.0",
- "total_limit_used":"78052.0",
- "description_card":"JCB 16 digit",
- "security_card":"115",
- "expire_card_number":"07/24"
+ "total_limit_value":"356249.0",
+ "limit_value_available":"348032.0",
+ "total_limit_used":"8217.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"862",
+ "expire_card_number":"10/25"
 }

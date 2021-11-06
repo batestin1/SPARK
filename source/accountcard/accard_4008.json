@@ -1,0 +1,15 @@
+{
+ "id_client":"ISKI65438665727956",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"570102079441",
+ "transaction_code":"SSIC94021231612123",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"14:42:33",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"339577.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BZD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RVHX61139317326670",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4079915398450729092",
+ "transaction_code":"LIZA04054612961236",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"14:21:32",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"847016.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SZL of Braavos"
+}

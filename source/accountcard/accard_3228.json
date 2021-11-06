@@ -1,0 +1,15 @@
+{
+ "id_client":"QNOC00427250330889",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"503822776582",
+ "transaction_code":"EATX70731297389200",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"23:06:35",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"182287.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CUC of Braavos"
+}

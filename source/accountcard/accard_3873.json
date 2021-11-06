@@ -1,0 +1,15 @@
+{
+ "id_client":"TGWN22318279543277",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4611969899025894753",
+ "transaction_code":"BAAH49538032284481",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"07:54:09",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"759725.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"FKP of Braavos"
+}

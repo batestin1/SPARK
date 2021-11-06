@@ -1,0 +1,15 @@
+{
+ "id_client":"LXRM31324290468825",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"30522059722113",
+ "transaction_code":"XJRP93405793097783",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"02:54:27",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"973554.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ZWD of Braavos"
+}

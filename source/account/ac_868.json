@@ -1,11 +1,11 @@
 {
- "id_client":"HMZS23071816529922",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"CFTZ91697993453439",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"IHBM73166884280935",
- "aba":"088130483"
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"VJBJ42496214061795",
+ "aba":"045674533"
 }

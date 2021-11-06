@@ -1,11 +1,11 @@
 {
- "id_client":"RWXD49187930113546",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"KHTL81500454511125",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "bank":"Braavos",
  "account_type":"dragon account",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"CDIW92174276781457",
- "aba":"089847042"
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"BDBZ68945900491376",
+ "aba":"059372070"
 }

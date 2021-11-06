@@ -1,0 +1,15 @@
+{
+ "id_client":"IZWI31932646553060",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"3538384689768284",
+ "transaction_code":"DCCD62318339072809",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"19:59:38",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"322664.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MGA of Braavos"
+}

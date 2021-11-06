@@ -1,0 +1,15 @@
+{
+ "id_client":"ITXB99383201442362",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3525076087360855",
+ "transaction_code":"LVQU31433050189319",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"22:32:16",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"913300.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TZS of Braavos"
+}

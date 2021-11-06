@@ -1,0 +1,15 @@
+{
+ "id_client":"PCJM03359834078337",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"213163954794326",
+ "transaction_code":"WCFO42349639987885",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"21:08:04",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"184257.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ETB of Braavos"
+}

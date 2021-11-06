@@ -1,0 +1,15 @@
+{
+ "id_client":"VMJK99735821303264",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"349931996783276",
+ "transaction_code":"NTXM93219638382410",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"02:32:20",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"369422.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KES of Braavos"
+}

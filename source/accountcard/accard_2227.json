@@ -1,0 +1,15 @@
+{
+ "id_client":"HNEK85302425829243",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"344992209149205",
+ "transaction_code":"FAPX97190339337921",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"17:51:11",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"512588.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CNY of Braavos"
+}

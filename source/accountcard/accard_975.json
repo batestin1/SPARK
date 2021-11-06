@@ -1,15 +1,15 @@
 {
- "id_client":"CEAB52315697467106",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "status_account_blocked":"activated",
- "card_number":"213138878890178",
- "transaction_code":"SGLY51468029902439",
- "date_transaction":"2021-11-13",
- "time_transaction":"12:38:52",
- "describle_transaction":"theater",
- "original_transaction_amount":"418038.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"CZK of Braavos"
+ "id_client":"ZJPQ45762755343880",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"38572329379717",
+ "transaction_code":"XGGI54264415229701",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"02:36:37",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"201167.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SYP of Braavos"
 }

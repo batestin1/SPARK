@@ -1,0 +1,15 @@
+{
+ "id_client":"CYCM53439924390455",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4113496058219185",
+ "transaction_code":"TEEZ02437290400997",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"04:24:48",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"17454.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"JMD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HXHC18624617559556",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4230717806544344982",
+ "transaction_code":"YVYW91164583786839",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"00:09:52",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"944683.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CZK of Braavos"
+}

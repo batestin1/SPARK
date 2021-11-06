@@ -1,0 +1,15 @@
+{
+ "id_client":"JFPV83082486331925",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4763417652094090",
+ "transaction_code":"UMEJ57164841904125",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"10:44:11",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"627901.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SZL of Braavos"
+}

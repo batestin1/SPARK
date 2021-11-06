@@ -1,15 +1,15 @@
 {
- "id_client":"OFRV12908286238940",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "status_account_blocked":"not activated",
- "card_number":"675941081902",
- "transaction_code":"XQHA46992798118040",
- "date_transaction":"2021-11-17",
- "time_transaction":"15:07:07",
- "describle_transaction":"swords",
- "original_transaction_amount":"668839.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"CAD of Braavos"
+ "id_client":"EQLJ57708512669813",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"503890537635",
+ "transaction_code":"KDMK20610159619310",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"20:43:50",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"189953.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KZT of Braavos"
 }

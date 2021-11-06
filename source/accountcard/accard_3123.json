@@ -1,0 +1,15 @@
+{
+ "id_client":"TBZO90572850064319",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"4776180205016094",
+ "transaction_code":"ZHZZ94495217713194",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"14:41:33",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"5781.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SBD of Braavos"
+}

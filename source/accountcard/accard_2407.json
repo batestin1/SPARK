@@ -1,0 +1,15 @@
+{
+ "id_client":"VGDN96512285382492",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4459509073626168",
+ "transaction_code":"AWBW64792876237251",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:36:13",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"119142.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SEK of Braavos"
+}

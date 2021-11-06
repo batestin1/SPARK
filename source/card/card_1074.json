@@ -1,12 +1,12 @@
 {
- "id_client":"NHHS66313000669234",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
- "card_number":"not activated",
- "total_limit_value":"149979.0",
- "limit_value_available":"88223.0",
- "total_limit_used":"61756.0",
- "description_card":"American Express",
- "security_card":"297",
- "expire_card_number":"08/30"
+ "id_client":"MNZF89434906913740",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "card_number":"activated",
+ "total_limit_value":"22501.0",
+ "limit_value_available":"3311.0",
+ "total_limit_used":"19190.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"3577",
+ "expire_card_number":"03/25"
 }

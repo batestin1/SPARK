@@ -1,0 +1,15 @@
+{
+ "id_client":"FKJG43294590021972",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"3572758199766606",
+ "transaction_code":"LSAY90012384340581",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"00:19:05",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"480063.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GNF of Braavos"
+}

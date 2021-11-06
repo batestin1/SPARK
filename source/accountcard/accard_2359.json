@@ -1,0 +1,15 @@
+{
+ "id_client":"IKMT25478458500353",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3520777840625477",
+ "transaction_code":"UMAI56733109801677",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"09:25:05",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"46931.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CVE of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"TLWF34282245342767",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "status_account_blocked":"activated",
- "card_number":"5207952869828337",
- "transaction_code":"DYZI79192510176545",
- "date_transaction":"2021-11-07",
- "time_transaction":"11:43:13",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"619326.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"RUB of Braavos"
+ "id_client":"NOEI76902870118004",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"344173340037720",
+ "transaction_code":"FBGA17472216421641",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"06:22:04",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"78498.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HNL of Braavos"
 }

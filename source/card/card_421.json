@@ -1,12 +1,12 @@
 {
- "id_client":"VUWM66500493210452",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"FUXE07662919565290",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "card_number":"activated",
- "total_limit_value":"64651.0",
- "limit_value_available":"28381.0",
- "total_limit_used":"36270.0",
+ "total_limit_value":"288168.0",
+ "limit_value_available":"249336.0",
+ "total_limit_used":"38832.0",
  "description_card":"Mastercard",
- "security_card":"644",
- "expire_card_number":"10/29"
+ "security_card":"330",
+ "expire_card_number":"09/23"
 }

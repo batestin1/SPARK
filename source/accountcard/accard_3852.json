@@ -1,0 +1,15 @@
+{
+ "id_client":"XIQQ59500429338853",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"36508223474271",
+ "transaction_code":"TRBL27420489078342",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"12:14:06",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"673999.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"DZD of Braavos"
+}

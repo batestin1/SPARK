@@ -1,15 +1,15 @@
 {
- "id_client":"YVLZ51419507852918",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"VPKU67962772986603",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"activated",
- "card_number":"6011724057511015",
- "transaction_code":"VAKP10255845517973",
- "date_transaction":"2021-11-19",
- "time_transaction":"09:08:28",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"36969.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"LSL of Braavos"
+ "card_number":"502018016134",
+ "transaction_code":"CIIG45540172459994",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"02:31:38",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"248200.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KPW of Braavos"
 }

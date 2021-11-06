@@ -1,0 +1,15 @@
+{
+ "id_client":"AVZK73465369618064",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"3523144883234724",
+ "transaction_code":"MTPO34753300046528",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"12:40:47",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"811049.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"HTG of Braavos"
+}

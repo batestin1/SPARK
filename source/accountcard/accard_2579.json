@@ -1,0 +1,15 @@
+{
+ "id_client":"NLAB04145017093800",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"3500308725208819",
+ "transaction_code":"SCGI96010848372012",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"17:22:51",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"917231.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"STD of Braavos"
+}

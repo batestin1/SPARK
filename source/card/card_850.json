@@ -1,12 +1,12 @@
 {
- "id_client":"SEAD98383946465911",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "card_number":"not activated",
- "total_limit_value":"546699.0",
- "limit_value_available":"455188.0",
- "total_limit_used":"91511.0",
- "description_card":"JCB 15 digit",
- "security_card":"507",
- "expire_card_number":"10/29"
+ "id_client":"KMVL91131942895026",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "card_number":"activated",
+ "total_limit_value":"954694.0",
+ "limit_value_available":"886379.0",
+ "total_limit_used":"68315.0",
+ "description_card":"Discover",
+ "security_card":"020",
+ "expire_card_number":"08/22"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"FRIP92496730938822",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4944252002491643",
+ "transaction_code":"SWNN20457949350088",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"22:13:57",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"903905.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"DZD of Braavos"
+}

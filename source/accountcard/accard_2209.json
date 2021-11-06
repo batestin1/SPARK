@@ -1,0 +1,15 @@
+{
+ "id_client":"HEXZ01248981142267",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"180099435016146",
+ "transaction_code":"WUNZ42625787218613",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"10:29:38",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"638245.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"UYU of Braavos"
+}

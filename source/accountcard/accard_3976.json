@@ -1,0 +1,15 @@
+{
+ "id_client":"OOPQ42862357857423",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"3517321024982142",
+ "transaction_code":"ZZLI40861570951627",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"13:59:10",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"635970.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BTN of Braavos"
+}

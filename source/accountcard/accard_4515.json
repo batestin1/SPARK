@@ -1,0 +1,15 @@
+{
+ "id_client":"MVKY30505598532000",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4468931822760628",
+ "transaction_code":"XABU07749353310975",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"07:40:08",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"132515.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GTQ of Braavos"
+}

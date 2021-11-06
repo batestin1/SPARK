@@ -1,0 +1,15 @@
+{
+ "id_client":"TGRQ44141411241931",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"4062102239437",
+ "transaction_code":"CXEQ59565215893605",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"21:01:52",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"652084.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"OMR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"EOUJ24009458728545",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"6567051854217168",
+ "transaction_code":"UTTQ84539894040490",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"05:54:56",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"759232.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"USD of Braavos"
+}

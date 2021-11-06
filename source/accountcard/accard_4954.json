@@ -1,0 +1,15 @@
+{
+ "id_client":"PRLI46061906943895",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"2229959831245913",
+ "transaction_code":"JZUB83273748576418",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"19:30:22",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"839402.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"XOF of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"OGBG40584035154116",
+ "id_client":"UHJG34629788443143",
  "yearmonthday":"20211114",
  "_yearmonthday":"20211114",
- "status_account_blocked":"activated",
- "card_number":"3580438001375496",
- "transaction_code":"NXFE96897334909871",
- "date_transaction":"2021-11-11",
- "time_transaction":"12:18:47",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"16446.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"BND of Braavos"
+ "status_account_blocked":"not activated",
+ "card_number":"3563722098555685",
+ "transaction_code":"EQOF76121684950262",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:02:09",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"434702.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TVD of Braavos"
 }

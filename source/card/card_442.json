@@ -1,12 +1,12 @@
 {
- "id_client":"RPSP89459581503421",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"OYBD00826275084116",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "card_number":"activated",
- "total_limit_value":"992202.0",
- "limit_value_available":"974367.0",
- "total_limit_used":"17835.0",
- "description_card":"VISA 16 digit",
- "security_card":"192",
- "expire_card_number":"10/23"
+ "total_limit_value":"306060.0",
+ "limit_value_available":"221806.0",
+ "total_limit_used":"84254.0",
+ "description_card":"American Express",
+ "security_card":"151",
+ "expire_card_number":"03/24"
 }

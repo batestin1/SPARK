@@ -1,0 +1,15 @@
+{
+ "id_client":"VLTR30315744922817",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"213148922402359",
+ "transaction_code":"HUHV97004750332359",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"20:04:10",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"936061.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NZD of Braavos"
+}

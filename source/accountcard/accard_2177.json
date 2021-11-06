@@ -1,0 +1,15 @@
+{
+ "id_client":"EHTF17047406984888",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4938679935301",
+ "transaction_code":"VFBG27683569361829",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"04:22:46",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"590552.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JEP of Braavos"
+}

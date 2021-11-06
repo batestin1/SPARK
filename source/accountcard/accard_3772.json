@@ -1,0 +1,15 @@
+{
+ "id_client":"JZJS74343366115348",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"180085517896224",
+ "transaction_code":"YLUT34021148822315",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"18:35:52",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"615370.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NZD of Braavos"
+}

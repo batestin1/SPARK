@@ -1,11 +1,11 @@
 {
- "id_client":"ONFF24124411888027",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"LOCS15989863962204",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"EIVC78170306562080",
- "aba":"028411392"
+ "account_type":"savings account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"HSXN80106567784663",
+ "aba":"048632602"
 }

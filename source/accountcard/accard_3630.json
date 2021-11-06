@@ -1,0 +1,15 @@
+{
+ "id_client":"VKTE33771873856882",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4278276827834436",
+ "transaction_code":"GBLM33612875937408",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"17:38:24",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"556730.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"DZD of Braavos"
+}

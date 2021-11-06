@@ -1,0 +1,15 @@
+{
+ "id_client":"BSAF31164682008650",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"501875607563",
+ "transaction_code":"HISX10158228523020",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"13:07:22",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"210930.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LRD of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"IEUG05792583738068",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
- "card_number":"not activated",
- "total_limit_value":"329680.0",
- "limit_value_available":"238312.0",
- "total_limit_used":"91368.0",
- "description_card":"JCB 15 digit",
- "security_card":"5935",
- "expire_card_number":"07/23"
+ "id_client":"MSRE45019181871715",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "card_number":"activated",
+ "total_limit_value":"924368.0",
+ "limit_value_available":"888894.0",
+ "total_limit_used":"35474.0",
+ "description_card":"Discover",
+ "security_card":"240",
+ "expire_card_number":"10/24"
 }

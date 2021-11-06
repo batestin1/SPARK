@@ -1,0 +1,15 @@
+{
+ "id_client":"HOHH11092606482161",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4196662391780",
+ "transaction_code":"QPZS24563506508939",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"01:14:32",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"406987.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AMD of Braavos"
+}

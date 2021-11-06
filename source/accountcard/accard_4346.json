@@ -1,0 +1,15 @@
+{
+ "id_client":"PCVC69321747312803",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4139112084985257",
+ "transaction_code":"ZHHM94987074978008",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"15:23:57",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"129979.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SDG of Braavos"
+}

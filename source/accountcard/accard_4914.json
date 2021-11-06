@@ -1,0 +1,15 @@
+{
+ "id_client":"UNGX02131787701342",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4408256245714611",
+ "transaction_code":"XSCQ12457027948251",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"13:37:20",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"593722.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PAB of Braavos"
+}

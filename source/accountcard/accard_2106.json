@@ -1,0 +1,15 @@
+{
+ "id_client":"PDMB37287216054493",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"6011977217704579",
+ "transaction_code":"MUWP89717367574864",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"08:02:24",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"712782.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HKD of Braavos"
+}

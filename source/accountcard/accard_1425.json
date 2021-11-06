@@ -1,0 +1,15 @@
+{
+ "id_client":"SZMX24019066200235",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"2499728260060801",
+ "transaction_code":"OYXW12175782122194",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"19:56:19",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"166808.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TWD of Braavos"
+}

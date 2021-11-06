@@ -1,15 +1,15 @@
 {
- "id_client":"YQQD52649919536942",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"HKMA99451628116593",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"213129145361200",
- "transaction_code":"FGQE38673736937848",
- "date_transaction":"2021-11-13",
- "time_transaction":"05:44:44",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"73938.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"SYP of Braavos"
+ "card_number":"379327348067950",
+ "transaction_code":"FWSO97054740890475",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"12:39:39",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"223054.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GIP of Braavos"
 }

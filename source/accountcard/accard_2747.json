@@ -1,0 +1,15 @@
+{
+ "id_client":"QATJ41912572196076",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"5125212590558896",
+ "transaction_code":"MMMZ01903021207760",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"21:50:40",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"38411.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PLN of Braavos"
+}

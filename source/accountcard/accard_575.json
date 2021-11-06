@@ -1,15 +1,15 @@
 {
- "id_client":"CHWL30968962551502",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "status_account_blocked":"activated",
- "card_number":"4077864036724564",
- "transaction_code":"TSMP68498851182718",
- "date_transaction":"2021-11-13",
- "time_transaction":"12:02:08",
- "describle_transaction":"swords",
- "original_transaction_amount":"235585.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"LAK of Braavos"
+ "id_client":"WHRM55467189971053",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"180048487180185",
+ "transaction_code":"BVSU68351862740744",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"22:12:39",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"888363.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"YER of Braavos"
 }

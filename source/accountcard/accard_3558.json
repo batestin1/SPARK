@@ -1,0 +1,15 @@
+{
+ "id_client":"SCAK01688384541515",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"639051443690",
+ "transaction_code":"AKZK01658860604308",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"07:59:07",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"531119.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GBP of Braavos"
+}

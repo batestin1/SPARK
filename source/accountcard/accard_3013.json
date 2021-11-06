@@ -1,0 +1,15 @@
+{
+ "id_client":"OHMX12554612067253",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"3530111058301019",
+ "transaction_code":"PIHA99734489708802",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"11:56:25",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"629092.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XOF of Braavos"
+}

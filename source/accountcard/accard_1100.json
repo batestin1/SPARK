@@ -1,15 +1,15 @@
 {
- "id_client":"HIYR14190939802743",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"LLQP03462429629457",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"6521140971876710",
- "transaction_code":"HSMV12420884561885",
- "date_transaction":"2021-11-18",
- "time_transaction":"15:51:31",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"525814.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"CDF of Braavos"
+ "card_number":"2288946019138299",
+ "transaction_code":"PWDF81677747626112",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"21:05:35",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"461867.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SEK of Braavos"
 }

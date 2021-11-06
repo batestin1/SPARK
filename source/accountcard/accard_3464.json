@@ -1,0 +1,15 @@
+{
+ "id_client":"QLZK17386179976557",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"675960080140",
+ "transaction_code":"CNMC97135285818650",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"19:30:20",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"311545.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ILS of Braavos"
+}

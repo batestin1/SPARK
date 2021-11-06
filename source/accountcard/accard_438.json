@@ -1,15 +1,15 @@
 {
- "id_client":"QLFW50014593102618",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"CESZ72292265280295",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"activated",
- "card_number":"349948385911961",
- "transaction_code":"VURZ85894686058870",
- "date_transaction":"2021-11-14",
- "time_transaction":"15:06:37",
- "describle_transaction":"slaves",
- "original_transaction_amount":"483465.0",
+ "card_number":"4129517130954",
+ "transaction_code":"QFIC47114428970119",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"20:01:28",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"775119.0",
  "number_installments_assign":"9",
  "current_installment":"8",
- "currency":"PYG of Braavos"
+ "currency":"RSD of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"YHHZ98820177777613",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3502390306089071",
+ "transaction_code":"QZIA68429008915121",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"15:23:26",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"732752.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BRL of Braavos"
+}

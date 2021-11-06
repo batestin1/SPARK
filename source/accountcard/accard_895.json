@@ -1,15 +1,15 @@
 {
- "id_client":"MXDS80220776626914",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"QKZK49252672078069",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"activated",
- "card_number":"180057484176146",
- "transaction_code":"PONH29252213650295",
- "date_transaction":"2021-11-15",
- "time_transaction":"08:17:02",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"929222.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"XAF of Braavos"
+ "card_number":"213114605473042",
+ "transaction_code":"MUDC88473213764714",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"14:00:59",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"220653.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"AOA of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"KIFN99956063957582",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"3531430491302395",
+ "transaction_code":"VNFW58454905657087",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:57:35",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"112873.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"NOK of Braavos"
+}

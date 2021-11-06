@@ -1,0 +1,15 @@
+{
+ "id_client":"INHG59182058030599",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4551330934584475262",
+ "transaction_code":"VYBE58168934877217",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"04:12:44",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"998322.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TZS of Braavos"
+}

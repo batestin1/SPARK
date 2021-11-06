@@ -1,0 +1,15 @@
+{
+ "id_client":"JVPX63462500931522",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"340909851230384",
+ "transaction_code":"SHSB84487846814439",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"02:35:53",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"630024.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DOP of Braavos"
+}

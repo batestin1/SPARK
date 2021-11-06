@@ -1,0 +1,15 @@
+{
+ "id_client":"SLVK49017324993047",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4016768810485",
+ "transaction_code":"MVDB09332993071283",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"16:30:39",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"236936.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ANG of Braavos"
+}

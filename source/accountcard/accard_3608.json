@@ -1,0 +1,15 @@
+{
+ "id_client":"IKRN75848988067309",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3504522789768106",
+ "transaction_code":"KQPN61672581149632",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"10:07:30",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"29515.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SLL of Braavos"
+}

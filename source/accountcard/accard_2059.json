@@ -1,0 +1,15 @@
+{
+ "id_client":"AECS91601094750100",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"213124553584948",
+ "transaction_code":"NRLM27511044569472",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"16:08:50",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"966508.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MUR of Braavos"
+}

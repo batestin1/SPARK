@@ -1,15 +1,15 @@
 {
- "id_client":"EZZQ76291526333213",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"UKPP85623822284529",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"375928917242041",
- "transaction_code":"SDHV68385665561099",
- "date_transaction":"2021-11-18",
- "time_transaction":"07:18:22",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"838917.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"TZS of Braavos"
+ "card_number":"348558437114638",
+ "transaction_code":"RLWF64497880882728",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"09:21:07",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"463780.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ANG of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"GRMG59889858460020",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4310343087218",
+ "transaction_code":"SPJM42683459823270",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"22:11:22",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"67407.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PAB of Braavos"
+}

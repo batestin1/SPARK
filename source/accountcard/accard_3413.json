@@ -1,0 +1,15 @@
+{
+ "id_client":"FIOW39034288750302",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4700575661105631",
+ "transaction_code":"XOAH77673056704628",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"02:37:59",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"955840.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BSD of Braavos"
+}

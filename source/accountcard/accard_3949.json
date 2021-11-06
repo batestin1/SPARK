@@ -1,0 +1,15 @@
+{
+ "id_client":"RNDT60741030695625",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4497529929154086",
+ "transaction_code":"FKBO52641466802922",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"23:09:02",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"248046.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MKD of Braavos"
+}

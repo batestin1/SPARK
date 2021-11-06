@@ -1,0 +1,15 @@
+{
+ "id_client":"OGCY52868813067370",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"3502465798810109",
+ "transaction_code":"TSCK97648014799186",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"20:24:05",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"812602.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KES of Braavos"
+}

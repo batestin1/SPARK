@@ -1,0 +1,15 @@
+{
+ "id_client":"PEJZ74510661548172",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"5415847210882108",
+ "transaction_code":"OSFE11832832063390",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"18:59:01",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"119876.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GNF of Braavos"
+}

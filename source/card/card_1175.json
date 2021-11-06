@@ -1,12 +1,12 @@
 {
- "id_client":"DRNV71780210378515",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"XALU58169701693594",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "card_number":"activated",
- "total_limit_value":"393305.0",
- "limit_value_available":"331344.0",
- "total_limit_used":"61961.0",
+ "total_limit_value":"433452.0",
+ "limit_value_available":"338629.0",
+ "total_limit_used":"94823.0",
  "description_card":"VISA 16 digit",
- "security_card":"719",
- "expire_card_number":"12/30"
+ "security_card":"055",
+ "expire_card_number":"11/30"
 }

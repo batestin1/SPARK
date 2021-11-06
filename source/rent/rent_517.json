@@ -1,10 +1,10 @@
 {
- "id_client":"AKNZ97301979910026",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "rent_income_value":"-540611.0",
- "description_chosen_income_method":"-459906.0",
- "total_account_value":"8578995.0",
- "current_account_total_value":"8058582.0",
- "total_amount_carried_over":"520413.0"
+ "id_client":"AHQR06515129788430",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "rent_income_value":"+751471.0",
+ "description_chosen_income_method":"+789682.0",
+ "total_account_value":"3565673.0",
+ "current_account_total_value":"2909763.0",
+ "total_amount_carried_over":"655910.0"
 }

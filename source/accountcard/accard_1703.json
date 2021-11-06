@@ -1,0 +1,15 @@
+{
+ "id_client":"HLNJ71038534002427",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"060457305633",
+ "transaction_code":"RJYM74993473274248",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"05:18:48",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"394121.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AUD of Braavos"
+}

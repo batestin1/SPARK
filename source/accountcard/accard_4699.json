@@ -1,0 +1,15 @@
+{
+ "id_client":"OWJM49991523668136",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"6011110837467928",
+ "transaction_code":"TQGL15321896449893",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"23:35:45",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"866758.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"DOP of Braavos"
+}

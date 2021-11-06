@@ -1,0 +1,15 @@
+{
+ "id_client":"ATBZ50889552433223",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4191836930029929",
+ "transaction_code":"HZHM28767583269814",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"01:35:56",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"405026.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ZWD of Braavos"
+}

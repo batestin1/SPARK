@@ -1,0 +1,15 @@
+{
+ "id_client":"GJFN15857654066326",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4476691741559580",
+ "transaction_code":"QBIL10867010028422",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"17:24:44",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"311656.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SVC of Braavos"
+}

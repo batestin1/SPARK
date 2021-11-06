@@ -1,0 +1,15 @@
+{
+ "id_client":"IHVC69278719331469",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4883126745987187",
+ "transaction_code":"WLVI04684501098075",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"16:19:26",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"296891.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CAD of Braavos"
+}

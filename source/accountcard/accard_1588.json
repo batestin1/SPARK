@@ -1,0 +1,15 @@
+{
+ "id_client":"SHNF12249143146269",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"2711659246000672",
+ "transaction_code":"ISOA20596862938369",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"16:17:22",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"575319.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"EGP of Braavos"
+}

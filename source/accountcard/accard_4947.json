@@ -1,0 +1,15 @@
+{
+ "id_client":"PTDI07390044001957",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4951383049923676",
+ "transaction_code":"ZBPK28505442583522",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"18:40:52",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"308277.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SAR of Braavos"
+}

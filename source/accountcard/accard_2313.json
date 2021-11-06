@@ -1,0 +1,15 @@
+{
+ "id_client":"MZBL93122405450551",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"180049758790314",
+ "transaction_code":"EGIO82619993953788",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"18:03:12",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"976575.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MNT of Braavos"
+}

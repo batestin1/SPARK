@@ -1,0 +1,15 @@
+{
+ "id_client":"BPCI36603026684039",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"676268024376",
+ "transaction_code":"KSEB85514229780975",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"23:21:14",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"320128.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PYG of Braavos"
+}

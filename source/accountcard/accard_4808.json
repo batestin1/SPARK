@@ -1,0 +1,15 @@
+{
+ "id_client":"ULNA92442928637265",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4730521420533923",
+ "transaction_code":"ZARK49076605222684",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"16:53:54",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"635665.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GGP of Braavos"
+}

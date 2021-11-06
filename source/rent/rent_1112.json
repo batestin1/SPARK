@@ -1,10 +1,10 @@
 {
- "id_client":"OMQP23074655477856",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "rent_income_value":"+769059.0",
- "description_chosen_income_method":"-54608.0",
- "total_account_value":"9575242.0",
- "current_account_total_value":"8981635.0",
- "total_amount_carried_over":"593607.0"
+ "id_client":"RFTJ87141151415877",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "rent_income_value":"-651267.0",
+ "description_chosen_income_method":"-648914.0",
+ "total_account_value":"4625553.0",
+ "current_account_total_value":"4329544.0",
+ "total_amount_carried_over":"296009.0"
 }

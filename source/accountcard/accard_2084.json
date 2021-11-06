@@ -1,0 +1,15 @@
+{
+ "id_client":"HQXD73557005354740",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"344627088280024",
+ "transaction_code":"MHPM88734210224232",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"17:26:12",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"842214.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SAR of Braavos"
+}

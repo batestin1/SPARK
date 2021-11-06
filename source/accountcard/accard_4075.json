@@ -1,0 +1,15 @@
+{
+ "id_client":"LQCE88290623998825",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"5416501213436904",
+ "transaction_code":"UQEW24844432136553",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"10:03:07",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"905730.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"IDR of Braavos"
+}

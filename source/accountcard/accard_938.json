@@ -1,15 +1,15 @@
 {
- "id_client":"OSMR70651911033473",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "status_account_blocked":"not activated",
- "card_number":"676152018187",
- "transaction_code":"RDMI59451324441630",
- "date_transaction":"2021-11-18",
- "time_transaction":"05:03:52",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"789414.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"JEP of Braavos"
+ "id_client":"VUEE36572926912794",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"676238681016",
+ "transaction_code":"VZYM18961443351751",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"03:20:26",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"215227.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TRY of Braavos"
 }

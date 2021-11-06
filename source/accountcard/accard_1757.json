@@ -1,0 +1,15 @@
+{
+ "id_client":"TGGI95458755506732",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"6011919582338450",
+ "transaction_code":"WHFT81168419101666",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"13:53:37",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"730562.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ZMW of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"KGMV42980005310900",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"DMXO75417123642273",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "status_account_blocked":"not activated",
- "card_number":"4347823571552358935",
- "transaction_code":"STOT28548416531459",
- "date_transaction":"2021-11-28",
- "time_transaction":"13:02:19",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"730338.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"ZAR of Braavos"
+ "card_number":"4889699858199",
+ "transaction_code":"KJKG49233046776412",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"21:47:14",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"303105.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"OMR of Braavos"
 }

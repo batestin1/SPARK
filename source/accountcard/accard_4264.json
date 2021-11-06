@@ -1,0 +1,15 @@
+{
+ "id_client":"YIBM42380595853362",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"30387762048507",
+ "transaction_code":"DMLL56715102371246",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"01:59:00",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"529003.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"INR of Braavos"
+}

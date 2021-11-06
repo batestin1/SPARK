@@ -1,0 +1,15 @@
+{
+ "id_client":"BIKD46081633968048",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4455773650892",
+ "transaction_code":"BWDY35800896048417",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"02:52:30",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"885040.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"RUB of Braavos"
+}

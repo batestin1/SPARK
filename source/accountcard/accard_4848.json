@@ -1,0 +1,15 @@
+{
+ "id_client":"KKNY30297801334107",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"180075286190610",
+ "transaction_code":"CBFE27969915553474",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"02:27:57",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"58224.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KWD of Braavos"
+}

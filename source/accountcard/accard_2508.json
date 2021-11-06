@@ -1,0 +1,15 @@
+{
+ "id_client":"CNBZ97529634495474",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"503872036473",
+ "transaction_code":"TQFL89169727209859",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"00:15:49",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"359322.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"YER of Braavos"
+}

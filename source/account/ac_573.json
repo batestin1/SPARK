@@ -1,11 +1,11 @@
 {
- "id_client":"LHPW06819517673020",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"LHIZ59587467696048",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"dragon account",
  "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"AKCW17100393797011",
- "aba":"066591329"
+ "account_status":"not activated",
+ "bban_count":"BHNT65905882461869",
+ "aba":"091922220"
 }

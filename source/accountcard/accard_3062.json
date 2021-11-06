@@ -1,0 +1,15 @@
+{
+ "id_client":"OLDP16715245499744",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4127124378029089438",
+ "transaction_code":"MVCP59713078095749",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"23:06:06",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"58795.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CZK of Braavos"
+}

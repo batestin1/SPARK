@@ -1,0 +1,15 @@
+{
+ "id_client":"OCUE64276672308485",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6584374324234467",
+ "transaction_code":"BDEW46693437475580",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"08:32:57",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"29296.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BYR of Braavos"
+}

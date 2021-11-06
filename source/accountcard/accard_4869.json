@@ -1,0 +1,15 @@
+{
+ "id_client":"HFJL12899242765449",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4251156058944610",
+ "transaction_code":"WCTQ75045566483225",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"17:02:32",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"142606.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BTN of Braavos"
+}

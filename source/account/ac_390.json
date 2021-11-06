@@ -1,11 +1,11 @@
 {
- "id_client":"YVGQ16705112984566",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"WOXF13590993174906",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"IWRI47710664931182",
- "aba":"089048974"
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"DXFQ90376992211892",
+ "aba":"024687357"
 }

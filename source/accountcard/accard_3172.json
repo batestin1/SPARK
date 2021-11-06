@@ -1,0 +1,15 @@
+{
+ "id_client":"ERCR95770118241865",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"2253867332438458",
+ "transaction_code":"RUAP41778179154857",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"01:14:10",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"141312.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NPR of Braavos"
+}

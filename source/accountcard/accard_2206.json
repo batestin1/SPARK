@@ -1,0 +1,15 @@
+{
+ "id_client":"ZWXN18617671112815",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"3572866064347418",
+ "transaction_code":"WPTC86130566494589",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"05:06:30",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"652318.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ARS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ROMJ11190280125216",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"4256333298433671",
+ "transaction_code":"JGXX73275294719127",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"17:21:33",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"908492.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HTG of Braavos"
+}

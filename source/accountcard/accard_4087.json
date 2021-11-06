@@ -1,0 +1,15 @@
+{
+ "id_client":"MAZP87985003755453",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4961950433665846",
+ "transaction_code":"CJNE99801759001416",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"16:51:03",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"827925.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SCR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"CGVR35521362632936",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"378149956587397",
+ "transaction_code":"CLYB79521151214316",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"21:41:32",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"670234.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"UZS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"OHVF62457723748727",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"378794783134127",
+ "transaction_code":"CRTM60925832435175",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"19:18:03",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"914035.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TMT of Braavos"
+}

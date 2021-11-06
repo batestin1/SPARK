@@ -1,0 +1,15 @@
+{
+ "id_client":"DQAO50989011449295",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4915344012641",
+ "transaction_code":"QJTX42209745771352",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"04:48:12",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"459124.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NIS of Braavos"
+}

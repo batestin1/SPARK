@@ -1,12 +1,12 @@
 {
- "id_client":"NACH42986220955284",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"NXRV07604223885140",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "card_number":"activated",
- "total_limit_value":"358890.0",
- "limit_value_available":"317478.0",
- "total_limit_used":"41412.0",
- "description_card":"Discover",
- "security_card":"591",
- "expire_card_number":"12/24"
+ "total_limit_value":"666408.0",
+ "limit_value_available":"603800.0",
+ "total_limit_used":"62608.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"981",
+ "expire_card_number":"03/28"
 }

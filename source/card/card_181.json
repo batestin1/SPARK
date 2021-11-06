@@ -1,12 +1,12 @@
 {
- "id_client":"HCIS08232214971711",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "card_number":"activated",
- "total_limit_value":"376010.0",
- "limit_value_available":"363245.0",
- "total_limit_used":"12765.0",
- "description_card":"Mastercard",
- "security_card":"989",
- "expire_card_number":"06/24"
+ "id_client":"GPKR75193549094392",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "card_number":"not activated",
+ "total_limit_value":"60727.0",
+ "limit_value_available":"51113.0",
+ "total_limit_used":"9614.0",
+ "description_card":"Discover",
+ "security_card":"150",
+ "expire_card_number":"01/28"
 }

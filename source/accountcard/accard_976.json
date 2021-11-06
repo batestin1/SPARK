@@ -1,15 +1,15 @@
 {
- "id_client":"WKNH62453139382971",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"UUCR10308823205423",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"activated",
- "card_number":"4140576028758968130",
- "transaction_code":"IYMH93373518396779",
- "date_transaction":"2021-12-03",
- "time_transaction":"11:41:50",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"80807.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"NZD of Braavos"
+ "card_number":"4243464788051051168",
+ "transaction_code":"XZUO47718030490224",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"15:08:45",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"321492.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NAD of Braavos"
 }

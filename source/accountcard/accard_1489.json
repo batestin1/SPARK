@@ -1,0 +1,15 @@
+{
+ "id_client":"AMAO84779669590129",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4959196269816236",
+ "transaction_code":"FLSC20425572438198",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"07:10:35",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"234360.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UZS of Braavos"
+}

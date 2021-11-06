@@ -1,0 +1,15 @@
+{
+ "id_client":"FELD28241697414748",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"213195340810010",
+ "transaction_code":"KWKM89797456594479",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"10:24:17",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"236332.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"XAF of Braavos"
+}

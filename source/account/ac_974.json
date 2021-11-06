@@ -1,11 +1,11 @@
 {
- "id_client":"VILN62895602780265",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"OCHW80227959466954",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"TSME69400082801210",
- "aba":"099365783"
+ "account_type":"dragon account",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"RHFJ09928017507707",
+ "aba":"090254124"
 }

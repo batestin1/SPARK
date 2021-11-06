@@ -1,0 +1,15 @@
+{
+ "id_client":"TPKK79380598419084",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4905716743447880648",
+ "transaction_code":"AFVD08476904430212",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:45:39",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"404485.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"INR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"IWVX78652465178168",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"180017770491930",
+ "transaction_code":"XNKR13489158009773",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"06:51:48",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"790768.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NIS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LEAL20088219783957",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"374291188954120",
+ "transaction_code":"VGJB47956646768555",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"16:36:05",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"992509.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"AWG of Braavos"
+}

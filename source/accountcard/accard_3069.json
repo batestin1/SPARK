@@ -1,0 +1,15 @@
+{
+ "id_client":"HWXY36545408977483",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3587938653416186",
+ "transaction_code":"AUNO55544314872177",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"14:04:28",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"717500.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KWD of Braavos"
+}

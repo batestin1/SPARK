@@ -1,0 +1,15 @@
+{
+ "id_client":"BWWZ65481809866962",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"377523749368193",
+ "transaction_code":"EJOB81976659658639",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"23:56:42",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"425940.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HNL of Braavos"
+}

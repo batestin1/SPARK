@@ -1,11 +1,11 @@
 {
- "id_client":"MLLD76075851105453",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"YOIU80220240516025",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"checking account",
  "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"LOUQ49313218817179",
- "aba":"069324728"
+ "account_status":"not activated",
+ "bban_count":"EVGW41839000385365",
+ "aba":"038248183"
 }

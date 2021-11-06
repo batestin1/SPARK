@@ -1,11 +1,11 @@
 {
- "id_client":"ELUT68821432655835",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"AXNA43330209579925",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"checking account",
  "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"WTFE19630206130850",
- "aba":"021533878"
+ "account_status":"not activated",
+ "bban_count":"VNDI39335323807845",
+ "aba":"084517741"
 }

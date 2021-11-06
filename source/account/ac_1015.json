@@ -1,11 +1,11 @@
 {
- "id_client":"ETEZ38388104271837",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"HEVC13978329752671",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "bank":"Braavos",
- "account_type":"account for the long winter",
+ "account_type":"savings account",
  "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"CRQO08661217651390",
- "aba":"080347552"
+ "account_status":"not activated",
+ "bban_count":"JMHM48176812152508",
+ "aba":"090288436"
 }

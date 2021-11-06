@@ -1,11 +1,11 @@
 {
- "id_client":"ESZK54436863834321",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"CJNI28548831979193",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"QFXU41067027004702",
- "aba":"098400896"
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"YDXV19381041097727",
+ "aba":"018709133"
 }

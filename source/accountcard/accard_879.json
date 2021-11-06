@@ -1,15 +1,15 @@
 {
- "id_client":"LBJI07371857282682",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "status_account_blocked":"activated",
- "card_number":"4666283369842850",
- "transaction_code":"OHFT39182212980103",
- "date_transaction":"2021-11-14",
- "time_transaction":"20:58:46",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"844889.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"IMP of Braavos"
+ "id_client":"UWFR61887797973775",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4563637618632626993",
+ "transaction_code":"ACOP12042804069414",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"07:22:14",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"992845.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HNL of Braavos"
 }

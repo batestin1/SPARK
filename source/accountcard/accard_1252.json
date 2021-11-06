@@ -1,0 +1,15 @@
+{
+ "id_client":"YPST03751522816590",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"573172434579",
+ "transaction_code":"UYPP39561063022087",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"18:59:25",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"308318.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TMT of Braavos"
+}

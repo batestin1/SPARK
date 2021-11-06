@@ -1,15 +1,15 @@
 {
- "id_client":"MSUG22426940748215",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"MOHM65411178781049",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
  "status_account_blocked":"not activated",
- "card_number":"6513581770749881",
- "transaction_code":"ZWAN24201563317777",
- "date_transaction":"2021-12-04",
- "time_transaction":"01:46:55",
- "describle_transaction":"ships",
- "original_transaction_amount":"124258.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"CUC of Braavos"
+ "card_number":"6598857092099496",
+ "transaction_code":"IMYK44038992172095",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"15:20:16",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"93699.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"XDR of Braavos"
 }

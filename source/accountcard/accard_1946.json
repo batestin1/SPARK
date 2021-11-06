@@ -1,0 +1,15 @@
+{
+ "id_client":"OEDN20384222094279",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4656723908005",
+ "transaction_code":"PWUC36406927613386",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"12:53:50",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"825053.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"DOP of Braavos"
+}

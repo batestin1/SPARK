@@ -1,0 +1,15 @@
+{
+ "id_client":"XQDO51076414716129",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4513090686211015",
+ "transaction_code":"LPLT41444848114158",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"10:44:38",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"81940.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GIP of Braavos"
+}

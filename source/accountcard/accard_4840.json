@@ -1,0 +1,15 @@
+{
+ "id_client":"JZVI06557318415554",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"2553627150277918",
+ "transaction_code":"TLBG44209177249234",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:53:30",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"702982.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BAM of Braavos"
+}

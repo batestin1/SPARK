@@ -1,0 +1,15 @@
+{
+ "id_client":"NDZL46088531396004",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"30306091324959",
+ "transaction_code":"VKNO04310121194558",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"21:07:05",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"385521.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"XDR of Braavos"
+}

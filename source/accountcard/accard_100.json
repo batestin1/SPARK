@@ -1,15 +1,15 @@
 {
- "id_client":"LYXG90448269210158",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "status_account_blocked":"activated",
- "card_number":"4201397618646",
- "transaction_code":"SQRM01566855346413",
- "date_transaction":"2021-11-12",
- "time_transaction":"07:28:19",
- "describle_transaction":"ships",
- "original_transaction_amount":"542720.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"BDT of Braavos"
+ "id_client":"OKPO82342932830792",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"38513133769644",
+ "transaction_code":"KGRL58916013630800",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"10:59:37",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"369857.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ILS of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"QETL02093140599306",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"676252178618",
+ "transaction_code":"RADG25627904518659",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:53:20",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"857520.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"DKK of Braavos"
+}

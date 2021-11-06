@@ -1,11 +1,11 @@
 {
- "id_client":"LWEB70101988969829",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"EXKW22087962414524",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"ETCF78864340801832",
- "aba":"033975653"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"TQJS97986953647586",
+ "aba":"019909594"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"TNEP54577047526782",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"KIKM53588998577135",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"activated",
- "card_number":"3556942152731696",
- "transaction_code":"LLTK00408212280009",
- "date_transaction":"2021-12-04",
- "time_transaction":"19:04:24",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"831263.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"TOP of Braavos"
+ "card_number":"3524071727298186",
+ "transaction_code":"EMEX95212427937053",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"00:58:23",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"292213.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PLN of Braavos"
 }

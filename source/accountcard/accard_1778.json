@@ -1,0 +1,15 @@
+{
+ "id_client":"YXBA42015465184551",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"562944170124",
+ "transaction_code":"FGIM97943883378904",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"09:08:44",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"509520.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"AWG of Braavos"
+}

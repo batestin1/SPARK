@@ -1,15 +1,15 @@
 {
- "id_client":"COES43440463838630",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"LFJS76773126265255",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "status_account_blocked":"activated",
- "card_number":"4975151625906027396",
- "transaction_code":"NVNC00437137326403",
- "date_transaction":"2021-11-16",
- "time_transaction":"06:44:20",
- "describle_transaction":"theater",
- "original_transaction_amount":"199600.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"YER of Braavos"
+ "card_number":"676337490616",
+ "transaction_code":"SBCJ02089528868912",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"03:35:06",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"94114.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ETB of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"MIFW37104778481493",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4632506416429102",
+ "transaction_code":"BHMU62149819314232",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"00:31:51",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"604447.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SOS of Braavos"
+}

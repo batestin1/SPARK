@@ -1,0 +1,15 @@
+{
+ "id_client":"PRDY19996352110058",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"5416663224716037",
+ "transaction_code":"ZDTN83028379520818",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"08:42:12",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"95561.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GIP of Braavos"
+}

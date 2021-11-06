@@ -1,0 +1,15 @@
+{
+ "id_client":"WQAB07711171153052",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"213187057847749",
+ "transaction_code":"OVRF67734765870804",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"16:30:07",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"567920.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"STD of Braavos"
+}

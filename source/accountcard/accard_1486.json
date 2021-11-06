@@ -1,0 +1,15 @@
+{
+ "id_client":"KINA02586479595220",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6011024065291670",
+ "transaction_code":"SPKL09612018388925",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:17:00",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"495932.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"RUB of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"BPZR39682662005304",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6011626575170085",
+ "transaction_code":"PUOS24661522132117",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"04:27:18",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"782409.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MDL of Braavos"
+}

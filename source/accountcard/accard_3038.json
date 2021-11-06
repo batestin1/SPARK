@@ -1,0 +1,15 @@
+{
+ "id_client":"NEIO11731633503355",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"6011749873796979",
+ "transaction_code":"WWOC33820657169246",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"03:02:58",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"600718.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BTN of Braavos"
+}

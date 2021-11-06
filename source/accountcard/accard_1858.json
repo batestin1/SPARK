@@ -1,0 +1,15 @@
+{
+ "id_client":"HGVZ55823111942612",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4211719842642",
+ "transaction_code":"CKKD82314795467516",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"07:43:14",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"533173.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"JMD of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"LDKH25568572497925",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
- "rent_income_value":"-705805.0",
- "description_chosen_income_method":"+997465.0",
- "total_account_value":"1992481.0",
- "current_account_total_value":"1908085.0",
- "total_amount_carried_over":"84396.0"
+ "id_client":"GWLH19151858353643",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "rent_income_value":"+801063.0",
+ "description_chosen_income_method":"+305439.0",
+ "total_account_value":"4465396.0",
+ "current_account_total_value":"4064334.0",
+ "total_amount_carried_over":"401062.0"
 }

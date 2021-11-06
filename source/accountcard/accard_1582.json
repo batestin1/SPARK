@@ -1,0 +1,15 @@
+{
+ "id_client":"CJBH40456636123854",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4429165519862312920",
+ "transaction_code":"AYCX57749358669448",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"07:00:20",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"146686.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SRD of Braavos"
+}

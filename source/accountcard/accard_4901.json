@@ -1,0 +1,15 @@
+{
+ "id_client":"WLRV00732741409663",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"373607389927758",
+ "transaction_code":"UTLI01273666810576",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"16:24:26",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"404226.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"JEP of Braavos"
+}

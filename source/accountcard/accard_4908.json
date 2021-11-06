@@ -1,0 +1,15 @@
+{
+ "id_client":"CIGA17643238143445",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"213193491286775",
+ "transaction_code":"DSHP39038410222128",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"14:45:01",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"448706.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KES of Braavos"
+}

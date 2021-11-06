@@ -1,0 +1,15 @@
+{
+ "id_client":"CCNF07202510077425",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4190865301956956198",
+ "transaction_code":"CCJU18406188852424",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"10:33:33",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"319357.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AFN of Braavos"
+}

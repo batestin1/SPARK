@@ -1,0 +1,15 @@
+{
+ "id_client":"ZZTM51400881669988",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"6584454648755742",
+ "transaction_code":"NGSW86182938809628",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"19:13:06",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"252896.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BHD of Braavos"
+}

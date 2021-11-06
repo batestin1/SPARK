@@ -1,15 +1,15 @@
 {
- "id_client":"CSWB39089033512186",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"IEMR05257191279651",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"activated",
- "card_number":"3518226075360461",
- "transaction_code":"PEQF14697645696048",
- "date_transaction":"2021-11-21",
- "time_transaction":"21:23:44",
- "describle_transaction":"horses",
- "original_transaction_amount":"642201.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"SBD of Braavos"
+ "card_number":"373235488083990",
+ "transaction_code":"RVLI03087194258504",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"06:33:03",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"390274.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"XDR of Braavos"
 }

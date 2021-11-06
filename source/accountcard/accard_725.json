@@ -1,15 +1,15 @@
 {
- "id_client":"WKBQ71092267419011",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
- "status_account_blocked":"activated",
- "card_number":"4077702286847554",
- "transaction_code":"JHVW35492363191601",
- "date_transaction":"2021-11-30",
- "time_transaction":"03:32:44",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"594006.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"BOB of Braavos"
+ "id_client":"AUOQ03610619144335",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4188309839921203",
+ "transaction_code":"ABKX26520259671579",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"13:59:01",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"210396.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"XCD of Braavos"
 }

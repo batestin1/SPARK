@@ -1,0 +1,15 @@
+{
+ "id_client":"APWC15004149740545",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"344157415730707",
+ "transaction_code":"LDMN42789263488456",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"14:00:30",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"639579.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NOK of Braavos"
+}

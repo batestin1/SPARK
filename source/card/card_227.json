@@ -1,12 +1,12 @@
 {
- "id_client":"UPLE55309961925637",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"VXVR08905564292328",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "card_number":"not activated",
- "total_limit_value":"173126.0",
- "limit_value_available":"78725.0",
- "total_limit_used":"94401.0",
- "description_card":"Maestro",
- "security_card":"825",
- "expire_card_number":"04/31"
+ "total_limit_value":"176543.0",
+ "limit_value_available":"170795.0",
+ "total_limit_used":"5748.0",
+ "description_card":"Discover",
+ "security_card":"488",
+ "expire_card_number":"06/24"
 }

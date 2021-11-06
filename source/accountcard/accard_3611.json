@@ -1,0 +1,15 @@
+{
+ "id_client":"DSON77397415207666",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"6506887135716328",
+ "transaction_code":"YYEB54879116140413",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"00:37:13",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"453656.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SLL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RFNU44524782566377",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"501843346161",
+ "transaction_code":"EWLY47870270240735",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"19:16:26",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"462759.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TZS of Braavos"
+}

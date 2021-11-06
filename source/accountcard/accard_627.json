@@ -1,15 +1,15 @@
 {
- "id_client":"OJNC58385394865633",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"LKJA63144318636266",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"3509180899900161",
- "transaction_code":"QOQK06345672867893",
- "date_transaction":"2021-11-18",
- "time_transaction":"08:55:44",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"826676.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"JEP of Braavos"
+ "card_number":"6011888776317119",
+ "transaction_code":"TLPP14762382537172",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"20:52:14",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"69044.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MXN of Braavos"
 }

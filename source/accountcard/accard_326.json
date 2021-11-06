@@ -1,15 +1,15 @@
 {
- "id_client":"QVDM95114275449307",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"activated",
- "card_number":"4629017117757580",
- "transaction_code":"WNWQ08942783749395",
- "date_transaction":"2021-11-10",
- "time_transaction":"11:12:58",
- "describle_transaction":"swords",
- "original_transaction_amount":"384877.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"PEN of Braavos"
+ "id_client":"TCTP66750451890245",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4753483740833537",
+ "transaction_code":"LOOL10421598715157",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"01:08:05",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"193748.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"USD of Braavos"
 }

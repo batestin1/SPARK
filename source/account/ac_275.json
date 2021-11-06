@@ -1,11 +1,11 @@
 {
- "id_client":"MSDR50595851139895",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"XCNC03786762510761",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"UOWZ23440208127579",
- "aba":"066089873"
+ "account_type":"dragon account",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"MEUX09857672328577",
+ "aba":"068525350"
 }

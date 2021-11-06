@@ -1,0 +1,15 @@
+{
+ "id_client":"TSBK93476682111567",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"30428016010362",
+ "transaction_code":"OREN06863682810103",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"17:43:32",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"68799.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"EUR of Braavos"
+}

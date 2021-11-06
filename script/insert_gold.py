@@ -16,6 +16,9 @@ import json
 from pyspark.sql import SparkSession
 import mysql.connector
 from sqlalchemy import create_engine
+import pandas as pd
+import openpyxl
+from openpyxl import Workbook
 
 spark = SparkSession.builder.master("local[1]").appName("local").getOrCreate()
 
@@ -117,8 +120,12 @@ FROM client_full_account
 #parquet
 client_full.write.mode("overwrite").format("parquet").partitionBy("yearmonthday").save("C:/Users/Bates/Documents/Repositorios/SPARK/IronBankBraavos/gold/client_of_iron_bank/parquet/")
 #csv
-client_full.write.option("header", True).csv("C:/Users/Bates/Documents/Repositorios/SPARK/IronBankBraavos/gold/client_of_iron_bank/excel/client_of_iron_bank.csv")
+
+client_full=client_full.toPandas()
+client_full.to_excel("C:/Users/Bates/Documents/Repositorios/SPARK/IronBankBraavos/gold/client_of_iron_bank/excel/client_full.xlsx")
+
 #mysql
+
 #connection
 bank = mysql.connector.connect(
     host = "localhost",

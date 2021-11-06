@@ -1,0 +1,15 @@
+{
+ "id_client":"UWHW99361683698467",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4462471082833389774",
+ "transaction_code":"SMJA85785270409452",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:51:15",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"255447.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MMK of Braavos"
+}

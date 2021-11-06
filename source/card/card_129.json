@@ -1,12 +1,12 @@
 {
- "id_client":"ETWZ82030265368368",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
- "card_number":"not activated",
- "total_limit_value":"862015.0",
- "limit_value_available":"802400.0",
- "total_limit_used":"59615.0",
- "description_card":"Discover",
- "security_card":"878",
- "expire_card_number":"07/29"
+ "id_client":"EXGI51482934203013",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "card_number":"activated",
+ "total_limit_value":"827829.0",
+ "limit_value_available":"734078.0",
+ "total_limit_used":"93751.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"833",
+ "expire_card_number":"05/30"
 }

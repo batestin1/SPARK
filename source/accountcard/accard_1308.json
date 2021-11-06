@@ -1,0 +1,15 @@
+{
+ "id_client":"YRCG92940106848457",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"560069263021",
+ "transaction_code":"LZSI72488699573128",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"18:54:29",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"178498.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CZK of Braavos"
+}

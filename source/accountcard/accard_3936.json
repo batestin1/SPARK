@@ -1,0 +1,15 @@
+{
+ "id_client":"BUIS44628429520171",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4546321652032478",
+ "transaction_code":"PWRX48264833187804",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"04:12:18",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"162564.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KPW of Braavos"
+}

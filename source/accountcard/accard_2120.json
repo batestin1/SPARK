@@ -1,0 +1,15 @@
+{
+ "id_client":"PHSD99769964262811",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"36828653533960",
+ "transaction_code":"PWVF92040160999410",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"11:31:35",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"101900.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TND of Braavos"
+}

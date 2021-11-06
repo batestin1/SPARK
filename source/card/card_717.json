@@ -1,12 +1,12 @@
 {
- "id_client":"FFUV94191800358285",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
- "card_number":"activated",
- "total_limit_value":"261956.0",
- "limit_value_available":"253769.0",
- "total_limit_used":"8187.0",
- "description_card":"Maestro",
- "security_card":"866",
- "expire_card_number":"01/31"
+ "id_client":"DGPU72966587602667",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "card_number":"not activated",
+ "total_limit_value":"779768.0",
+ "limit_value_available":"702715.0",
+ "total_limit_used":"77053.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"193",
+ "expire_card_number":"07/24"
 }

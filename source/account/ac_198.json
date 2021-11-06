@@ -1,11 +1,11 @@
 {
- "id_client":"DDOI93475415228591",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"CPKP59821313306880",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"HJQT93622353467207",
- "aba":"097894581"
+ "account_type":"checking account",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"ZDWI63673018825876",
+ "aba":"053483624"
 }

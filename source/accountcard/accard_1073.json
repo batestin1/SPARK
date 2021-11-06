@@ -1,15 +1,15 @@
 {
- "id_client":"CUSU84665653161128",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"CZWA89533366468352",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"activated",
- "card_number":"639098561785",
- "transaction_code":"RFDH12727889179418",
- "date_transaction":"2021-11-20",
- "time_transaction":"19:10:10",
+ "card_number":"2277047794568876",
+ "transaction_code":"XHJK63006187129139",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"10:39:03",
  "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"280001.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"RWF of Braavos"
+ "original_transaction_amount":"85793.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PHP of Braavos"
 }

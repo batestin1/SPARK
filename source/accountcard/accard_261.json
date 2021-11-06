@@ -1,15 +1,15 @@
 {
- "id_client":"ANFB60634129873659",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"DRJE24785949212399",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "status_account_blocked":"not activated",
- "card_number":"4210247851155627",
- "transaction_code":"AHKL58376010086535",
- "date_transaction":"2021-11-27",
- "time_transaction":"00:51:14",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"116281.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"XOF of Braavos"
+ "card_number":"503860208902",
+ "transaction_code":"RSEV13361744690764",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"04:12:55",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"433034.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"DJF of Braavos"
 }

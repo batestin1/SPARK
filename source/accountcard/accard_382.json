@@ -1,15 +1,15 @@
 {
- "id_client":"HIUI90133785597841",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"ERLQ25076912330917",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"activated",
- "card_number":"4916294617674936",
- "transaction_code":"HYKI70394720398035",
- "date_transaction":"2021-11-15",
- "time_transaction":"01:41:22",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"361168.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"JMD of Braavos"
+ "card_number":"3536915803965710",
+ "transaction_code":"RBQW27494146987360",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"09:23:29",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"440475.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"NPR of Braavos"
 }

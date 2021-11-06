@@ -1,0 +1,15 @@
+{
+ "id_client":"ABDX03438247900966",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4953768078201705",
+ "transaction_code":"PFTJ80238999238881",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"13:48:59",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"360826.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GYD of Braavos"
+}

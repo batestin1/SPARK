@@ -1,0 +1,15 @@
+{
+ "id_client":"QQGA43891344913248",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4579988013945323",
+ "transaction_code":"IPFR05903787424782",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"09:12:21",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"33260.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NIS of Braavos"
+}

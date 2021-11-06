@@ -1,15 +1,15 @@
 {
- "id_client":"DUBN03859965471895",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
+ "id_client":"EIUQ73296198087145",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "status_account_blocked":"not activated",
- "card_number":"3529540386765482",
- "transaction_code":"EKDR77650207348245",
- "date_transaction":"2021-11-21",
- "time_transaction":"02:12:17",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"991202.0",
+ "card_number":"3525133502375594",
+ "transaction_code":"MDIV04354697072539",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"09:23:32",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"448457.0",
  "number_installments_assign":"8",
  "current_installment":"7",
- "currency":"AMD of Braavos"
+ "currency":"BWP of Braavos"
 }

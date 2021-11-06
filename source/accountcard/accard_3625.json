@@ -1,0 +1,15 @@
+{
+ "id_client":"ZADO05892408781108",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"3563368897721647",
+ "transaction_code":"IBOI66038546098289",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"13:03:28",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"860596.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UAH of Braavos"
+}

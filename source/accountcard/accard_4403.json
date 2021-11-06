@@ -1,0 +1,15 @@
+{
+ "id_client":"CSWI74429446009003",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"373347245634211",
+ "transaction_code":"EVPD87018680320936",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"12:41:51",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"619981.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RUB of Braavos"
+}

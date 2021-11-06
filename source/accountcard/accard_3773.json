@@ -1,0 +1,15 @@
+{
+ "id_client":"FDXS52172148421933",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4851148255919378864",
+ "transaction_code":"LPMQ80488941495015",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"02:18:57",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"413515.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HKD of Braavos"
+}

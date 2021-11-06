@@ -1,12 +1,12 @@
 {
- "id_client":"KXNI03000115216162",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"RBFN23473449446479",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "card_number":"not activated",
- "total_limit_value":"211461.0",
- "limit_value_available":"176348.0",
- "total_limit_used":"35113.0",
- "description_card":"VISA 13 digit",
- "security_card":"177",
- "expire_card_number":"06/30"
+ "total_limit_value":"265811.0",
+ "limit_value_available":"203271.0",
+ "total_limit_used":"62540.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"160",
+ "expire_card_number":"09/31"
 }

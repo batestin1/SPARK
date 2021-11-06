@@ -1,0 +1,15 @@
+{
+ "id_client":"ULOO09644231917319",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"676284738496",
+ "transaction_code":"VQCV17002627765646",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"19:10:42",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"669348.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ZWD of Braavos"
+}

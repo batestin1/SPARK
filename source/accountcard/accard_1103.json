@@ -1,15 +1,15 @@
 {
- "id_client":"TINV60688782305689",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "status_account_blocked":"not activated",
- "card_number":"2235784605798430",
- "transaction_code":"SVDN87834655401043",
+ "id_client":"CVNP60001439629688",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"213185080683685",
+ "transaction_code":"VUMP17278684333398",
  "date_transaction":"2021-11-18",
- "time_transaction":"02:16:39",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"657862.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"BMD of Braavos"
+ "time_transaction":"02:13:11",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"18451.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IRR of Braavos"
 }

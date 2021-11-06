@@ -1,12 +1,12 @@
 {
- "id_client":"JAJV74477012366089",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "card_number":"not activated",
- "total_limit_value":"892628.0",
- "limit_value_available":"873697.0",
- "total_limit_used":"18931.0",
- "description_card":"VISA 13 digit",
- "security_card":"748",
- "expire_card_number":"03/22"
+ "id_client":"QQJA97878794755324",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "card_number":"activated",
+ "total_limit_value":"125505.0",
+ "limit_value_available":"30981.0",
+ "total_limit_used":"94524.0",
+ "description_card":"Mastercard",
+ "security_card":"696",
+ "expire_card_number":"02/23"
 }

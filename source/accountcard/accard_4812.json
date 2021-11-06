@@ -1,0 +1,15 @@
+{
+ "id_client":"WSUH36854012628433",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"180090825694279",
+ "transaction_code":"CKSG55633441344958",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"06:04:40",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"580476.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CVE of Braavos"
+}

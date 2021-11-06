@@ -1,15 +1,15 @@
 {
- "id_client":"AYVD15894036655427",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"VIRE51618094791557",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "status_account_blocked":"not activated",
- "card_number":"675968145218",
- "transaction_code":"WNIC41247566630778",
- "date_transaction":"2021-11-07",
- "time_transaction":"00:27:47",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"951132.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"BIF of Braavos"
+ "card_number":"4315650855253997",
+ "transaction_code":"CQTN61483886429434",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"02:30:10",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"527920.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BTN of Braavos"
 }

@@ -1,11 +1,11 @@
 {
- "id_client":"QOAE19523505359545",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"EVEL87264413893670",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"ICKG26394052437653",
- "aba":"024194511"
+ "account_type":"account for the long winter",
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"GSVK57012381110472",
+ "aba":"027997527"
 }

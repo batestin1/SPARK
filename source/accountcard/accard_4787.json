@@ -1,0 +1,15 @@
+{
+ "id_client":"FFQE29901707868992",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"213163677969262",
+ "transaction_code":"ITZC81549851704276",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"17:20:33",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"323464.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HKD of Braavos"
+}

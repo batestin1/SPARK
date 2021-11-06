@@ -1,15 +1,15 @@
 {
- "id_client":"IQGA66277044459674",
+ "id_client":"GRRA55205068453778",
  "yearmonthday":"20211129",
  "_yearmonthday":"20211129",
  "status_account_blocked":"not activated",
- "card_number":"36360527690362",
- "transaction_code":"DLSN16498789259487",
- "date_transaction":"2021-11-30",
- "time_transaction":"23:37:07",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"229539.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"NAD of Braavos"
+ "card_number":"2711745646364576",
+ "transaction_code":"KPBO27130786469712",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"07:47:36",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"471694.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"JEP of Braavos"
 }

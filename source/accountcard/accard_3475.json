@@ -1,0 +1,15 @@
+{
+ "id_client":"IPAX26096628200640",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"6564871491540067",
+ "transaction_code":"SXZP56162569379115",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"02:50:44",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"400625.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CZK of Braavos"
+}

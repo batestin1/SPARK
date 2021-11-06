@@ -1,10 +1,10 @@
 {
- "id_client":"UETO97655413222653",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "rent_income_value":"-46336.0",
- "description_chosen_income_method":"-222493.0",
- "total_account_value":"7930379.0",
- "current_account_total_value":"7915390.0",
- "total_amount_carried_over":"14989.0"
+ "id_client":"BGPN43630310363745",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "rent_income_value":"-508103.0",
+ "description_chosen_income_method":"+570697.0",
+ "total_account_value":"5422061.0",
+ "current_account_total_value":"5398733.0",
+ "total_amount_carried_over":"23328.0"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"AEIQ05944135112130",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"180003858690270",
+ "transaction_code":"RHIV13772472634146",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"16:22:07",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"968.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GEL of Braavos"
+}

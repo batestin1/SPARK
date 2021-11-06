@@ -1,11 +1,11 @@
 {
- "id_client":"NPVW74071603761956",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"SNYE22295370048568",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "bank":"Braavos",
- "account_type":"checking account",
+ "account_type":"account for the long winter",
  "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"GSIP05731531072596",
- "aba":"026164316"
+ "account_status":"not activated",
+ "bban_count":"XIAM65959292727626",
+ "aba":"082545380"
 }

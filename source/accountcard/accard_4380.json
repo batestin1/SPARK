@@ -1,0 +1,15 @@
+{
+ "id_client":"CVKK87264964026146",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4400091869761809892",
+ "transaction_code":"DTEL37802001836705",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"03:45:24",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"461366.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"INR of Braavos"
+}

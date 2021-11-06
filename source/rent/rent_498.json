@@ -1,10 +1,10 @@
 {
- "id_client":"NRHQ04635847735570",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
- "rent_income_value":"+443036.0",
- "description_chosen_income_method":"-45208.0",
- "total_account_value":"255803.0",
- "current_account_total_value":"65431.0",
- "total_amount_carried_over":"190372.0"
+ "id_client":"ZFTC81119823724624",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "rent_income_value":"-412211.0",
+ "description_chosen_income_method":"+433538.0",
+ "total_account_value":"4567516.0",
+ "current_account_total_value":"4287243.0",
+ "total_amount_carried_over":"280273.0"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"WHPX91463069599756",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"KGEE55013685262886",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"347093580998893",
- "transaction_code":"ZIPU25099659277490",
- "date_transaction":"2021-11-22",
- "time_transaction":"03:45:01",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"223031.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"BZD of Braavos"
+ "card_number":"2357045329899751",
+ "transaction_code":"MMXY43949311190172",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"11:16:52",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"474732.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MGA of Braavos"
 }

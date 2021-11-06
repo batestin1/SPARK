@@ -1,0 +1,15 @@
+{
+ "id_client":"UECR37322791774653",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"4166430379363808",
+ "transaction_code":"OBRH93256822970813",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"11:19:34",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"900910.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BGN of Braavos"
+}

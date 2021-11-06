@@ -1,0 +1,15 @@
+{
+ "id_client":"USCI52271629456215",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4318508197251136886",
+ "transaction_code":"OEYX53703063305189",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"08:58:50",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"749844.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"MAD of Braavos"
+}

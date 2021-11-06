@@ -1,0 +1,15 @@
+{
+ "id_client":"DJIR26126460801393",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"180044328522701",
+ "transaction_code":"MUXA34364601111662",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"21:09:08",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"485109.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BDT of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"TSXO18340454018563",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4754535124845590",
+ "transaction_code":"LNDG96495112590624",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"19:27:35",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"963548.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TJS of Braavos"
+}

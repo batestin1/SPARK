@@ -1,15 +1,15 @@
 {
- "id_client":"AQXU73756312548248",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"SIYC69706314190853",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "status_account_blocked":"not activated",
- "card_number":"676270953554",
- "transaction_code":"SBCV46788416162743",
- "date_transaction":"2021-11-09",
- "time_transaction":"22:50:06",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"50301.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"CUC of Braavos"
+ "card_number":"4746866426095",
+ "transaction_code":"WRRG52759331488649",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"01:43:22",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"29716.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NPR of Braavos"
 }

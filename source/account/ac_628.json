@@ -1,11 +1,11 @@
 {
- "id_client":"PQRB73044706128753",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"NGXU93461723523496",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"LJNJ68850809153484",
- "aba":"092097889"
+ "account_type":"savings account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"ZDKB07897841921623",
+ "aba":"033575966"
 }

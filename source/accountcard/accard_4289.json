@@ -1,0 +1,15 @@
+{
+ "id_client":"SLSO14721415916901",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"3511402777424890",
+ "transaction_code":"IUAA03361357414333",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:40:07",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"345869.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LAK of Braavos"
+}

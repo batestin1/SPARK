@@ -1,15 +1,15 @@
 {
- "id_client":"EGFT11162354366677",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"WSQI03628161621199",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"activated",
- "card_number":"3542118509733407",
- "transaction_code":"CDKC59448024065461",
- "date_transaction":"2021-11-27",
- "time_transaction":"05:02:25",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"409323.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"MVR of Braavos"
+ "card_number":"502054217000",
+ "transaction_code":"GQSG95488714693757",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"17:21:40",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"201994.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BRL of Braavos"
 }

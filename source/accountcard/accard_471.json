@@ -1,15 +1,15 @@
 {
- "id_client":"IQDJ42583627999764",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"XRWA58275117487901",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"not activated",
- "card_number":"3574114001496875",
- "transaction_code":"OKZB84128511323163",
- "date_transaction":"2021-12-04",
- "time_transaction":"07:36:46",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"930606.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"EUR of Braavos"
+ "card_number":"342557082055118",
+ "transaction_code":"SEEE74496308994725",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"09:38:30",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"481778.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"UZS of Braavos"
 }

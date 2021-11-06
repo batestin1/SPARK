@@ -1,0 +1,15 @@
+{
+ "id_client":"QUFH07221099536620",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4420895004727613",
+ "transaction_code":"TCDM89023927249739",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"04:05:52",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"617493.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AFN of Braavos"
+}

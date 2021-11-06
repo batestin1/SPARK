@@ -1,0 +1,15 @@
+{
+ "id_client":"BNMW95833343219419",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"3599130137681710",
+ "transaction_code":"ZWIZ03259000738377",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"17:26:57",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"91813.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GEL of Braavos"
+}

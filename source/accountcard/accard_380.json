@@ -1,15 +1,15 @@
 {
- "id_client":"HIMF29443014331753",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"XAHW50825894446435",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"activated",
- "card_number":"4845194618926937",
- "transaction_code":"RAMJ11671635654305",
- "date_transaction":"2021-11-17",
- "time_transaction":"21:08:13",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"740941.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"ILS of Braavos"
+ "card_number":"30343180480541",
+ "transaction_code":"CRWJ93568208173313",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"00:17:23",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"543358.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RSD of Braavos"
 }

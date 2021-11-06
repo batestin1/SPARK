@@ -1,0 +1,15 @@
+{
+ "id_client":"SXSC04086179180588",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4729319740497538",
+ "transaction_code":"FICH02697723579564",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"06:56:43",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"669062.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SDG of Braavos"
+}

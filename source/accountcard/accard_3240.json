@@ -1,0 +1,15 @@
+{
+ "id_client":"HBIO93515578413169",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4161648125335946",
+ "transaction_code":"KEOD31740892327694",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"11:34:20",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"645428.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UAH of Braavos"
+}

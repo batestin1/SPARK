@@ -1,0 +1,15 @@
+{
+ "id_client":"PGXJ95871368882561",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4178262438278719",
+ "transaction_code":"FBPO14420207134964",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"01:58:41",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"74973.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SBD of Braavos"
+}

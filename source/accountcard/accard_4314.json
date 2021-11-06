@@ -1,0 +1,15 @@
+{
+ "id_client":"PJPL62122172885067",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"3564045597784591",
+ "transaction_code":"RQNQ82699965041421",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"08:54:31",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"907715.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SZL of Braavos"
+}

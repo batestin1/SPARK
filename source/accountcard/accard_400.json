@@ -1,15 +1,15 @@
 {
- "id_client":"NFAU99516255355725",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"SVHB15691832297181",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "status_account_blocked":"not activated",
- "card_number":"6011654476104888",
- "transaction_code":"XGLG35873364631119",
- "date_transaction":"2021-11-28",
- "time_transaction":"12:58:52",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"833313.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"CRC of Braavos"
+ "card_number":"4230734119840161",
+ "transaction_code":"HAHT04521605752329",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"04:31:20",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"975832.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TTD of Braavos"
 }

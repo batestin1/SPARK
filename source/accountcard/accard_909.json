@@ -1,15 +1,15 @@
 {
- "id_client":"SCWO62399294549025",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"AATI06157900603053",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "status_account_blocked":"activated",
- "card_number":"4315580331801190005",
- "transaction_code":"FHSR08477564769795",
- "date_transaction":"2021-11-22",
- "time_transaction":"23:50:05",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"466636.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"ZMW of Braavos"
+ "card_number":"4755194337353",
+ "transaction_code":"OSSV59735431724093",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"13:23:58",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"275777.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"BFXO82444663440903",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"213181770931104",
+ "transaction_code":"GDXN05464539682409",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"22:07:15",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"265964.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ALL of Braavos"
+}

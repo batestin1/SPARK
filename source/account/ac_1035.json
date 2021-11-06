@@ -1,11 +1,11 @@
 {
- "id_client":"AABG07628186723502",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"URPH76512398502112",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"checking account",
+ "account_type":"account for the long winter",
  "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"TEBF81180572462246",
- "aba":"078363140"
+ "account_status":"activated",
+ "bban_count":"BMWH66534271434397",
+ "aba":"027615637"
 }

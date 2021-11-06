@@ -1,0 +1,15 @@
+{
+ "id_client":"GSAB31298635971782",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"30243369004825",
+ "transaction_code":"QSWN03541790307129",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"11:36:21",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"937102.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GMD of Braavos"
+}

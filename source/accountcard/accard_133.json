@@ -1,15 +1,15 @@
 {
- "id_client":"YXIY07262484038779",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "status_account_blocked":"activated",
- "card_number":"343008258908127",
- "transaction_code":"DFYD23023472630628",
- "date_transaction":"2021-11-12",
- "time_transaction":"11:06:15",
+ "id_client":"FOAE43643101649269",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"2280630153980298",
+ "transaction_code":"CHTA66384051034435",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"00:34:55",
  "describle_transaction":"horses",
- "original_transaction_amount":"331406.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"XAF of Braavos"
+ "original_transaction_amount":"422836.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GTQ of Braavos"
 }

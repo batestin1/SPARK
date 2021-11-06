@@ -1,15 +1,15 @@
 {
- "id_client":"ZKXR19353289925303",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "status_account_blocked":"activated",
- "card_number":"3505222932332806",
- "transaction_code":"HIXE70672610794701",
- "date_transaction":"2021-11-23",
- "time_transaction":"13:38:13",
+ "id_client":"KZVM90857783362825",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"30047180155678",
+ "transaction_code":"TMBO59038876609632",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"06:58:35",
  "describle_transaction":"dothraki army",
- "original_transaction_amount":"817409.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"SGD of Braavos"
+ "original_transaction_amount":"490550.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"YER of Braavos"
 }

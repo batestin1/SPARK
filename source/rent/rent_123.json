@@ -1,10 +1,10 @@
 {
- "id_client":"ERBF03506501949618",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "rent_income_value":"-627731.0",
- "description_chosen_income_method":"+878852.0",
- "total_account_value":"7519268.0",
- "current_account_total_value":"6693157.0",
- "total_amount_carried_over":"826111.0"
+ "id_client":"IFKG27919887485470",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "rent_income_value":"+995014.0",
+ "description_chosen_income_method":"-640253.0",
+ "total_account_value":"3361101.0",
+ "current_account_total_value":"2613369.0",
+ "total_amount_carried_over":"747732.0"
 }

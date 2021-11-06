@@ -1,0 +1,15 @@
+{
+ "id_client":"JJZZ10041087908036",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"3582481441641414",
+ "transaction_code":"NLTP58045132024325",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"00:13:45",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"868155.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"VND of Braavos"
+}

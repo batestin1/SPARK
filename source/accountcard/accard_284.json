@@ -1,15 +1,15 @@
 {
- "id_client":"WRZN15773218508615",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"PXPF79903678696824",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"2241951202232590",
- "transaction_code":"MHMT93250286062461",
- "date_transaction":"2021-11-21",
- "time_transaction":"14:08:20",
- "describle_transaction":"savage army",
- "original_transaction_amount":"529027.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"SBD of Braavos"
+ "card_number":"675976271626",
+ "transaction_code":"FISO50690092467053",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"00:35:58",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"183889.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SEK of Braavos"
 }

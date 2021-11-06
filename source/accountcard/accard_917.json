@@ -1,15 +1,15 @@
 {
- "id_client":"UCQI96957261219672",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "status_account_blocked":"activated",
- "card_number":"630412405429",
- "transaction_code":"HLSG13261395788903",
- "date_transaction":"2021-11-12",
- "time_transaction":"03:31:22",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"609003.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"PAB of Braavos"
+ "id_client":"BCUY72254208346804",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"3570185566736917",
+ "transaction_code":"MQLE50612660564684",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"06:37:33",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"248624.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XDR of Braavos"
 }

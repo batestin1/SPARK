@@ -1,0 +1,15 @@
+{
+ "id_client":"EGRM06038689494572",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4438668939492425",
+ "transaction_code":"QPWW49123151511481",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"02:04:20",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"886361.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CNY of Braavos"
+}

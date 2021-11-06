@@ -1,0 +1,15 @@
+{
+ "id_client":"EVUZ62208989956241",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"6511303100529749",
+ "transaction_code":"UVSA76747579876150",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"22:41:54",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"516152.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NZD of Braavos"
+}

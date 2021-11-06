@@ -1,0 +1,15 @@
+{
+ "id_client":"PYTK60961796012435",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"2241846928090001",
+ "transaction_code":"FUMY32952193149762",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"22:52:27",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"319068.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LRD of Braavos"
+}

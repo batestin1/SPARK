@@ -1,0 +1,15 @@
+{
+ "id_client":"HOKE18217742582875",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"3577100233574917",
+ "transaction_code":"OWCE71982551339735",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"16:00:10",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"814342.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KHR of Braavos"
+}

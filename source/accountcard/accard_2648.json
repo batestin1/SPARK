@@ -1,0 +1,15 @@
+{
+ "id_client":"DTBQ74422168487639",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"6011369971049344",
+ "transaction_code":"ZKBU87219578388804",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"21:38:58",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"499291.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"XPF of Braavos"
+}

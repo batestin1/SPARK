@@ -1,0 +1,15 @@
+{
+ "id_client":"FPKT10171302661294",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"213113022675460",
+ "transaction_code":"AWQO19557121356065",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"11:27:26",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"190098.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"AUD of Braavos"
+}

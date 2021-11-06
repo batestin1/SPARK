@@ -1,0 +1,15 @@
+{
+ "id_client":"CFGV30990329643933",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"2349306049225250",
+ "transaction_code":"LZWO05678480156697",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"11:39:27",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"359370.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MVR of Braavos"
+}

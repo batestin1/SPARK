@@ -1,0 +1,15 @@
+{
+ "id_client":"LXWU16450508843654",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"3561850379928479",
+ "transaction_code":"DBGI86470148679879",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"02:35:30",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"391472.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ZMW of Braavos"
+}

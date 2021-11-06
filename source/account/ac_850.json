@@ -1,11 +1,11 @@
 {
- "id_client":"SEAD98383946465911",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"KMVL91131942895026",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"LCHJ84245596902925",
- "aba":"048693622"
+ "account_type":"salary bill",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"NRKF71548742408814",
+ "aba":"047745096"
 }

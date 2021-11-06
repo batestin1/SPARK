@@ -1,0 +1,15 @@
+{
+ "id_client":"DYCW49586004099545",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"3571416991872889",
+ "transaction_code":"PSSO81902837195646",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"21:42:26",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"981230.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PEN of Braavos"
+}

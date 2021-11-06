@@ -1,15 +1,15 @@
 {
- "id_client":"ZQKL54447710527115",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
- "status_account_blocked":"not activated",
- "card_number":"38682677713449",
- "transaction_code":"JSSA61919873474872",
- "date_transaction":"2021-11-27",
- "time_transaction":"01:53:10",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"545781.0",
+ "id_client":"KPOW32099889218009",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"630480155583",
+ "transaction_code":"MUTS30770447565851",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"21:31:07",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"85909.0",
  "number_installments_assign":"1",
  "current_installment":"0",
- "currency":"KMF of Braavos"
+ "currency":"BBD of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"ANXT65337917746065",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"30071039581629",
+ "transaction_code":"NTMH92148310045138",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"11:34:00",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"885079.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BBD of Braavos"
+}

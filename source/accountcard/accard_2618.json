@@ -1,0 +1,15 @@
+{
+ "id_client":"LXTO29916172293662",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4217569174689",
+ "transaction_code":"BMHZ55333500885360",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"08:37:22",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"164970.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GBP of Braavos"
+}

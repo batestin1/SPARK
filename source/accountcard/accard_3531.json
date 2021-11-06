@@ -1,0 +1,15 @@
+{
+ "id_client":"NUKD09734124879072",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"180014009196398",
+ "transaction_code":"QQTG58908832052690",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"22:57:48",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"931000.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HTG of Braavos"
+}

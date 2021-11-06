@@ -1,0 +1,15 @@
+{
+ "id_client":"IBAI11693314858430",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4879108980915830",
+ "transaction_code":"PWWR04522284515325",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:19:34",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"202091.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ETB of Braavos"
+}

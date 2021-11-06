@@ -1,0 +1,15 @@
+{
+ "id_client":"IPDN66133571572827",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"180014175017295",
+ "transaction_code":"AYUI21967122202512",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"01:21:56",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"23727.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"FKP of Braavos"
+}

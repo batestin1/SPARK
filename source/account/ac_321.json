@@ -1,11 +1,11 @@
 {
- "id_client":"ZKXR19353289925303",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
+ "id_client":"KZVM90857783362825",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"QVEB90281388746794",
- "aba":"052863074"
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"ZKCV51971299640313",
+ "aba":"051969004"
 }

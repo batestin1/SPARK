@@ -1,0 +1,15 @@
+{
+ "id_client":"IKSB15624015286561",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"2253926218945307",
+ "transaction_code":"WNBE74609343733679",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"04:03:50",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"912139.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ANG of Braavos"
+}

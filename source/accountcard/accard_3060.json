@@ -1,0 +1,15 @@
+{
+ "id_client":"LYEZ13223965956533",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"3517636915871983",
+ "transaction_code":"GLEA93576871574643",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:56:18",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"161676.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VUV of Braavos"
+}

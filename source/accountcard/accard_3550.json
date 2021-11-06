@@ -1,0 +1,15 @@
+{
+ "id_client":"PZDI21501082370476",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4486883737854749",
+ "transaction_code":"TGMK45884774733610",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"21:21:43",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"272853.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AFN of Braavos"
+}

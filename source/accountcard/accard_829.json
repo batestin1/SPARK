@@ -1,15 +1,15 @@
 {
- "id_client":"VCDN88142468845486",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"UJQM85908590440060",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "status_account_blocked":"activated",
- "card_number":"4362560949498767",
- "transaction_code":"UGQS75976663969156",
- "date_transaction":"2021-11-08",
- "time_transaction":"03:35:47",
- "describle_transaction":"savage army",
- "original_transaction_amount":"342415.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"MOP of Braavos"
+ "card_number":"343640536415150",
+ "transaction_code":"YFYR59262130081321",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"11:32:51",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"521669.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AWG of Braavos"
 }

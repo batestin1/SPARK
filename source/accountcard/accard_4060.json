@@ -1,0 +1,15 @@
+{
+ "id_client":"NWCI01362069309499",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4513998675050",
+ "transaction_code":"HXRI58958414713282",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"23:49:36",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"707614.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ARS of Braavos"
+}

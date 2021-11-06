@@ -1,0 +1,15 @@
+{
+ "id_client":"QKSZ74542415106900",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"3522247377972047",
+ "transaction_code":"DBTU68719781069686",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"22:15:50",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"706342.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SDG of Braavos"
+}

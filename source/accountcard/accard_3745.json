@@ -1,0 +1,15 @@
+{
+ "id_client":"RNAC64408507757220",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4210943674402903",
+ "transaction_code":"TTUT67820637488690",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"17:57:16",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"523902.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"WST of Braavos"
+}

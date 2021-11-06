@@ -1,0 +1,15 @@
+{
+ "id_client":"CPOM28893260287759",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"3521008378628801",
+ "transaction_code":"LHJW31131257961348",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"09:22:14",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"694243.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UZS of Braavos"
+}

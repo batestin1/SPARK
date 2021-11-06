@@ -1,0 +1,15 @@
+{
+ "id_client":"UQDX58693990223109",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"30434317427024",
+ "transaction_code":"BOSO91927326746276",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"06:21:37",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"848244.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BRL of Braavos"
+}

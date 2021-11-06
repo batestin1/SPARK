@@ -1,0 +1,15 @@
+{
+ "id_client":"KYQE15597803373464",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"2290253119411312",
+ "transaction_code":"RXRW35103218537089",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"01:41:13",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"404265.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ANG of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"AFGV15156357337270",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"3567987568330861",
+ "transaction_code":"KPFL32360329297644",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:53:06",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"677067.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TWD of Braavos"
+}

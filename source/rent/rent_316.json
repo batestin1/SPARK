@@ -1,10 +1,10 @@
 {
- "id_client":"LTVX69918666710832",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "rent_income_value":"+806039.0",
- "description_chosen_income_method":"+573970.0",
- "total_account_value":"9455983.0",
- "current_account_total_value":"8926738.0",
- "total_amount_carried_over":"529245.0"
+ "id_client":"TNDL81242170905527",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "rent_income_value":"-913215.0",
+ "description_chosen_income_method":"-299507.0",
+ "total_account_value":"142381.0",
+ "current_account_total_value":"-485706.0",
+ "total_amount_carried_over":"628087.0"
 }

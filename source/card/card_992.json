@@ -1,12 +1,12 @@
 {
- "id_client":"INIK17399222795214",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"ONPI10886745294167",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "card_number":"not activated",
- "total_limit_value":"272703.0",
- "limit_value_available":"183670.0",
- "total_limit_used":"89033.0",
+ "total_limit_value":"767628.0",
+ "limit_value_available":"734870.0",
+ "total_limit_used":"32758.0",
  "description_card":"Discover",
- "security_card":"277",
- "expire_card_number":"08/23"
+ "security_card":"4992",
+ "expire_card_number":"03/28"
 }

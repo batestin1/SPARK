@@ -1,0 +1,15 @@
+{
+ "id_client":"NKNL49992530006194",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4308039372760479",
+ "transaction_code":"SNLL95808668761395",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"14:20:04",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"950783.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PLN of Braavos"
+}

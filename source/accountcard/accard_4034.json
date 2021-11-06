@@ -1,0 +1,15 @@
+{
+ "id_client":"OWSN35419690279708",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"3554769362427472",
+ "transaction_code":"GACD31005821549772",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"19:42:12",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"520862.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LAK of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"UQKS43426332145166",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4147924806375579",
+ "transaction_code":"AQBF37589502887340",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:08:38",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"272214.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CVE of Braavos"
+}

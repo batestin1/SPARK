@@ -1,0 +1,15 @@
+{
+ "id_client":"CPUI55803200257267",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"5188044092737031",
+ "transaction_code":"YKHZ40102724250753",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"10:15:52",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"467653.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"VEF of Braavos"
+}

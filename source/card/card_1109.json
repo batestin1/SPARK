@@ -1,12 +1,12 @@
 {
- "id_client":"LSDX32295965409870",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"ZSPO44289324492863",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "card_number":"activated",
- "total_limit_value":"256611.0",
- "limit_value_available":"163343.0",
- "total_limit_used":"93268.0",
- "description_card":"Discover",
- "security_card":"415",
- "expire_card_number":"03/27"
+ "total_limit_value":"719512.0",
+ "limit_value_available":"690489.0",
+ "total_limit_used":"29023.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"128",
+ "expire_card_number":"09/24"
 }

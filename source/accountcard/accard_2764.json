@@ -1,0 +1,15 @@
+{
+ "id_client":"VFQB03148428717718",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"2237601410651349",
+ "transaction_code":"YHLH98703662374965",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"07:21:11",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"952244.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"UGX of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"UETO97655413222653",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "status_account_blocked":"not activated",
- "card_number":"6011140149952838",
- "transaction_code":"OFEA91598665931338",
- "date_transaction":"2021-11-27",
- "time_transaction":"05:22:14",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"628098.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"BZD of Braavos"
+ "id_client":"BGPN43630310363745",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4760627983641",
+ "transaction_code":"RELJ89526400469128",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"13:44:54",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"513963.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"JEP of Braavos"
 }

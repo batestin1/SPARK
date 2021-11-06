@@ -1,0 +1,15 @@
+{
+ "id_client":"SQMM04744677034880",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"3524046313824371",
+ "transaction_code":"HWTG97320419553849",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"13:08:47",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"781254.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CZK of Braavos"
+}

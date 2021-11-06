@@ -1,0 +1,15 @@
+{
+ "id_client":"JNXC55786295536939",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"371467633803970",
+ "transaction_code":"ICGQ85345343552834",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"01:46:13",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"78075.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GBP of Braavos"
+}

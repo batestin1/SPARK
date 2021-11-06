@@ -1,0 +1,15 @@
+{
+ "id_client":"UDND39178916281555",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"6011533681857664",
+ "transaction_code":"HOSO56077322558679",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"18:11:06",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"472425.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ETB of Braavos"
+}

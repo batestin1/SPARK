@@ -1,0 +1,15 @@
+{
+ "id_client":"EHRF00256792499245",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"3567190759011495",
+ "transaction_code":"QXDB87970825525939",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"07:00:48",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"146043.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"IQD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HSKI62278624173945",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"6011310294839904",
+ "transaction_code":"ZDGL61097816118124",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"08:12:01",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"754680.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ARS of Braavos"
+}

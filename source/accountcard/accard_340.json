@@ -1,15 +1,15 @@
 {
- "id_client":"LIDS54876074802864",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"ADTN87638401141534",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "status_account_blocked":"not activated",
- "card_number":"4220785881171096",
- "transaction_code":"FKOK96423426406672",
- "date_transaction":"2021-11-24",
- "time_transaction":"16:35:01",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"599999.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"GTQ of Braavos"
+ "card_number":"639016624996",
+ "transaction_code":"PAAE12334856786661",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"01:58:39",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"25221.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CDF of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"IDWF08031578671954",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"3500765226583224",
+ "transaction_code":"IHXV64187093896388",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"02:19:58",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"879907.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"AMD of Braavos"
+}

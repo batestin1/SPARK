@@ -1,0 +1,15 @@
+{
+ "id_client":"NEZT11563266757827",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"6556630816618572",
+ "transaction_code":"SZWZ47000070623124",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"00:59:32",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"44080.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SEK of Braavos"
+}

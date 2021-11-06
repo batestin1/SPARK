@@ -1,0 +1,15 @@
+{
+ "id_client":"FSXS95211742559195",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"180082403099336",
+ "transaction_code":"TAQL04153957098719",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"11:58:41",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"226304.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KPW of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LCIZ65897018928740",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"377418020946090",
+ "transaction_code":"BIQS96968489843941",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"02:04:44",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"306924.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ISK of Braavos"
+}

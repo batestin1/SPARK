@@ -1,11 +1,11 @@
 {
- "id_client":"XOWE64016114048021",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"KZRA60837653238440",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"checking account",
  "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"NGAG30745549367453",
- "aba":"085642385"
+ "account_status":"activated",
+ "bban_count":"QEKZ50991554171317",
+ "aba":"080542966"
 }

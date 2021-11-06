@@ -1,0 +1,15 @@
+{
+ "id_client":"BTCD75627894076444",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"6514219684571468",
+ "transaction_code":"EFYZ29598430443266",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"19:59:32",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"615311.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"USD of Braavos"
+}

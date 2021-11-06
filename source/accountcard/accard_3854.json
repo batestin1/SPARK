@@ -1,0 +1,15 @@
+{
+ "id_client":"IDJR15283031604776",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4613666775628",
+ "transaction_code":"MMGQ01779139066522",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"15:02:39",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"776593.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NAD of Braavos"
+}

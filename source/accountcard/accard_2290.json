@@ -1,0 +1,15 @@
+{
+ "id_client":"KLSV17809173926412",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4964828434724530",
+ "transaction_code":"DSYV64986672077919",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"08:23:28",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"148908.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ZWD of Braavos"
+}

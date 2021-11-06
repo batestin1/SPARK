@@ -1,15 +1,15 @@
 {
- "id_client":"QWQW14602110728697",
+ "id_client":"ODYW71723764122429",
  "yearmonthday":"20211124",
  "_yearmonthday":"20211124",
- "status_account_blocked":"not activated",
- "card_number":"30349754989809",
- "transaction_code":"NSWX77491814842274",
- "date_transaction":"2021-11-10",
- "time_transaction":"08:24:31",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"128970.0",
+ "status_account_blocked":"activated",
+ "card_number":"6011479345834410",
+ "transaction_code":"PXEK38089040242249",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"07:44:13",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"439639.0",
  "number_installments_assign":"5",
  "current_installment":"4",
- "currency":"AMD of Braavos"
+ "currency":"NAD of Braavos"
 }

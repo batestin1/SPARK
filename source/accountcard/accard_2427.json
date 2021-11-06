@@ -1,0 +1,15 @@
+{
+ "id_client":"XRFJ12070881777856",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3517776878402606",
+ "transaction_code":"MSFJ38510070611739",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:57:31",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"81869.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LRD of Braavos"
+}

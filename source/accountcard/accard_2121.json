@@ -1,0 +1,15 @@
+{
+ "id_client":"OEDB98024435361788",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"6554385183527771",
+ "transaction_code":"FDRH40906467453804",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"10:04:29",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"753707.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ERN of Braavos"
+}

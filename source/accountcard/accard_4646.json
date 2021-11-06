@@ -1,0 +1,15 @@
+{
+ "id_client":"OBDV36205744328342",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"676254920165",
+ "transaction_code":"PQAH65776417214743",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"21:01:37",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"587552.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KRW of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"TNYA74689218367361",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "status_account_blocked":"not activated",
- "card_number":"3519022954399673",
- "transaction_code":"NAFI43343711028042",
- "date_transaction":"2021-12-04",
- "time_transaction":"04:49:12",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"154102.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"SYP of Braavos"
+ "id_client":"GYJR11295659114196",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"38918314742726",
+ "transaction_code":"WVFQ51830611855187",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"05:44:14",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"3756.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GGP of Braavos"
 }

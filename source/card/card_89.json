@@ -1,12 +1,12 @@
 {
- "id_client":"UTIQ94758043371424",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"KKUD79933969313980",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "card_number":"not activated",
- "total_limit_value":"401293.0",
- "limit_value_available":"385608.0",
- "total_limit_used":"15685.0",
- "description_card":"American Express",
- "security_card":"902",
- "expire_card_number":"11/28"
+ "total_limit_value":"969909.0",
+ "limit_value_available":"898312.0",
+ "total_limit_used":"71597.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"512",
+ "expire_card_number":"04/25"
 }

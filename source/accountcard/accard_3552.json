@@ -1,0 +1,15 @@
+{
+ "id_client":"CYAV46017828131481",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4988236625020639",
+ "transaction_code":"JNWQ18386061175375",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"05:34:19",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"731724.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HKD of Braavos"
+}

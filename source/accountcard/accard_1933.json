@@ -1,0 +1,15 @@
+{
+ "id_client":"LJEC68134875271035",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4003518912696",
+ "transaction_code":"FHFN68797121682743",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"07:42:31",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"804184.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KES of Braavos"
+}

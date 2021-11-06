@@ -1,0 +1,15 @@
+{
+ "id_client":"QPJW95831811181049",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"213152269238970",
+ "transaction_code":"LXSN44932447217640",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"21:55:44",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"80089.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"HNL of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"GKNO61368005404636",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"HIDF89779927217769",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "status_account_blocked":"not activated",
- "card_number":"4356478537702342",
- "transaction_code":"RZLU02051147441965",
- "date_transaction":"2021-11-12",
- "time_transaction":"16:01:08",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"727961.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"CVE of Braavos"
+ "card_number":"5290062986315263",
+ "transaction_code":"LSSL89918264486683",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"19:35:23",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"901619.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"OMR of Braavos"
 }

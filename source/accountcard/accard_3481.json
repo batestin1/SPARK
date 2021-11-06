@@ -1,0 +1,15 @@
+{
+ "id_client":"WFMZ08664853392342",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"3526523049116965",
+ "transaction_code":"TSEX12605045614513",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"22:13:34",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"395221.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"JOD of Braavos"
+}

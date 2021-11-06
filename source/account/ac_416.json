@@ -1,11 +1,11 @@
 {
- "id_client":"JJYA05425850573386",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"XXTF64176151261394",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"checking account",
  "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"MOCJ61052527102823",
- "aba":"053512006"
+ "account_status":"not activated",
+ "bban_count":"VHDR37292622936626",
+ "aba":"050008259"
 }

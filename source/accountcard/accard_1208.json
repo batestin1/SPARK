@@ -1,0 +1,15 @@
+{
+ "id_client":"FOPB09767628939282",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4078359845765253",
+ "transaction_code":"ZXLC21846004609464",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"06:43:26",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"41823.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ILS of Braavos"
+}

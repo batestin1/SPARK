@@ -1,12 +1,12 @@
 {
- "id_client":"WYCT27495857862050",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"TAFT62532335378758",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "card_number":"not activated",
- "total_limit_value":"768019.0",
- "limit_value_available":"747016.0",
- "total_limit_used":"21003.0",
- "description_card":"VISA 16 digit",
- "security_card":"439",
- "expire_card_number":"10/30"
+ "total_limit_value":"702923.0",
+ "limit_value_available":"627970.0",
+ "total_limit_used":"74953.0",
+ "description_card":"JCB 15 digit",
+ "security_card":"328",
+ "expire_card_number":"12/25"
 }

@@ -1,10 +1,10 @@
 {
- "id_client":"URDT06451822723345",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "rent_income_value":"-11644.0",
- "description_chosen_income_method":"+972810.0",
- "total_account_value":"6713344.0",
- "current_account_total_value":"6480426.0",
- "total_amount_carried_over":"232918.0"
+ "id_client":"ASSO06663443372242",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "rent_income_value":"+403421.0",
+ "description_chosen_income_method":"+125131.0",
+ "total_account_value":"5224900.0",
+ "current_account_total_value":"4847013.0",
+ "total_amount_carried_over":"377887.0"
 }

@@ -1,12 +1,12 @@
 {
- "id_client":"THNG36316654217875",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "card_number":"activated",
- "total_limit_value":"301615.0",
- "limit_value_available":"211815.0",
- "total_limit_used":"89800.0",
+ "id_client":"ZAAL27043949918889",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "card_number":"not activated",
+ "total_limit_value":"690342.0",
+ "limit_value_available":"597330.0",
+ "total_limit_used":"93012.0",
  "description_card":"VISA 16 digit",
- "security_card":"963",
- "expire_card_number":"02/27"
+ "security_card":"254",
+ "expire_card_number":"02/24"
 }

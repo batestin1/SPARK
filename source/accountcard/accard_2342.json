@@ -1,0 +1,15 @@
+{
+ "id_client":"XGXF37853310567699",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"3500269351198379",
+ "transaction_code":"HWQW46136750730590",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"21:41:24",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"864275.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CHF of Braavos"
+}

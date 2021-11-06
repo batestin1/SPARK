@@ -1,0 +1,15 @@
+{
+ "id_client":"OFQV28578740584231",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"502050816763",
+ "transaction_code":"BLXB14777027875918",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"17:15:07",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"373599.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ISK of Braavos"
+}

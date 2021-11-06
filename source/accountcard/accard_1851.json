@@ -1,0 +1,15 @@
+{
+ "id_client":"HMQG21183323644439",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"30475606052510",
+ "transaction_code":"GNNL45576051829606",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"00:46:45",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"941850.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KYD of Braavos"
+}

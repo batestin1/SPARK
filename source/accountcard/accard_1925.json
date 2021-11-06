@@ -1,0 +1,15 @@
+{
+ "id_client":"DQSL51314903101046",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"3585827735068283",
+ "transaction_code":"GTKN49577912929497",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"06:04:33",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"181924.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"HUF of Braavos"
+}

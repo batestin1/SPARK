@@ -1,0 +1,15 @@
+{
+ "id_client":"IONH78972139707189",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4479484278084231",
+ "transaction_code":"LNBA08378821208605",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"03:29:37",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"662903.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ISK of Braavos"
+}

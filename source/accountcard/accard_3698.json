@@ -1,0 +1,15 @@
+{
+ "id_client":"GBBO43846020157078",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"3537341364579023",
+ "transaction_code":"LYHU96511334297741",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"21:37:53",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"661014.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CHF of Braavos"
+}

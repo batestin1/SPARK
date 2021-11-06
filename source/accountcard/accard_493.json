@@ -1,15 +1,15 @@
 {
- "id_client":"TUTE07546470485463",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"WGSX75859625528364",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"activated",
- "card_number":"4045508852309",
- "transaction_code":"UPUF94355186152138",
- "date_transaction":"2021-11-23",
- "time_transaction":"17:39:28",
- "describle_transaction":"swords",
- "original_transaction_amount":"401175.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"MGA of Braavos"
+ "card_number":"4538077558638",
+ "transaction_code":"GMDX09487397920316",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:07:10",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"157512.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LAK of Braavos"
 }

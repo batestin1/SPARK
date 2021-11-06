@@ -1,0 +1,15 @@
+{
+ "id_client":"CHJW53128530723748",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"676332558607",
+ "transaction_code":"LDNR03964598244004",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"18:30:01",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"750836.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IRR of Braavos"
+}

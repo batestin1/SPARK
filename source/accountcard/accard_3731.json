@@ -1,0 +1,15 @@
+{
+ "id_client":"AWGA30056103938546",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4927227841337646",
+ "transaction_code":"SRCF02411887397670",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"23:22:59",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"599974.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GYD of Braavos"
+}

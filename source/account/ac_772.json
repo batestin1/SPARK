@@ -1,11 +1,11 @@
 {
- "id_client":"CMIZ73076212606258",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"UHZJ31248095868869",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"XZJC42717288380939",
- "aba":"068391219"
+ "account_type":"savings account",
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"HIQJ91701389851204",
+ "aba":"012018691"
 }

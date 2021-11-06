@@ -1,0 +1,15 @@
+{
+ "id_client":"WLUQ98263304525043",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"6011242957159819",
+ "transaction_code":"KJMI52449314747452",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"16:47:04",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"723632.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LYD of Braavos"
+}

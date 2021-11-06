@@ -1,0 +1,15 @@
+{
+ "id_client":"HCSQ06755186514020",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4044673310342",
+ "transaction_code":"JLTK74455961105651",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"08:16:45",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"832418.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BZD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DFZK06154737891350",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"348507156597499",
+ "transaction_code":"UOMW79604206337583",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"22:10:40",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"937206.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BIF of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"ECFB04523715272695",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"XGQG01570240653603",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "card_number":"activated",
- "total_limit_value":"804069.0",
- "limit_value_available":"777762.0",
- "total_limit_used":"26307.0",
+ "total_limit_value":"878334.0",
+ "limit_value_available":"790356.0",
+ "total_limit_used":"87978.0",
  "description_card":"JCB 16 digit",
- "security_card":"646",
- "expire_card_number":"05/25"
+ "security_card":"244",
+ "expire_card_number":"02/30"
 }

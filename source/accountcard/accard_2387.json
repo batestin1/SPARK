@@ -1,0 +1,15 @@
+{
+ "id_client":"ZTHR52180451897308",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"2707330269662485",
+ "transaction_code":"ZBOC64422676899704",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"15:06:14",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"545166.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MUR of Braavos"
+}

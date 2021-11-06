@@ -1,12 +1,12 @@
 {
- "id_client":"KLFL01252351656948",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"DXVB35729770088286",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "card_number":"activated",
- "total_limit_value":"386618.0",
- "limit_value_available":"367012.0",
- "total_limit_used":"19606.0",
- "description_card":"Discover",
- "security_card":"732",
- "expire_card_number":"09/30"
+ "total_limit_value":"828488.0",
+ "limit_value_available":"735981.0",
+ "total_limit_used":"92507.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"278",
+ "expire_card_number":"04/29"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"VNRO51487846123033",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"30075418047888",
+ "transaction_code":"GHIF69460980949033",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"21:23:49",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"979239.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MVR of Braavos"
+}

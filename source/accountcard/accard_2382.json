@@ -1,0 +1,15 @@
+{
+ "id_client":"CRWS52039846891309",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"578443083014",
+ "transaction_code":"RXZQ42876786300265",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"14:53:23",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"226184.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BTN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"PHIF05345419856903",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"371499283745656",
+ "transaction_code":"ONBR51075787792626",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"12:58:20",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"73013.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GBP of Braavos"
+}

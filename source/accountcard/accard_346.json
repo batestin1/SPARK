@@ -1,15 +1,15 @@
 {
- "id_client":"SUIE84221569989099",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"VTIR36532543819717",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"not activated",
- "card_number":"4606953224160366",
- "transaction_code":"PVOE26191712638441",
- "date_transaction":"2021-11-26",
- "time_transaction":"19:41:27",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"759224.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"RON of Braavos"
+ "card_number":"503887493370",
+ "transaction_code":"OEJD11003254276399",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"20:16:29",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"533528.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CHF of Braavos"
 }

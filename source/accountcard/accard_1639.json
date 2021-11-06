@@ -1,0 +1,15 @@
+{
+ "id_client":"GMVE94938837721944",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"180014998836962",
+ "transaction_code":"HPSV89924375875046",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"05:43:02",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"892202.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SVC of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ZAPK58093335479417",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"180044655696391",
+ "transaction_code":"ACEY18998221239850",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"13:03:19",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"483408.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"EGP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RMRU41163183958827",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"3534465572871246",
+ "transaction_code":"VUHA72860479307749",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"00:03:08",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"219872.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CZK of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"TSAO31368873171588",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "rent_income_value":"-607276.0",
- "description_chosen_income_method":"+336827.0",
- "total_account_value":"210499.0",
- "current_account_total_value":"-164229.0",
- "total_amount_carried_over":"374728.0"
+ "id_client":"CDLG64587887382692",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "rent_income_value":"+396284.0",
+ "description_chosen_income_method":"-135294.0",
+ "total_account_value":"7320234.0",
+ "current_account_total_value":"7127812.0",
+ "total_amount_carried_over":"192422.0"
 }

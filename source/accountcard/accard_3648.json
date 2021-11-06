@@ -1,0 +1,15 @@
+{
+ "id_client":"KHIH53679189592456",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"30215534694201",
+ "transaction_code":"CGSW07642262293692",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"19:40:02",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"534729.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GBP of Braavos"
+}

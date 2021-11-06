@@ -1,11 +1,11 @@
 {
- "id_client":"KJFW73693591204483",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"MANM46352009846916",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"WQLQ21710330120618",
- "aba":"054003613"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"activated",
+ "bban_count":"ECDI92498289659130",
+ "aba":"052169948"
 }

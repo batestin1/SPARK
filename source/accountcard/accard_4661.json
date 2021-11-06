@@ -1,0 +1,15 @@
+{
+ "id_client":"NLEL53162467532973",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"213119491709409",
+ "transaction_code":"LDUW92576251849088",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"09:57:50",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"514031.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"IDR of Braavos"
+}

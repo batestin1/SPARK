@@ -1,0 +1,15 @@
+{
+ "id_client":"WGNB99381974453210",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"3544630077282730",
+ "transaction_code":"IQDM32777074933456",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"17:20:19",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"557293.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SVC of Braavos"
+}

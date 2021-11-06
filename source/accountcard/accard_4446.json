@@ -1,0 +1,15 @@
+{
+ "id_client":"XMDE66149815142269",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"3564522353465441",
+ "transaction_code":"SFAS89085726533250",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"15:00:44",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"973632.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NOK of Braavos"
+}

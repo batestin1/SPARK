@@ -1,15 +1,15 @@
 {
- "id_client":"TXIG26875546338615",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"TKFF99442979448897",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"not activated",
- "card_number":"213132501055549",
- "transaction_code":"NWGX15929588764727",
- "date_transaction":"2021-11-17",
- "time_transaction":"23:00:59",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"979165.0",
+ "card_number":"676227365621",
+ "transaction_code":"LMSE56732395098685",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"11:19:51",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"725556.0",
  "number_installments_assign":"6",
  "current_installment":"5",
- "currency":"AED of Braavos"
+ "currency":"SZL of Braavos"
 }

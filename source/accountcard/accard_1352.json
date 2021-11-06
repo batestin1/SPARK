@@ -1,0 +1,15 @@
+{
+ "id_client":"BJRT22422738602319",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4223706749845464521",
+ "transaction_code":"ZPPZ75920327837546",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"07:26:31",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"203156.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NIS of Braavos"
+}

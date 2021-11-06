@@ -1,15 +1,15 @@
 {
- "id_client":"WZKV65396917118902",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "status_account_blocked":"not activated",
- "card_number":"348328422170619",
- "transaction_code":"DMWQ92256111882271",
- "date_transaction":"2021-11-21",
- "time_transaction":"15:26:33",
+ "id_client":"HPKE64168409119541",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"343838176606035",
+ "transaction_code":"QLWF17030567577534",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"18:15:23",
  "describle_transaction":"swords",
- "original_transaction_amount":"627153.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"RWF of Braavos"
+ "original_transaction_amount":"352805.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BMD of Braavos"
 }

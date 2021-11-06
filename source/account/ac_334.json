@@ -1,11 +1,11 @@
 {
- "id_client":"MYDT02595348607684",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"BPSQ08380747362996",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"WBPS23321488755733",
- "aba":"017076328"
+ "account_type":"savings account",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"WQCS18342845244368",
+ "aba":"075463498"
 }

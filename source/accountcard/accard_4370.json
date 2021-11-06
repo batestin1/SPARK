@@ -1,0 +1,15 @@
+{
+ "id_client":"DSUK95045724092472",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"342918382330900",
+ "transaction_code":"HIWW80763031275064",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"22:41:52",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"868835.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NAD of Braavos"
+}

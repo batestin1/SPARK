@@ -1,0 +1,15 @@
+{
+ "id_client":"MAXE36186485033624",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"180094330801213",
+ "transaction_code":"NFFE38945199213887",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"23:24:59",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"394938.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BIF of Braavos"
+}

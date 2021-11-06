@@ -1,15 +1,15 @@
 {
- "id_client":"KIIW30522827745694",
+ "id_client":"FULM38992787568551",
  "yearmonthday":"20211118",
  "_yearmonthday":"20211118",
- "status_account_blocked":"not activated",
- "card_number":"3546865324357343",
- "transaction_code":"CWAL48149818594468",
- "date_transaction":"2021-11-06",
- "time_transaction":"14:27:55",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"873549.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"MXN of Braavos"
+ "status_account_blocked":"activated",
+ "card_number":"342881636752453",
+ "transaction_code":"BQZM41989222954742",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"07:39:06",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"780303.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MNT of Braavos"
 }

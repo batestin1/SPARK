@@ -1,0 +1,15 @@
+{
+ "id_client":"DSUA72452178125529",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4641718898338",
+ "transaction_code":"KYBT68337904390675",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"03:41:05",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"423972.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AWG of Braavos"
+}

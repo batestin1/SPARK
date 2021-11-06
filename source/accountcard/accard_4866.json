@@ -1,0 +1,15 @@
+{
+ "id_client":"ZSWO23639031662002",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"activated",
+ "card_number":"3501958282673638",
+ "transaction_code":"JBZC35626225373707",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"05:21:26",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"250539.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KZT of Braavos"
+}

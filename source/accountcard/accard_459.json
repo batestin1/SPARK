@@ -1,15 +1,15 @@
 {
- "id_client":"HFUN53752034084460",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "status_account_blocked":"activated",
- "card_number":"379193675145607",
- "transaction_code":"IHJF82284014803048",
- "date_transaction":"2021-11-17",
- "time_transaction":"17:21:01",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"963354.0",
+ "id_client":"HFCJ49632265653076",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"38567700193273",
+ "transaction_code":"KJRE10790296524069",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"08:15:41",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"528008.0",
  "number_installments_assign":"2",
  "current_installment":"1",
- "currency":"MXN of Braavos"
+ "currency":"IRR of Braavos"
 }

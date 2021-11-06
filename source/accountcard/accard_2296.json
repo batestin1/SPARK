@@ -1,0 +1,15 @@
+{
+ "id_client":"IJMG10714500962201",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"3587188508006820",
+ "transaction_code":"ZKSZ56751516112179",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"07:11:09",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"259951.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CUC of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"CURC56980473392221",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4490641179916044",
+ "transaction_code":"RXWB65009542380176",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"21:19:12",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"327319.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"COP of Braavos"
+}

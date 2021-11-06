@@ -1,15 +1,15 @@
 {
- "id_client":"PTRE20026424759274",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"MSQU98829452853162",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "status_account_blocked":"not activated",
- "card_number":"4475248635401",
- "transaction_code":"MITB57381691524056",
- "date_transaction":"2021-11-29",
- "time_transaction":"23:49:11",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"375978.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"SVC of Braavos"
+ "card_number":"4192929855344990",
+ "transaction_code":"YAKR04669027597229",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:49:20",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"517185.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NZD of Braavos"
 }

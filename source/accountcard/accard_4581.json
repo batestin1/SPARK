@@ -1,0 +1,15 @@
+{
+ "id_client":"DWAR19748467344395",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6011968800358774",
+ "transaction_code":"PSUW05875643173281",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"11:00:09",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"349718.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NIS of Braavos"
+}

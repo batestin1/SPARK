@@ -1,0 +1,15 @@
+{
+ "id_client":"MILK59019216357181",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"3548102457506464",
+ "transaction_code":"VYTT86030417292873",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"07:40:04",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"675337.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CNY of Braavos"
+}

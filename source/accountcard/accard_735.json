@@ -1,15 +1,15 @@
 {
- "id_client":"ZRGP16339697682815",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "status_account_blocked":"not activated",
- "card_number":"676179960049",
- "transaction_code":"SUEL17368510801848",
+ "id_client":"DIVX07622935978812",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"378661403779138",
+ "transaction_code":"AZCV40043517542097",
  "date_transaction":"2021-12-04",
- "time_transaction":"20:54:56",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"99463.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"LSL of Braavos"
+ "time_transaction":"23:20:12",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"674235.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SRD of Braavos"
 }

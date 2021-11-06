@@ -1,0 +1,15 @@
+{
+ "id_client":"RLVR76628440628965",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4601157435325058170",
+ "transaction_code":"NBAC73736411969717",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"00:29:44",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"799176.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"FJD of Braavos"
+}

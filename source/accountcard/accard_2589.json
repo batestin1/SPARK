@@ -1,0 +1,15 @@
+{
+ "id_client":"LDQC81626860502578",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4721402169655048",
+ "transaction_code":"IJES71192860913317",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"01:50:24",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"85407.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"RUB of Braavos"
+}

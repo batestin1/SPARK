@@ -1,0 +1,15 @@
+{
+ "id_client":"HKDL64464088658815",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4788669377802",
+ "transaction_code":"MCGE29319082641307",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"15:15:48",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"976577.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RON of Braavos"
+}

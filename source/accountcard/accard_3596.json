@@ -1,0 +1,15 @@
+{
+ "id_client":"VXVS32817620623485",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"213115861847365",
+ "transaction_code":"SQMH32874150020757",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"11:11:07",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"598854.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IMP of Braavos"
+}

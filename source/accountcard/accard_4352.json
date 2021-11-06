@@ -1,0 +1,15 @@
+{
+ "id_client":"ARIO80954637774169",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"213153396500001",
+ "transaction_code":"EGIL26284093619470",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"21:51:28",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"960358.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NIO of Braavos"
+}

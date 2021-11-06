@@ -1,0 +1,15 @@
+{
+ "id_client":"LUQJ21401777299922",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"30137460283421",
+ "transaction_code":"YXTR19157233849047",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"21:50:03",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"331741.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"AWG of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LOXV95370974164839",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"2224690714294869",
+ "transaction_code":"ZSJO12151827096444",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"11:27:26",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"725800.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MMK of Braavos"
+}

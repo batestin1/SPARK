@@ -1,0 +1,15 @@
+{
+ "id_client":"IUOS50057464644707",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"3516781258674403",
+ "transaction_code":"PLSI01209605127575",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"11:22:48",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"893902.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SHP of Braavos"
+}

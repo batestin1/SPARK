@@ -1,0 +1,15 @@
+{
+ "id_client":"BZID18457746178958",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"2258632054802561",
+ "transaction_code":"MJGG58616129956517",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"05:56:52",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"850133.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"QAR of Braavos"
+}

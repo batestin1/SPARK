@@ -1,0 +1,15 @@
+{
+ "id_client":"QETJ74413825157236",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4950160405421",
+ "transaction_code":"DNAK44359134646005",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"17:36:24",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"865982.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CUP of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"MSHU87555895023645",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"XEZJ99147718394952",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "status_account_blocked":"not activated",
- "card_number":"4949937174369",
- "transaction_code":"YGEA92873467744895",
- "date_transaction":"2021-11-07",
- "time_transaction":"12:51:49",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"328930.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"LRD of Braavos"
+ "card_number":"4962463717112484",
+ "transaction_code":"XYBO99095167470236",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"20:21:09",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"500509.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MVR of Braavos"
 }

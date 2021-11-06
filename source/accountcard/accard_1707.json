@@ -1,0 +1,15 @@
+{
+ "id_client":"IMPS90807412087177",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"4900467577887205",
+ "transaction_code":"JLQT99636722334309",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"06:46:59",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"288967.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VND of Braavos"
+}

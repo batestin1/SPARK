@@ -1,15 +1,15 @@
 {
- "id_client":"FYKJ03752391959657",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "status_account_blocked":"activated",
- "card_number":"3511860335766377",
- "transaction_code":"IYWL22371999641258",
- "date_transaction":"2021-11-25",
- "time_transaction":"11:59:37",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"869760.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"OMR of Braavos"
+ "id_client":"AQZI37135675757393",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"3504043034204516",
+ "transaction_code":"HOBS41182668471598",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"12:16:09",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"830780.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GBP of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"ZRQO56334926418328",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"341419180367930",
+ "transaction_code":"XMTE95010147122278",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"22:39:34",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"89101.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AMD of Braavos"
+}

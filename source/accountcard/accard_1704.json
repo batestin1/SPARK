@@ -1,0 +1,15 @@
+{
+ "id_client":"GVRQ21463779210043",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4396232131602198",
+ "transaction_code":"TCMG89007615044620",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"21:41:49",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"183744.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BRL of Braavos"
+}

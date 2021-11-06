@@ -1,15 +1,15 @@
 {
- "id_client":"SOAW20990849278593",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"RXLY83301173093944",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"not activated",
- "card_number":"4276126450155820622",
- "transaction_code":"DJDT70573924992417",
- "date_transaction":"2021-11-19",
- "time_transaction":"08:18:42",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"94584.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"SBD of Braavos"
+ "card_number":"3540585818392913",
+ "transaction_code":"DJXS89515116237897",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"12:01:41",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"275405.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KRW of Braavos"
 }

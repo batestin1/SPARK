@@ -1,15 +1,15 @@
 {
- "id_client":"ATZT81362174860485",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
- "status_account_blocked":"not activated",
- "card_number":"340244756293752",
- "transaction_code":"XFFH42645609767030",
- "date_transaction":"2021-11-30",
- "time_transaction":"17:21:49",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"992321.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"XCD of Braavos"
+ "id_client":"SCEV82246715946570",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4628283776068878906",
+ "transaction_code":"LVQW50879961301442",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"04:13:26",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"406184.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CAD of Braavos"
 }

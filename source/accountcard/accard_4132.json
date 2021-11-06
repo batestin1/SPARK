@@ -1,0 +1,15 @@
+{
+ "id_client":"KUJQ73773674805685",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"3583737218896245",
+ "transaction_code":"KRDU60878873227021",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"23:19:56",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"540804.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"YER of Braavos"
+}

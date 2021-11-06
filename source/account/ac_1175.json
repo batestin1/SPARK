@@ -1,11 +1,11 @@
 {
- "id_client":"DRNV71780210378515",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"XALU58169701693594",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "bank":"Braavos",
- "account_type":"account for the long winter",
+ "account_type":"savings account",
  "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"ARLG38256545905385",
- "aba":"092211684"
+ "account_status":"activated",
+ "bban_count":"UTND89696482949243",
+ "aba":"073317962"
 }

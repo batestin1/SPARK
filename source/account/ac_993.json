@@ -1,11 +1,11 @@
 {
- "id_client":"MTJI76448505724093",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"TISY13347307469189",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"KCRX66635046884420",
- "aba":"067424757"
+ "account_type":"dragon account",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"XLLA04258098582306",
+ "aba":"052118215"
 }

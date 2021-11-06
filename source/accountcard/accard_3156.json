@@ -1,0 +1,15 @@
+{
+ "id_client":"TZGC73235815928863",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"2269959404130626",
+ "transaction_code":"CYLY36450534606673",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"23:13:47",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"64274.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AOA of Braavos"
+}

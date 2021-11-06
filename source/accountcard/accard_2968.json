@@ -1,0 +1,15 @@
+{
+ "id_client":"BLDG36319616548433",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4451763873410939",
+ "transaction_code":"FJKD01189326306003",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"00:50:10",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"869666.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"IDR of Braavos"
+}

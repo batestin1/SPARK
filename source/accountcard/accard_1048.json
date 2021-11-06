@@ -1,15 +1,15 @@
 {
- "id_client":"ZNDX65260060748006",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "status_account_blocked":"activated",
- "card_number":"4001075710626642",
- "transaction_code":"JFBL21251966157688",
+ "id_client":"OZAF33963737604129",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"5338985788394678",
+ "transaction_code":"CATB13575407719059",
  "date_transaction":"2021-11-23",
- "time_transaction":"23:01:31",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"611772.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"IQD of Braavos"
+ "time_transaction":"00:23:19",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"353672.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BZD of Braavos"
 }

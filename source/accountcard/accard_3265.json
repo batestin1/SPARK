@@ -1,0 +1,15 @@
+{
+ "id_client":"JKPN58841824726108",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3564981130021317",
+ "transaction_code":"OEYC98153862114413",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"09:39:05",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"312419.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ARS of Braavos"
+}

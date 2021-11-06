@@ -1,0 +1,15 @@
+{
+ "id_client":"RALL60508789822824",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4830678852767525",
+ "transaction_code":"UGKT83591942059946",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"20:57:29",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"694981.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ILS of Braavos"
+}

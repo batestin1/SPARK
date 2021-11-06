@@ -1,0 +1,15 @@
+{
+ "id_client":"UTBN12208829016989",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4117945127332924379",
+ "transaction_code":"IGUF45278918798421",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"14:28:25",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"914125.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PYG of Braavos"
+}

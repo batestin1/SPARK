@@ -1,15 +1,15 @@
 {
- "id_client":"RESY09312638797284",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"IBMV16278757280195",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"3550583052393041",
- "transaction_code":"VFBW79223728019537",
- "date_transaction":"2021-11-10",
- "time_transaction":"02:11:26",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"782422.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"BBD of Braavos"
+ "card_number":"30516583930366",
+ "transaction_code":"KIIS91397720825008",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"16:15:23",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"536850.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SBD of Braavos"
 }

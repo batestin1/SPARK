@@ -1,0 +1,15 @@
+{
+ "id_client":"AUAM64769630660533",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"180087900859876",
+ "transaction_code":"YEXX61480895327983",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"04:17:00",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"323379.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GYD of Braavos"
+}

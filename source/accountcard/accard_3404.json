@@ -1,0 +1,15 @@
+{
+ "id_client":"RKSS74166012652894",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"347811531693929",
+ "transaction_code":"LTSC57002623433560",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"08:16:40",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"578002.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"OMR of Braavos"
+}

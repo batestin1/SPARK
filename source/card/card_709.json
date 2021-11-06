@@ -1,12 +1,12 @@
 {
- "id_client":"TSGD66857855390650",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"VFUX05808094642655",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "card_number":"activated",
- "total_limit_value":"924748.0",
- "limit_value_available":"890427.0",
- "total_limit_used":"34321.0",
- "description_card":"Discover",
- "security_card":"2113",
- "expire_card_number":"09/22"
+ "total_limit_value":"128793.0",
+ "limit_value_available":"102804.0",
+ "total_limit_used":"25989.0",
+ "description_card":"American Express",
+ "security_card":"693",
+ "expire_card_number":"12/21"
 }

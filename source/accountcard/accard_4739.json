@@ -1,0 +1,15 @@
+{
+ "id_client":"TJOT10211403173017",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"3540505852157584",
+ "transaction_code":"CMDN94834129964674",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"15:01:53",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"807345.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NOK of Braavos"
+}

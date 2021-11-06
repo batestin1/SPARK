@@ -1,12 +1,12 @@
 {
- "id_client":"AFIP09262595223853",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "card_number":"activated",
- "total_limit_value":"368948.0",
- "limit_value_available":"273023.0",
- "total_limit_used":"95925.0",
- "description_card":"Maestro",
- "security_card":"783",
- "expire_card_number":"01/26"
+ "id_client":"XARU54214143605125",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "card_number":"not activated",
+ "total_limit_value":"341255.0",
+ "limit_value_available":"324700.0",
+ "total_limit_used":"16555.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"8854",
+ "expire_card_number":"09/31"
 }

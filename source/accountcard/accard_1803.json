@@ -1,0 +1,15 @@
+{
+ "id_client":"NWSB05662964233051",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"340553487228386",
+ "transaction_code":"SWYB23746454976807",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"15:55:12",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"732876.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"JPY of Braavos"
+}

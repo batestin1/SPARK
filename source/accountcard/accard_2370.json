@@ -1,0 +1,15 @@
+{
+ "id_client":"VXYC28442743697742",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4026985599962986",
+ "transaction_code":"HLKR07978055451548",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"17:28:37",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"791492.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KHR of Braavos"
+}

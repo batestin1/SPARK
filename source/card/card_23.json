@@ -1,12 +1,12 @@
 {
- "id_client":"MMGU48237220021093",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "card_number":"activated",
- "total_limit_value":"87619.0",
- "limit_value_available":"5507.0",
- "total_limit_used":"82112.0",
- "description_card":"VISA 13 digit",
- "security_card":"418",
- "expire_card_number":"11/24"
+ "id_client":"DZFR90609947986919",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "card_number":"not activated",
+ "total_limit_value":"994956.0",
+ "limit_value_available":"910136.0",
+ "total_limit_used":"84820.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"060",
+ "expire_card_number":"07/22"
 }

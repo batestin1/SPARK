@@ -1,15 +1,15 @@
 {
- "id_client":"EHZG30215605996182",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"WZQP09999962721179",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"2242128623997551",
- "transaction_code":"YNKW96851983133254",
- "date_transaction":"2021-11-08",
- "time_transaction":"06:22:10",
- "describle_transaction":"slaves",
- "original_transaction_amount":"983616.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"CLP of Braavos"
+ "card_number":"30578822813399",
+ "transaction_code":"FSJC91688159315625",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"12:06:48",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"846433.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BYR of Braavos"
 }

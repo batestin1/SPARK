@@ -1,12 +1,12 @@
 {
- "id_client":"UESU59752751734581",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"PSJE56916792125326",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "card_number":"activated",
- "total_limit_value":"738015.0",
- "limit_value_available":"704394.0",
- "total_limit_used":"33621.0",
+ "total_limit_value":"888539.0",
+ "limit_value_available":"789781.0",
+ "total_limit_used":"98758.0",
  "description_card":"American Express",
- "security_card":"0365",
- "expire_card_number":"01/24"
+ "security_card":"532",
+ "expire_card_number":"04/27"
 }

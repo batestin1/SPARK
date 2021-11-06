@@ -1,0 +1,15 @@
+{
+ "id_client":"VLBO19492780067289",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4392033310194186681",
+ "transaction_code":"EDOS06055789272851",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"02:31:58",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"240841.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ISK of Braavos"
+}

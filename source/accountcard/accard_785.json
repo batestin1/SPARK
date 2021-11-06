@@ -1,15 +1,15 @@
 {
- "id_client":"AQEG16735899788072",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"CCRW93851872255946",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"activated",
- "card_number":"347249985866206",
- "transaction_code":"AGUQ53283675754911",
- "date_transaction":"2021-11-08",
- "time_transaction":"22:41:27",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"759898.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"UAH of Braavos"
+ "card_number":"4162038052183",
+ "transaction_code":"SFCC39612496922381",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"22:40:12",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"333463.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BOB of Braavos"
 }

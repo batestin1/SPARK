@@ -1,0 +1,15 @@
+{
+ "id_client":"BEFB46183310410494",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3530817221070162",
+ "transaction_code":"HQNN73572618510555",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"08:05:36",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"933176.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"JMD of Braavos"
+}

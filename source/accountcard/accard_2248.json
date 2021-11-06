@@ -1,0 +1,15 @@
+{
+ "id_client":"XIML17986008520824",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4454453026096105020",
+ "transaction_code":"GMMD64027400428831",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"16:18:08",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"632284.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"FJD of Braavos"
+}

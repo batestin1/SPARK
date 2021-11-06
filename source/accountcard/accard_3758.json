@@ -1,0 +1,15 @@
+{
+ "id_client":"QDBQ36753142850983",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4828541946629758889",
+ "transaction_code":"NNNH89417543103746",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"10:23:52",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"448880.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AWG of Braavos"
+}

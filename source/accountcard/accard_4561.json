@@ -1,0 +1,15 @@
+{
+ "id_client":"AWYB20542339467372",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"3533829858713581",
+ "transaction_code":"RSKN65863431188190",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"09:19:11",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"17489.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BRL of Braavos"
+}

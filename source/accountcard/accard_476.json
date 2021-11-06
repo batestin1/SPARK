@@ -1,15 +1,15 @@
 {
- "id_client":"WGKS35371207174285",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"JMWL23499228262949",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"activated",
- "card_number":"3538396448941713",
- "transaction_code":"HLUC92870287196453",
- "date_transaction":"2021-11-13",
- "time_transaction":"04:59:39",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"545170.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"CZK of Braavos"
+ "card_number":"6506301284848528",
+ "transaction_code":"CUQB17768762719197",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"01:33:56",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"522370.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BHD of Braavos"
 }

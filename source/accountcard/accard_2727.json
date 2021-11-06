@@ -1,0 +1,15 @@
+{
+ "id_client":"TDTC27616598740600",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4617601036533",
+ "transaction_code":"TWFY27333353892569",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"03:16:31",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"171650.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BZD of Braavos"
+}

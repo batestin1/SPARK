@@ -1,0 +1,15 @@
+{
+ "id_client":"QYCD78132019108120",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"36550830961282",
+ "transaction_code":"SKMG32141634662230",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:40:47",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"906197.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SRD of Braavos"
+}

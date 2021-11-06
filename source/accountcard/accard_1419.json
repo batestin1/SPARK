@@ -1,0 +1,15 @@
+{
+ "id_client":"SNBM20010457675181",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"213102829647137",
+ "transaction_code":"TPDV09476464548815",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"23:48:01",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"237657.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BDT of Braavos"
+}

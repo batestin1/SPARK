@@ -1,15 +1,15 @@
 {
- "id_client":"RTPU23481281737213",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"FAJC20852965575225",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "status_account_blocked":"not activated",
- "card_number":"3545886270540469",
- "transaction_code":"LIAO52540858637761",
- "date_transaction":"2021-11-22",
- "time_transaction":"13:33:50",
+ "card_number":"3545724855402534",
+ "transaction_code":"EDFA27537813077416",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"17:15:29",
  "describle_transaction":"immaculate army",
- "original_transaction_amount":"702935.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"COP of Braavos"
+ "original_transaction_amount":"151233.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"EUR of Braavos"
 }

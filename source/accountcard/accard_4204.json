@@ -1,0 +1,15 @@
+{
+ "id_client":"SDHY24523916250168",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"36919319350681",
+ "transaction_code":"ALPV51938759513731",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"18:41:14",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"513766.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KZT of Braavos"
+}

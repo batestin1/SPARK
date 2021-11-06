@@ -1,11 +1,11 @@
 {
- "id_client":"JRQA78348826180344",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"RZKO28142180619225",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
+ "account_type":"salary bill",
+ "investor_profile":"Temporary",
  "account_status":"not activated",
- "bban_count":"JPAT45957676213018",
- "aba":"024733182"
+ "bban_count":"ZDBS29879940775946",
+ "aba":"021095386"
 }

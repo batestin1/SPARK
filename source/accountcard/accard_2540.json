@@ -1,0 +1,15 @@
+{
+ "id_client":"EKIU70073676026498",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4190390896681",
+ "transaction_code":"RPNU18767344136643",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"22:18:06",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"468014.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CHF of Braavos"
+}

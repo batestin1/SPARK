@@ -1,15 +1,15 @@
 {
- "id_client":"EKAQ96813536421467",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"IWXA96101191373872",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"activated",
- "card_number":"378044310763539",
- "transaction_code":"VTTQ17736419770141",
- "date_transaction":"2021-11-23",
- "time_transaction":"13:20:22",
- "describle_transaction":"slaves",
- "original_transaction_amount":"457079.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"ISK of Braavos"
+ "card_number":"4078567949666",
+ "transaction_code":"IWFU16153413985678",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"00:46:53",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"279620.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SYP of Braavos"
 }

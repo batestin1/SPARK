@@ -1,0 +1,12 @@
+{
+ "id_client":"EHRF00256792499245",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "card_number":"activated",
+ "total_limit_value":"5392.0",
+ "limit_value_available":"-58815.0",
+ "total_limit_used":"64207.0",
+ "description_card":"Maestro",
+ "security_card":"983",
+ "expire_card_number":"03/30"
+}

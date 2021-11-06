@@ -1,0 +1,15 @@
+{
+ "id_client":"RAAR20122651189761",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"630416721680",
+ "transaction_code":"KPRQ79867833048496",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"06:52:04",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"783863.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CHF of Braavos"
+}

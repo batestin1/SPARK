@@ -1,0 +1,15 @@
+{
+ "id_client":"TSQT38121560210589",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"30501626990858",
+ "transaction_code":"XEKL41358956571540",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"18:00:55",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"678400.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"WST of Braavos"
+}

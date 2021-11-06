@@ -1,0 +1,15 @@
+{
+ "id_client":"MVNR51078910426501",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"3528024859154699",
+ "transaction_code":"ZWMG32181027710325",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"19:53:11",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"330260.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MVR of Braavos"
+}

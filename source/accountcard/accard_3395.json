@@ -1,0 +1,15 @@
+{
+ "id_client":"ZXMU23849972888271",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4147902797329987",
+ "transaction_code":"RJQC28802782472662",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"03:37:59",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"151460.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KPW of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"UJSQ20893929525102",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"2482729587165298",
+ "transaction_code":"RLEP73116727621461",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"06:35:06",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"198134.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PHP of Braavos"
+}

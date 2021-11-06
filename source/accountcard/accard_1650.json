@@ -1,0 +1,15 @@
+{
+ "id_client":"EKFE09049276576458",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"370985678154778",
+ "transaction_code":"CHEI13928962936057",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"09:20:05",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"216456.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MDL of Braavos"
+}

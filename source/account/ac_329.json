@@ -1,11 +1,11 @@
 {
- "id_client":"JRJL50431638925152",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"CVBH93834845611729",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
+ "account_type":"savings account",
+ "investor_profile":"Reliable",
  "account_status":"activated",
- "bban_count":"PMIP28943900847979",
- "aba":"084241259"
+ "bban_count":"VDVJ97236580407942",
+ "aba":"021020838"
 }

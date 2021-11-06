@@ -1,0 +1,15 @@
+{
+ "id_client":"PNWP79244504238147",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"180007818828995",
+ "transaction_code":"RWTG83734542953056",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"04:48:31",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"347697.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NZD of Braavos"
+}

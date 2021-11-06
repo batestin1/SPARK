@@ -1,0 +1,15 @@
+{
+ "id_client":"VEXR14957341044698",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4803039874609398",
+ "transaction_code":"QGVO43439217308276",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"17:38:46",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"465625.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CDF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"SNHY40702511214181",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"567707556146",
+ "transaction_code":"IGDW20993325284587",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:41:57",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"932462.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"VEF of Braavos"
+}

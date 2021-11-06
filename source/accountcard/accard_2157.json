@@ -1,0 +1,15 @@
+{
+ "id_client":"MXVW42699811738401",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"4503118181175864",
+ "transaction_code":"BFHS04831877932668",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"12:56:57",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"801120.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KPW of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RNOT80589492862190",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"6581997279547849",
+ "transaction_code":"XPQP71650489064209",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:43:41",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"699454.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CNY of Braavos"
+}

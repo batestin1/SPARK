@@ -1,0 +1,15 @@
+{
+ "id_client":"YIIU59324258436911",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"376673978487346",
+ "transaction_code":"UMJY67402881450300",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"01:00:13",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"79077.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GEL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"BIDG54693007691533",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"213145386728154",
+ "transaction_code":"CZFJ40334441531677",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"07:55:50",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"831491.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BTN of Braavos"
+}

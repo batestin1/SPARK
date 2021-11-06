@@ -1,0 +1,15 @@
+{
+ "id_client":"PHFB53650615859946",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"5226053977125125",
+ "transaction_code":"HEXI16670139345598",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"04:04:01",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"771937.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"NPR of Braavos"
+}

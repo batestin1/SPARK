@@ -1,15 +1,15 @@
 {
- "id_client":"NIEO05537320949104",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"UJVX06239156824146",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"4081558314887432",
- "transaction_code":"EWOY30846227063218",
- "date_transaction":"2021-11-08",
- "time_transaction":"02:20:20",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"440092.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"SYP of Braavos"
+ "card_number":"3544292135970556",
+ "transaction_code":"CYWA22838458514199",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"05:02:10",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"229001.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KYD of Braavos"
 }

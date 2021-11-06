@@ -1,12 +1,12 @@
 {
- "id_client":"YSOV20333455127597",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"QFAP31180597747401",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "card_number":"activated",
- "total_limit_value":"819026.0",
- "limit_value_available":"741041.0",
- "total_limit_used":"77985.0",
- "description_card":"Discover",
- "security_card":"976",
- "expire_card_number":"01/29"
+ "total_limit_value":"373991.0",
+ "limit_value_available":"351758.0",
+ "total_limit_used":"22233.0",
+ "description_card":"American Express",
+ "security_card":"496",
+ "expire_card_number":"08/30"
 }

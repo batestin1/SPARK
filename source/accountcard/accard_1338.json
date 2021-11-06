@@ -1,0 +1,15 @@
+{
+ "id_client":"QEUH84750980595599",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3567064421498705",
+ "transaction_code":"ZOTS29986655243225",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"06:08:30",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"731651.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MAD of Braavos"
+}

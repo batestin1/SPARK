@@ -1,0 +1,15 @@
+{
+ "id_client":"YNDI12791812781621",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"343733858667449",
+ "transaction_code":"ORVG41719367822789",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"06:13:05",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"820566.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NOK of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ZGNY52439402419785",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"213172284204344",
+ "transaction_code":"SJBF57857212141923",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"17:42:55",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"702120.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"STD of Braavos"
+}

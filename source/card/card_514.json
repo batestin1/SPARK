@@ -1,12 +1,12 @@
 {
- "id_client":"QWQW14602110728697",
+ "id_client":"ODYW71723764122429",
  "yearmonthday":"20211124",
  "_yearmonthday":"20211124",
- "card_number":"not activated",
- "total_limit_value":"930661.0",
- "limit_value_available":"899267.0",
- "total_limit_used":"31394.0",
- "description_card":"Discover",
- "security_card":"974",
- "expire_card_number":"07/22"
+ "card_number":"activated",
+ "total_limit_value":"396667.0",
+ "limit_value_available":"371001.0",
+ "total_limit_used":"25666.0",
+ "description_card":"JCB 16 digit",
+ "security_card":"156",
+ "expire_card_number":"08/22"
 }

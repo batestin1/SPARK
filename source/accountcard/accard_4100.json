@@ -1,0 +1,15 @@
+{
+ "id_client":"UIKJ43766804919036",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4870902500679367029",
+ "transaction_code":"JSEO47831811706231",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"11:55:59",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"499778.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ANG of Braavos"
+}

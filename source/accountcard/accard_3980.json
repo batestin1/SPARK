@@ -1,0 +1,15 @@
+{
+ "id_client":"AZYQ54492675172771",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"180014344427888",
+ "transaction_code":"FLCG52638785068383",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"17:19:58",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"717687.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BZD of Braavos"
+}

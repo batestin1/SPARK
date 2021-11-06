@@ -1,0 +1,15 @@
+{
+ "id_client":"OKWV50055869653248",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4782179448148538635",
+ "transaction_code":"SEUT57863404379658",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"13:14:08",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"633067.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BOB of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"VGJW04349888640767",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"3586137732947573",
+ "transaction_code":"DLYK63236236636562",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"06:34:42",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"8712.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SBD of Braavos"
+}

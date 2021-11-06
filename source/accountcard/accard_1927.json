@@ -1,0 +1,15 @@
+{
+ "id_client":"HOHZ50521264097455",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4366189648778",
+ "transaction_code":"LXYH06158899397660",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"04:57:32",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"270233.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KYD of Braavos"
+}

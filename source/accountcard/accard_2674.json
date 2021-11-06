@@ -1,0 +1,15 @@
+{
+ "id_client":"EGTD19165519765016",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4571450386114446697",
+ "transaction_code":"RMOI14125526292835",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"19:20:06",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"130743.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"EGP of Braavos"
+}

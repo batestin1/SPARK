@@ -1,0 +1,15 @@
+{
+ "id_client":"FUES22568896588645",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4396753278339815879",
+ "transaction_code":"FCGX41072500681729",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"16:51:48",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"632282.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"COP of Braavos"
+}

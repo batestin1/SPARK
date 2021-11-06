@@ -1,0 +1,15 @@
+{
+ "id_client":"YZHC91472502880686",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"213184346367399",
+ "transaction_code":"KGNG02269631507454",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"09:14:07",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"654290.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"STD of Braavos"
+}

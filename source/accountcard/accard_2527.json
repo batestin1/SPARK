@@ -1,0 +1,15 @@
+{
+ "id_client":"QFCS28359814077335",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"341627251097851",
+ "transaction_code":"WZCP56333987780381",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"18:12:31",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"547704.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CUC of Braavos"
+}

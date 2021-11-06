@@ -1,0 +1,15 @@
+{
+ "id_client":"FMJH98507952061824",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"2578895219833929",
+ "transaction_code":"IVNY87188048356193",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"23:26:47",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"250529.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BOB of Braavos"
+}

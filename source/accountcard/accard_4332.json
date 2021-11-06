@@ -1,0 +1,15 @@
+{
+ "id_client":"RYMY26878111762376",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"341108204613813",
+ "transaction_code":"XXGD27667586487575",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:03:20",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"184640.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BTN of Braavos"
+}

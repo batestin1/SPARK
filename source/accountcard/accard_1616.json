@@ -1,0 +1,15 @@
+{
+ "id_client":"MKVR30583696081980",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"3561787958924695",
+ "transaction_code":"YOHA48184265395031",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"02:48:21",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"446658.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"USD of Braavos"
+}

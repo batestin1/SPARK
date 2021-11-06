@@ -1,0 +1,15 @@
+{
+ "id_client":"YECI85978937819764",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"6527238551924845",
+ "transaction_code":"HRAA03231453805978",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"01:28:28",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"928714.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LYD of Braavos"
+}

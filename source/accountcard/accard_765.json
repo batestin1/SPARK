@@ -1,15 +1,15 @@
 {
- "id_client":"BZEW16380267709863",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"KTMV35211564990668",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"not activated",
- "card_number":"30329599198568",
- "transaction_code":"PGJF22481767114532",
- "date_transaction":"2021-11-17",
- "time_transaction":"07:08:47",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"894359.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"HNL of Braavos"
+ "card_number":"4186667634454563068",
+ "transaction_code":"RTPK17734244001117",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"20:34:05",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"476134.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MYR of Braavos"
 }

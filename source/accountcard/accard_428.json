@@ -1,15 +1,15 @@
 {
- "id_client":"RZSS17080351589848",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"XDAR11885353098389",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"activated",
- "card_number":"4510870759065525844",
- "transaction_code":"ZZTD05432994501971",
- "date_transaction":"2021-11-06",
- "time_transaction":"14:02:41",
- "describle_transaction":"savage army",
- "original_transaction_amount":"506465.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"KRW of Braavos"
+ "card_number":"213153649433463",
+ "transaction_code":"WYTF12254248889526",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"10:39:22",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"181703.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NOK of Braavos"
 }

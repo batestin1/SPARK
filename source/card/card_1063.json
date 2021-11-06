@@ -1,12 +1,12 @@
 {
- "id_client":"FSHQ64562816737588",
+ "id_client":"BLTI36814590177010",
  "yearmonthday":"20211201",
  "_yearmonthday":"20211201",
  "card_number":"activated",
- "total_limit_value":"220189.0",
- "limit_value_available":"213361.0",
- "total_limit_used":"6828.0",
- "description_card":"Discover",
- "security_card":"198",
- "expire_card_number":"12/24"
+ "total_limit_value":"950572.0",
+ "limit_value_available":"916991.0",
+ "total_limit_used":"33581.0",
+ "description_card":"American Express",
+ "security_card":"876",
+ "expire_card_number":"01/25"
 }

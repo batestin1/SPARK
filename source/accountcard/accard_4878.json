@@ -1,0 +1,15 @@
+{
+ "id_client":"CMPM78151908907624",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4984336747209013",
+ "transaction_code":"EOVV92924628743581",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"20:53:06",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"457691.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"HNL of Braavos"
+}

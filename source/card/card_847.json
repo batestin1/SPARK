@@ -1,12 +1,12 @@
 {
- "id_client":"ZXNC80875575761710",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "card_number":"activated",
- "total_limit_value":"491954.0",
- "limit_value_available":"402606.0",
- "total_limit_used":"89348.0",
+ "id_client":"HRAC07584452606308",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "card_number":"not activated",
+ "total_limit_value":"500275.0",
+ "limit_value_available":"472262.0",
+ "total_limit_used":"28013.0",
  "description_card":"VISA 16 digit",
- "security_card":"179",
- "expire_card_number":"11/23"
+ "security_card":"528",
+ "expire_card_number":"09/23"
 }

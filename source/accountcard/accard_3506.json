@@ -1,0 +1,15 @@
+{
+ "id_client":"YHUT29960882313146",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"2293225737661624",
+ "transaction_code":"TLJK48615771655599",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"14:07:40",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"378550.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"TZS of Braavos"
+}

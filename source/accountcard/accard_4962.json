@@ -1,0 +1,15 @@
+{
+ "id_client":"SWGI41182840360522",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"378389528219372",
+ "transaction_code":"ZTJU67197049948849",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"03:39:47",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"374935.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MUR of Braavos"
+}

@@ -1,10 +1,10 @@
 {
- "id_client":"NVDR37970441812855",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
- "rent_income_value":"-615348.0",
- "description_chosen_income_method":"-767117.0",
- "total_account_value":"8238738.0",
- "current_account_total_value":"7981966.0",
- "total_amount_carried_over":"256772.0"
+ "id_client":"ZDZK52642621201800",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "rent_income_value":"+672106.0",
+ "description_chosen_income_method":"-676516.0",
+ "total_account_value":"8070666.0",
+ "current_account_total_value":"7147441.0",
+ "total_amount_carried_over":"923225.0"
 }

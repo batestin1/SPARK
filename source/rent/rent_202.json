@@ -1,10 +1,10 @@
 {
- "id_client":"PIBL18370704995939",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
- "rent_income_value":"+6124.0",
- "description_chosen_income_method":"-408615.0",
- "total_account_value":"3708079.0",
- "current_account_total_value":"2766655.0",
- "total_amount_carried_over":"941424.0"
+ "id_client":"NPDT92590839375202",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "rent_income_value":"-880273.0",
+ "description_chosen_income_method":"+749941.0",
+ "total_account_value":"4343867.0",
+ "current_account_total_value":"3493328.0",
+ "total_amount_carried_over":"850539.0"
 }

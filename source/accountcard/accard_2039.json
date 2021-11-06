@@ -1,0 +1,15 @@
+{
+ "id_client":"KWCL55099003034312",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"2557265129776482",
+ "transaction_code":"WFTB84379492099418",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"22:50:20",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"430231.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XDR of Braavos"
+}

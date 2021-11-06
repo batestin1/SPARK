@@ -1,0 +1,15 @@
+{
+ "id_client":"SPMW31057134336904",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"180014087367069",
+ "transaction_code":"YHQC31237459796174",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"06:51:54",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"476814.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CVE of Braavos"
+}

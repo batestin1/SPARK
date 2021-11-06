@@ -1,0 +1,15 @@
+{
+ "id_client":"HCMY18305160526010",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4409246695270460",
+ "transaction_code":"TXGN15566754865233",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"23:27:05",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"121011.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LTL of Braavos"
+}

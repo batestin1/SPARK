@@ -1,0 +1,15 @@
+{
+ "id_client":"LPCD38279945529000",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"4925541787530317",
+ "transaction_code":"RUCC14015377704467",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"07:27:51",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"696793.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GGP of Braavos"
+}

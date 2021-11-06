@@ -1,15 +1,15 @@
 {
- "id_client":"FDLO80638871710700",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "status_account_blocked":"not activated",
- "card_number":"30090806959917",
- "transaction_code":"NJIS45125745120035",
- "date_transaction":"2021-11-10",
- "time_transaction":"13:18:07",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"529952.0",
+ "id_client":"HFFL62277706947931",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"30463480146665",
+ "transaction_code":"KZJP42153748603722",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"21:59:00",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"266517.0",
  "number_installments_assign":"3",
  "current_installment":"2",
- "currency":"TVD of Braavos"
+ "currency":"BOB of Braavos"
 }

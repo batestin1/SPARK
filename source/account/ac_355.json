@@ -1,11 +1,11 @@
 {
- "id_client":"GWLP72703536995924",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
+ "id_client":"PHXI47945398893344",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"LWSD28230771291406",
- "aba":"061689101"
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"RLEF72718175795306",
+ "aba":"021514420"
 }

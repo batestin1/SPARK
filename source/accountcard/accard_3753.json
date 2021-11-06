@@ -1,0 +1,15 @@
+{
+ "id_client":"REQE24161999547649",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"676286581654",
+ "transaction_code":"RLJW24195710662711",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"04:36:32",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"715083.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BWP of Braavos"
+}

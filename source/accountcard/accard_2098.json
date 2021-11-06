@@ -1,0 +1,15 @@
+{
+ "id_client":"XEIW60095903275246",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4705508005303",
+ "transaction_code":"HETB20937361106552",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"00:40:35",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"322451.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TMT of Braavos"
+}

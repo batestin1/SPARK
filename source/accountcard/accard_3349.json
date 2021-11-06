@@ -1,0 +1,15 @@
+{
+ "id_client":"JPQN95234567692791",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"6011019776237335",
+ "transaction_code":"JDLA02178659473052",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"08:09:15",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"724353.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SAR of Braavos"
+}

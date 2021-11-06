@@ -1,0 +1,15 @@
+{
+ "id_client":"HNRQ80316594139745",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"501893899820",
+ "transaction_code":"OLDG39701474781778",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"20:22:42",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"267566.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MOP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DLMY44739719785594",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"6544977060586392",
+ "transaction_code":"PYUX03422159241283",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"09:28:45",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"260561.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NOK of Braavos"
+}

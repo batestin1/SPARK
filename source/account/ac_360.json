@@ -1,11 +1,11 @@
 {
- "id_client":"UITM61144697025521",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"JADC47460527820383",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"YKZR52337794337082",
- "aba":"084941550"
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"YNTA00211490904629",
+ "aba":"056534983"
 }

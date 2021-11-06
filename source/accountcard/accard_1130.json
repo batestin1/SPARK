@@ -1,15 +1,15 @@
 {
- "id_client":"FCGT58518028679099",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
- "status_account_blocked":"activated",
- "card_number":"371131403108149",
- "transaction_code":"MLUZ97460653539387",
- "date_transaction":"2021-12-01",
- "time_transaction":"13:47:08",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"146153.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"LAK of Braavos"
+ "id_client":"GHLL24163782312925",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4545621886480",
+ "transaction_code":"INXB35941468565032",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"07:30:57",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"155022.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CNY of Braavos"
 }

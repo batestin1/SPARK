@@ -1,0 +1,15 @@
+{
+ "id_client":"VJPR31133935216185",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3501481951250935",
+ "transaction_code":"NONB57466661526920",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"12:30:52",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"859848.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MOP of Braavos"
+}

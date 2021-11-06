@@ -1,0 +1,15 @@
+{
+ "id_client":"GOED20689679902498",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"630427170893",
+ "transaction_code":"HQHU53879678242316",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"12:18:58",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"523604.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MOP of Braavos"
+}

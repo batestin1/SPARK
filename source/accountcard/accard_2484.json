@@ -1,0 +1,15 @@
+{
+ "id_client":"TIDS13701687990085",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"342317399536130",
+ "transaction_code":"QOLQ14027459873891",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"07:21:12",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"257144.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"VUV of Braavos"
+}

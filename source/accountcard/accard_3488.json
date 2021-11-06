@@ -1,0 +1,15 @@
+{
+ "id_client":"VFTB84804208115460",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"180051598875396",
+ "transaction_code":"UOVH22336010884462",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"17:29:23",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"974964.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"GIP of Braavos"
+}

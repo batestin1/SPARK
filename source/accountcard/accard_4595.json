@@ -1,0 +1,15 @@
+{
+ "id_client":"YEFR22037794185876",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"36380912363375",
+ "transaction_code":"LVQE82853568322365",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"04:23:31",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"516895.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"UGX of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"VIBB11453524245417",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"180012367438337",
+ "transaction_code":"HPQB23950315320656",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"20:59:14",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"52312.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SEK of Braavos"
+}

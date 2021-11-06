@@ -1,0 +1,15 @@
+{
+ "id_client":"ZHTS45124440851401",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"5480748796748798",
+ "transaction_code":"FZZW87855954219927",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"02:53:23",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"420014.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GHS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LMON47272258236818",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4077942751382238",
+ "transaction_code":"PXCY44373709313397",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"12:54:42",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"441938.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"AUD of Braavos"
+}

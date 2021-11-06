@@ -1,11 +1,11 @@
 {
- "id_client":"VNSU53568056912695",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"WIPJ09803938563253",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"CCNY41685117490726",
- "aba":"088202425"
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"IXTA68502213491204",
+ "aba":"015318863"
 }

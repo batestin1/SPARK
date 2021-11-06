@@ -1,10 +1,10 @@
 {
- "id_client":"NRGW67956116576060",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "rent_income_value":"+902390.0",
- "description_chosen_income_method":"+585754.0",
- "total_account_value":"8954263.0",
- "current_account_total_value":"8249890.0",
- "total_amount_carried_over":"704373.0"
+ "id_client":"SBDI70353838549801",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "rent_income_value":"+778482.0",
+ "description_chosen_income_method":"-555974.0",
+ "total_account_value":"9789928.0",
+ "current_account_total_value":"9658448.0",
+ "total_amount_carried_over":"131480.0"
 }

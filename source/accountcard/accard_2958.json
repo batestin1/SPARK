@@ -1,0 +1,15 @@
+{
+ "id_client":"AZKM74146121843182",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"180013993955470",
+ "transaction_code":"ZYBC61541778862157",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"21:19:01",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"345379.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MGA of Braavos"
+}

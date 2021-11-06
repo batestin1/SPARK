@@ -1,0 +1,15 @@
+{
+ "id_client":"XGTM04092112360055",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"3545955175078055",
+ "transaction_code":"DVSC40580780061214",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"01:31:36",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"771626.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ZMW of Braavos"
+}

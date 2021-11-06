@@ -1,11 +1,11 @@
 {
- "id_client":"BPNK06878727450905",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"VFWQ55360333117405",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"YHDQ59237526081997",
- "aba":"083728184"
+ "account_type":"checking account",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"OQKI88750303005436",
+ "aba":"048988629"
 }

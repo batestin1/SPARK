@@ -1,0 +1,15 @@
+{
+ "id_client":"FQCH88509652734407",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4021803053854752",
+ "transaction_code":"XPRK55325739592081",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"12:50:28",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"264596.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"XCD of Braavos"
+}

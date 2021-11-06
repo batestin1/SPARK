@@ -1,15 +1,15 @@
 {
- "id_client":"PUDL90955912019992",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"MUOY46478279996585",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "status_account_blocked":"not activated",
- "card_number":"377355973829776",
- "transaction_code":"GRAH91226246906698",
- "date_transaction":"2021-11-16",
- "time_transaction":"21:16:05",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"809319.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"KMF of Braavos"
+ "card_number":"3543778406862762",
+ "transaction_code":"KWOR43835484372440",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"15:41:13",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"607355.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TRY of Braavos"
 }

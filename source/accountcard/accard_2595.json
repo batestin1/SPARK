@@ -1,0 +1,15 @@
+{
+ "id_client":"CUOY19953882249483",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4041896937710121",
+ "transaction_code":"QSVK87202889033858",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"04:26:17",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"455164.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LYD of Braavos"
+}

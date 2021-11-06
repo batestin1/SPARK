@@ -1,12 +1,12 @@
 {
- "id_client":"LIOE09532658661679",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"WKOR83500034284953",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "card_number":"activated",
- "total_limit_value":"634726.0",
- "limit_value_available":"540108.0",
- "total_limit_used":"94618.0",
- "description_card":"Maestro",
- "security_card":"2489",
- "expire_card_number":"11/30"
+ "total_limit_value":"760565.0",
+ "limit_value_available":"750114.0",
+ "total_limit_used":"10451.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"030",
+ "expire_card_number":"04/27"
 }

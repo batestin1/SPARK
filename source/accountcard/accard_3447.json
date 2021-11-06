@@ -1,0 +1,15 @@
+{
+ "id_client":"GPSS55694785797460",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"349130551769222",
+ "transaction_code":"JKAJ00534639955408",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"00:24:35",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"70995.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BAM of Braavos"
+}

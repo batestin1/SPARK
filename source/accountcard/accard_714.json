@@ -1,15 +1,15 @@
 {
- "id_client":"HBTJ31471013226951",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"activated",
- "card_number":"6571748926769464",
- "transaction_code":"HOUZ08996263837508",
- "date_transaction":"2021-11-24",
- "time_transaction":"21:41:31",
+ "id_client":"IJGS92762078481562",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4878679679652670304",
+ "transaction_code":"GKNP30923707405302",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"22:55:35",
  "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"410791.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"FJD of Braavos"
+ "original_transaction_amount":"606194.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BND of Braavos"
 }

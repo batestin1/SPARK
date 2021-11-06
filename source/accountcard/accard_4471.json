@@ -1,0 +1,15 @@
+{
+ "id_client":"KDIS25944876374690",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"2252906828077262",
+ "transaction_code":"RIUC30653897252814",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"19:45:39",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"320480.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"MRO of Braavos"
+}

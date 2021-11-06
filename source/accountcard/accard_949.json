@@ -1,15 +1,15 @@
 {
- "id_client":"MJUL43830939985950",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"HPQM74715556660735",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "status_account_blocked":"activated",
- "card_number":"3570016837185495",
- "transaction_code":"DFQT64872927143923",
- "date_transaction":"2021-12-04",
- "time_transaction":"13:05:44",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"541473.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"UZS of Braavos"
+ "card_number":"180031960575253",
+ "transaction_code":"HQAB10853964743921",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"21:31:22",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"720007.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"HKD of Braavos"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"MRBT51432313535687",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
- "status_account_blocked":"not activated",
- "card_number":"30443495336972",
- "transaction_code":"RZNS80762558512342",
- "date_transaction":"2021-11-19",
- "time_transaction":"03:12:27",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"247524.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"BBD of Braavos"
+ "id_client":"STVK82507603964102",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"2713860847377927",
+ "transaction_code":"YCYT61149423597901",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"17:37:25",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"844301.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GGP of Braavos"
 }

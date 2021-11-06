@@ -1,11 +1,11 @@
 {
- "id_client":"IAKY79530993738756",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"LRRH37256743358915",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "bank":"Braavos",
  "account_type":"salary bill",
  "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"UMUC75078601417643",
- "aba":"044108000"
+ "account_status":"activated",
+ "bban_count":"MBWS45086291108514",
+ "aba":"065698322"
 }

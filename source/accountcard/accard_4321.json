@@ -1,0 +1,15 @@
+{
+ "id_client":"INRF96971343187653",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"180062412490254",
+ "transaction_code":"RHEP79650514652115",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"20:30:27",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"849345.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GNF of Braavos"
+}

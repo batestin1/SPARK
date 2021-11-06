@@ -1,0 +1,15 @@
+{
+ "id_client":"EQTA54957543548741",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4428760765322711380",
+ "transaction_code":"MWZW49307250056074",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"00:45:57",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"520031.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"JPY of Braavos"
+}

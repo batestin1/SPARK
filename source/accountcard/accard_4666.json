@@ -1,0 +1,15 @@
+{
+ "id_client":"FHNQ28938774941652",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4215511344880755990",
+ "transaction_code":"ZDOC83571647002430",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"00:35:12",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"783652.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KGS of Braavos"
+}

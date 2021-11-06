@@ -1,0 +1,15 @@
+{
+ "id_client":"VCAU06358229022780",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"6514738158940412",
+ "transaction_code":"ENDX18192538554322",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"20:15:17",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"829997.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SGD of Braavos"
+}

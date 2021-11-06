@@ -1,0 +1,15 @@
+{
+ "id_client":"LMYA88668741418010",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"30189334830663",
+ "transaction_code":"BZDP20322748012463",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"17:57:01",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"372881.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"IMP of Braavos"
+}

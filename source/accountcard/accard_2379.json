@@ -1,0 +1,15 @@
+{
+ "id_client":"ZMJE77278414191466",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"4856611701270360196",
+ "transaction_code":"GSGZ16956008112355",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"09:35:30",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"101651.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"GIP of Braavos"
+}

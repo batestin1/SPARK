@@ -1,0 +1,15 @@
+{
+ "id_client":"ZUAX77932750300192",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"213123058149090",
+ "transaction_code":"YKMV51735445920294",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:03:24",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"435828.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BTN of Braavos"
+}

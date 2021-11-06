@@ -1,0 +1,15 @@
+{
+ "id_client":"MQDB69874504263692",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4889603208584531",
+ "transaction_code":"WVGA06141600585491",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"22:18:15",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"813065.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"EUR of Braavos"
+}

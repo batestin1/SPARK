@@ -1,0 +1,15 @@
+{
+ "id_client":"PGCB66904773264814",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"4083854919778",
+ "transaction_code":"EMPQ69473240225260",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"20:57:05",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"165052.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"WST of Braavos"
+}

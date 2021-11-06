@@ -1,12 +1,12 @@
 {
- "id_client":"VNHD15239234611138",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
- "card_number":"not activated",
- "total_limit_value":"796798.0",
- "limit_value_available":"787964.0",
- "total_limit_used":"8834.0",
+ "id_client":"JPCE00707030273043",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "card_number":"activated",
+ "total_limit_value":"174198.0",
+ "limit_value_available":"100963.0",
+ "total_limit_used":"73235.0",
  "description_card":"American Express",
- "security_card":"622",
- "expire_card_number":"10/24"
+ "security_card":"484",
+ "expire_card_number":"08/25"
 }

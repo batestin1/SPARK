@@ -1,11 +1,11 @@
 {
- "id_client":"NFQD32106050695694",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"DODU60671226686121",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"QDMI00163445009791",
- "aba":"015546107"
+ "account_type":"savings account",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"INKN06182329954894",
+ "aba":"094640596"
 }

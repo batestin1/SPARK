@@ -1,0 +1,15 @@
+{
+ "id_client":"DEKL47661343796125",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4958992808231197",
+ "transaction_code":"TMQY64478973214428",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"23:50:34",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"684524.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KES of Braavos"
+}

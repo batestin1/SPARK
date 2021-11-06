@@ -1,0 +1,15 @@
+{
+ "id_client":"CKCE45226448212296",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"30474135157759",
+ "transaction_code":"QBMK90178303158169",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"22:40:44",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"559605.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MVR of Braavos"
+}

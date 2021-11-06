@@ -1,15 +1,15 @@
 {
- "id_client":"KRID52353870220049",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "status_account_blocked":"not activated",
- "card_number":"6011076796746802",
- "transaction_code":"YLNB54135199951584",
- "date_transaction":"2021-12-04",
- "time_transaction":"14:53:56",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"284778.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"KES of Braavos"
+ "id_client":"PFMX91065926731342",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4213962240369138",
+ "transaction_code":"ERVI56650518016245",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"00:02:13",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"328295.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KMF of Braavos"
 }

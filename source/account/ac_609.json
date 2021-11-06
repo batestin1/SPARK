@@ -1,11 +1,11 @@
 {
- "id_client":"QPPC56317676779259",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"YNQC51256233284052",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"BPLB07087324345348",
- "aba":"035342618"
+ "account_type":"dragon account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"ARDW26028287200700",
+ "aba":"034788503"
 }

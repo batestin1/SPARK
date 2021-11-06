@@ -1,0 +1,15 @@
+{
+ "id_client":"KSTY19036263472078",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"180008025028411",
+ "transaction_code":"FETB64654997118529",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"05:16:44",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"629884.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UZS of Braavos"
+}

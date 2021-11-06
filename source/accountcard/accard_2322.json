@@ -1,0 +1,15 @@
+{
+ "id_client":"QKCU70644395875100",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"213146590093583",
+ "transaction_code":"AVNG48469924908830",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"07:12:54",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"502133.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PEN of Braavos"
+}

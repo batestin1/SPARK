@@ -1,0 +1,15 @@
+{
+ "id_client":"FUNJ56339266774087",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4128753154646239",
+ "transaction_code":"XLUO09110421216472",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"10:02:56",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"209875.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PKR of Braavos"
+}

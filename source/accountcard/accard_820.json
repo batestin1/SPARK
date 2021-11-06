@@ -1,15 +1,15 @@
 {
- "id_client":"PXXK44579217288533",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"ISOB75730878584886",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"not activated",
- "card_number":"4061695908886448",
- "transaction_code":"MVTM04179223533797",
- "date_transaction":"2021-11-15",
- "time_transaction":"17:38:55",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"481894.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"MUR of Braavos"
+ "card_number":"2268638964048037",
+ "transaction_code":"KQEC24711163232173",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"00:58:41",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"272989.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CUC of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"JROI64766382829144",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4790146890137422",
+ "transaction_code":"INNV53433159451288",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"21:03:25",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"330239.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NAD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"SRLU51239411672278",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"583698177917",
+ "transaction_code":"QSZU56026313633451",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"13:04:57",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"855208.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PLN of Braavos"
+}

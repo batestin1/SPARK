@@ -1,0 +1,15 @@
+{
+ "id_client":"YHIR24752203743891",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"30152643762993",
+ "transaction_code":"FWXB38234036997543",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"09:25:58",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"843488.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BBD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"NGYI06763650406179",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"6594571230730037",
+ "transaction_code":"JGER94339046742519",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"21:20:30",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"880246.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CZK of Braavos"
+}

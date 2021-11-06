@@ -1,0 +1,15 @@
+{
+ "id_client":"SESI00835607497835",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4375520655129",
+ "transaction_code":"OHVA46617976733640",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"14:16:47",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"790952.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ERN of Braavos"
+}

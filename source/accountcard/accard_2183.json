@@ -1,0 +1,15 @@
+{
+ "id_client":"MGDW75157930725706",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4627064298665317",
+ "transaction_code":"MOZE59085936390099",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"21:56:26",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"990713.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"COP of Braavos"
+}

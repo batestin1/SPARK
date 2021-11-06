@@ -1,0 +1,15 @@
+{
+ "id_client":"UUCI40467624662495",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"2236939998603055",
+ "transaction_code":"FMRK72506327065800",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"09:08:27",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"906927.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JOD of Braavos"
+}

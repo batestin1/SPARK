@@ -1,0 +1,15 @@
+{
+ "id_client":"CJJJ56091533190750",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"213185982505515",
+ "transaction_code":"SBDY15108688619413",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"21:08:28",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"360259.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MVR of Braavos"
+}

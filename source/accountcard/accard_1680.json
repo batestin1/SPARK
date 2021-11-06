@@ -1,0 +1,15 @@
+{
+ "id_client":"INBY64731839503411",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4318135728922074",
+ "transaction_code":"JXGT30964814635568",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"01:37:57",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"568847.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AWG of Braavos"
+}

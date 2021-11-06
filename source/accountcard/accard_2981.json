@@ -1,0 +1,15 @@
+{
+ "id_client":"PGTQ57995428898357",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"213199852893208",
+ "transaction_code":"MFIA15433031101273",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"12:25:17",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"105737.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UYU of Braavos"
+}

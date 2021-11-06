@@ -1,11 +1,11 @@
 {
- "id_client":"NDEK38726164383436",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"EFTW62967531429954",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"SXWE76364239780877",
- "aba":"054651839"
+ "account_type":"checking account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"OKGA66573454611265",
+ "aba":"088542066"
 }

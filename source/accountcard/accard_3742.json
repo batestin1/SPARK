@@ -1,0 +1,15 @@
+{
+ "id_client":"DLEY49549911948944",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4991963258740",
+ "transaction_code":"RDLK10986282425089",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"17:21:44",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"753589.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ETB of Braavos"
+}

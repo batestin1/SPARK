@@ -1,0 +1,15 @@
+{
+ "id_client":"EUSB11291507601098",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"2257390112613527",
+ "transaction_code":"SBBE20888606420878",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"09:33:10",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"696136.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"EGP of Braavos"
+}

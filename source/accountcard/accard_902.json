@@ -1,15 +1,15 @@
 {
- "id_client":"FJPB92261690632371",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"PCIY03519453029016",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
  "status_account_blocked":"not activated",
- "card_number":"5128490893884345",
- "transaction_code":"IOCW64213519877042",
- "date_transaction":"2021-11-11",
- "time_transaction":"07:44:52",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"335978.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"UAH of Braavos"
+ "card_number":"2232463950143178",
+ "transaction_code":"IDHU14313897115618",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:35:10",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"278833.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ETB of Braavos"
 }

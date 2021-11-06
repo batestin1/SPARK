@@ -1,0 +1,15 @@
+{
+ "id_client":"JRIW79862845133486",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4192887758127",
+ "transaction_code":"QCLV09158168311326",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"21:18:27",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"532213.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"YER of Braavos"
+}

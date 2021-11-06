@@ -1,12 +1,12 @@
 {
- "id_client":"KSTC92772423730677",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"DTJY86670116332445",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "card_number":"activated",
- "total_limit_value":"330536.0",
- "limit_value_available":"236904.0",
- "total_limit_used":"93632.0",
- "description_card":"American Express",
- "security_card":"597",
- "expire_card_number":"08/30"
+ "total_limit_value":"454865.0",
+ "limit_value_available":"392762.0",
+ "total_limit_used":"62103.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"634",
+ "expire_card_number":"11/24"
 }

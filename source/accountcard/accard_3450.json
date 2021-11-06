@@ -1,0 +1,15 @@
+{
+ "id_client":"BVUK77163695671448",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"503829443053",
+ "transaction_code":"RINH98091918119614",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"18:00:09",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"973293.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LBP of Braavos"
+}

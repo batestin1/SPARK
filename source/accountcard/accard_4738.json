@@ -1,0 +1,15 @@
+{
+ "id_client":"SFEC95671495013857",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4291221934467061",
+ "transaction_code":"MUWV77180934062245",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"14:00:54",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"279083.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CVE of Braavos"
+}

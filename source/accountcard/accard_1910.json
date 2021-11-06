@@ -1,0 +1,15 @@
+{
+ "id_client":"TCGA45029718875905",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"5568705380143658",
+ "transaction_code":"NHSF88819064523193",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"08:53:59",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"91784.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GBP of Braavos"
+}

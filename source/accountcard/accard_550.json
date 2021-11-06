@@ -1,15 +1,15 @@
 {
- "id_client":"WYJH89272458470083",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "status_account_blocked":"not activated",
- "card_number":"6011426059536848",
- "transaction_code":"VEFX73201656360881",
- "date_transaction":"2021-12-03",
- "time_transaction":"00:45:03",
- "describle_transaction":"theater",
- "original_transaction_amount":"323819.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"RON of Braavos"
+ "id_client":"RTWR83555936363097",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"213159423998563",
+ "transaction_code":"OAEJ70086551651277",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"20:40:05",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"206792.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"DOP of Braavos"
 }

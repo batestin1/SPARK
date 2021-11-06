@@ -1,0 +1,15 @@
+{
+ "id_client":"MKZU25137612129904",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4800774730789637",
+ "transaction_code":"ITED44556686736082",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"15:37:08",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"953656.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PYG of Braavos"
+}

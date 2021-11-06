@@ -1,15 +1,15 @@
 {
- "id_client":"KFQY25758364611782",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "status_account_blocked":"not activated",
- "card_number":"4532737718732690354",
- "transaction_code":"QVYA64769004151170",
- "date_transaction":"2021-11-21",
- "time_transaction":"09:57:10",
- "describle_transaction":"theater",
- "original_transaction_amount":"325576.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"SLL of Braavos"
+ "id_client":"ZATP53469122771358",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4225076955552931",
+ "transaction_code":"XXFL24478270222121",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"09:24:34",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"848919.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ILS of Braavos"
 }

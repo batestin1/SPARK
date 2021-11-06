@@ -1,0 +1,15 @@
+{
+ "id_client":"NBIQ51029689668330",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"36777530913855",
+ "transaction_code":"SODC75797724205683",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:44:21",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"520584.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"USD of Braavos"
+}

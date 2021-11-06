@@ -1,0 +1,15 @@
+{
+ "id_client":"OVON30417784637569",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4706375587045947067",
+ "transaction_code":"ERVK84886393799570",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"00:09:42",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"659903.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"JMD of Braavos"
+}

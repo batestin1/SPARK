@@ -1,0 +1,15 @@
+{
+ "id_client":"HSBM51879588527843",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4414323700285",
+ "transaction_code":"NCBW24011467649189",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"14:47:00",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"950440.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ANG of Braavos"
+}

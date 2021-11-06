@@ -1,0 +1,15 @@
+{
+ "id_client":"QQGP10681721874219",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4130712569364735",
+ "transaction_code":"AMJB73127071789729",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"11:00:23",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"915463.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"RSD of Braavos"
+}

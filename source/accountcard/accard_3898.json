@@ -1,0 +1,15 @@
+{
+ "id_client":"CREY34429983045820",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4223621141537734",
+ "transaction_code":"ORQZ77342974636665",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:05:21",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"85914.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GYD of Braavos"
+}

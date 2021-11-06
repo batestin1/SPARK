@@ -1,11 +1,11 @@
 {
- "id_client":"MMGU48237220021093",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"DZFR90609947986919",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"NGLN21996140065509",
- "aba":"020664363"
+ "account_type":"salary bill",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"NPNL98982273043795",
+ "aba":"070191825"
 }

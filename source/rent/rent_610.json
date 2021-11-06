@@ -1,10 +1,10 @@
 {
- "id_client":"FCSA89552485979079",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
- "rent_income_value":"+997310.0",
- "description_chosen_income_method":"+794115.0",
- "total_account_value":"3026786.0",
- "current_account_total_value":"2504104.0",
- "total_amount_carried_over":"522682.0"
+ "id_client":"EPGP81244246613410",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "rent_income_value":"+440072.0",
+ "description_chosen_income_method":"-428231.0",
+ "total_account_value":"8136348.0",
+ "current_account_total_value":"8085527.0",
+ "total_amount_carried_over":"50821.0"
 }

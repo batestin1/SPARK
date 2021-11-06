@@ -1,0 +1,15 @@
+{
+ "id_client":"POEN46141778004853",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"584213038436",
+ "transaction_code":"LQZL19085883182000",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:27:11",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"390868.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NAD of Braavos"
+}

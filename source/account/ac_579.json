@@ -1,11 +1,11 @@
 {
- "id_client":"RFJA91273287846211",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"ZFCM76640227351353",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"NNXB89486979235233",
- "aba":"068824208"
+ "account_type":"account for the long winter",
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"ARDT06938929246058",
+ "aba":"028058658"
 }

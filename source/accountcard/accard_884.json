@@ -1,15 +1,15 @@
 {
- "id_client":"NIEQ42117251214549",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"activated",
- "card_number":"30527895911515",
- "transaction_code":"RMRI91017892972651",
- "date_transaction":"2021-12-01",
- "time_transaction":"21:17:12",
- "describle_transaction":"horses",
- "original_transaction_amount":"116104.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"QAR of Braavos"
+ "id_client":"WRRP73458864980041",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"2720488010702928",
+ "transaction_code":"HKYL75823390050465",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"22:17:38",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"170307.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NIO of Braavos"
 }

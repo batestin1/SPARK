@@ -1,11 +1,11 @@
 {
- "id_client":"TORQ74807780682647",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"OPDH33038303456122",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "bank":"Braavos",
  "account_type":"dragon account",
  "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"JTAM51417388582677",
- "aba":"040853468"
+ "account_status":"activated",
+ "bban_count":"TTEZ25771928444718",
+ "aba":"017516860"
 }

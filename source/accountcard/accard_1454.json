@@ -1,0 +1,15 @@
+{
+ "id_client":"RQXK20213382613053",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4226725729207329322",
+ "transaction_code":"VAOI03641758172535",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:23:53",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"639020.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ERN of Braavos"
+}

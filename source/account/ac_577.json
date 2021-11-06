@@ -1,11 +1,11 @@
 {
- "id_client":"VLAP64790364353208",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"XDLJ05879742473999",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "bank":"Braavos",
  "account_type":"savings account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"QMSE37342975019753",
- "aba":"053885227"
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"YXKH26800350073474",
+ "aba":"028404583"
 }

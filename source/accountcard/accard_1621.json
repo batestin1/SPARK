@@ -1,0 +1,15 @@
+{
+ "id_client":"KTGJ55017236937702",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"3532747640650856",
+ "transaction_code":"MXTG12608825599461",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"06:59:37",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"270895.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CNY of Braavos"
+}

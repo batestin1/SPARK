@@ -1,12 +1,12 @@
 {
- "id_client":"AOIL44456143169631",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"RGLX35502878204375",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "card_number":"activated",
- "total_limit_value":"280232.0",
- "limit_value_available":"210429.0",
- "total_limit_used":"69803.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"367",
- "expire_card_number":"01/29"
+ "total_limit_value":"505899.0",
+ "limit_value_available":"452393.0",
+ "total_limit_used":"53506.0",
+ "description_card":"VISA 13 digit",
+ "security_card":"344",
+ "expire_card_number":"12/24"
 }

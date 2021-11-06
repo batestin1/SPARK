@@ -1,0 +1,15 @@
+{
+ "id_client":"JTKO01353956895346",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4782095801429321",
+ "transaction_code":"TXQO30138317741676",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"07:59:03",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"347767.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BBD of Braavos"
+}

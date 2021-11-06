@@ -1,15 +1,15 @@
 {
- "id_client":"RCOG95159697247432",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"LHAI17446695308035",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"not activated",
- "card_number":"4882561319671",
- "transaction_code":"VHKN85707864897451",
- "date_transaction":"2021-11-08",
- "time_transaction":"11:42:44",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"477497.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"ARS of Braavos"
+ "card_number":"3586596336178457",
+ "transaction_code":"IBML47980796848780",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"10:48:17",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"634634.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ETB of Braavos"
 }

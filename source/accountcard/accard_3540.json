@@ -1,0 +1,15 @@
+{
+ "id_client":"XVOP18514030602161",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4236814630327226318",
+ "transaction_code":"CGTG18868027692196",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"14:43:02",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"487414.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"EGP of Braavos"
+}

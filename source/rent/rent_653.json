@@ -1,10 +1,10 @@
 {
- "id_client":"BIGA93460570290409",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
- "rent_income_value":"-120475.0",
- "description_chosen_income_method":"+830631.0",
- "total_account_value":"5389285.0",
- "current_account_total_value":"5347409.0",
- "total_amount_carried_over":"41876.0"
+ "id_client":"ENMT27623243173559",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "rent_income_value":"+739030.0",
+ "description_chosen_income_method":"+778650.0",
+ "total_account_value":"8189965.0",
+ "current_account_total_value":"7802072.0",
+ "total_amount_carried_over":"387893.0"
 }

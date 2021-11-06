@@ -1,0 +1,15 @@
+{
+ "id_client":"QSZC54031009947909",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"6562613506547048",
+ "transaction_code":"WNEP47078372028531",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"13:00:47",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"382908.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AWG of Braavos"
+}

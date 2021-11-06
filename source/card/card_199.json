@@ -1,12 +1,12 @@
 {
- "id_client":"JTMT26716680854226",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"MVHD02503869918404",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "card_number":"not activated",
- "total_limit_value":"812572.0",
- "limit_value_available":"741864.0",
- "total_limit_used":"70708.0",
- "description_card":"VISA 19 digit",
- "security_card":"396",
- "expire_card_number":"09/28"
+ "total_limit_value":"446289.0",
+ "limit_value_available":"395099.0",
+ "total_limit_used":"51190.0",
+ "description_card":"Discover",
+ "security_card":"747",
+ "expire_card_number":"03/23"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"FUMZ53105335526386",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4574540301421",
+ "transaction_code":"KPVD40916775102181",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"11:00:59",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"147389.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HKD of Braavos"
+}

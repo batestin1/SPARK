@@ -1,0 +1,15 @@
+{
+ "id_client":"OTXT11640999243960",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"30005029896068",
+ "transaction_code":"HTPN10863892752707",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:11:32",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"143429.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"WST of Braavos"
+}

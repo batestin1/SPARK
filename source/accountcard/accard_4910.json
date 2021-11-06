@@ -1,0 +1,15 @@
+{
+ "id_client":"RLAF54807137897723",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3508653987003586",
+ "transaction_code":"YHSF98651277878626",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"03:12:23",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"458677.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XCD of Braavos"
+}

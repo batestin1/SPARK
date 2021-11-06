@@ -1,15 +1,15 @@
 {
- "id_client":"NMZV47799983147846",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"BLAT46416483388415",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "status_account_blocked":"not activated",
- "card_number":"36741010804307",
- "transaction_code":"SFSE28205987416473",
- "date_transaction":"2021-11-21",
- "time_transaction":"10:52:30",
- "describle_transaction":"ships",
- "original_transaction_amount":"431174.0",
+ "card_number":"3556541840475946",
+ "transaction_code":"OHZY34232669714552",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"22:45:37",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"150402.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"BIF of Braavos"
+ "currency":"SVC of Braavos"
 }

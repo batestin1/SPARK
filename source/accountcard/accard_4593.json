@@ -1,0 +1,15 @@
+{
+ "id_client":"NCTF02643281251682",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"180012855855596",
+ "transaction_code":"YXDC32861347033821",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"23:11:47",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"325476.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BZD of Braavos"
+}

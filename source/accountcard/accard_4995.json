@@ -1,0 +1,15 @@
+{
+ "id_client":"SKAD57442055993863",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"2711840516565624",
+ "transaction_code":"HDOC75454520288063",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"17:06:46",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"132265.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KMF of Braavos"
+}

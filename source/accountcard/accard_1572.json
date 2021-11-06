@@ -1,0 +1,15 @@
+{
+ "id_client":"RVCP78604808858944",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4826419179432196",
+ "transaction_code":"DDPS87521284952231",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"13:54:55",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"308170.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UZS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ICJK55024911582259",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"345054747253145",
+ "transaction_code":"TMVL16177969061413",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"14:53:23",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"567940.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ISK of Braavos"
+}

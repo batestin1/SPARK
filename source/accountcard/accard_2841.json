@@ -1,0 +1,15 @@
+{
+ "id_client":"VGHT20156070037122",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"3523564186377153",
+ "transaction_code":"KVQJ68537092749119",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"10:06:32",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"583101.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"UZS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"OXCU13344505190126",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"342422571201758",
+ "transaction_code":"SQHR72462648060505",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"19:28:54",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"750138.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IRR of Braavos"
+}

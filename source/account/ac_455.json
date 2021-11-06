@@ -1,11 +1,11 @@
 {
- "id_client":"NOLR86976147752442",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"PKVB98813519273396",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"BPEB22276181995671",
- "aba":"019918252"
+ "account_type":"salary bill",
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"IRIT28798909176664",
+ "aba":"022986197"
 }

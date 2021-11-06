@@ -1,0 +1,15 @@
+{
+ "id_client":"FBMR42339854180297",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"565599493600",
+ "transaction_code":"ZVCQ60034084705583",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"04:32:54",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"758771.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"INR of Braavos"
+}

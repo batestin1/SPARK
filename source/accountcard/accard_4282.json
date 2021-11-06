@@ -1,0 +1,15 @@
+{
+ "id_client":"PDPP30490687374789",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3519885900068000",
+ "transaction_code":"GWLR32819240344046",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"03:03:18",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"631400.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TTD of Braavos"
+}

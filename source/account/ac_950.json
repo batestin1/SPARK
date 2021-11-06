@@ -1,11 +1,11 @@
 {
- "id_client":"OCZC88055497142985",
+ "id_client":"VAXL36100019025212",
  "yearmonthday":"20211129",
  "_yearmonthday":"20211129",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"salary bill",
  "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"LJQU80034587388628",
- "aba":"095934326"
+ "account_status":"not activated",
+ "bban_count":"DLTI96472795882043",
+ "aba":"065902547"
 }

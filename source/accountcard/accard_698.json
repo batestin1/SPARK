@@ -1,15 +1,15 @@
 {
- "id_client":"MLUQ27939126244416",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"FYMK19835008431333",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "status_account_blocked":"not activated",
- "card_number":"502052406977",
- "transaction_code":"RQTA99744146270145",
- "date_transaction":"2021-12-02",
- "time_transaction":"18:48:53",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"531513.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"FJD of Braavos"
+ "card_number":"5327248312880859",
+ "transaction_code":"RUEK03946560354988",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"04:07:21",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"114581.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BZD of Braavos"
 }

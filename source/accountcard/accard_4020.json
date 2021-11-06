@@ -1,0 +1,15 @@
+{
+ "id_client":"BGBR53040024032401",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"38392011882195",
+ "transaction_code":"QNSV38574122945944",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"18:42:24",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"759186.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MWK of Braavos"
+}

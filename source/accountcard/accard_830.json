@@ -1,15 +1,15 @@
 {
- "id_client":"FXUP37385581017848",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"activated",
- "card_number":"6011514449658834",
- "transaction_code":"OGLI79433889152592",
- "date_transaction":"2021-11-13",
- "time_transaction":"20:34:50",
- "describle_transaction":"dothraki army",
- "original_transaction_amount":"831096.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"TND of Braavos"
+ "id_client":"YPEA33486021822673",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"180099446771325",
+ "transaction_code":"ZJIR88074587981888",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"00:06:34",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"713106.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ETB of Braavos"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"LTVD93475082013275",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"XBNO09346852741565",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"activated",
- "card_number":"5549077081977873",
- "transaction_code":"MBMV40586532410360",
- "date_transaction":"2021-11-12",
- "time_transaction":"05:27:34",
+ "card_number":"501888573273",
+ "transaction_code":"FOMZ85851164145680",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"18:33:23",
  "describle_transaction":"immaculate army",
- "original_transaction_amount":"623345.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"XCD of Braavos"
+ "original_transaction_amount":"635483.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BTN of Braavos"
 }

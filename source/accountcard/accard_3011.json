@@ -1,0 +1,15 @@
+{
+ "id_client":"BNAC87718326879505",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4351476532539300",
+ "transaction_code":"LNMK01673208081649",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"15:48:01",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"91564.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HUF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LIBL58237149672618",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3505141810100400",
+ "transaction_code":"BTSV35983385414297",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"09:00:16",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"895270.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GYD of Braavos"
+}

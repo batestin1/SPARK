@@ -1,0 +1,15 @@
+{
+ "id_client":"PONI29265153449096",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"348790139117565",
+ "transaction_code":"BYNZ16802667465839",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"17:14:38",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"248807.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SDG of Braavos"
+}

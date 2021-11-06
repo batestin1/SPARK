@@ -1,15 +1,15 @@
 {
- "id_client":"HBXR82978944891271",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
- "status_account_blocked":"activated",
- "card_number":"6598813946990356",
- "transaction_code":"ZOOP34487474800531",
- "date_transaction":"2021-12-01",
- "time_transaction":"07:12:16",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"731619.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"UGX of Braavos"
+ "id_client":"RMEB28776736123428",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"36240876859935",
+ "transaction_code":"DZTU90752745444507",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"22:36:39",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"179399.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"JOD of Braavos"
 }

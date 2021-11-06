@@ -1,15 +1,15 @@
 {
- "id_client":"JWPF19794862017902",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"YTDL62885395529790",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"not activated",
- "card_number":"180007013806085",
- "transaction_code":"KNPD97209929664478",
- "date_transaction":"2021-11-25",
- "time_transaction":"16:50:35",
- "describle_transaction":"fishing vessel",
- "original_transaction_amount":"424058.0",
+ "card_number":"374992711084281",
+ "transaction_code":"YOBT31967467473750",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"01:35:55",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"134144.0",
  "number_installments_assign":"2",
  "current_installment":"1",
- "currency":"IMP of Braavos"
+ "currency":"TRY of Braavos"
 }

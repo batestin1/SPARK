@@ -1,0 +1,15 @@
+{
+ "id_client":"TSDW17170030606412",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"6011338758291437",
+ "transaction_code":"AIQI86481885842850",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"04:40:45",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"938673.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MNT of Braavos"
+}

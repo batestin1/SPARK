@@ -1,0 +1,15 @@
+{
+ "id_client":"CUFB68497604895225",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"36265404448364",
+ "transaction_code":"TBGX18672793950447",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"15:34:25",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"847252.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ERN of Braavos"
+}

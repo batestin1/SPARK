@@ -1,11 +1,11 @@
 {
- "id_client":"CEAB52315697467106",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"ZJPQ45762755343880",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"YIQD61139031458860",
- "aba":"057623325"
+ "account_type":"checking account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"CDXV24384116646379",
+ "aba":"017348550"
 }

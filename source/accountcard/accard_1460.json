@@ -1,0 +1,15 @@
+{
+ "id_client":"WMAP12911113160174",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"676262102509",
+ "transaction_code":"AQFX51716071607797",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"04:41:56",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"96168.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NOK of Braavos"
+}

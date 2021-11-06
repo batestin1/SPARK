@@ -1,0 +1,15 @@
+{
+ "id_client":"KTCV94611631975378",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"502043880439",
+ "transaction_code":"PMLT94931860097416",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"21:56:34",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"182239.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LYD of Braavos"
+}

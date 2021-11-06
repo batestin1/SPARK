@@ -1,11 +1,11 @@
 {
- "id_client":"ETWZ82030265368368",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"EXGI51482934203013",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"QCRV76545168334063",
- "aba":"098401126"
+ "account_type":"checking account",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"EQEB63372317350865",
+ "aba":"053647451"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"OAVG32058742508979",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"347339305905295",
+ "transaction_code":"MLLZ32654313139238",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"00:49:50",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"981340.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"FJD of Braavos"
+}

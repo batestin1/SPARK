@@ -1,12 +1,12 @@
 {
- "id_client":"CQLN77299752852727",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"SVFF95806428988460",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "card_number":"activated",
- "total_limit_value":"90992.0",
- "limit_value_available":"-2656.0",
- "total_limit_used":"93648.0",
- "description_card":"VISA 16 digit",
- "security_card":"818",
- "expire_card_number":"07/24"
+ "total_limit_value":"212769.0",
+ "limit_value_available":"186227.0",
+ "total_limit_used":"26542.0",
+ "description_card":"Maestro",
+ "security_card":"684",
+ "expire_card_number":"02/29"
 }

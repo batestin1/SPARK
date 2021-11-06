@@ -1,11 +1,11 @@
 {
- "id_client":"TLRS85161917007826",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"MAIU77770088657003",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
  "account_type":"salary bill",
  "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"FTQN14541806666569",
- "aba":"069735645"
+ "account_status":"activated",
+ "bban_count":"ZNCL91225896291334",
+ "aba":"050661976"
 }

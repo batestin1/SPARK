@@ -1,0 +1,15 @@
+{
+ "id_client":"MWME95098890875443",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4482818995161555",
+ "transaction_code":"CTEC89066542030431",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"21:34:54",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"313488.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SRD of Braavos"
+}

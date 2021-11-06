@@ -1,0 +1,15 @@
+{
+ "id_client":"JMNK07083337237797",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4382614967503385615",
+ "transaction_code":"OXTI03384342724352",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"08:54:37",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"137894.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TRY of Braavos"
+}

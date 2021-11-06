@@ -1,12 +1,12 @@
 {
- "id_client":"HOTO82257977181771",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"PWTB98105705828468",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "card_number":"not activated",
- "total_limit_value":"147389.0",
- "limit_value_available":"123435.0",
- "total_limit_used":"23954.0",
- "description_card":"JCB 16 digit",
- "security_card":"678",
- "expire_card_number":"04/24"
+ "total_limit_value":"837539.0",
+ "limit_value_available":"780204.0",
+ "total_limit_used":"57335.0",
+ "description_card":"Mastercard",
+ "security_card":"138",
+ "expire_card_number":"09/26"
 }

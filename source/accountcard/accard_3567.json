@@ -1,0 +1,15 @@
+{
+ "id_client":"LLCS33763782426641",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"180020533242731",
+ "transaction_code":"NZLD06409672688732",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"05:22:34",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"791975.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"QAR of Braavos"
+}

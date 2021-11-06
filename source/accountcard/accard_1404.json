@@ -1,0 +1,15 @@
+{
+ "id_client":"JBPY05208227374534",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4868948416827916",
+ "transaction_code":"DENS22327481212086",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"02:55:25",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"655582.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TMT of Braavos"
+}

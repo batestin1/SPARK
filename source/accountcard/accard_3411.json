@@ -1,0 +1,15 @@
+{
+ "id_client":"XSRN14556028812185",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4105374508422134307",
+ "transaction_code":"JGWC04370364264226",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"03:33:52",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"638360.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CZK of Braavos"
+}

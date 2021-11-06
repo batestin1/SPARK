@@ -1,0 +1,15 @@
+{
+ "id_client":"RXTC57302484025160",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"213147738029380",
+ "transaction_code":"RPPL35179038466122",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"08:37:15",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"997118.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KYD of Braavos"
+}

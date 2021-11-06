@@ -1,0 +1,15 @@
+{
+ "id_client":"UQCW22941137585733",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4293095328492564",
+ "transaction_code":"QGNU48105489489190",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"02:05:53",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"21142.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KYD of Braavos"
+}

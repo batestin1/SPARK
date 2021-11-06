@@ -1,0 +1,15 @@
+{
+ "id_client":"PYLY54001537108684",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4051802803637312",
+ "transaction_code":"XACV79810769564576",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"05:55:16",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"130350.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KMF of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"CHQJ82727922544251",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"NUGE66507601191019",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"CIXD36245045565582",
- "aba":"095099757"
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"NLEM12010370049122",
+ "aba":"033372778"
 }

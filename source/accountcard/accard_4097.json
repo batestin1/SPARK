@@ -1,0 +1,15 @@
+{
+ "id_client":"IOCB58009836627593",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"4135949363264399367",
+ "transaction_code":"NQRX77200708408041",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"07:48:20",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"385456.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KGS of Braavos"
+}

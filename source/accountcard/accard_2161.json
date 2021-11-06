@@ -1,0 +1,15 @@
+{
+ "id_client":"CFNN77333499775964",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"213112813714322",
+ "transaction_code":"WKYD41823845627668",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"15:11:04",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"470610.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LSL of Braavos"
+}

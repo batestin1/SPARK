@@ -1,0 +1,15 @@
+{
+ "id_client":"KYIW62007983932171",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4551708366891",
+ "transaction_code":"ZQAE33480848931867",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"21:12:48",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"453306.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NOK of Braavos"
+}

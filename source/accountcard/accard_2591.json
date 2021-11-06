@@ -1,0 +1,15 @@
+{
+ "id_client":"WAPD97163538577629",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"6539612051161767",
+ "transaction_code":"BBVT57290314078852",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"05:44:58",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"714290.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ARS of Braavos"
+}

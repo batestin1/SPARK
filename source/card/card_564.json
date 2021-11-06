@@ -1,12 +1,12 @@
 {
- "id_client":"EUGV21455262883836",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"TMMQ61198942587814",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
  "card_number":"activated",
- "total_limit_value":"690140.0",
- "limit_value_available":"595077.0",
- "total_limit_used":"95063.0",
- "description_card":"Discover",
- "security_card":"232",
- "expire_card_number":"02/22"
+ "total_limit_value":"159991.0",
+ "limit_value_available":"144914.0",
+ "total_limit_used":"15077.0",
+ "description_card":"JCB 15 digit",
+ "security_card":"166",
+ "expire_card_number":"03/30"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"DPNJ38606294230121",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"VKTE38662290989934",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "status_account_blocked":"activated",
- "card_number":"4084560570236",
- "transaction_code":"JHZT19787027979610",
- "date_transaction":"2021-11-13",
- "time_transaction":"13:01:56",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"686327.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"ISK of Braavos"
+ "card_number":"3584718752822606",
+ "transaction_code":"AIVH08899371405054",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"05:46:18",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"766485.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CZK of Braavos"
 }

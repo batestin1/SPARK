@@ -1,0 +1,15 @@
+{
+ "id_client":"GRBC03673988335805",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"2223872346775959",
+ "transaction_code":"RHEK47305309460413",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"10:22:39",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"4414.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BHD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"PENY58190805561178",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4708336923138338",
+ "transaction_code":"GEVV15357017561532",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"04:45:54",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"17186.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BTN of Braavos"
+}

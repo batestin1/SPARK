@@ -1,0 +1,15 @@
+{
+ "id_client":"EAFM26559758441646",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"676278479685",
+ "transaction_code":"QSMQ13859145837503",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"03:27:48",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"923815.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TJS of Braavos"
+}

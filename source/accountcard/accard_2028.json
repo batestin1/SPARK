@@ -1,0 +1,15 @@
+{
+ "id_client":"HHRR80282454031404",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"3560010323794664",
+ "transaction_code":"CMMJ78165346460729",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"18:19:19",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"502324.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"QAR of Braavos"
+}

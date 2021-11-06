@@ -1,12 +1,12 @@
 {
- "id_client":"DEHL85500616733342",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"HMJK95096413311690",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "card_number":"activated",
- "total_limit_value":"209656.0",
- "limit_value_available":"129060.0",
- "total_limit_used":"80596.0",
- "description_card":"VISA 19 digit",
- "security_card":"344",
- "expire_card_number":"05/28"
+ "total_limit_value":"948200.0",
+ "limit_value_available":"879092.0",
+ "total_limit_used":"69108.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"611",
+ "expire_card_number":"07/29"
 }

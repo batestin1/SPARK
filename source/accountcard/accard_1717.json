@@ -1,0 +1,15 @@
+{
+ "id_client":"LTRW28412033104483",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3567886125349424",
+ "transaction_code":"XSGE40563924748087",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"20:09:22",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"464992.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"DJF of Braavos"
+}

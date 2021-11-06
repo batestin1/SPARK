@@ -1,0 +1,15 @@
+{
+ "id_client":"DBFS96549941330963",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4527493180490337005",
+ "transaction_code":"BDOJ84543180474414",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"13:43:16",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"854895.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EGP of Braavos"
+}

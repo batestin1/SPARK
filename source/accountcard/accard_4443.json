@@ -1,0 +1,15 @@
+{
+ "id_client":"VFZI29578194603866",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3534354954937389",
+ "transaction_code":"HORR31426969837088",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"12:00:06",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"793262.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KPW of Braavos"
+}

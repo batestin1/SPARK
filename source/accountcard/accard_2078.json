@@ -1,0 +1,15 @@
+{
+ "id_client":"OCZO40753365112908",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4565213751480695518",
+ "transaction_code":"ALAG17283305051219",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:54:44",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"305713.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"DOP of Braavos"
+}

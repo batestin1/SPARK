@@ -1,0 +1,15 @@
+{
+ "id_client":"IORA52804989850769",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3583188060637396",
+ "transaction_code":"YSAW14295736053820",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"07:08:29",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"482767.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GMD of Braavos"
+}

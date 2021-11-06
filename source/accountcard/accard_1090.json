@@ -1,15 +1,15 @@
 {
- "id_client":"LEUO17800388683944",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"RKSA31549419597871",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"activated",
- "card_number":"573258120969",
- "transaction_code":"BLJV03394499227373",
- "date_transaction":"2021-11-23",
- "time_transaction":"12:50:20",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"449409.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"MKD of Braavos"
+ "card_number":"4343189744224376703",
+ "transaction_code":"MBZG98824422002069",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"15:02:09",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"510172.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"UYU of Braavos"
 }

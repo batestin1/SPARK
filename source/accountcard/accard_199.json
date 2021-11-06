@@ -1,15 +1,15 @@
 {
- "id_client":"JTMT26716680854226",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"MVHD02503869918404",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "status_account_blocked":"not activated",
- "card_number":"4597565521743470778",
- "transaction_code":"IZKU78998893011873",
- "date_transaction":"2021-11-20",
- "time_transaction":"08:59:14",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"273592.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"MVR of Braavos"
+ "card_number":"3586372611258681",
+ "transaction_code":"OFSC15413232323317",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"03:29:41",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"615111.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HNL of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"ANJH86169300646754",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"3567483061473127",
+ "transaction_code":"OCSZ84708228505262",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"21:49:51",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"171090.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PEN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"SJYA66437009477533",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"36070872597514",
+ "transaction_code":"TRJS44047620434526",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"02:49:49",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"418589.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LYD of Braavos"
+}

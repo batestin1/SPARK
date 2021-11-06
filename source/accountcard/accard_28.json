@@ -1,15 +1,15 @@
 {
- "id_client":"HUVY98486212686350",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"not activated",
- "card_number":"4063587996571719",
- "transaction_code":"WORW94978663988790",
- "date_transaction":"2021-11-23",
- "time_transaction":"12:39:16",
- "describle_transaction":"ships",
- "original_transaction_amount":"905089.0",
+ "id_client":"GDHS02284913765171",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"3599406649121639",
+ "transaction_code":"USIB77201047413894",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"20:52:32",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"278875.0",
  "number_installments_assign":"8",
  "current_installment":"7",
- "currency":"DZD of Braavos"
+ "currency":"CNY of Braavos"
 }

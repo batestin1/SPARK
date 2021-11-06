@@ -1,15 +1,15 @@
 {
- "id_client":"WWEH26429742347008",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"JXAT05196011106311",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"not activated",
- "card_number":"4361420119319031",
- "transaction_code":"ZRXP33461525056726",
- "date_transaction":"2021-11-29",
- "time_transaction":"16:46:36",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"3664.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"LRD of Braavos"
+ "card_number":"4333687538307",
+ "transaction_code":"XNRD89242657720306",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"22:47:22",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"680651.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KGS of Braavos"
 }

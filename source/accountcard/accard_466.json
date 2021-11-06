@@ -1,15 +1,15 @@
 {
- "id_client":"IWCH68604251793483",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"CHYR49091548804026",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "status_account_blocked":"not activated",
- "card_number":"36811076444049",
- "transaction_code":"NUWI57837119362648",
- "date_transaction":"2021-11-10",
- "time_transaction":"02:29:37",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"666152.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"SVC of Braavos"
+ "card_number":"213105254547540",
+ "transaction_code":"EXAT97097114324484",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"07:34:37",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"945652.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HUF of Braavos"
 }

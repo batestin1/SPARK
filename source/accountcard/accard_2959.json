@@ -1,0 +1,15 @@
+{
+ "id_client":"VIAS29455546349204",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"3592056150508638",
+ "transaction_code":"XQWA92607712487182",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"01:30:39",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"238040.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NPR of Braavos"
+}

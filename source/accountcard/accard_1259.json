@@ -1,0 +1,15 @@
+{
+ "id_client":"MSEY97669561067291",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"5395721111668292",
+ "transaction_code":"YLLM99076775249954",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"12:49:42",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"628184.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KGS of Braavos"
+}

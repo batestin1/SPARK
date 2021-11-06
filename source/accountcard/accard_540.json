@@ -1,15 +1,15 @@
 {
- "id_client":"WRJZ58153804311669",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"CHMH51107928942739",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"activated",
- "card_number":"3526170258145341",
- "transaction_code":"HFWJ98196102329797",
- "date_transaction":"2021-11-09",
- "time_transaction":"15:56:44",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"778792.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"PKR of Braavos"
+ "card_number":"6559891888580671",
+ "transaction_code":"EHYW18753406042084",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"07:19:36",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"333411.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TND of Braavos"
 }

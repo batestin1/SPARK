@@ -1,0 +1,15 @@
+{
+ "id_client":"OJSE25832606865980",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"30244520326131",
+ "transaction_code":"IRCH84127439870014",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"19:29:23",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"395438.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"UAH of Braavos"
+}

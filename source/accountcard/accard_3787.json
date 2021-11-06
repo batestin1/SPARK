@@ -1,0 +1,15 @@
+{
+ "id_client":"AKBO80365746110541",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"675918610261",
+ "transaction_code":"KISW52422283682332",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"07:59:10",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"563835.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GMD of Braavos"
+}

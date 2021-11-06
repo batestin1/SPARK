@@ -1,11 +1,11 @@
 {
- "id_client":"OBHI91256666523864",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"MKMQ55190330318988",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"dragon account",
  "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"DMOG33918941644089",
- "aba":"014484221"
+ "account_status":"activated",
+ "bban_count":"WRET57350497991773",
+ "aba":"027138920"
 }

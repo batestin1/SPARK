@@ -1,0 +1,15 @@
+{
+ "id_client":"YZWU64709410175385",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4245101622924515",
+ "transaction_code":"XDQX82309091197792",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"08:10:57",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"249175.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"IQD of Braavos"
+}

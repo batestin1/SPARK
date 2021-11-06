@@ -1,15 +1,15 @@
 {
- "id_client":"OHGU43602485264483",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
- "status_account_blocked":"activated",
- "card_number":"3517998510455905",
- "transaction_code":"REIW07781732476382",
- "date_transaction":"2021-11-17",
- "time_transaction":"14:40:15",
- "describle_transaction":"theater",
- "original_transaction_amount":"958535.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"CNY of Braavos"
+ "id_client":"DDSI98200583773273",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4277487344224214",
+ "transaction_code":"GLJL73157730824002",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"21:19:35",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"514677.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SPL of Braavos"
 }

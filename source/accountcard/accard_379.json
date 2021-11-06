@@ -1,15 +1,15 @@
 {
- "id_client":"LIPR20409435899139",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"RPIN93406980881911",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "status_account_blocked":"not activated",
- "card_number":"503872116473",
- "transaction_code":"GAXV92124541665154",
- "date_transaction":"2021-11-28",
- "time_transaction":"17:30:58",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"479713.0",
+ "card_number":"30037690221524",
+ "transaction_code":"YCAO38285412699872",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"02:48:53",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"624866.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"HRK of Braavos"
+ "currency":"ERN of Braavos"
 }

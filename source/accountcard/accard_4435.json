@@ -1,0 +1,15 @@
+{
+ "id_client":"QSPL68795195948795",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4705649371949664",
+ "transaction_code":"JZOY48756640744449",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"00:54:15",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"762036.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ARS of Braavos"
+}

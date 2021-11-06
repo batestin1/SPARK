@@ -1,0 +1,15 @@
+{
+ "id_client":"YVXC31411520081748",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4318215546872",
+ "transaction_code":"LAJP12647666484190",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"15:52:44",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"775948.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SRD of Braavos"
+}

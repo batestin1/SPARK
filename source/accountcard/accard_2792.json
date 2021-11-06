@@ -1,0 +1,15 @@
+{
+ "id_client":"SVCI64245241961662",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"38730906222490",
+ "transaction_code":"KULZ84652685232516",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"18:52:04",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"696804.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"STD of Braavos"
+}

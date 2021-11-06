@@ -1,0 +1,15 @@
+{
+ "id_client":"HZWY90306463043740",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"4478037513913118",
+ "transaction_code":"KZTP47653477478459",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"01:22:29",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"158275.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ZMW of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"QSIS86631663927300",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"180060572764328",
+ "transaction_code":"EWDA89465817191603",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"12:16:42",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"124629.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SDG of Braavos"
+}

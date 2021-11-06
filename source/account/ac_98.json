@@ -1,11 +1,11 @@
 {
- "id_client":"LCWP74304792435146",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"DCIW62101895357309",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
  "account_type":"dragon account",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"RABW29216600687722",
- "aba":"088608292"
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"RCEB78266085126715",
+ "aba":"061110964"
 }

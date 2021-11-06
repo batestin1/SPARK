@@ -1,0 +1,15 @@
+{
+ "id_client":"DDGN91066808673552",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"676322532356",
+ "transaction_code":"PKQD72710472061726",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"16:09:33",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"439795.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CLP of Braavos"
+}

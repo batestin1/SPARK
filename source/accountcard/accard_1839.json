@@ -1,0 +1,15 @@
+{
+ "id_client":"GLFE95248132842201",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"36197244744753",
+ "transaction_code":"YGHY92804298742591",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"00:22:18",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"452596.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GYD of Braavos"
+}

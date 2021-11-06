@@ -1,0 +1,15 @@
+{
+ "id_client":"NCPC91133351102516",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"2712593865408651",
+ "transaction_code":"XNJX85617967588543",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"20:11:14",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"860752.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"PKR of Braavos"
+}

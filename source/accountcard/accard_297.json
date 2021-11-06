@@ -1,15 +1,15 @@
 {
- "id_client":"DWJQ02032130032774",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"XTUH21285470243547",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "status_account_blocked":"not activated",
- "card_number":"340414941895031",
- "transaction_code":"XZXP78742916547116",
- "date_transaction":"2021-11-25",
- "time_transaction":"00:00:06",
- "describle_transaction":"golden company",
- "original_transaction_amount":"494545.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"FJD of Braavos"
+ "card_number":"344434771135726",
+ "transaction_code":"AZZC34320216288595",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"19:42:41",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"610878.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LKR of Braavos"
 }

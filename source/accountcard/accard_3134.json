@@ -1,0 +1,15 @@
+{
+ "id_client":"LECU03105231253743",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"676137074362",
+ "transaction_code":"QAHE14052358165259",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"21:37:12",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"836844.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NZD of Braavos"
+}

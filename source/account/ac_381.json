@@ -1,11 +1,11 @@
 {
- "id_client":"VXRN16479157630069",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"HIRS50607904646800",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "bank":"Braavos",
  "account_type":"savings account",
  "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"LJBY72471472415951",
- "aba":"026056980"
+ "account_status":"not activated",
+ "bban_count":"ETIY37934224865847",
+ "aba":"015740166"
 }

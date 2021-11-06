@@ -1,11 +1,11 @@
 {
- "id_client":"GPWL66909779279884",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"NMMN11426278742656",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "bank":"Braavos",
  "account_type":"checking account",
  "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"LVKL68583262979246",
- "aba":"069532858"
+ "account_status":"activated",
+ "bban_count":"PXFX65313279573428",
+ "aba":"016467780"
 }

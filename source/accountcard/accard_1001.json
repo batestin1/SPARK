@@ -1,15 +1,15 @@
 {
- "id_client":"OMKO40953064472552",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
- "status_account_blocked":"not activated",
- "card_number":"676200234679",
- "transaction_code":"TWEX73751146233349",
- "date_transaction":"2021-11-08",
- "time_transaction":"09:44:29",
- "describle_transaction":"golden company",
- "original_transaction_amount":"395480.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"ARS of Braavos"
+ "id_client":"UWVA96034605857723",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"213129130427115",
+ "transaction_code":"IEVH94197171489436",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"04:57:17",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"598384.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MDL of Braavos"
 }

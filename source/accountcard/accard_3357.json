@@ -1,0 +1,15 @@
+{
+ "id_client":"PAOH09207272411665",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"343892140116324",
+ "transaction_code":"LMDM34908687131529",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"23:47:16",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"906434.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"DZD of Braavos"
+}

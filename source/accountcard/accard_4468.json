@@ -1,0 +1,15 @@
+{
+ "id_client":"QYSV40807564905332",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"3599370559392863",
+ "transaction_code":"GMAQ28867550014713",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"05:43:22",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"75435.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PHP of Braavos"
+}

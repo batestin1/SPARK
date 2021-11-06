@@ -1,0 +1,15 @@
+{
+ "id_client":"MOMD68911585737246",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4753277954970",
+ "transaction_code":"OFEJ49420060669552",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"06:42:27",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"250182.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PLN of Braavos"
+}

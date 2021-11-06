@@ -1,0 +1,15 @@
+{
+ "id_client":"QHQN03937273470200",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4296224084924589",
+ "transaction_code":"KOXM54298728274262",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"10:18:15",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"408519.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AOA of Braavos"
+}

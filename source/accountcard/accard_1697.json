@@ -1,0 +1,15 @@
+{
+ "id_client":"FFNE68732559879410",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4952051281530801",
+ "transaction_code":"LLVE06953929256708",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"05:18:34",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"105632.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BAM of Braavos"
+}

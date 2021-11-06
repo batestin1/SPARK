@@ -1,15 +1,15 @@
 {
- "id_client":"IOKW48322452231542",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "status_account_blocked":"activated",
- "card_number":"502096612978",
- "transaction_code":"MKHZ37776677901779",
- "date_transaction":"2021-11-09",
- "time_transaction":"22:13:02",
- "describle_transaction":"theater",
- "original_transaction_amount":"458119.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"UAH of Braavos"
+ "id_client":"IABK95932921276061",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4443282840220",
+ "transaction_code":"ZSAK76271954039887",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"06:58:44",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"150161.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SBD of Braavos"
 }

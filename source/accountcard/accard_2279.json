@@ -1,0 +1,15 @@
+{
+ "id_client":"IKHV42060283510450",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"4907506285574540116",
+ "transaction_code":"SRRL52901818707689",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"12:19:18",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"818840.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MAD of Braavos"
+}

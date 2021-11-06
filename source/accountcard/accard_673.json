@@ -1,15 +1,15 @@
 {
- "id_client":"STEH17985501192610",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"ISJQ82049516205318",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "status_account_blocked":"not activated",
- "card_number":"375446431474891",
- "transaction_code":"TVOS80815167198635",
- "date_transaction":"2021-11-17",
- "time_transaction":"12:44:22",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"633807.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"MVR of Braavos"
+ "card_number":"4453505783913140",
+ "transaction_code":"LKIK69069980787635",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"18:24:03",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"38845.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SOS of Braavos"
 }

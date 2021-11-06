@@ -1,0 +1,15 @@
+{
+ "id_client":"QXXC34408309537261",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"4683060865920383",
+ "transaction_code":"AWGA13677389120925",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"09:31:00",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"521692.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KRW of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"WFJO35337077418721",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"4647136891996749",
+ "transaction_code":"FKCD72217947106060",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"18:37:58",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"449113.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KHR of Braavos"
+}

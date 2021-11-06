@@ -1,0 +1,15 @@
+{
+ "id_client":"UOJM98739275626218",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"30281994167823",
+ "transaction_code":"INFX72869896573986",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"23:59:10",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"65603.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"INR of Braavos"
+}

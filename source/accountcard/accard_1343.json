@@ -1,0 +1,15 @@
+{
+ "id_client":"LYAO05509871828294",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"30208287065372",
+ "transaction_code":"RSKR96002085947318",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"07:38:36",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"47945.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TND of Braavos"
+}

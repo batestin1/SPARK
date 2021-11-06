@@ -1,0 +1,15 @@
+{
+ "id_client":"SKVZ40384263350059",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"3515594219169848",
+ "transaction_code":"QSHX98472910569365",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"00:47:29",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"141250.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KPW of Braavos"
+}

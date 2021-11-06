@@ -1,0 +1,15 @@
+{
+ "id_client":"BIBS22325029889553",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"4643871767858706",
+ "transaction_code":"FBCM24511430543357",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"00:31:41",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"740933.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BOB of Braavos"
+}

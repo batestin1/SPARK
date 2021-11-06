@@ -1,0 +1,15 @@
+{
+ "id_client":"BGJM00999926969541",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4061434188064",
+ "transaction_code":"EOIK27976618418482",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"01:54:29",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"379586.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ZWD of Braavos"
+}

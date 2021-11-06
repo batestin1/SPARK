@@ -1,0 +1,15 @@
+{
+ "id_client":"HWUW28339805899071",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"3576456217614637",
+ "transaction_code":"GESL89368739885801",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"05:47:02",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"174514.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"RON of Braavos"
+}

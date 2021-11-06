@@ -1,0 +1,15 @@
+{
+ "id_client":"ELLT99479130924411",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"372759994723477",
+ "transaction_code":"ITNW70377084553679",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"03:12:25",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"537807.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AUD of Braavos"
+}

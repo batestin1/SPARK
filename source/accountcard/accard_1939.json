@@ -1,0 +1,15 @@
+{
+ "id_client":"EIFX89534732858145",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"3512705467776901",
+ "transaction_code":"UGXN63743671862312",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:43:54",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"647094.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LAK of Braavos"
+}

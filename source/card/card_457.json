@@ -1,12 +1,12 @@
 {
- "id_client":"WUZQ81734465813463",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "card_number":"activated",
- "total_limit_value":"473996.0",
- "limit_value_available":"422710.0",
- "total_limit_used":"51286.0",
- "description_card":"JCB 16 digit",
- "security_card":"980",
- "expire_card_number":"06/24"
+ "id_client":"GNAC20777614674605",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "card_number":"not activated",
+ "total_limit_value":"4807.0",
+ "limit_value_available":"-84293.0",
+ "total_limit_used":"89100.0",
+ "description_card":"VISA 13 digit",
+ "security_card":"493",
+ "expire_card_number":"03/22"
 }

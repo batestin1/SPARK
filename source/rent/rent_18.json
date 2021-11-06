@@ -1,10 +1,10 @@
 {
- "id_client":"GMIU38740868210140",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
- "rent_income_value":"-19096.0",
- "description_chosen_income_method":"+445795.0",
- "total_account_value":"8791561.0",
- "current_account_total_value":"8746410.0",
- "total_amount_carried_over":"45151.0"
+ "id_client":"FOIC56315870521026",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "rent_income_value":"+849007.0",
+ "description_chosen_income_method":"-382776.0",
+ "total_account_value":"9169221.0",
+ "current_account_total_value":"8355679.0",
+ "total_amount_carried_over":"813542.0"
 }

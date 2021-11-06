@@ -1,0 +1,15 @@
+{
+ "id_client":"AMAM33222271573985",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4951915892491",
+ "transaction_code":"TFFJ45354476875263",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"04:39:34",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"807497.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MMK of Braavos"
+}

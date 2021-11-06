@@ -1,0 +1,15 @@
+{
+ "id_client":"LNST13008923008661",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"30426859047459",
+ "transaction_code":"BGVL13233427569672",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"17:45:00",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"862456.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MUR of Braavos"
+}

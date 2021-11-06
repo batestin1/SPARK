@@ -1,0 +1,15 @@
+{
+ "id_client":"QOIJ31507828710297",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4090238820366",
+ "transaction_code":"PRDU81929665280310",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"21:10:26",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"897262.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BWP of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"SGTG11231620713381",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"DZJL29842832013717",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"LHXP32450637885150",
- "aba":"047686285"
+ "account_type":"salary bill",
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"HYND64123894667692",
+ "aba":"017533997"
 }

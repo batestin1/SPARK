@@ -1,0 +1,15 @@
+{
+ "id_client":"KNVT52246715542033",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"213151600527463",
+ "transaction_code":"PNSG57188618550437",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"19:07:31",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"915568.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NPR of Braavos"
+}

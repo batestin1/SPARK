@@ -1,0 +1,15 @@
+{
+ "id_client":"ZZPK12441726436343",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4481670830757102022",
+ "transaction_code":"PEOG92494385865620",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"01:43:51",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"680769.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BND of Braavos"
+}

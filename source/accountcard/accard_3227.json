@@ -1,0 +1,15 @@
+{
+ "id_client":"BAOJ41044485889681",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"30507876570381",
+ "transaction_code":"YOCA58527110305160",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"10:11:53",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"660734.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XOF of Braavos"
+}

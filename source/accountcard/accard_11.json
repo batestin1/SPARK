@@ -1,15 +1,15 @@
 {
- "id_client":"TGHX74512272623463",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"QXZT34016907743033",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"213104615362954",
- "transaction_code":"QSHL32402082394209",
- "date_transaction":"2021-12-01",
- "time_transaction":"18:15:18",
- "describle_transaction":"savage army",
- "original_transaction_amount":"771311.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"NAD of Braavos"
+ "card_number":"347254976918339",
+ "transaction_code":"NNRC78220740458440",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"04:48:41",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"640828.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XAF of Braavos"
 }

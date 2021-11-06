@@ -1,0 +1,15 @@
+{
+ "id_client":"SESF55169980720332",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4485365042960925",
+ "transaction_code":"KIPM90435543676453",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"23:33:28",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"32291.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LKR of Braavos"
+}

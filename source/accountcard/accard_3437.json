@@ -1,0 +1,15 @@
+{
+ "id_client":"WPAL18567180792251",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"3538224050306225",
+ "transaction_code":"EBAZ48234782385981",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"19:09:34",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"217888.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"UGX of Braavos"
+}

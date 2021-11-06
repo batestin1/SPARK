@@ -1,0 +1,15 @@
+{
+ "id_client":"PRVD86260004301593",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4136783081454076",
+ "transaction_code":"XSMU44627140235158",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"19:11:44",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"749598.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KRW of Braavos"
+}

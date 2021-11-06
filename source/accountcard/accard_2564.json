@@ -1,0 +1,15 @@
+{
+ "id_client":"XSDS72866562047661",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"4665779713296009",
+ "transaction_code":"FXSH01238261608665",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"06:12:33",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"983954.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TTD of Braavos"
+}

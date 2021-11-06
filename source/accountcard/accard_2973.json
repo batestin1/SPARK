@@ -1,0 +1,15 @@
+{
+ "id_client":"GBRV55466510757297",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"4397764634881837",
+ "transaction_code":"QQIA43140944335643",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"15:08:50",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"553149.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"XAF of Braavos"
+}

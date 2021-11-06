@@ -1,12 +1,12 @@
 {
- "id_client":"KEQL90387695177010",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"CSIT52310478404745",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "card_number":"activated",
- "total_limit_value":"702642.0",
- "limit_value_available":"610002.0",
- "total_limit_used":"92640.0",
- "description_card":"VISA 13 digit",
- "security_card":"849",
- "expire_card_number":"12/30"
+ "total_limit_value":"405609.0",
+ "limit_value_available":"324997.0",
+ "total_limit_used":"80612.0",
+ "description_card":"Mastercard",
+ "security_card":"6406",
+ "expire_card_number":"11/24"
 }

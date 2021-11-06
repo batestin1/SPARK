@@ -1,0 +1,15 @@
+{
+ "id_client":"NLCD54600315021289",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"4130947778671046645",
+ "transaction_code":"OYWW75566658749399",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"10:08:50",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"927249.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BWP of Braavos"
+}

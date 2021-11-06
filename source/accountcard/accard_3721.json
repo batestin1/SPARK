@@ -1,0 +1,15 @@
+{
+ "id_client":"FAPY48734723821157",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4480365418987",
+ "transaction_code":"FUAS60451334558203",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:01:21",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"418962.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CRC of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"FOWZ88321867462880",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3586449984822499",
+ "transaction_code":"TALO09991001489125",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"01:46:20",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"898581.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CDF of Braavos"
+}

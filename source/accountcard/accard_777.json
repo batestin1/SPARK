@@ -1,15 +1,15 @@
 {
- "id_client":"QAFZ60401569072114",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"XENH23566432691128",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
  "status_account_blocked":"not activated",
- "card_number":"6571213877892195",
- "transaction_code":"IBUG10200746297878",
- "date_transaction":"2021-12-04",
- "time_transaction":"22:14:38",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"350672.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"XDR of Braavos"
+ "card_number":"6516262535640361",
+ "transaction_code":"GPLU12960205610575",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"23:10:25",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"281689.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SEK of Braavos"
 }

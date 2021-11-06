@@ -1,11 +1,11 @@
 {
- "id_client":"VELH83491636239385",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"YVPN25328672110606",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "bank":"Braavos",
  "account_type":"account for the long winter",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"QICE25502046360599",
- "aba":"048982826"
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"FCCO17217488484099",
+ "aba":"087275466"
 }

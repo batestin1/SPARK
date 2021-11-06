@@ -1,0 +1,15 @@
+{
+ "id_client":"TVUW31254115478956",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"379006180701971",
+ "transaction_code":"GESL00688381361718",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"04:48:01",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"470198.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MYR of Braavos"
+}

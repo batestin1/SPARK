@@ -1,0 +1,15 @@
+{
+ "id_client":"JEAC39208227223177",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"3525033636013949",
+ "transaction_code":"TYUT87047385170693",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"22:05:55",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"533264.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ZWD of Braavos"
+}

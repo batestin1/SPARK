@@ -1,0 +1,15 @@
+{
+ "id_client":"HRPL73593857114879",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"213167281053918",
+ "transaction_code":"LMMJ05210394616310",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"23:40:27",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"119315.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"FKP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"MEDL22219348215456",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4719318951776031058",
+ "transaction_code":"APXZ82642798604899",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"02:25:01",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"421234.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KRW of Braavos"
+}

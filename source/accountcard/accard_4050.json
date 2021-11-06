@@ -1,0 +1,15 @@
+{
+ "id_client":"UVAN96267291305993",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"6590877385462845",
+ "transaction_code":"MUEU30427626076398",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"14:42:43",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"761092.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GNF of Braavos"
+}

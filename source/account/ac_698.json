@@ -1,11 +1,11 @@
 {
- "id_client":"MLUQ27939126244416",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"FYMK19835008431333",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"salary bill",
  "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"ZPHT34167130104079",
- "aba":"069670512"
+ "account_status":"not activated",
+ "bban_count":"SSUY37497011889818",
+ "aba":"050812258"
 }

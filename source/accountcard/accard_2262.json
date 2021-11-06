@@ -1,0 +1,15 @@
+{
+ "id_client":"OJNI33517327342585",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4287692231167610",
+ "transaction_code":"YBJS10086449578804",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"16:24:19",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"753674.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"LKR of Braavos"
+}

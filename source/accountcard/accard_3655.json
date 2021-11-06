@@ -1,0 +1,15 @@
+{
+ "id_client":"KVHB42108555618566",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"060408510679",
+ "transaction_code":"MCNT54754069592842",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"04:41:02",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"842073.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"XPF of Braavos"
+}

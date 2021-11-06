@@ -1,0 +1,15 @@
+{
+ "id_client":"FRLD15478434716326",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"5500942524753297",
+ "transaction_code":"RONG00192272963822",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"06:09:58",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"550031.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"HUF of Braavos"
+}

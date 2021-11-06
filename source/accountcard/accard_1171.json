@@ -1,15 +1,15 @@
 {
- "id_client":"JFSJ31360782482911",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"RMOG86903795509762",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"not activated",
- "card_number":"3512492415394109",
- "transaction_code":"UZCB40521169109310",
- "date_transaction":"2021-12-01",
- "time_transaction":"06:28:46",
- "describle_transaction":"army of the dead",
- "original_transaction_amount":"948256.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"NIS of Braavos"
+ "card_number":"6011542705585748",
+ "transaction_code":"QPUI43754324161176",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"20:28:49",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"428371.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CZK of Braavos"
 }

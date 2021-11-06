@@ -1,0 +1,15 @@
+{
+ "id_client":"UPLX46149469398224",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"30123027341456",
+ "transaction_code":"ZQWG93302971130309",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"09:02:00",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"522686.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"IMP of Braavos"
+}

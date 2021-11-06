@@ -1,0 +1,15 @@
+{
+ "id_client":"OTLR41535959296168",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4215758114127739509",
+ "transaction_code":"CBIV09194585502319",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"04:56:14",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"92142.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"GBP of Braavos"
+}

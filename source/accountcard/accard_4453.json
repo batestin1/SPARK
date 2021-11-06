@@ -1,0 +1,15 @@
+{
+ "id_client":"PMJT72375526690385",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"676100799490",
+ "transaction_code":"RUPS32093434473368",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"00:42:06",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"663112.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TWD of Braavos"
+}

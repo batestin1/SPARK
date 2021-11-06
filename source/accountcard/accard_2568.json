@@ -1,0 +1,15 @@
+{
+ "id_client":"QODH83202037265225",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"3556588261595090",
+ "transaction_code":"NTSG28944670418665",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"11:58:12",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"861873.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TZS of Braavos"
+}

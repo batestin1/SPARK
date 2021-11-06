@@ -1,0 +1,15 @@
+{
+ "id_client":"SBFV72494181695207",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"3518085587394792",
+ "transaction_code":"PNOV20300912888276",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"05:16:51",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"810503.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KMF of Braavos"
+}

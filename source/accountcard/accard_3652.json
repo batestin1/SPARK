@@ -1,0 +1,15 @@
+{
+ "id_client":"VWQR20843243356283",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4649533985834",
+ "transaction_code":"IIDL75471768272871",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"23:54:55",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"180225.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SYP of Braavos"
+}

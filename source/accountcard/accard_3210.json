@@ -1,0 +1,15 @@
+{
+ "id_client":"CXFM50750339830438",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"5465696197795208",
+ "transaction_code":"QLNT75488520357879",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"17:01:03",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"262000.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MWK of Braavos"
+}

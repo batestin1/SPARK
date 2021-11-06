@@ -1,0 +1,15 @@
+{
+ "id_client":"DBAJ38232503323085",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"676156082460",
+ "transaction_code":"NEKB57793360001181",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"23:04:10",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"564571.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SZL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"YLJS31169068320625",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"501837947099",
+ "transaction_code":"MCLY99194696103445",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"23:57:56",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"101712.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BTN of Braavos"
+}

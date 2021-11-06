@@ -1,0 +1,15 @@
+{
+ "id_client":"PESZ74989411071661",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"180042438225462",
+ "transaction_code":"RPOZ88800303112713",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"05:13:50",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"434844.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SGD of Braavos"
+}

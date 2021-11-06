@@ -1,10 +1,10 @@
 {
- "id_client":"BIFG84455778878748",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "rent_income_value":"-92918.0",
- "description_chosen_income_method":"+586310.0",
- "total_account_value":"5728673.0",
- "current_account_total_value":"5588238.0",
- "total_amount_carried_over":"140435.0"
+ "id_client":"FAPP61797484486002",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "rent_income_value":"+928664.0",
+ "description_chosen_income_method":"+119875.0",
+ "total_account_value":"4453372.0",
+ "current_account_total_value":"4183543.0",
+ "total_amount_carried_over":"269829.0"
 }

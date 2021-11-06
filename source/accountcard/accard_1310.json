@@ -1,0 +1,15 @@
+{
+ "id_client":"PNKL66777711680604",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"213174870891336",
+ "transaction_code":"NXZA89530093098102",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"23:41:05",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"525043.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SVC of Braavos"
+}

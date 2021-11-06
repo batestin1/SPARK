@@ -1,0 +1,15 @@
+{
+ "id_client":"FMSB51917779502221",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"349935175838074",
+ "transaction_code":"MDXE48633145724013",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"07:10:13",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"835284.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"IMP of Braavos"
+}

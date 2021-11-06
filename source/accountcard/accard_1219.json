@@ -1,0 +1,15 @@
+{
+ "id_client":"PFYK61668535657660",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"2249594783893497",
+ "transaction_code":"PRMY32844434923892",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"18:22:52",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"975922.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"XCD of Braavos"
+}

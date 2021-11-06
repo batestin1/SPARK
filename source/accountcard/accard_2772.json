@@ -1,0 +1,15 @@
+{
+ "id_client":"DKIO12910856860825",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4254376848951802070",
+ "transaction_code":"VDTQ80457302673363",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"05:04:50",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"598278.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ERN of Braavos"
+}

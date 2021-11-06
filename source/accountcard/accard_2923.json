@@ -1,0 +1,15 @@
+{
+ "id_client":"YLNG64394274896725",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3521232362825831",
+ "transaction_code":"NNYV66604755679394",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"09:01:24",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"495030.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TVD of Braavos"
+}

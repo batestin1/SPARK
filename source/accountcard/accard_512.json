@@ -1,15 +1,15 @@
 {
- "id_client":"AMVG41738225985798",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"HCEZ37133818243856",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "status_account_blocked":"activated",
- "card_number":"340922490387689",
- "transaction_code":"USSA57971604411628",
- "date_transaction":"2021-11-20",
- "time_transaction":"20:09:02",
- "describle_transaction":"ships",
- "original_transaction_amount":"757669.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"LBP of Braavos"
+ "card_number":"378297230487718",
+ "transaction_code":"TMNM48839508485556",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"07:34:28",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"952937.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TZS of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"SUXI91162829607200",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4813089954144319",
+ "transaction_code":"ARHH89980710708898",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"01:53:55",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"259970.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"DZD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"OAUH47705596013000",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3585831259061450",
+ "transaction_code":"NSBR53248056953724",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"20:46:39",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"759753.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TTD of Braavos"
+}

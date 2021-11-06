@@ -1,0 +1,15 @@
+{
+ "id_client":"AHGZ14139086390331",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"3504091779095318",
+ "transaction_code":"UWOO92914124590694",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"04:03:18",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"854991.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TZS of Braavos"
+}

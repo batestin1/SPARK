@@ -1,0 +1,15 @@
+{
+ "id_client":"QABO30460420391598",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4785625859422559",
+ "transaction_code":"RCLK07478871520156",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"15:19:52",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"546345.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"BAM of Braavos"
+}

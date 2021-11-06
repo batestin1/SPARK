@@ -1,15 +1,15 @@
 {
- "id_client":"JSZQ40556155258865",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"FZJN44831647177711",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"4727858968724",
- "transaction_code":"NUZI37997636276595",
+ "card_number":"340149305328878",
+ "transaction_code":"DQZA18527488057769",
  "date_transaction":"2021-11-15",
- "time_transaction":"02:34:42",
- "describle_transaction":"slaves",
- "original_transaction_amount":"977297.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"KZT of Braavos"
+ "time_transaction":"10:47:39",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"254014.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"XAF of Braavos"
 }

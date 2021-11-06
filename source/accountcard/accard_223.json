@@ -1,15 +1,15 @@
 {
- "id_client":"QXDG12620126508355",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
- "status_account_blocked":"not activated",
- "card_number":"3502921493636579",
- "transaction_code":"BNGI39370493284167",
- "date_transaction":"2021-11-26",
- "time_transaction":"20:35:34",
- "describle_transaction":"golden company",
- "original_transaction_amount":"859667.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"CRC of Braavos"
+ "id_client":"QLFD31954277856210",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"3565302186829207",
+ "transaction_code":"EYEX43622782060734",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"22:55:51",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"548351.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CDF of Braavos"
 }

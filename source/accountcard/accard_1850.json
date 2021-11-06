@@ -1,0 +1,15 @@
+{
+ "id_client":"TICR99112093404350",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4162869682810639",
+ "transaction_code":"WQSQ48585781047203",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"09:26:13",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"712656.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"JPY of Braavos"
+}

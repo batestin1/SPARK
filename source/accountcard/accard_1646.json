@@ -1,0 +1,15 @@
+{
+ "id_client":"OCFP03888561121153",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"630443436534",
+ "transaction_code":"EDTQ04413294111286",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"13:58:22",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"175264.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SYP of Braavos"
+}

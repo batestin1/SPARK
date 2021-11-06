@@ -1,0 +1,15 @@
+{
+ "id_client":"NKLV54064480995713",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"activated",
+ "card_number":"4740193235598190",
+ "transaction_code":"OHGS35003736037533",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"00:41:08",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"118110.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"TND of Braavos"
+}

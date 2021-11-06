@@ -1,0 +1,15 @@
+{
+ "id_client":"ORYR78902135100297",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"213192316515129",
+ "transaction_code":"ZBYV10020917109633",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"19:53:41",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"301770.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"EUR of Braavos"
+}

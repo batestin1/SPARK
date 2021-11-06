@@ -1,0 +1,15 @@
+{
+ "id_client":"BVVD29388013303720",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"2265439566572893",
+ "transaction_code":"QVZA74552700821849",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"00:09:28",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"582429.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BGN of Braavos"
+}

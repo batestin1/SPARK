@@ -1,10 +1,10 @@
 {
- "id_client":"ABGI21249697409170",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "rent_income_value":"-33203.0",
- "description_chosen_income_method":"-89452.0",
- "total_account_value":"92825.0",
- "current_account_total_value":"34266.0",
- "total_amount_carried_over":"58559.0"
+ "id_client":"RZWH45185020942176",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "rent_income_value":"+769261.0",
+ "description_chosen_income_method":"+162920.0",
+ "total_account_value":"818705.0",
+ "current_account_total_value":"176874.0",
+ "total_amount_carried_over":"641831.0"
 }

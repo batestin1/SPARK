@@ -1,15 +1,15 @@
 {
- "id_client":"LSWD07907808956311",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"RKPJ90058733050817",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"not activated",
- "card_number":"4701670971166669",
- "transaction_code":"RNUI42368984134691",
- "date_transaction":"2021-12-02",
- "time_transaction":"12:55:50",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"625140.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"KPW of Braavos"
+ "card_number":"4565833488304182",
+ "transaction_code":"ESVT09921839184939",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"20:55:54",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"925298.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GIP of Braavos"
 }

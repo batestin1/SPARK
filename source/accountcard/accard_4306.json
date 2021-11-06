@@ -1,0 +1,15 @@
+{
+ "id_client":"TGOV92769964483040",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"349939203599096",
+ "transaction_code":"QWPF33793883897873",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"16:29:00",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"369043.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"RWF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"BIZL34474336707581",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"6568307830362703",
+ "transaction_code":"FXXX26830045074468",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"02:42:17",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"154676.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XDR of Braavos"
+}

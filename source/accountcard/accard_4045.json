@@ -1,0 +1,15 @@
+{
+ "id_client":"OPNM49877101751952",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3580255561296502",
+ "transaction_code":"MRYI16026594255958",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"16:20:18",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"412304.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"PGK of Braavos"
+}

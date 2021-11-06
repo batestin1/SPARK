@@ -1,0 +1,15 @@
+{
+ "id_client":"WXIO73765114341707",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"30456464031101",
+ "transaction_code":"DQFB02357087102193",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"20:10:14",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"59072.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"ANG of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"THLX31135337101418",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"PKOB48120742343124",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"activated",
- "card_number":"3567454149962977",
- "transaction_code":"JVWE16539181807441",
- "date_transaction":"2021-11-14",
- "time_transaction":"10:28:09",
- "describle_transaction":"ships",
- "original_transaction_amount":"522157.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"LAK of Braavos"
+ "card_number":"3501962369958664",
+ "transaction_code":"VOGY54145768981280",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"07:30:58",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"207787.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AFN of Braavos"
 }

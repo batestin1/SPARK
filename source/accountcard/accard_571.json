@@ -1,15 +1,15 @@
 {
- "id_client":"IDDM43446568995094",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"WDGV58095049392927",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "status_account_blocked":"not activated",
- "card_number":"180020794389403",
- "transaction_code":"YSDE54218531585602",
- "date_transaction":"2021-11-23",
- "time_transaction":"21:06:51",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"903713.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"UYU of Braavos"
+ "card_number":"4363876396114560817",
+ "transaction_code":"NCZM76799106263383",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"15:51:35",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"827389.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ALL of Braavos"
 }

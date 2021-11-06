@@ -1,11 +1,11 @@
 {
- "id_client":"TSGD66857855390650",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"VFUX05808094642655",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"JVUL33631412691120",
- "aba":"018226432"
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"NINS64758621736665",
+ "aba":"011177870"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"YDPC36603503786107",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"180001154614523",
+ "transaction_code":"FBOW44138077014585",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"21:38:24",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"348667.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BYR of Braavos"
+}

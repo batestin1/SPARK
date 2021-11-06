@@ -1,0 +1,15 @@
+{
+ "id_client":"JEDD66044148065159",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4298592168922",
+ "transaction_code":"MYHX51444192908845",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"22:08:45",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"667432.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BMD of Braavos"
+}

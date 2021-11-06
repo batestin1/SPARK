@@ -1,10 +1,10 @@
 {
- "id_client":"UPCP71831823088770",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
- "rent_income_value":"-745678.0",
- "description_chosen_income_method":"+3498.0",
- "total_account_value":"9902769.0",
- "current_account_total_value":"9482231.0",
- "total_amount_carried_over":"420538.0"
+ "id_client":"SHTU88253981079160",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "rent_income_value":"+55461.0",
+ "description_chosen_income_method":"-783942.0",
+ "total_account_value":"1566107.0",
+ "current_account_total_value":"1448617.0",
+ "total_amount_carried_over":"117490.0"
 }

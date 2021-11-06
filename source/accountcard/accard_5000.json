@@ -1,0 +1,15 @@
+{
+ "id_client":"BORK12068651807096",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"6011344681103533",
+ "transaction_code":"CWTR38670453163799",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"21:44:06",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"912251.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PEN of Braavos"
+}

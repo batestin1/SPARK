@@ -1,0 +1,15 @@
+{
+ "id_client":"STNN21010359768545",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"3591545618124484",
+ "transaction_code":"VJEY16367654091269",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"05:20:58",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"399239.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SVC of Braavos"
+}

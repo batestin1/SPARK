@@ -1,0 +1,15 @@
+{
+ "id_client":"ZEAS86199630322443",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4290979522683396",
+ "transaction_code":"WQUI70934204684877",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"21:47:03",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"272259.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LKR of Braavos"
+}

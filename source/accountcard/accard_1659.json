@@ -1,0 +1,15 @@
+{
+ "id_client":"TDFV04013858235018",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"676135001268",
+ "transaction_code":"PYSJ28847936643359",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"10:49:28",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"998357.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"OMR of Braavos"
+}

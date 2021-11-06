@@ -1,15 +1,15 @@
 {
- "id_client":"UDYN41891650404749",
+ "id_client":"EGSG81830734284580",
  "yearmonthday":"20211202",
  "_yearmonthday":"20211202",
  "status_account_blocked":"not activated",
- "card_number":"4735626875323061",
- "transaction_code":"BJSX67811298917871",
- "date_transaction":"2021-11-21",
- "time_transaction":"23:03:49",
- "describle_transaction":"savage army",
- "original_transaction_amount":"994552.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"TMT of Braavos"
+ "card_number":"4813583811957",
+ "transaction_code":"VHNV05599694977611",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"18:57:16",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"341719.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BAM of Braavos"
 }

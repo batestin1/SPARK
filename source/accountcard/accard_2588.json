@@ -1,0 +1,15 @@
+{
+ "id_client":"BRBQ17587293804574",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"3569464597752695",
+ "transaction_code":"FTCK67433371826799",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"03:14:55",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"309835.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CZK of Braavos"
+}

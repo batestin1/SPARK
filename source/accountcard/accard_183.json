@@ -1,15 +1,15 @@
 {
- "id_client":"NHYR27440999155046",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"LANC70817899631596",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"4803166037150596",
- "transaction_code":"QGYB20333070770339",
- "date_transaction":"2021-11-08",
- "time_transaction":"22:47:02",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"261184.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"YER of Braavos"
+ "card_number":"30281009398256",
+ "transaction_code":"ALVZ58664011733853",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"21:50:09",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"264829.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KES of Braavos"
 }

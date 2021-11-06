@@ -1,10 +1,10 @@
 {
- "id_client":"UTVA43185786813714",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
- "rent_income_value":"+573140.0",
- "description_chosen_income_method":"-111603.0",
- "total_account_value":"8018190.0",
- "current_account_total_value":"7347955.0",
- "total_amount_carried_over":"670235.0"
+ "id_client":"RDDG01506710761056",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "rent_income_value":"+423093.0",
+ "description_chosen_income_method":"+675772.0",
+ "total_account_value":"8013239.0",
+ "current_account_total_value":"7333398.0",
+ "total_amount_carried_over":"679841.0"
 }

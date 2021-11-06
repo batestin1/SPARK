@@ -1,0 +1,15 @@
+{
+ "id_client":"BWUM95567204612992",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"2269333951854683",
+ "transaction_code":"XWUZ06230035248199",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"23:44:42",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"337263.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"STD of Braavos"
+}

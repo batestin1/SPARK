@@ -1,12 +1,12 @@
 {
- "id_client":"TGHX74512272623463",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"QXZT34016907743033",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "card_number":"not activated",
- "total_limit_value":"374907.0",
- "limit_value_available":"285798.0",
- "total_limit_used":"89109.0",
+ "total_limit_value":"552302.0",
+ "limit_value_available":"551665.0",
+ "total_limit_used":"637.0",
  "description_card":"Maestro",
- "security_card":"722",
- "expire_card_number":"04/31"
+ "security_card":"621",
+ "expire_card_number":"09/25"
 }

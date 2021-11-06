@@ -1,15 +1,15 @@
 {
- "id_client":"LDBS18179868036834",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
- "status_account_blocked":"not activated",
- "card_number":"3500762461946109",
- "transaction_code":"EPXN42494427230782",
- "date_transaction":"2021-11-13",
- "time_transaction":"04:11:48",
- "describle_transaction":"horses",
- "original_transaction_amount":"670221.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"DZD of Braavos"
+ "id_client":"UJXZ27798212038476",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"3530907639163863",
+ "transaction_code":"KYXS77157879414495",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"09:50:47",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"598561.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"PAB of Braavos"
 }

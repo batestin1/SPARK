@@ -1,15 +1,15 @@
 {
- "id_client":"ZNII74993554035093",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"TYNL14628111330664",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "status_account_blocked":"activated",
- "card_number":"3596327185221448",
- "transaction_code":"LWPU21607677474605",
- "date_transaction":"2021-11-18",
- "time_transaction":"22:45:27",
- "describle_transaction":"swords",
- "original_transaction_amount":"758015.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"CZK of Braavos"
+ "card_number":"378742991541807",
+ "transaction_code":"KFWE73226490535882",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"05:41:24",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"387254.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KMF of Braavos"
 }

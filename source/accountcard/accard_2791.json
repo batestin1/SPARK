@@ -1,0 +1,15 @@
+{
+ "id_client":"OQLS30836964442524",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"502066848479",
+ "transaction_code":"CXAS05735510321075",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"18:34:55",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"776690.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GTQ of Braavos"
+}

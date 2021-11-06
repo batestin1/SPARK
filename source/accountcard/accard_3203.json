@@ -1,0 +1,15 @@
+{
+ "id_client":"ACPU62311145736338",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"676241209748",
+ "transaction_code":"KOPA96936303444916",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"08:50:43",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"582573.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LBP of Braavos"
+}

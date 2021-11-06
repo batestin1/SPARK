@@ -1,0 +1,15 @@
+{
+ "id_client":"ZBIO40990275207875",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"30110913921335",
+ "transaction_code":"LKEK08453961438763",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:21:22",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"387200.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"KHR of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"YQZJ14785043156981",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"CKLJ15311039590705",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "card_number":"activated",
- "total_limit_value":"871179.0",
- "limit_value_available":"842447.0",
- "total_limit_used":"28732.0",
- "description_card":"American Express",
- "security_card":"298",
- "expire_card_number":"01/25"
+ "total_limit_value":"429670.0",
+ "limit_value_available":"364694.0",
+ "total_limit_used":"64976.0",
+ "description_card":"JCB 16 digit",
+ "security_card":"133",
+ "expire_card_number":"09/29"
 }

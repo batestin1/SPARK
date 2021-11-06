@@ -1,11 +1,11 @@
 {
- "id_client":"SFOQ07013100660160",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"VVHX78496808511490",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"RMEC74393250712158",
- "aba":"039134653"
+ "account_type":"dragon account",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"OFLK88731171032699",
+ "aba":"070664183"
 }

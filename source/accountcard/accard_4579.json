@@ -1,0 +1,15 @@
+{
+ "id_client":"CWSJ42721601579561",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"4909160821939425909",
+ "transaction_code":"SFRT82108067756208",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"11:10:33",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"110968.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KWD of Braavos"
+}

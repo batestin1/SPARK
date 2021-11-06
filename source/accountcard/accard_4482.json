@@ -1,0 +1,15 @@
+{
+ "id_client":"WCZN11432743059999",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"180051542015404",
+ "transaction_code":"SZNM34200062108195",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"11:35:04",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"365546.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NAD of Braavos"
+}

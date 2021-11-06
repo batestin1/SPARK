@@ -1,0 +1,15 @@
+{
+ "id_client":"FWYA19130899799013",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4560170211132603503",
+ "transaction_code":"LODV06388077444627",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:15:03",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"662951.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TWD of Braavos"
+}

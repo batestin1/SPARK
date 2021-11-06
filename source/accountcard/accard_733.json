@@ -1,15 +1,15 @@
 {
- "id_client":"UUTV90826350997726",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
- "status_account_blocked":"activated",
- "card_number":"30333807548465",
- "transaction_code":"UJRA90006941221316",
- "date_transaction":"2021-12-01",
- "time_transaction":"13:28:48",
- "describle_transaction":"savage army",
- "original_transaction_amount":"944728.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"HRK of Braavos"
+ "id_client":"ETJM01463823242703",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"060475187674",
+ "transaction_code":"MKZX55250489957300",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"13:09:36",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"260914.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ALL of Braavos"
 }

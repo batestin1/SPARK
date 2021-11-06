@@ -1,11 +1,11 @@
 {
- "id_client":"SLGE95026188849932",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"ASYD61465120596984",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"RBNF19884609840765",
- "aba":"040291068"
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"EZDF84214272838732",
+ "aba":"050953845"
 }

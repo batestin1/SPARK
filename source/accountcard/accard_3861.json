@@ -1,0 +1,15 @@
+{
+ "id_client":"EVKC38598746684789",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"5111242856168201",
+ "transaction_code":"MYIS11877033696871",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"10:04:28",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"153327.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"ARS of Braavos"
+}

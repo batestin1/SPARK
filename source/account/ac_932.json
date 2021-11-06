@@ -1,11 +1,11 @@
 {
- "id_client":"BWPR66032664908658",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"HCRO29633320701444",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"KIYZ48588551382418",
- "aba":"055551063"
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"JKUA47535109856596",
+ "aba":"099734321"
 }

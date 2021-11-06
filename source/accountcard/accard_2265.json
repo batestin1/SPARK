@@ -1,0 +1,15 @@
+{
+ "id_client":"DGYD25930811865390",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"3532731342918910",
+ "transaction_code":"XLRD42782490366880",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"13:03:12",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"492238.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CDF of Braavos"
+}

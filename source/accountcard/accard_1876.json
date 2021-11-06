@@ -1,0 +1,15 @@
+{
+ "id_client":"RYCZ61031615493369",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"3501089992214958",
+ "transaction_code":"AAKK32249149504005",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"08:02:45",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"324567.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AWG of Braavos"
+}

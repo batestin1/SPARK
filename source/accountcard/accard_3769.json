@@ -1,0 +1,15 @@
+{
+ "id_client":"SEWT13607855350750",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"3585735515958153",
+ "transaction_code":"SGVJ94481369982790",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"10:32:38",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"104988.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SZL of Braavos"
+}

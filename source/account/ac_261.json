@@ -1,11 +1,11 @@
 {
- "id_client":"ANFB60634129873659",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
+ "id_client":"DRJE24785949212399",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"NZKJ50130237792892",
- "aba":"066786319"
+ "account_type":"savings account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"SBEL55416970383357",
+ "aba":"023600895"
 }

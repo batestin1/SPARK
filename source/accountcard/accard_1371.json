@@ -1,0 +1,15 @@
+{
+ "id_client":"CBDP95252967248046",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"180012243927610",
+ "transaction_code":"QJMK72932585405465",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"09:45:21",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"13109.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"XAF of Braavos"
+}

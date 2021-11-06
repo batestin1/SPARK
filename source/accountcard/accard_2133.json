@@ -1,0 +1,15 @@
+{
+ "id_client":"QXPV02125323669099",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4855015810219283",
+ "transaction_code":"NAER42669702439297",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"21:40:39",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"565608.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MGA of Braavos"
+}

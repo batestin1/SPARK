@@ -1,0 +1,15 @@
+{
+ "id_client":"XLSW70882607357349",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4248041402883787",
+ "transaction_code":"LWOT78094959248065",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"07:54:05",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"471948.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"FJD of Braavos"
+}

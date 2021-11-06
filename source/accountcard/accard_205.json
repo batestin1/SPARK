@@ -1,15 +1,15 @@
 {
- "id_client":"MYNJ98672752524577",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"EQRL27972395729955",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "status_account_blocked":"not activated",
- "card_number":"4227621362498871241",
- "transaction_code":"XDVX69080993538677",
- "date_transaction":"2021-11-20",
- "time_transaction":"22:18:33",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"250933.0",
+ "card_number":"4064784727551727",
+ "transaction_code":"PUCU98885767770017",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"06:58:13",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"408124.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"KHR of Braavos"
+ "currency":"ANG of Braavos"
 }

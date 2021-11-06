@@ -1,0 +1,15 @@
+{
+ "id_client":"PJPD89304603565231",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3524368201559723",
+ "transaction_code":"TNWR84716612841566",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"19:17:52",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"706952.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"ILS of Braavos"
+}

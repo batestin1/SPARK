@@ -1,0 +1,15 @@
+{
+ "id_client":"PUDL23471166977646",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"2297735688337962",
+ "transaction_code":"FHEV61472654351397",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"08:18:11",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"716773.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"NIS of Braavos"
+}

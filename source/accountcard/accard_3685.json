@@ -1,0 +1,15 @@
+{
+ "id_client":"QOUQ16461377866598",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"3570950878889898",
+ "transaction_code":"OXPC56464171171696",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"17:08:26",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"752067.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BWP of Braavos"
+}

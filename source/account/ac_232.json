@@ -1,11 +1,11 @@
 {
- "id_client":"LMIG59926500996150",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"LEJZ98587750323428",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"PVCW80393785019032",
- "aba":"076406901"
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"SAPF18746070797429",
+ "aba":"048848225"
 }

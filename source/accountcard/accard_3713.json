@@ -1,0 +1,15 @@
+{
+ "id_client":"URXJ40350962041365",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6011661052643106",
+ "transaction_code":"GEVB55251921361904",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"23:26:05",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"376514.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GGP of Braavos"
+}

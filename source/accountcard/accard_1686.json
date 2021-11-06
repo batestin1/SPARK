@@ -1,0 +1,15 @@
+{
+ "id_client":"TZCX20780911463278",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4715162728048667",
+ "transaction_code":"SYMP19616292962214",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"16:50:39",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"511895.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LTL of Braavos"
+}

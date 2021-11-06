@@ -1,11 +1,11 @@
 {
- "id_client":"CAUI80914663740798",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"VMIF79360200513222",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"BJIZ03670297504056",
- "aba":"067136469"
+ "account_type":"salary bill",
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"ZMFN18365886425978",
+ "aba":"076001754"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"HVRZ92733860714911",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"340838990934772",
+ "transaction_code":"NKMZ94382549145070",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"01:21:49",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"658998.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CHF of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"RTAE67578086666788",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"CMQE74102349085054",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "status_account_blocked":"not activated",
- "card_number":"4288772737265",
- "transaction_code":"ZOES50231232236043",
- "date_transaction":"2021-12-04",
- "time_transaction":"16:45:41",
- "describle_transaction":"horses",
- "original_transaction_amount":"6080.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"NAD of Braavos"
+ "card_number":"4261041361399",
+ "transaction_code":"ABEV74764267916776",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"00:30:49",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"430364.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KPW of Braavos"
 }

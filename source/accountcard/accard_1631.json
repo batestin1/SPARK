@@ -1,0 +1,15 @@
+{
+ "id_client":"NKEK05260315941615",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"3560852809498314",
+ "transaction_code":"PQBY82926968869982",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"22:12:18",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"117305.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BTN of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"ZMDM02395643426804",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"378306059373873",
+ "transaction_code":"VKBO58506604780380",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"21:10:25",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"41030.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"STD of Braavos"
+}

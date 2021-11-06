@@ -1,0 +1,15 @@
+{
+ "id_client":"IMEI41939247889231",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4017421508615",
+ "transaction_code":"LWLB21270109804709",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"11:03:29",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"427290.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SZL of Braavos"
+}

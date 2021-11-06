@@ -1,15 +1,15 @@
 {
- "id_client":"XKIJ57178606394946",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"ASLO34063022347103",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"activated",
- "card_number":"4278841820753329",
- "transaction_code":"GVTW70978911967019",
- "date_transaction":"2021-12-03",
- "time_transaction":"20:23:58",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"17543.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"JEP of Braavos"
+ "card_number":"4036073151417",
+ "transaction_code":"XFLB53961684862731",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"14:19:46",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"836627.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ALL of Braavos"
 }

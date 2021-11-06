@@ -1,0 +1,15 @@
+{
+ "id_client":"MUMG17102760372039",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"3510669545415225",
+ "transaction_code":"LLSZ07080223143302",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"22:11:20",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"78885.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NPR of Braavos"
+}

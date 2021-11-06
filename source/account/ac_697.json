@@ -1,11 +1,11 @@
 {
- "id_client":"NUZJ90180718357502",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
+ "id_client":"QQOX10438486362704",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"JSCZ23673862730670",
- "aba":"080574224"
+ "account_type":"checking account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"GCDY29960507280701",
+ "aba":"051266725"
 }

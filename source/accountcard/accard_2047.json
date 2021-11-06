@@ -1,0 +1,15 @@
+{
+ "id_client":"RDAS19562506521464",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"2254242420060243",
+ "transaction_code":"OKOO97891695027580",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"19:59:44",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"183572.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CNY of Braavos"
+}

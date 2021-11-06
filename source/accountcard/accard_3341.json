@@ -1,0 +1,15 @@
+{
+ "id_client":"EJQP64861471847741",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6011608574154583",
+ "transaction_code":"LFEU32729422866676",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"15:32:24",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"975420.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SPL of Braavos"
+}

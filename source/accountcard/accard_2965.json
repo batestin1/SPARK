@@ -1,0 +1,15 @@
+{
+ "id_client":"SDOQ64740185823527",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"570459517555",
+ "transaction_code":"YGST24086172043050",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"11:27:20",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"647599.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CNY of Braavos"
+}

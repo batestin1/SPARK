@@ -1,0 +1,15 @@
+{
+ "id_client":"FREA03042143685389",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"4224760634518652670",
+ "transaction_code":"AVDR11295165291342",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"19:33:16",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"493562.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"PAB of Braavos"
+}

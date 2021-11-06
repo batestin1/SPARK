@@ -1,0 +1,15 @@
+{
+ "id_client":"EEWI84498814298290",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"3567840096625270",
+ "transaction_code":"FLMR44161589329333",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"02:00:30",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"770004.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BND of Braavos"
+}

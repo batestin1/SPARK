@@ -1,0 +1,15 @@
+{
+ "id_client":"JLNI90761409293335",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"349226322221079",
+ "transaction_code":"NVOO37893299233110",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"18:31:00",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"128.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LKR of Braavos"
+}

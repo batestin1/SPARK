@@ -1,15 +1,15 @@
 {
- "id_client":"RRYF36795823252260",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "status_account_blocked":"not activated",
- "card_number":"2237770714368916",
- "transaction_code":"WMLE27655789391386",
- "date_transaction":"2021-11-14",
- "time_transaction":"01:02:30",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"37233.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"ISK of Braavos"
+ "id_client":"CTDD51542508775248",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"4432419499777748",
+ "transaction_code":"FWFM19636708342859",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"01:36:42",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"67376.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NPR of Braavos"
 }

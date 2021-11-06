@@ -1,0 +1,15 @@
+{
+ "id_client":"HTIX01589952584682",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"36979765220325",
+ "transaction_code":"VCDA54285329192897",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"14:14:44",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"575498.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ZAR of Braavos"
+}

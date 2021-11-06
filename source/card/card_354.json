@@ -1,12 +1,12 @@
 {
- "id_client":"ZEXA48196713508594",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "card_number":"activated",
- "total_limit_value":"784260.0",
- "limit_value_available":"778106.0",
- "total_limit_used":"6154.0",
- "description_card":"Mastercard",
- "security_card":"425",
- "expire_card_number":"05/31"
+ "id_client":"YRYT44407020189744",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "card_number":"not activated",
+ "total_limit_value":"307194.0",
+ "limit_value_available":"247887.0",
+ "total_limit_used":"59307.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"724",
+ "expire_card_number":"09/28"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"MPBC56513362040920",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4726756739977638332",
+ "transaction_code":"YCEL08919187595081",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"07:19:09",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"220179.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LBP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"OXZH10749760745641",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"343478748618646",
+ "transaction_code":"ESKU15919145234568",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"00:24:44",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"260614.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NIO of Braavos"
+}

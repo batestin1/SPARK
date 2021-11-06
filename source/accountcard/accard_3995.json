@@ -1,0 +1,15 @@
+{
+ "id_client":"WREM97311784003885",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"3531094193400301",
+ "transaction_code":"YYWS59748064987118",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"20:11:36",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"153429.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"USD of Braavos"
+}

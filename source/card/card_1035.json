@@ -1,12 +1,12 @@
 {
- "id_client":"AABG07628186723502",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"URPH76512398502112",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "card_number":"activated",
- "total_limit_value":"870408.0",
- "limit_value_available":"833181.0",
- "total_limit_used":"37227.0",
+ "total_limit_value":"367792.0",
+ "limit_value_available":"348524.0",
+ "total_limit_used":"19268.0",
  "description_card":"Mastercard",
  "security_card":"978",
- "expire_card_number":"07/31"
+ "expire_card_number":"03/23"
 }

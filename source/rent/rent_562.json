@@ -1,10 +1,10 @@
 {
- "id_client":"NPSU54249255517582",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "rent_income_value":"-829407.0",
- "description_chosen_income_method":"-345920.0",
- "total_account_value":"1097064.0",
- "current_account_total_value":"711594.0",
- "total_amount_carried_over":"385470.0"
+ "id_client":"PIJD50238244360045",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "rent_income_value":"+651187.0",
+ "description_chosen_income_method":"-240581.0",
+ "total_account_value":"3622392.0",
+ "current_account_total_value":"3168532.0",
+ "total_amount_carried_over":"453860.0"
 }

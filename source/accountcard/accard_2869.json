@@ -1,0 +1,15 @@
+{
+ "id_client":"ICPV85928408368963",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"3557285064376559",
+ "transaction_code":"GYNB59118875593117",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"22:59:43",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"560431.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UZS of Braavos"
+}

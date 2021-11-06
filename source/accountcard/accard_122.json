@@ -1,15 +1,15 @@
 {
- "id_client":"WTWF97625890352603",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"MIMW13592261596139",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "status_account_blocked":"activated",
- "card_number":"2249169470983594",
- "transaction_code":"DNWM06848815420665",
- "date_transaction":"2021-11-21",
- "time_transaction":"12:44:52",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"248450.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"BBD of Braavos"
+ "card_number":"347757716211385",
+ "transaction_code":"MYUO73118539556782",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"04:37:24",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"524731.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BIF of Braavos"
 }

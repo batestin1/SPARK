@@ -1,15 +1,15 @@
 {
- "id_client":"UYHW23441974527178",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"GBSQ60732031129626",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "status_account_blocked":"activated",
- "card_number":"2720601370288060",
- "transaction_code":"IYLM22850011405160",
- "date_transaction":"2021-11-13",
- "time_transaction":"01:25:29",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"85001.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"TVD of Braavos"
+ "card_number":"3590724112875427",
+ "transaction_code":"SAJJ58166066226875",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"18:24:47",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"319489.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"GGP of Braavos"
 }

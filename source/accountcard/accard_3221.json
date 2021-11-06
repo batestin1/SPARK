@@ -1,0 +1,15 @@
+{
+ "id_client":"LRCJ98185262918895",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"676197376582",
+ "transaction_code":"XASP63380734444975",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"20:22:16",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"267669.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"OMR of Braavos"
+}

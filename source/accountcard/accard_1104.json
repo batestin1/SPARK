@@ -1,15 +1,15 @@
 {
- "id_client":"SWRU77137686221228",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"OQQL74525788774148",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "status_account_blocked":"not activated",
- "card_number":"6505912385198166",
- "transaction_code":"DMTL34734017729780",
- "date_transaction":"2021-11-30",
- "time_transaction":"04:35:24",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"608110.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"KWD of Braavos"
+ "card_number":"3512170297356749",
+ "transaction_code":"TNHU56267434957642",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"17:07:36",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"371092.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TVD of Braavos"
 }

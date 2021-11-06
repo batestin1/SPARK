@@ -1,15 +1,15 @@
 {
- "id_client":"OTBK01360679038055",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
- "status_account_blocked":"not activated",
- "card_number":"6588775929918708",
- "transaction_code":"GDNG23977395846116",
- "date_transaction":"2021-11-10",
- "time_transaction":"20:04:38",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"573232.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"TVD of Braavos"
+ "id_client":"RBDV62209573004935",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"4775420015585974",
+ "transaction_code":"JSTM68915806620496",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:32:26",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"76322.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DJF of Braavos"
 }

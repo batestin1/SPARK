@@ -1,0 +1,15 @@
+{
+ "id_client":"IAIN97920136021431",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"3590245786631177",
+ "transaction_code":"TLYO44937912186678",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"08:20:22",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"331548.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HRK of Braavos"
+}

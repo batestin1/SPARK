@@ -1,0 +1,15 @@
+{
+ "id_client":"DRPG84400625418590",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"2234055196917478",
+ "transaction_code":"BLVA03038160002335",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"09:17:28",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"363603.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"CLP of Braavos"
+}

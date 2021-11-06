@@ -1,0 +1,15 @@
+{
+ "id_client":"OKMF31566135855230",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4365942868285",
+ "transaction_code":"OBOP33430693984164",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"05:41:06",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"991473.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KGS of Braavos"
+}

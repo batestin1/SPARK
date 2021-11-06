@@ -1,0 +1,15 @@
+{
+ "id_client":"GMAS32990617232071",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"activated",
+ "card_number":"4645956217712948",
+ "transaction_code":"ESAS25593585331882",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"09:58:45",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"637524.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BHD of Braavos"
+}

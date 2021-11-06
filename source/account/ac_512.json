@@ -1,11 +1,11 @@
 {
- "id_client":"AMVG41738225985798",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"HCEZ37133818243856",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
  "bank":"Braavos",
- "account_type":"dragon account",
+ "account_type":"salary bill",
  "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"DGOS15593791432340",
- "aba":"074285427"
+ "account_status":"activated",
+ "bban_count":"KYCN74916660685253",
+ "aba":"076452802"
 }

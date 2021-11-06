@@ -1,12 +1,12 @@
 {
- "id_client":"GFAO71423250447453",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
- "card_number":"activated",
- "total_limit_value":"7356.0",
- "limit_value_available":"-65632.0",
- "total_limit_used":"72988.0",
- "description_card":"American Express",
- "security_card":"050",
- "expire_card_number":"11/22"
+ "id_client":"SNQH78695151262629",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "card_number":"not activated",
+ "total_limit_value":"935793.0",
+ "limit_value_available":"869234.0",
+ "total_limit_used":"66559.0",
+ "description_card":"Maestro",
+ "security_card":"295",
+ "expire_card_number":"03/24"
 }

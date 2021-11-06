@@ -1,0 +1,15 @@
+{
+ "id_client":"MEAA49702497611528",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"30400136477805",
+ "transaction_code":"XQSA43950407590325",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"03:33:04",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"896453.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GMD of Braavos"
+}

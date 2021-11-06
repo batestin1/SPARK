@@ -1,12 +1,12 @@
 {
- "id_client":"IMCF47224136992614",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
- "card_number":"activated",
- "total_limit_value":"917400.0",
- "limit_value_available":"825854.0",
- "total_limit_used":"91546.0",
- "description_card":"JCB 15 digit",
- "security_card":"018",
- "expire_card_number":"07/25"
+ "id_client":"SWMS79427327123707",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "card_number":"not activated",
+ "total_limit_value":"7276.0",
+ "limit_value_available":"-82819.0",
+ "total_limit_used":"90095.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"316",
+ "expire_card_number":"07/22"
 }

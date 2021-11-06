@@ -1,0 +1,15 @@
+{
+ "id_client":"UVPT36069625386773",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4326582736929106",
+ "transaction_code":"YHKF53390617956100",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"00:07:55",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"999434.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GBP of Braavos"
+}

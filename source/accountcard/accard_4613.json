@@ -1,0 +1,15 @@
+{
+ "id_client":"AREB45341756991025",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"3585664525394557",
+ "transaction_code":"OJLO03061048741785",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"06:08:49",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"988125.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"LBP of Braavos"
+}

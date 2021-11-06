@@ -1,15 +1,15 @@
 {
- "id_client":"OOXX44708972639277",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"SZLR52489206768901",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "status_account_blocked":"not activated",
- "card_number":"30156896431966",
- "transaction_code":"GPED18255327846060",
- "date_transaction":"2021-11-22",
- "time_transaction":"13:40:59",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"41097.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"PHP of Braavos"
+ "card_number":"4034924041348437",
+ "transaction_code":"LZXO94462822333943",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"21:38:29",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"590265.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"LRD of Braavos"
 }

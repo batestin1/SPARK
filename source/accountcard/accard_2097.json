@@ -1,0 +1,15 @@
+{
+ "id_client":"VKNF44987356465434",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6011449112827681",
+ "transaction_code":"MGIZ88557304196216",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"21:27:40",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"720782.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"SYP of Braavos"
+}

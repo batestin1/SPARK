@@ -1,0 +1,15 @@
+{
+ "id_client":"NKUP07477623669969",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"38235617851140",
+ "transaction_code":"PAZH22296062145954",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"17:18:10",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"589395.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AED of Braavos"
+}

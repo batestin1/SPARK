@@ -1,0 +1,15 @@
+{
+ "id_client":"IPST41101893673377",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"4313885594807",
+ "transaction_code":"NSSM76446076852616",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"22:00:46",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"44385.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HTG of Braavos"
+}

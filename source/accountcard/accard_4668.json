@@ -1,0 +1,15 @@
+{
+ "id_client":"SSYY57794375608159",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"3535228578109485",
+ "transaction_code":"AIEO22669634282284",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"19:15:55",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"823634.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"UGX of Braavos"
+}

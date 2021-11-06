@@ -1,0 +1,15 @@
+{
+ "id_client":"PRCE31822477053428",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"180081535308995",
+ "transaction_code":"QBLV35913689507078",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"05:31:35",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"323865.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"DJF of Braavos"
+}

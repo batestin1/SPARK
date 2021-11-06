@@ -1,0 +1,15 @@
+{
+ "id_client":"GXVP36716184121798",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"6522036200067981",
+ "transaction_code":"MIRS64236640922353",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"03:11:02",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"572064.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CUC of Braavos"
+}

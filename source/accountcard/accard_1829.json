@@ -1,0 +1,15 @@
+{
+ "id_client":"UTMX81612668017353",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"4096685904939416003",
+ "transaction_code":"PCFZ10590279460332",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"01:13:25",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"211673.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BWP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HRBA28024577502607",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4914550802168972",
+ "transaction_code":"PYHA59740182845242",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"16:58:06",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"168488.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ZAR of Braavos"
+}

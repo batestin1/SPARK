@@ -1,15 +1,15 @@
 {
- "id_client":"TAMM07503121099883",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"CNNU86000026558807",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"not activated",
- "card_number":"6527778531659516",
- "transaction_code":"JIKR25848806353552",
- "date_transaction":"2021-11-26",
- "time_transaction":"05:22:28",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"144547.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"IDR of Braavos"
+ "card_number":"2720326216558514",
+ "transaction_code":"PLYU50867083115479",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"18:56:52",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"795096.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SYP of Braavos"
 }

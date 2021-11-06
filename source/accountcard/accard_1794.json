@@ -1,0 +1,15 @@
+{
+ "id_client":"YBZP17565100768377",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4673902725807130",
+ "transaction_code":"RCFT11152091957237",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"04:37:34",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"221974.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CDF of Braavos"
+}

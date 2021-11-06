@@ -1,0 +1,15 @@
+{
+ "id_client":"XZYG94553707916911",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"579595122006",
+ "transaction_code":"HMPC09259874036722",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"04:56:04",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"60944.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"KRW of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"MAWZ40199846521675",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4605768309124",
+ "transaction_code":"LUQX62323998743313",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"02:00:21",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"396313.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HNL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"MGUC98157223579235",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"213163766986466",
+ "transaction_code":"DONH88286900815223",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"11:47:20",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"310912.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AMD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"LVKX48876231435047",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"213184327587254",
+ "transaction_code":"UCZI24582288465593",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"08:40:42",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"95825.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"LRD of Braavos"
+}

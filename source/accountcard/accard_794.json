@@ -1,15 +1,15 @@
 {
- "id_client":"RLXM70314595424255",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"not activated",
- "card_number":"345163798465191",
- "transaction_code":"RNVT95770709279806",
- "date_transaction":"2021-12-02",
- "time_transaction":"08:23:00",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"709660.0",
+ "id_client":"DJQR91728927802455",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"180076132330137",
+ "transaction_code":"GAVQ07458262272795",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"07:56:31",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"406148.0",
  "number_installments_assign":"1",
  "current_installment":"0",
- "currency":"MRO of Braavos"
+ "currency":"AFN of Braavos"
 }

@@ -1,10 +1,10 @@
 {
- "id_client":"OGAB78481843092213",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "rent_income_value":"+300240.0",
- "description_chosen_income_method":"+470676.0",
- "total_account_value":"7178838.0",
- "current_account_total_value":"6529568.0",
- "total_amount_carried_over":"649270.0"
+ "id_client":"JFIO62519059396914",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "rent_income_value":"-313798.0",
+ "description_chosen_income_method":"-152702.0",
+ "total_account_value":"410701.0",
+ "current_account_total_value":"-183676.0",
+ "total_amount_carried_over":"594377.0"
 }

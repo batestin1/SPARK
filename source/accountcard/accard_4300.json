@@ -1,0 +1,15 @@
+{
+ "id_client":"OCKJ31264767023253",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"180001821992005",
+ "transaction_code":"MZJA85309416230838",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"07:54:51",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"68386.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SAR of Braavos"
+}

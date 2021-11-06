@@ -1,0 +1,15 @@
+{
+ "id_client":"JMWB68806030508895",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"6011080083436846",
+ "transaction_code":"OJOV56589215977378",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"03:55:31",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"398275.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NAD of Braavos"
+}

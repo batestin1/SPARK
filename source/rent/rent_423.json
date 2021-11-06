@@ -1,10 +1,10 @@
 {
- "id_client":"ULPX26226828918540",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
- "rent_income_value":"-554785.0",
- "description_chosen_income_method":"-731796.0",
- "total_account_value":"1781021.0",
- "current_account_total_value":"1167916.0",
- "total_amount_carried_over":"613105.0"
+ "id_client":"DMDD20982749520360",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "rent_income_value":"-600129.0",
+ "description_chosen_income_method":"+18086.0",
+ "total_account_value":"6766855.0",
+ "current_account_total_value":"6068337.0",
+ "total_amount_carried_over":"698518.0"
 }

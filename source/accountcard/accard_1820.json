@@ -1,0 +1,15 @@
+{
+ "id_client":"XVXW79281013346765",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"180060496070992",
+ "transaction_code":"ZFPE56246192173284",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"06:10:33",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"5657.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MVR of Braavos"
+}

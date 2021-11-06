@@ -1,0 +1,15 @@
+{
+ "id_client":"VGKO41211579524713",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"4785136631244535",
+ "transaction_code":"LGSZ48717104421276",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"01:07:05",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"762280.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LKR of Braavos"
+}

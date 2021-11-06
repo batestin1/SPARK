@@ -1,11 +1,11 @@
 {
- "id_client":"DSVH08646845894290",
- "yearmonthday":"20211129",
- "_yearmonthday":"20211129",
+ "id_client":"ITUB18540789746662",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "bank":"Braavos",
- "account_type":"account for the long winter",
- "investor_profile":"Crazy",
- "account_status":"not activated",
- "bban_count":"UPIV98201741748141",
- "aba":"019176601"
+ "account_type":"checking account",
+ "investor_profile":"Vicious",
+ "account_status":"activated",
+ "bban_count":"WAFB76678552957649",
+ "aba":"024655344"
 }

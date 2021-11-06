@@ -1,11 +1,11 @@
 {
- "id_client":"WUZQ81734465813463",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"GNAC20777614674605",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
  "bank":"Braavos",
  "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"KTAG11492507466670",
- "aba":"093301094"
+ "investor_profile":"Vicious",
+ "account_status":"not activated",
+ "bban_count":"BQBW79507366353416",
+ "aba":"027435079"
 }

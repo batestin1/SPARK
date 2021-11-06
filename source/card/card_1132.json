@@ -1,12 +1,12 @@
 {
- "id_client":"KKYT98352579791298",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
+ "id_client":"RSVV44333064253203",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "card_number":"activated",
- "total_limit_value":"437910.0",
- "limit_value_available":"421261.0",
- "total_limit_used":"16649.0",
- "description_card":"VISA 19 digit",
- "security_card":"914",
- "expire_card_number":"03/31"
+ "total_limit_value":"391686.0",
+ "limit_value_available":"312090.0",
+ "total_limit_used":"79596.0",
+ "description_card":"Diners Club / Carte Blanche",
+ "security_card":"917",
+ "expire_card_number":"07/23"
 }

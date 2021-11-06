@@ -1,11 +1,11 @@
 {
- "id_client":"HJPJ74999714112427",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"MKEA10589242849478",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "bank":"Braavos",
  "account_type":"checking account",
  "investor_profile":"Vicious",
- "account_status":"not activated",
- "bban_count":"ORLH87638697186424",
- "aba":"028292937"
+ "account_status":"activated",
+ "bban_count":"NEPL32480541572470",
+ "aba":"018574950"
 }

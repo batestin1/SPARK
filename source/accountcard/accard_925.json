@@ -1,15 +1,15 @@
 {
- "id_client":"LWEB70101988969829",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"EXKW22087962414524",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"activated",
- "card_number":"4364758054360982",
- "transaction_code":"JYBP11086095439474",
- "date_transaction":"2021-11-08",
- "time_transaction":"12:13:32",
- "describle_transaction":"golden company",
- "original_transaction_amount":"613186.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"JPY of Braavos"
+ "card_number":"060404778973",
+ "transaction_code":"YYOG34861428819951",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"04:59:41",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"978041.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LYD of Braavos"
 }

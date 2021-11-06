@@ -1,11 +1,11 @@
 {
- "id_client":"AFCY50703079925205",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"KTIF76517176535715",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "bank":"Braavos",
- "account_type":"salary bill",
+ "account_type":"savings account",
  "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"BIYG82102673880134",
- "aba":"075649011"
+ "account_status":"activated",
+ "bban_count":"EQLA89397932104160",
+ "aba":"025246751"
 }

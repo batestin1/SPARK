@@ -1,0 +1,15 @@
+{
+ "id_client":"BQRX32630778161677",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"4965284831765",
+ "transaction_code":"UENZ72076573003953",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"13:16:42",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"794248.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ARS of Braavos"
+}

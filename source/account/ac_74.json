@@ -1,11 +1,11 @@
 {
- "id_client":"NCQB25517449107512",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"XYPO16410964676434",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"salary bill",
+ "account_type":"checking account",
  "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"SHRH48736691661925",
- "aba":"045358256"
+ "account_status":"not activated",
+ "bban_count":"WLAP50868908828204",
+ "aba":"060650751"
 }

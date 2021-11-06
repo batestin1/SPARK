@@ -1,0 +1,15 @@
+{
+ "id_client":"HLYC88109874919131",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"30466679890092",
+ "transaction_code":"YHKA47147789358960",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"17:51:01",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"105135.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"AOA of Braavos"
+}

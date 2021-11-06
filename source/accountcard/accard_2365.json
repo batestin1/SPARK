@@ -1,0 +1,15 @@
+{
+ "id_client":"QOUO17670413922138",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"4728860147025613",
+ "transaction_code":"BVOA35051775578584",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"03:33:41",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"554296.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"TOP of Braavos"
+}

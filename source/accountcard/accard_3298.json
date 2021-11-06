@@ -1,0 +1,15 @@
+{
+ "id_client":"LOEK34970502915961",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4877799206616241332",
+ "transaction_code":"WTEN42109832391688",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"11:01:26",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"701210.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BWP of Braavos"
+}

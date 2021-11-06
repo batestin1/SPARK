@@ -1,0 +1,15 @@
+{
+ "id_client":"CZUG07628311644632",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"3571732735397300",
+ "transaction_code":"CJJO97600869323545",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"09:17:18",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"208920.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"YER of Braavos"
+}

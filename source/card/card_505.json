@@ -1,12 +1,12 @@
 {
- "id_client":"OGBG40584035154116",
+ "id_client":"UHJG34629788443143",
  "yearmonthday":"20211114",
  "_yearmonthday":"20211114",
- "card_number":"activated",
- "total_limit_value":"208610.0",
- "limit_value_available":"132820.0",
- "total_limit_used":"75790.0",
- "description_card":"Mastercard",
- "security_card":"631",
- "expire_card_number":"11/21"
+ "card_number":"not activated",
+ "total_limit_value":"885384.0",
+ "limit_value_available":"835452.0",
+ "total_limit_used":"49932.0",
+ "description_card":"VISA 19 digit",
+ "security_card":"346",
+ "expire_card_number":"01/30"
 }

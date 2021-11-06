@@ -1,0 +1,15 @@
+{
+ "id_client":"WSCL80231627230673",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4204219660856333481",
+ "transaction_code":"KQRD85911413886688",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"20:26:34",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"68080.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LAK of Braavos"
+}

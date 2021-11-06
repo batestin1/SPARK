@@ -1,11 +1,11 @@
 {
- "id_client":"ZZYS74013321194577",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"ALXA19083903117647",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Risky",
- "account_status":"activated",
- "bban_count":"CRNW83791842384122",
- "aba":"024881210"
+ "investor_profile":"Reliable",
+ "account_status":"not activated",
+ "bban_count":"YLGS26929032540769",
+ "aba":"074470555"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"MBJF02874094600173",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"30511951771252",
+ "transaction_code":"VEJN99361011276216",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"01:50:55",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"437119.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"BGN of Braavos"
+}

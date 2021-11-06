@@ -1,15 +1,15 @@
 {
- "id_client":"QKFO18133595640265",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "status_account_blocked":"activated",
- "card_number":"5510763022933092",
- "transaction_code":"BTEO22439570445673",
- "date_transaction":"2021-11-30",
- "time_transaction":"20:22:17",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"22527.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"DOP of Braavos"
+ "id_client":"MCJP38510294877898",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"180090194209568",
+ "transaction_code":"JETY05154676120550",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"22:20:21",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"773080.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"CUC of Braavos"
 }

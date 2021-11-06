@@ -1,0 +1,15 @@
+{
+ "id_client":"YOPT82270944995800",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"2261690190761237",
+ "transaction_code":"LVKC44354712212958",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"05:29:43",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"271512.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MRO of Braavos"
+}

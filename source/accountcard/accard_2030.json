@@ -1,0 +1,15 @@
+{
+ "id_client":"MLHT29064640465626",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"6011874927175226",
+ "transaction_code":"QUDW38740662982089",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:43:51",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"566131.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SCR of Braavos"
+}

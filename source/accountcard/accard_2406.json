@@ -1,0 +1,15 @@
+{
+ "id_client":"ZLIC09789533085400",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4419630181152",
+ "transaction_code":"CKBD54585083017499",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"18:14:47",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"618293.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MVR of Braavos"
+}

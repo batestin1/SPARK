@@ -1,0 +1,15 @@
+{
+ "id_client":"QEIG70205431618584",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"4898558264027",
+ "transaction_code":"WEIZ36356336645252",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"12:48:50",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"723493.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PEN of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"AZMY71656499820212",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
- "status_account_blocked":"not activated",
- "card_number":"3518721051607158",
- "transaction_code":"MFOU64050879688991",
- "date_transaction":"2021-11-28",
- "time_transaction":"08:19:52",
+ "id_client":"RGTL55517408507956",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"3519922011065839",
+ "transaction_code":"TBNS82812626481749",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"11:37:25",
  "describle_transaction":"immaculate army",
- "original_transaction_amount":"3661.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"NGN of Braavos"
+ "original_transaction_amount":"446324.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
 }

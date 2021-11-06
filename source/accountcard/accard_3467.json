@@ -1,0 +1,15 @@
+{
+ "id_client":"QMIO32185885253915",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"567316073913",
+ "transaction_code":"AUGE12691997355248",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:16:58",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"929888.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MMK of Braavos"
+}

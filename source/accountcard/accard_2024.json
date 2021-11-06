@@ -1,0 +1,15 @@
+{
+ "id_client":"MWBS76040070836319",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4760965690154",
+ "transaction_code":"UAIR31887080461290",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:40:59",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"151968.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NIS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"RCMH19429656044402",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"36595066935674",
+ "transaction_code":"BVUP59751186001662",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"19:28:50",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"183441.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SRD of Braavos"
+}

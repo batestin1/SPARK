@@ -1,15 +1,15 @@
 {
- "id_client":"WFGF33405129637971",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
- "status_account_blocked":"not activated",
- "card_number":"3546256789496414",
- "transaction_code":"ZEBO49843677798115",
- "date_transaction":"2021-11-18",
- "time_transaction":"15:47:26",
- "describle_transaction":"Tribute to the Gods",
- "original_transaction_amount":"576600.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"ETB of Braavos"
+ "id_client":"ROOT59143076353030",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"503857193935",
+ "transaction_code":"XYPX10762277506179",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"03:05:52",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"621642.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MKD of Braavos"
 }

@@ -1,15 +1,15 @@
 {
- "id_client":"YSEM43854545678521",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "status_account_blocked":"activated",
- "card_number":"639020129602",
- "transaction_code":"CNWI20058650028045",
- "date_transaction":"2021-11-18",
- "time_transaction":"23:11:18",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"896515.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"WST of Braavos"
+ "id_client":"SZYX37349529895037",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"501854683973",
+ "transaction_code":"PSTM53672288488847",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"00:04:56",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"835449.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"TJS of Braavos"
 }

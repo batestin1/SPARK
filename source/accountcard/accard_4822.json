@@ -1,0 +1,15 @@
+{
+ "id_client":"PRCV95194468754363",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4601223706661629",
+ "transaction_code":"GSWD12339342577193",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"13:02:19",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"738030.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"RUB of Braavos"
+}

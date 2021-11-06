@@ -1,0 +1,15 @@
+{
+ "id_client":"QQPL75652429524240",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4706406301338354",
+ "transaction_code":"LPBX68312688413802",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"16:17:52",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"123818.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"VND of Braavos"
+}

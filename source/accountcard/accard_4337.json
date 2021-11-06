@@ -1,0 +1,15 @@
+{
+ "id_client":"SFKX04868355562655",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"4402902009589469",
+ "transaction_code":"LPAB17237334556663",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"06:09:04",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"419862.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LBP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"DSQR87891696663224",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"6011186689821305",
+ "transaction_code":"AZJQ77557997379966",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"18:02:36",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"11893.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"XCD of Braavos"
+}

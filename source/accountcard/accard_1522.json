@@ -1,0 +1,15 @@
+{
+ "id_client":"VBYF51291574351419",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"4835255194650381",
+ "transaction_code":"JAWO49522527906629",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"04:18:06",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"377659.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SDG of Braavos"
+}

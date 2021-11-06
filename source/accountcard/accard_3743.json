@@ -1,0 +1,15 @@
+{
+ "id_client":"KVXW55751923810246",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4792736122194130",
+ "transaction_code":"BEGD96099995224493",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"20:02:10",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"361070.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"TZS of Braavos"
+}

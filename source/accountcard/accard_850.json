@@ -1,15 +1,15 @@
 {
- "id_client":"SEAD98383946465911",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"not activated",
- "card_number":"6534404962502106",
- "transaction_code":"GKCO29832821887353",
+ "id_client":"KMVL91131942895026",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"341422788939233",
+ "transaction_code":"YQCU29105446988611",
  "date_transaction":"2021-11-30",
- "time_transaction":"11:29:00",
- "describle_transaction":"theater",
- "original_transaction_amount":"42381.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"SEK of Braavos"
+ "time_transaction":"04:34:29",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"297912.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CDF of Braavos"
 }

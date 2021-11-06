@@ -1,15 +1,15 @@
 {
- "id_client":"MLOQ26793869726390",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"RHUN77208082067739",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"not activated",
- "card_number":"38959514943698",
- "transaction_code":"PCNT37346557212199",
- "date_transaction":"2021-11-26",
- "time_transaction":"14:55:08",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"653451.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"THB of Braavos"
+ "card_number":"3533179171083621",
+ "transaction_code":"XLAV91822448927229",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"15:04:20",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"636835.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HUF of Braavos"
 }

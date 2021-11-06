@@ -1,0 +1,15 @@
+{
+ "id_client":"QUQR00867731707009",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"activated",
+ "card_number":"4949101316540592",
+ "transaction_code":"JTED10594495755634",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"11:12:49",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"132802.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"GHS of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"KQCP28285554569735",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"2659047872112926",
+ "transaction_code":"AFHY49201123243491",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"13:24:37",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"443955.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"USD of Braavos"
+}

@@ -1,12 +1,12 @@
 {
- "id_client":"NWNM45396139822059",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
- "card_number":"not activated",
- "total_limit_value":"791510.0",
- "limit_value_available":"773866.0",
- "total_limit_used":"17644.0",
+ "id_client":"OBRJ11313011395019",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "card_number":"activated",
+ "total_limit_value":"912883.0",
+ "limit_value_available":"862105.0",
+ "total_limit_used":"50778.0",
  "description_card":"American Express",
- "security_card":"329",
- "expire_card_number":"04/26"
+ "security_card":"451",
+ "expire_card_number":"07/30"
 }

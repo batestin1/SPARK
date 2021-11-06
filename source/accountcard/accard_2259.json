@@ -1,0 +1,15 @@
+{
+ "id_client":"HXSW13430461900832",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"503840775517",
+ "transaction_code":"VPAV37556360042243",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"23:58:28",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"808600.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KES of Braavos"
+}

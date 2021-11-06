@@ -1,12 +1,12 @@
 {
- "id_client":"NCQV02544066172898",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"TFPQ35754562299083",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "card_number":"activated",
- "total_limit_value":"326654.0",
- "limit_value_available":"316437.0",
- "total_limit_used":"10217.0",
- "description_card":"VISA 19 digit",
- "security_card":"850",
- "expire_card_number":"01/22"
+ "total_limit_value":"789459.0",
+ "limit_value_available":"764662.0",
+ "total_limit_used":"24797.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"113",
+ "expire_card_number":"08/29"
 }

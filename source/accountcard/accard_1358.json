@@ -1,0 +1,15 @@
+{
+ "id_client":"KJVO76214751802246",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"activated",
+ "card_number":"6011043922873876",
+ "transaction_code":"RUVX90218498186886",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"16:24:20",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"375383.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"AED of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"AGOK87199798347088",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4999830754694136",
+ "transaction_code":"ZBVZ86969615431895",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"04:19:45",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"79412.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TND of Braavos"
+}

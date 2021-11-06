@@ -1,0 +1,15 @@
+{
+ "id_client":"NMMJ37430525570969",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4482424353163",
+ "transaction_code":"XFNB92489734632918",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"03:24:47",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"18085.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BZD of Braavos"
+}

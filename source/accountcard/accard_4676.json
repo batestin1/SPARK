@@ -1,0 +1,15 @@
+{
+ "id_client":"SXOX01900418226805",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4183282217686661",
+ "transaction_code":"TUET17257494241381",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"14:05:38",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"12586.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BND of Braavos"
+}

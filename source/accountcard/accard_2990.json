@@ -1,0 +1,15 @@
+{
+ "id_client":"KKZC80856953113273",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"30284883286829",
+ "transaction_code":"OATU40188421438109",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"14:02:59",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"646148.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MDL of Braavos"
+}

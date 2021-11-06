@@ -1,0 +1,15 @@
+{
+ "id_client":"QNAA47835664608781",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4738778615343722",
+ "transaction_code":"DLBL35326492731444",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"23:05:19",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"973555.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JPY of Braavos"
+}

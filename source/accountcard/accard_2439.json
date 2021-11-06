@@ -1,0 +1,15 @@
+{
+ "id_client":"IEHQ36446501377520",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"347989889136616",
+ "transaction_code":"HJBK91147516375844",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"00:16:32",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"123261.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"UAH of Braavos"
+}

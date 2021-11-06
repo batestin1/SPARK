@@ -1,0 +1,15 @@
+{
+ "id_client":"IRWE30075357416520",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"213166750985220",
+ "transaction_code":"OADJ17415595866988",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"20:27:39",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"164641.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CLP of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"QAOJ98601119148426",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4172094070198392",
+ "transaction_code":"QOQD08292167873737",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"22:41:56",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"82421.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"DOP of Braavos"
+}

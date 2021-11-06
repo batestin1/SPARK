@@ -1,15 +1,15 @@
 {
- "id_client":"HMXC90696523631423",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
+ "id_client":"RYRN06808491973697",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "status_account_blocked":"not activated",
- "card_number":"4527648580047688",
- "transaction_code":"XZVT04138233923062",
- "date_transaction":"2021-11-08",
- "time_transaction":"13:31:14",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"996148.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"LKR of Braavos"
+ "card_number":"340285305147809",
+ "transaction_code":"SFEB49405601247123",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"14:36:43",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"892725.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"SYP of Braavos"
 }

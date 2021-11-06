@@ -1,0 +1,15 @@
+{
+ "id_client":"VMUH87249326622558",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"6599579737218096",
+ "transaction_code":"MXGU86592909935061",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:35:12",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"167787.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"CLP of Braavos"
+}

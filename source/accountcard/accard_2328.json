@@ -1,0 +1,15 @@
+{
+ "id_client":"PQLX63450109974673",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"not activated",
+ "card_number":"180032138438960",
+ "transaction_code":"HGKP75147523243630",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"06:03:54",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"671571.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GEL of Braavos"
+}

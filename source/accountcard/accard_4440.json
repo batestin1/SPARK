@@ -1,0 +1,15 @@
+{
+ "id_client":"ODFQ78554469795132",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4032240950602694",
+ "transaction_code":"QJLH98595925276364",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"11:44:30",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"171146.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"ETB of Braavos"
+}

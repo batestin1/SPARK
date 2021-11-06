@@ -1,0 +1,15 @@
+{
+ "id_client":"GBNI69101864823442",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"4177270553567221",
+ "transaction_code":"TTST79109456157753",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"12:28:21",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"901218.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"GMD of Braavos"
+}

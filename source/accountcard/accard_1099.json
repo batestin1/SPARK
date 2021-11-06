@@ -1,15 +1,15 @@
 {
- "id_client":"QSLR23478709212265",
- "yearmonthday":"20211118",
- "_yearmonthday":"20211118",
- "status_account_blocked":"not activated",
- "card_number":"4378659420065699",
- "transaction_code":"AHRW36968987398874",
- "date_transaction":"2021-11-25",
- "time_transaction":"03:03:00",
- "describle_transaction":"brothel",
- "original_transaction_amount":"895953.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"PEN of Braavos"
+ "id_client":"HQHY56494007503586",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"2417099319529744",
+ "transaction_code":"VRXY16022717663844",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"08:20:05",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"823639.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BAM of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"OUYF12133616679589",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"372938152752581",
+ "transaction_code":"JMMF99312872196809",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"07:00:34",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"965649.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SBD of Braavos"
+}

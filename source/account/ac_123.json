@@ -1,11 +1,11 @@
 {
- "id_client":"ERBF03506501949618",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"IFKG27919887485470",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "bank":"Braavos",
  "account_type":"salary bill",
  "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"YMLE60661078705092",
- "aba":"090682089"
+ "account_status":"not activated",
+ "bban_count":"ICOH36143322954583",
+ "aba":"034942830"
 }

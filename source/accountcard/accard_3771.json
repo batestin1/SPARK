@@ -1,0 +1,15 @@
+{
+ "id_client":"XHLH92789159194254",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"6011200479819898",
+ "transaction_code":"CENA07128248355160",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:45:01",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"655545.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SDG of Braavos"
+}

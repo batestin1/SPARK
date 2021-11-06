@@ -1,0 +1,15 @@
+{
+ "id_client":"VABR21302340794793",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4499573454118357488",
+ "transaction_code":"DBUJ25497215488327",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"19:38:49",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"315459.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"BIF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"PIMA17082649260996",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"3590858152976164",
+ "transaction_code":"YTNL93130262569085",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"17:50:30",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"282307.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TOP of Braavos"
+}

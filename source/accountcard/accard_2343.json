@@ -1,0 +1,15 @@
+{
+ "id_client":"XBKC37484381599968",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4394219511256101",
+ "transaction_code":"HSYF82924049765547",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"00:29:43",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"633406.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LRD of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"KHWJ94598303395854",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"5491196048508569",
+ "transaction_code":"IXOC89544134501238",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"18:22:51",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"866528.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"IMP of Braavos"
+}

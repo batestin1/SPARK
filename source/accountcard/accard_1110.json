@@ -1,15 +1,15 @@
 {
- "id_client":"GXGU39736323709636",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
- "status_account_blocked":"not activated",
- "card_number":"4481327410490957862",
- "transaction_code":"FJSQ57272513751832",
- "date_transaction":"2021-11-12",
- "time_transaction":"11:06:06",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"685897.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"RUB of Braavos"
+ "id_client":"OZOM99929467948088",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"4332070604511398",
+ "transaction_code":"HRMD13003057047204",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"13:57:44",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"221369.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MKD of Braavos"
 }

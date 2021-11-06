@@ -1,12 +1,12 @@
 {
- "id_client":"CECF38378700471749",
+ "id_client":"OBOY53996013856005",
  "yearmonthday":"20211112",
  "_yearmonthday":"20211112",
  "card_number":"not activated",
- "total_limit_value":"507732.0",
- "limit_value_available":"420949.0",
- "total_limit_used":"86783.0",
- "description_card":"VISA 19 digit",
- "security_card":"869",
- "expire_card_number":"07/24"
+ "total_limit_value":"333186.0",
+ "limit_value_available":"287297.0",
+ "total_limit_used":"45889.0",
+ "description_card":"American Express",
+ "security_card":"509",
+ "expire_card_number":"02/27"
 }

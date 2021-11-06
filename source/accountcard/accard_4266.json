@@ -1,0 +1,15 @@
+{
+ "id_client":"PRGP59863682312387",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"36958181335594",
+ "transaction_code":"KEXO53347880409174",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"08:12:06",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"815064.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BHD of Braavos"
+}

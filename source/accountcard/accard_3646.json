@@ -1,0 +1,15 @@
+{
+ "id_client":"LOSA64280076795520",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"4221842640983755",
+ "transaction_code":"RLRS24848892462288",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"23:43:51",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"602002.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NGN of Braavos"
+}

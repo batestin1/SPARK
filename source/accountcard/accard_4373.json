@@ -1,0 +1,15 @@
+{
+ "id_client":"ZUIF22999040287707",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3559354410331375",
+ "transaction_code":"TBHH26750309105717",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"17:40:56",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"317300.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"AUD of Braavos"
+}

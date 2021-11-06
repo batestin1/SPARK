@@ -1,10 +1,10 @@
 {
- "id_client":"HRPC13188695694793",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
- "rent_income_value":"+33852.0",
- "description_chosen_income_method":"+205117.0",
- "total_account_value":"1300846.0",
- "current_account_total_value":"736278.0",
- "total_amount_carried_over":"564568.0"
+ "id_client":"UDDA78531158143609",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "rent_income_value":"+277010.0",
+ "description_chosen_income_method":"-198247.0",
+ "total_account_value":"4539216.0",
+ "current_account_total_value":"4053080.0",
+ "total_amount_carried_over":"486136.0"
 }

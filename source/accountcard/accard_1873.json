@@ -1,0 +1,15 @@
+{
+ "id_client":"JEBT43329192229953",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4987555252893",
+ "transaction_code":"VDRJ48125389065012",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"16:03:26",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"541707.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KRW of Braavos"
+}

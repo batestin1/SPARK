@@ -1,0 +1,15 @@
+{
+ "id_client":"VCMS86843554330854",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"activated",
+ "card_number":"4066306492717289612",
+ "transaction_code":"LNRB22677310481804",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"12:21:06",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"638027.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"IDR of Braavos"
+}

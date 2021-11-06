@@ -1,15 +1,15 @@
 {
- "id_client":"KHHP59003047808262",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"MEDL59226649989102",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"213198030847656",
- "transaction_code":"JVHB27795854065824",
- "date_transaction":"2021-11-26",
- "time_transaction":"23:44:21",
- "describle_transaction":"theater",
- "original_transaction_amount":"210052.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"BMD of Braavos"
+ "card_number":"501891863521",
+ "transaction_code":"MGFG18625451846073",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"21:51:49",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"106276.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"MVR of Braavos"
 }

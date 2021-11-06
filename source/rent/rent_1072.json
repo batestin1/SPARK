@@ -1,10 +1,10 @@
 {
- "id_client":"NZNN64030289958370",
- "yearmonthday":"20211115",
- "_yearmonthday":"20211115",
- "rent_income_value":"+846872.0",
- "description_chosen_income_method":"+702755.0",
- "total_account_value":"3976367.0",
- "current_account_total_value":"3448859.0",
- "total_amount_carried_over":"527508.0"
+ "id_client":"AMTF74361175484096",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "rent_income_value":"-191419.0",
+ "description_chosen_income_method":"-510318.0",
+ "total_account_value":"8962917.0",
+ "current_account_total_value":"8835847.0",
+ "total_amount_carried_over":"127070.0"
 }

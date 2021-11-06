@@ -1,0 +1,15 @@
+{
+ "id_client":"CDGG75086865218965",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"3592379738956859",
+ "transaction_code":"PKRB14925049998704",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"00:45:10",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"968956.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"MAD of Braavos"
+}

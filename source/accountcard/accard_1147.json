@@ -1,15 +1,15 @@
 {
- "id_client":"HBIR24235163958732",
- "yearmonthday":"20211109",
- "_yearmonthday":"20211109",
+ "id_client":"BKNY35742608385251",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
  "status_account_blocked":"not activated",
- "card_number":"4131832973822141",
- "transaction_code":"VQQF68056082780437",
- "date_transaction":"2021-11-07",
- "time_transaction":"17:45:23",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"955561.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"HNL of Braavos"
+ "card_number":"4356409462646212",
+ "transaction_code":"GKGA63125741987125",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"20:28:25",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"955330.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"PAB of Braavos"
 }

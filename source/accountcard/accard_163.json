@@ -1,15 +1,15 @@
 {
- "id_client":"CAQW85115053297657",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
- "status_account_blocked":"not activated",
- "card_number":"4461233103273810706",
- "transaction_code":"PIJQ80151428152488",
- "date_transaction":"2021-11-24",
- "time_transaction":"21:23:04",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"165958.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"NIO of Braavos"
+ "id_client":"LWHP99859295815632",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"activated",
+ "card_number":"3511413828362526",
+ "transaction_code":"AMBL99477801677152",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"06:46:36",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"706785.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"WST of Braavos"
 }

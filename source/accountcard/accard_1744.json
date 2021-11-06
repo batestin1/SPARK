@@ -1,0 +1,15 @@
+{
+ "id_client":"NWDS54855762984475",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"6549275809297990",
+ "transaction_code":"WMJG00007556423546",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"00:43:29",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"713812.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ZAR of Braavos"
+}

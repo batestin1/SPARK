@@ -1,0 +1,15 @@
+{
+ "id_client":"ONVP21181745859974",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"activated",
+ "card_number":"4543328722249",
+ "transaction_code":"RWKV69891076419540",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"19:38:29",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"135019.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BND of Braavos"
+}

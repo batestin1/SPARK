@@ -1,0 +1,15 @@
+{
+ "id_client":"OLSH51200154436197",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"4738179573194571",
+ "transaction_code":"ZERK48955692337354",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"04:20:20",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"663444.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"CNY of Braavos"
+}

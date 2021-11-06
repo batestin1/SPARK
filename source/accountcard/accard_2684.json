@@ -1,0 +1,15 @@
+{
+ "id_client":"LIOI86760664463505",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"3572895403729739",
+ "transaction_code":"DMXM72717225018354",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"04:22:15",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"158961.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MYR of Braavos"
+}

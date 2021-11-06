@@ -1,0 +1,15 @@
+{
+ "id_client":"IESC74160703822638",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"343473285832601",
+ "transaction_code":"YXVL27918428219508",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"09:04:32",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"384040.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"RUB of Braavos"
+}

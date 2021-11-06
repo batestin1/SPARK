@@ -1,0 +1,15 @@
+{
+ "id_client":"MPFR78280710370804",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"4478144867241178105",
+ "transaction_code":"VVWB37881589966592",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"01:20:35",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"158682.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CUC of Braavos"
+}

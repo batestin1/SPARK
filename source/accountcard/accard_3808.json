@@ -1,0 +1,15 @@
+{
+ "id_client":"OFDP07933175326394",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"639030504893",
+ "transaction_code":"SBVU27113191654785",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"12:49:59",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"359648.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"DZD of Braavos"
+}

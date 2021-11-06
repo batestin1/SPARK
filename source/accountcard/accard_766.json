@@ -1,15 +1,15 @@
 {
- "id_client":"FVCX20965399443390",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "status_account_blocked":"not activated",
- "card_number":"4746005462888158723",
- "transaction_code":"NBRL40922792634340",
- "date_transaction":"2021-11-09",
- "time_transaction":"15:39:12",
- "describle_transaction":"royal forgiveness",
- "original_transaction_amount":"68162.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"PLN of Braavos"
+ "id_client":"VBLW59862484924076",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"180099659921542",
+ "transaction_code":"EOOF03467607290553",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"23:52:58",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"538938.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"SDG of Braavos"
 }

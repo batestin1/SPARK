@@ -1,11 +1,11 @@
 {
- "id_client":"UESU59752751734581",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"PSJE56916792125326",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
  "bank":"Braavos",
  "account_type":"salary bill",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"OFIK43421078534547",
- "aba":"095771622"
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"YMUW54354205541796",
+ "aba":"040104745"
 }

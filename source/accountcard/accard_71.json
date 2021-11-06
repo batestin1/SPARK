@@ -1,15 +1,15 @@
 {
- "id_client":"UOIM85800879059604",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"NAVT35063709289673",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "status_account_blocked":"not activated",
- "card_number":"4980859147430",
- "transaction_code":"QAYK59579434187925",
- "date_transaction":"2021-12-04",
- "time_transaction":"19:12:01",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"436518.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"OMR of Braavos"
+ "card_number":"3506697510928522",
+ "transaction_code":"AWYI40683733582354",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"14:59:16",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"83188.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KMF of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"RDFS59511143760885",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"4810984978062",
+ "transaction_code":"HLOY49620225751357",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"18:33:44",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"538772.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MNT of Braavos"
+}

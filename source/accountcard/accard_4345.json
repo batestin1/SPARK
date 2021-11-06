@@ -1,0 +1,15 @@
+{
+ "id_client":"IUKN43917517086290",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"180056614984874",
+ "transaction_code":"XAKC76512369084267",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"12:25:06",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"380312.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ALL of Braavos"
+}

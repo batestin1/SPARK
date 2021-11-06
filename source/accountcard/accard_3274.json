@@ -1,0 +1,15 @@
+{
+ "id_client":"CKXO29236108546977",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"3582210825491728",
+ "transaction_code":"SYQK76274660056990",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"10:59:35",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"346264.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SCR of Braavos"
+}

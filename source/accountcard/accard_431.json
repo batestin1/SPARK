@@ -1,15 +1,15 @@
 {
- "id_client":"SFFX35184684460805",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"DHPW25221025406331",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "status_account_blocked":"not activated",
- "card_number":"341056651172322",
- "transaction_code":"JNFT37131532741948",
- "date_transaction":"2021-11-08",
- "time_transaction":"15:22:08",
- "describle_transaction":"golden company",
- "original_transaction_amount":"403865.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"STD of Braavos"
+ "card_number":"2277930440994390",
+ "transaction_code":"DMFF83089955018297",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"03:32:11",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"57690.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"NGN of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"VARF37119070053351",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"activated",
+ "card_number":"675951050029",
+ "transaction_code":"QPGT53059785501247",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"18:17:40",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"787876.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"CDF of Braavos"
+}

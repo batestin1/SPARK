@@ -1,11 +1,11 @@
 {
- "id_client":"EKMC81687230917288",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
+ "id_client":"VRGI92384418240204",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"XIFN06389119226080",
- "aba":"069700371"
+ "account_type":"savings account",
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"XGLY69154897256314",
+ "aba":"098847633"
 }

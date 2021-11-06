@@ -1,0 +1,15 @@
+{
+ "id_client":"FBPC18843593060602",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"5353220738478235",
+ "transaction_code":"NAVA79328636135631",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"06:14:14",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"739962.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"OMR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"CHUD00328542310417",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4248741242195298",
+ "transaction_code":"HAXV06845495467936",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"07:17:55",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"254469.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"DOP of Braavos"
+}

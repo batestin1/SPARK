@@ -1,0 +1,15 @@
+{
+ "id_client":"NMYM18765893372341",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"activated",
+ "card_number":"3585568751706543",
+ "transaction_code":"UICB17929789241742",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"08:42:33",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"252256.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LSL of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"BVUN09679894983602",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"3572049704643401",
+ "transaction_code":"DNBT77561594906594",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"10:46:03",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"334043.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"EGP of Braavos"
+}

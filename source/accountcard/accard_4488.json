@@ -1,0 +1,15 @@
+{
+ "id_client":"MZGD79311113654279",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4436759686872323",
+ "transaction_code":"ZTXZ65488130546755",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"00:53:43",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"980605.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"INR of Braavos"
+}

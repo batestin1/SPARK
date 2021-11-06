@@ -1,10 +1,10 @@
 {
- "id_client":"COBS09747140339562",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "rent_income_value":"+909260.0",
- "description_chosen_income_method":"+13281.0",
- "total_account_value":"8617849.0",
- "current_account_total_value":"7974296.0",
- "total_amount_carried_over":"643553.0"
+ "id_client":"XTJC69347378021238",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "rent_income_value":"-626648.0",
+ "description_chosen_income_method":"+359954.0",
+ "total_account_value":"1520995.0",
+ "current_account_total_value":"1405329.0",
+ "total_amount_carried_over":"115666.0"
 }

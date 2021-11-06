@@ -1,0 +1,15 @@
+{
+ "id_client":"BIPV38255543249463",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"180048251266285",
+ "transaction_code":"PWLJ59229475279786",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"12:00:45",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"834723.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SGD of Braavos"
+}

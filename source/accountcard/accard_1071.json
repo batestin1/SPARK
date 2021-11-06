@@ -1,15 +1,15 @@
 {
- "id_client":"HZKE97881992252444",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"XTMU51229561327791",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
  "status_account_blocked":"not activated",
- "card_number":"3552604087028267",
- "transaction_code":"YMDL77085095362996",
- "date_transaction":"2021-11-09",
- "time_transaction":"15:39:23",
- "describle_transaction":"hill wine",
- "original_transaction_amount":"496445.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"ERN of Braavos"
+ "card_number":"4151349460052",
+ "transaction_code":"FEIV58989592933422",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"05:46:42",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"50492.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"DOP of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"QCWO03586929340411",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"30195445827241",
+ "transaction_code":"EENU22494475297549",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"10:36:34",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"785310.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"STD of Braavos"
+}

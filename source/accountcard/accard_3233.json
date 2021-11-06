@@ -1,0 +1,15 @@
+{
+ "id_client":"PDWH04561509522422",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4196033664689467",
+ "transaction_code":"CASU25168546055051",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"08:48:48",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"238091.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BWP of Braavos"
+}

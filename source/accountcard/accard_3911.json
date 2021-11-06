@@ -1,0 +1,15 @@
+{
+ "id_client":"WABF44755459299391",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"30575193109159",
+ "transaction_code":"XDTU18137703245233",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"00:57:09",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"340635.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"EGP of Braavos"
+}

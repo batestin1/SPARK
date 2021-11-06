@@ -1,0 +1,15 @@
+{
+ "id_client":"BZAF99850123437706",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"activated",
+ "card_number":"2318214136906328",
+ "transaction_code":"EBAP98599075089568",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"07:18:11",
+ "describle_transaction":"night patrol army",
+ "original_transaction_amount":"604968.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"TOP of Braavos"
+}

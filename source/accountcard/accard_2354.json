@@ -1,0 +1,15 @@
+{
+ "id_client":"AZHT72655108532979",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"30025192352012",
+ "transaction_code":"IRHL44064953957274",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"08:51:41",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"680242.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"KWD of Braavos"
+}

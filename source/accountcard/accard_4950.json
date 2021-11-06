@@ -1,0 +1,15 @@
+{
+ "id_client":"JAEX13170368081139",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "status_account_blocked":"not activated",
+ "card_number":"4925326393807996509",
+ "transaction_code":"XVLB99023240048912",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"16:29:23",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"390755.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"EUR of Braavos"
+}

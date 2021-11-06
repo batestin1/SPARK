@@ -1,11 +1,11 @@
 {
- "id_client":"PFKP77336205939442",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"QNNN30032972681905",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Reliable",
+ "account_type":"savings account",
+ "investor_profile":"Risky",
  "account_status":"not activated",
- "bban_count":"CQYX28793883766509",
- "aba":"020601681"
+ "bban_count":"RDLO73640849069667",
+ "aba":"053291366"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"HOKQ47239070032729",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"372066083741638",
+ "transaction_code":"BYLH59488558183541",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"06:37:04",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"842210.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"MDL of Braavos"
+}

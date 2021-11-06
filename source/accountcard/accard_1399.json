@@ -1,0 +1,15 @@
+{
+ "id_client":"PFEJ96047290388110",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"3586097255177349",
+ "transaction_code":"XFVG57326038775994",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"06:03:37",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"77378.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"CRC of Braavos"
+}

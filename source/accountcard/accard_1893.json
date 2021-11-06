@@ -1,0 +1,15 @@
+{
+ "id_client":"XXEF93551508136733",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"4845699754010368597",
+ "transaction_code":"FKXQ98553911245674",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"07:18:58",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"910058.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HUF of Braavos"
+}

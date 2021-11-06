@@ -1,15 +1,15 @@
 {
- "id_client":"KUFN44590346725812",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
- "status_account_blocked":"not activated",
- "card_number":"38388992722251",
- "transaction_code":"YNQJ17794186490199",
- "date_transaction":"2021-11-08",
- "time_transaction":"04:48:46",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"72070.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"CNY of Braavos"
+ "id_client":"DNOR56903960969053",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"6011716877197306",
+ "transaction_code":"SMXP81591084343454",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"07:38:46",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"724510.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"ZWD of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"YIPX72272379656820",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"501867262856",
+ "transaction_code":"YJWG04258057780814",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"13:50:25",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"307753.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BOB of Braavos"
+}

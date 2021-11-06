@@ -1,0 +1,15 @@
+{
+ "id_client":"KMTB44614038241193",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"not activated",
+ "card_number":"36428775662001",
+ "transaction_code":"BAOG63115601696782",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"02:52:12",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"973852.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"NGN of Braavos"
+}

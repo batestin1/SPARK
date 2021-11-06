@@ -1,0 +1,15 @@
+{
+ "id_client":"SHGI14737702791360",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"30284160022509",
+ "transaction_code":"VISV80754794314958",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"23:18:02",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"35648.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GHS of Braavos"
+}

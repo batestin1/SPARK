@@ -1,15 +1,15 @@
 {
- "id_client":"NKLJ88908632777327",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
- "status_account_blocked":"not activated",
- "card_number":"180025196549280",
- "transaction_code":"HEKF71522233662733",
+ "id_client":"XILC79030055052116",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"activated",
+ "card_number":"36370994242191",
+ "transaction_code":"MGID48571622352706",
  "date_transaction":"2021-11-20",
- "time_transaction":"18:34:47",
- "describle_transaction":"Giants Army",
- "original_transaction_amount":"181074.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"KMF of Braavos"
+ "time_transaction":"07:22:54",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"722748.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HUF of Braavos"
 }

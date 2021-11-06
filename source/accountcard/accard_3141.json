@@ -1,0 +1,15 @@
+{
+ "id_client":"LRDU90137889875867",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"213144538564336",
+ "transaction_code":"BRAE54701695298585",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"02:45:31",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"478260.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KES of Braavos"
+}

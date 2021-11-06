@@ -1,0 +1,15 @@
+{
+ "id_client":"PLQJ08387958003584",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"activated",
+ "card_number":"4782725419385",
+ "transaction_code":"ERAZ46385892362488",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"11:09:21",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"860176.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"WST of Braavos"
+}

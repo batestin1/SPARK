@@ -1,0 +1,15 @@
+{
+ "id_client":"QLJM23511954396878",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
+ "status_account_blocked":"activated",
+ "card_number":"213126571853528",
+ "transaction_code":"TKMJ14475212750176",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"18:43:29",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"125882.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ZMW of Braavos"
+}

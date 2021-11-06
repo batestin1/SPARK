@@ -1,15 +1,15 @@
 {
- "id_client":"WYCT27495857862050",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
+ "id_client":"TAFT62532335378758",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "status_account_blocked":"not activated",
- "card_number":"4121797150406",
- "transaction_code":"OVUE16685389857588",
- "date_transaction":"2021-11-07",
- "time_transaction":"21:28:26",
- "describle_transaction":"immaculate army",
- "original_transaction_amount":"397319.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"MZN of Braavos"
+ "card_number":"501875196492",
+ "transaction_code":"DTPY48533009051389",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"00:56:24",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"341457.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JPY of Braavos"
 }

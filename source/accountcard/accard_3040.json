@@ -1,0 +1,15 @@
+{
+ "id_client":"TXSL51377222599441",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"630432480246",
+ "transaction_code":"NYRY62302168353672",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"08:04:01",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"126454.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ETB of Braavos"
+}

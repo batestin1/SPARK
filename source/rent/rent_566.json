@@ -1,10 +1,10 @@
 {
- "id_client":"GPWL66909779279884",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "rent_income_value":"+895593.0",
- "description_chosen_income_method":"-825857.0",
- "total_account_value":"8792342.0",
- "current_account_total_value":"8561737.0",
- "total_amount_carried_over":"230605.0"
+ "id_client":"NMMN11426278742656",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "rent_income_value":"-302172.0",
+ "description_chosen_income_method":"+197231.0",
+ "total_account_value":"8486080.0",
+ "current_account_total_value":"8220871.0",
+ "total_amount_carried_over":"265209.0"
 }

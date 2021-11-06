@@ -1,15 +1,15 @@
 {
- "id_client":"JRJL50431638925152",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"CVBH93834845611729",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
  "status_account_blocked":"not activated",
- "card_number":"3580272029927370",
- "transaction_code":"IQXR01614800537813",
- "date_transaction":"2021-11-18",
- "time_transaction":"21:09:38",
- "describle_transaction":"Loan to Finance War",
- "original_transaction_amount":"684988.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"YER of Braavos"
+ "card_number":"4968607552869730045",
+ "transaction_code":"WQHN54349964261764",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"19:34:28",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"162138.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"KMF of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"ITZJ95935002090106",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"180042078525551",
+ "transaction_code":"FHYI34336910452699",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"17:24:09",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"335491.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GHS of Braavos"
+}

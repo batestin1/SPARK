@@ -1,0 +1,15 @@
+{
+ "id_client":"PMJV88151028165842",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"344681121811782",
+ "transaction_code":"UCTE61805287080198",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"19:08:34",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"887363.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KMF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"XGQR21366770465225",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"4346356844614249",
+ "transaction_code":"EBFZ68719025488214",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"21:41:34",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"823123.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CDF of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"OSEX20347181699463",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"2285554395128943",
+ "transaction_code":"WXUF56034874618119",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:28:51",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"790317.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TWD of Braavos"
+}

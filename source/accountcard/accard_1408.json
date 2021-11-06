@@ -1,0 +1,15 @@
+{
+ "id_client":"MNME90719132467227",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"36670040031674",
+ "transaction_code":"FHCT88913359620616",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"22:42:06",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"187584.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ZMW of Braavos"
+}

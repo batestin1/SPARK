@@ -1,0 +1,15 @@
+{
+ "id_client":"TKGF30125203002223",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"30563653714767",
+ "transaction_code":"EHLS43497159087118",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"03:46:59",
+ "describle_transaction":"witchcraft",
+ "original_transaction_amount":"59889.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ILS of Braavos"
+}

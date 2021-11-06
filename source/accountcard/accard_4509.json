@@ -1,0 +1,15 @@
+{
+ "id_client":"RHAE85680625617302",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"activated",
+ "card_number":"3523040052318274",
+ "transaction_code":"AMYN71098867212656",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"18:45:57",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"622536.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"GGP of Braavos"
+}

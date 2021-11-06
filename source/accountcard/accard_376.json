@@ -1,15 +1,15 @@
 {
- "id_client":"AUZA66857939032935",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"RZMU74809346652327",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
  "status_account_blocked":"not activated",
- "card_number":"374551306555939",
- "transaction_code":"ZDOA23818381691013",
- "date_transaction":"2021-11-16",
- "time_transaction":"14:10:40",
- "describle_transaction":"horn of Joramun",
- "original_transaction_amount":"688546.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"MVR of Braavos"
+ "card_number":"340854877388966",
+ "transaction_code":"XHLP38853734014325",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"08:07:54",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"387921.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"NOK of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"KNPH77001150515065",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"6574298015603916",
+ "transaction_code":"PJQC11463296954554",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"07:00:12",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"854546.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ARS of Braavos"
+}

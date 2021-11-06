@@ -1,12 +1,12 @@
 {
- "id_client":"AEGA99413096883783",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
- "card_number":"activated",
- "total_limit_value":"355085.0",
- "limit_value_available":"320544.0",
- "total_limit_used":"34541.0",
+ "id_client":"TYKB67851573484761",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "card_number":"not activated",
+ "total_limit_value":"515025.0",
+ "limit_value_available":"488126.0",
+ "total_limit_used":"26899.0",
  "description_card":"VISA 16 digit",
- "security_card":"754",
- "expire_card_number":"02/29"
+ "security_card":"614",
+ "expire_card_number":"08/28"
 }

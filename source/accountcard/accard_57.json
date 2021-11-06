@@ -1,15 +1,15 @@
 {
- "id_client":"UPPH79523088676650",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"HQUT04731850596015",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "status_account_blocked":"not activated",
- "card_number":"675939118187",
- "transaction_code":"KTMC90137399644964",
- "date_transaction":"2021-11-11",
- "time_transaction":"20:58:00",
- "describle_transaction":"brothel",
- "original_transaction_amount":"758296.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"GNF of Braavos"
+ "card_number":"4392465932563045",
+ "transaction_code":"YXKX32455282856625",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"20:04:58",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"825250.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GEL of Braavos"
 }

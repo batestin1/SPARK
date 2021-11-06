@@ -1,0 +1,15 @@
+{
+ "id_client":"XYRB57390404895301",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"30269190514666",
+ "transaction_code":"CCRE72803971024985",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"02:31:16",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"259553.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"COP of Braavos"
+}

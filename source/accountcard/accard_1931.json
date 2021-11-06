@@ -1,0 +1,15 @@
+{
+ "id_client":"SWAZ91175991927424",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"2693719400091305",
+ "transaction_code":"GAAS14930049713288",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"03:31:24",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"160641.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"TRY of Braavos"
+}

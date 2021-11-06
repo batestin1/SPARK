@@ -1,0 +1,15 @@
+{
+ "id_client":"ACTU57499263627787",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"not activated",
+ "card_number":"6571462484923659",
+ "transaction_code":"LLSY59041439391206",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"13:47:18",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"956492.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"ALL of Braavos"
+}

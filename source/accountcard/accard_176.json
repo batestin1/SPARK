@@ -1,15 +1,15 @@
 {
- "id_client":"ALXR57311316032783",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"WUPN75688402891014",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "status_account_blocked":"not activated",
- "card_number":"5199460607053663",
- "transaction_code":"KFZI92531622226612",
- "date_transaction":"2021-11-30",
- "time_transaction":"19:55:34",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"3585.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"BIF of Braavos"
+ "card_number":"30363879375620",
+ "transaction_code":"WJDE91982993828546",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"15:00:22",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"986751.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"THB of Braavos"
 }

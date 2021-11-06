@@ -1,0 +1,15 @@
+{
+ "id_client":"HXCG81227638929568",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4011666549640180",
+ "transaction_code":"JEXO49888360706027",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"11:00:44",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"124399.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"BOB of Braavos"
+}

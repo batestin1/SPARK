@@ -1,11 +1,11 @@
 {
- "id_client":"OGAB78481843092213",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"JFIO62519059396914",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
  "bank":"Braavos",
- "account_type":"dragon account",
- "investor_profile":"Temporary",
- "account_status":"activated",
- "bban_count":"SSMN26334337144767",
- "aba":"045601396"
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
+ "account_status":"not activated",
+ "bban_count":"JDPV52457919936433",
+ "aba":"038911723"
 }

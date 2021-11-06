@@ -1,0 +1,15 @@
+{
+ "id_client":"MOAO96776219278432",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"6543293236429991",
+ "transaction_code":"VUQG40857486890740",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"20:32:41",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"944670.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"BDT of Braavos"
+}

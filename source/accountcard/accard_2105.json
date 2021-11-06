@@ -1,0 +1,15 @@
+{
+ "id_client":"ADEN12960529807030",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4217025339518910",
+ "transaction_code":"PGKA83723716180055",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"01:22:01",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"13437.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"RSD of Braavos"
+}

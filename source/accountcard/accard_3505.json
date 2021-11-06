@@ -1,0 +1,15 @@
+{
+ "id_client":"UEAH13861446934973",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"not activated",
+ "card_number":"5476167473221621",
+ "transaction_code":"TJJB29919795210249",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"22:54:47",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"47384.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MUR of Braavos"
+}

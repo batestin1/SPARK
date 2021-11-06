@@ -1,0 +1,15 @@
+{
+ "id_client":"FXHG07123677992640",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"4865463312258",
+ "transaction_code":"CCKQ97795570580234",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"06:46:15",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"660081.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"BHD of Braavos"
+}

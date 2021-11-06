@@ -1,15 +1,15 @@
 {
- "id_client":"ECFB04523715272695",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"XGQG01570240653603",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "status_account_blocked":"activated",
- "card_number":"30374778683212",
- "transaction_code":"TMMV29933295740089",
- "date_transaction":"2021-11-22",
- "time_transaction":"19:23:51",
- "describle_transaction":"wolfs",
- "original_transaction_amount":"610250.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"ARS of Braavos"
+ "card_number":"5310443459330748",
+ "transaction_code":"FCJO56470650225755",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"02:32:14",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"908427.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EGP of Braavos"
 }

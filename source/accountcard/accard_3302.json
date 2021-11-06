@@ -1,0 +1,15 @@
+{
+ "id_client":"WPDD59396386962173",
+ "yearmonthday":"20211112",
+ "_yearmonthday":"20211112",
+ "status_account_blocked":"not activated",
+ "card_number":"36536624201647",
+ "transaction_code":"ELHN06179195454301",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"16:14:16",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"804158.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"ETB of Braavos"
+}

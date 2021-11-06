@@ -1,15 +1,15 @@
 {
- "id_client":"HCIS08232214971711",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "status_account_blocked":"activated",
- "card_number":"4932570148334771",
- "transaction_code":"FFJX19945270101132",
- "date_transaction":"2021-11-19",
- "time_transaction":"03:57:37",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"635978.0",
+ "id_client":"GPKR75193549094392",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4066431656741600",
+ "transaction_code":"QVIL96710791997214",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"01:21:29",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"510841.0",
  "number_installments_assign":"3",
  "current_installment":"2",
- "currency":"LKR of Braavos"
+ "currency":"NZD of Braavos"
 }

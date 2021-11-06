@@ -1,0 +1,15 @@
+{
+ "id_client":"ZGAD23577692601464",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
+ "status_account_blocked":"activated",
+ "card_number":"2598992638985145",
+ "transaction_code":"JOKN91783354663944",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"01:22:34",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"792099.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"NZD of Braavos"
+}

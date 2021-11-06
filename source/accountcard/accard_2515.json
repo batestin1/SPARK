@@ -1,0 +1,15 @@
+{
+ "id_client":"DUAB70614198425834",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4996828088273757245",
+ "transaction_code":"TXDT62795268648584",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"19:30:26",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"843399.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BAM of Braavos"
+}

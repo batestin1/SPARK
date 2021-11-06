@@ -1,0 +1,15 @@
+{
+ "id_client":"UJPS69718125821940",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"342939414267480",
+ "transaction_code":"GDEG97566326818216",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"21:01:13",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"765802.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"KHR of Braavos"
+}

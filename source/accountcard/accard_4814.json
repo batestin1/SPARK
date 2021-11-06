@@ -1,0 +1,15 @@
+{
+ "id_client":"RBAI40071777949535",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"4826558183144022",
+ "transaction_code":"YCZN54990964185080",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"15:13:13",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"725874.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"HUF of Braavos"
+}

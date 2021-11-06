@@ -1,0 +1,15 @@
+{
+ "id_client":"IANV43025598340905",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"2222310385096343",
+ "transaction_code":"LTUA27038128062674",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"13:34:04",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"285985.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"XAF of Braavos"
+}

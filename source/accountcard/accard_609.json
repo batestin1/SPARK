@@ -1,15 +1,15 @@
 {
- "id_client":"QPPC56317676779259",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
- "status_account_blocked":"not activated",
- "card_number":"3522564027767332",
- "transaction_code":"USEW80582055839597",
- "date_transaction":"2021-11-08",
- "time_transaction":"12:05:53",
- "describle_transaction":"winter clothing",
- "original_transaction_amount":"368029.0",
- "number_installments_assign":"4",
- "current_installment":"3",
- "currency":"ZWD of Braavos"
+ "id_client":"YNQC51256233284052",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"30296280163856",
+ "transaction_code":"TVUJ14764928245713",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"18:18:38",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"808430.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LTL of Braavos"
 }

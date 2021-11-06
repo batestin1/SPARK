@@ -1,12 +1,12 @@
 {
- "id_client":"VINA51712001457684",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"EKIV87711745253948",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
  "card_number":"activated",
- "total_limit_value":"868619.0",
- "limit_value_available":"849244.0",
- "total_limit_used":"19375.0",
- "description_card":"VISA 13 digit",
- "security_card":"6772",
- "expire_card_number":"06/23"
+ "total_limit_value":"379713.0",
+ "limit_value_available":"366774.0",
+ "total_limit_used":"12939.0",
+ "description_card":"VISA 16 digit",
+ "security_card":"859",
+ "expire_card_number":"03/22"
 }

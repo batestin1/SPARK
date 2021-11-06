@@ -1,0 +1,15 @@
+{
+ "id_client":"BBTA74331125381324",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"3563455599565719",
+ "transaction_code":"YPHX45625609805786",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"12:06:59",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"887335.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"ANG of Braavos"
+}

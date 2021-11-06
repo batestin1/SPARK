@@ -1,0 +1,15 @@
+{
+ "id_client":"CJCT43344696950217",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"213184398747225",
+ "transaction_code":"MFBJ61890328490274",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"16:14:00",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"416482.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GEL of Braavos"
+}

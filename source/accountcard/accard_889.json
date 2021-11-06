@@ -1,15 +1,15 @@
 {
- "id_client":"YVKG92304079578809",
- "yearmonthday":"20211204",
- "_yearmonthday":"20211204",
- "status_account_blocked":"activated",
- "card_number":"213130518373954",
- "transaction_code":"LEGO35392548190855",
- "date_transaction":"2021-11-30",
- "time_transaction":"04:12:17",
- "describle_transaction":"ships",
- "original_transaction_amount":"315275.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"KHR of Braavos"
+ "id_client":"ZBMS97830341520957",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"2626643355770386",
+ "transaction_code":"VIXQ01297480425315",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"16:16:39",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"456945.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TMT of Braavos"
 }

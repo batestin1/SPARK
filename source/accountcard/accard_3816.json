@@ -1,0 +1,15 @@
+{
+ "id_client":"GGCW59832867767533",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"activated",
+ "card_number":"343135026513390",
+ "transaction_code":"BOIW10062665802786",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"09:07:26",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"728130.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"NAD of Braavos"
+}

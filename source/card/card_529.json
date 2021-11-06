@@ -1,12 +1,12 @@
 {
- "id_client":"SIAF22307176314308",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"EBFX98607406954656",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "card_number":"activated",
- "total_limit_value":"55813.0",
- "limit_value_available":"27938.0",
- "total_limit_used":"27875.0",
- "description_card":"Mastercard",
- "security_card":"633",
- "expire_card_number":"08/30"
+ "total_limit_value":"789853.0",
+ "limit_value_available":"783856.0",
+ "total_limit_used":"5997.0",
+ "description_card":"JCB 15 digit",
+ "security_card":"0512",
+ "expire_card_number":"02/23"
 }

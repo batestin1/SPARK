@@ -1,15 +1,15 @@
 {
- "id_client":"KZKX39571357812531",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
- "status_account_blocked":"activated",
- "card_number":"6011285635556104",
- "transaction_code":"BNWP90509089880704",
- "date_transaction":"2021-11-24",
- "time_transaction":"01:09:25",
- "describle_transaction":"witchcraft",
- "original_transaction_amount":"558258.0",
+ "id_client":"PTEM89459901336937",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"4332427034425440218",
+ "transaction_code":"YPSR22947466802453",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"12:19:19",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"28706.0",
  "number_installments_assign":"7",
  "current_installment":"6",
- "currency":"ZAR of Braavos"
+ "currency":"CAD of Braavos"
 }

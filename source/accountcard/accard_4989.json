@@ -1,0 +1,15 @@
+{
+ "id_client":"GPQE16031715412916",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"213101169213732",
+ "transaction_code":"VVSJ91828981357351",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"20:57:29",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"464018.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"UYU of Braavos"
+}

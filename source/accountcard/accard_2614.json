@@ -1,0 +1,15 @@
+{
+ "id_client":"EPXM09122311965215",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"3515425331843574",
+ "transaction_code":"YMKK22204699206538",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"12:46:13",
+ "describle_transaction":"army of the dead",
+ "original_transaction_amount":"220718.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"MOP of Braavos"
+}

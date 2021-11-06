@@ -1,0 +1,15 @@
+{
+ "id_client":"NGMX68060512902852",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4761961943113682",
+ "transaction_code":"BOQV04506608853008",
+ "date_transaction":"2021-11-17",
+ "time_transaction":"03:57:49",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"6325.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"SGD of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"TWVZ26816800585446",
- "yearmonthday":"20211130",
- "_yearmonthday":"20211130",
+ "id_client":"ZPAA74832274780336",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
  "status_account_blocked":"activated",
- "card_number":"4886388821325354",
- "transaction_code":"CWAG12113169993107",
- "date_transaction":"2021-11-22",
- "time_transaction":"18:08:06",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"548192.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"BND of Braavos"
+ "card_number":"4617980461906158",
+ "transaction_code":"QFJD40390838385109",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"15:41:46",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"46210.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"FJD of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"EUCS74915514736745",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
+ "status_account_blocked":"not activated",
+ "card_number":"676372904000",
+ "transaction_code":"EANE39269084539336",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"18:42:10",
+ "describle_transaction":"Royal Guard army",
+ "original_transaction_amount":"971086.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"SGD of Braavos"
+}

@@ -1,15 +1,15 @@
 {
- "id_client":"IKSP19072175576548",
- "yearmonthday":"20211121",
- "_yearmonthday":"20211121",
- "status_account_blocked":"activated",
- "card_number":"4865903399961013543",
- "transaction_code":"QAXK98584619473498",
- "date_transaction":"2021-12-04",
- "time_transaction":"17:47:55",
- "describle_transaction":"Royal Guard army",
- "original_transaction_amount":"247790.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"SLL of Braavos"
+ "id_client":"VNFR84249283534949",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"4051648451465",
+ "transaction_code":"KKQI32404068263317",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"15:36:58",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"411814.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"SCR of Braavos"
 }

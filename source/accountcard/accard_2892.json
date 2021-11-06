@@ -1,0 +1,15 @@
+{
+ "id_client":"RNHT14011514873032",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"630462565825",
+ "transaction_code":"XJFZ02276544506114",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"08:37:34",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"811390.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"KMF of Braavos"
+}

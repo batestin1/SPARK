@@ -1,0 +1,15 @@
+{
+ "id_client":"HCSO39812885287626",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"376322451296747",
+ "transaction_code":"OWCE53047012258236",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"13:50:10",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"824636.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"TJS of Braavos"
+}

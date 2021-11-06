@@ -1,0 +1,15 @@
+{
+ "id_client":"FHPS40676037805880",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"341469432281132",
+ "transaction_code":"ZWYL03655367475327",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"13:39:06",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"56662.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"BZD of Braavos"
+}

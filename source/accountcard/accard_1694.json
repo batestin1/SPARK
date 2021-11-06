@@ -1,0 +1,15 @@
+{
+ "id_client":"BIQJ52014847604346",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"345986250752312",
+ "transaction_code":"QQVU49831751046582",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"00:49:23",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"376072.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JOD of Braavos"
+}

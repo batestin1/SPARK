@@ -1,12 +1,12 @@
 {
- "id_client":"FIRU59059880009510",
- "yearmonthday":"20211116",
- "_yearmonthday":"20211116",
+ "id_client":"LBHS77061430358227",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "card_number":"activated",
- "total_limit_value":"522917.0",
- "limit_value_available":"461714.0",
- "total_limit_used":"61203.0",
- "description_card":"VISA 13 digit",
- "security_card":"103",
- "expire_card_number":"08/30"
+ "total_limit_value":"15170.0",
+ "limit_value_available":"-31689.0",
+ "total_limit_used":"46859.0",
+ "description_card":"JCB 16 digit",
+ "security_card":"546",
+ "expire_card_number":"11/31"
 }

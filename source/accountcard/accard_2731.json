@@ -1,0 +1,15 @@
+{
+ "id_client":"ATQC21604956917934",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4453661834814900",
+ "transaction_code":"HNEM34060498729955",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"00:27:14",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"447741.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"PKR of Braavos"
+}

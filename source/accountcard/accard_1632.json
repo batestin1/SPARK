@@ -1,0 +1,15 @@
+{
+ "id_client":"ULAO70141625885828",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"not activated",
+ "card_number":"6011156129506147",
+ "transaction_code":"GLKV15040018095453",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"06:44:02",
+ "describle_transaction":"Iron Island Men's Fleet",
+ "original_transaction_amount":"996485.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"RUB of Braavos"
+}

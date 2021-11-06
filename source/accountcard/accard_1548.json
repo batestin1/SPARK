@@ -1,0 +1,15 @@
+{
+ "id_client":"HTMG07139458975454",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4804623327608641",
+ "transaction_code":"EBHM12006125443857",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"23:05:04",
+ "describle_transaction":"Giants Army",
+ "original_transaction_amount":"679331.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"LRD of Braavos"
+}

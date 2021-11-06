@@ -1,0 +1,15 @@
+{
+ "id_client":"CLRB02655058493649",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"not activated",
+ "card_number":"3511339405039205",
+ "transaction_code":"TDSN47691545748221",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"02:04:31",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"974766.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"VND of Braavos"
+}

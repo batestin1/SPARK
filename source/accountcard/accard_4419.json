@@ -1,0 +1,15 @@
+{
+ "id_client":"FDFL50831377347268",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4233048301625968",
+ "transaction_code":"KRCK63864891903905",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"14:07:05",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"156880.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ALL of Braavos"
+}

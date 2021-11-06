@@ -1,0 +1,15 @@
+{
+ "id_client":"VEIU48681687033966",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"3574709965701218",
+ "transaction_code":"DSPP00439548309752",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"10:45:56",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"127067.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"HRK of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"FFNN06951983047726",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4492621453949323",
+ "transaction_code":"RMXT18910372858738",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"10:52:57",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"296687.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MRO of Braavos"
+}

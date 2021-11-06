@@ -1,0 +1,15 @@
+{
+ "id_client":"FBMC72148380508448",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"2484880961448731",
+ "transaction_code":"WFYG19184128559864",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"15:40:06",
+ "describle_transaction":"royal forgiveness",
+ "original_transaction_amount":"58134.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"VND of Braavos"
+}

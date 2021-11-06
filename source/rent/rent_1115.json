@@ -1,10 +1,10 @@
 {
- "id_client":"TPBX74591918603209",
- "yearmonthday":"20211202",
- "_yearmonthday":"20211202",
- "rent_income_value":"+342352.0",
- "description_chosen_income_method":"-926769.0",
- "total_account_value":"9143695.0",
- "current_account_total_value":"8811659.0",
- "total_amount_carried_over":"332036.0"
+ "id_client":"KAUX12653329798764",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
+ "rent_income_value":"-627175.0",
+ "description_chosen_income_method":"+416151.0",
+ "total_account_value":"2536524.0",
+ "current_account_total_value":"2367004.0",
+ "total_amount_carried_over":"169520.0"
 }

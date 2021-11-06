@@ -1,0 +1,15 @@
+{
+ "id_client":"YYMV29213341355623",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"4172311107174803270",
+ "transaction_code":"JBPQ06457931181943",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"02:11:48",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"81209.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"UAH of Braavos"
+}

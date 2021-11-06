@@ -1,0 +1,15 @@
+{
+ "id_client":"QHWB18154119289477",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"676232236445",
+ "transaction_code":"CCMJ48577024743033",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"17:27:31",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"574773.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"SGD of Braavos"
+}

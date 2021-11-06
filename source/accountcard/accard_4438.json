@@ -1,0 +1,15 @@
+{
+ "id_client":"ZFQU62265178423512",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"503840326758",
+ "transaction_code":"QAUD32757947899218",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"17:13:09",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"611171.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"KES of Braavos"
+}

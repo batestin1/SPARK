@@ -1,11 +1,11 @@
 {
- "id_client":"YEXU14424369504404",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"MNMQ18042497771157",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"QIST76916149549384",
- "aba":"047885129"
+ "account_type":"account for the long winter",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"SMNG68544256881788",
+ "aba":"064250479"
 }

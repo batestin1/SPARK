@@ -1,0 +1,15 @@
+{
+ "id_client":"IHUH07670295140880",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"6590464719811300",
+ "transaction_code":"BRIM35336865316103",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"10:18:45",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"513301.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"FKP of Braavos"
+}

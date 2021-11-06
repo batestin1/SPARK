@@ -1,11 +1,11 @@
 {
- "id_client":"TTHV38841970737569",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"OKDT35741403950822",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"activated",
- "bban_count":"JELH98119565831353",
- "aba":"087353997"
+ "account_type":"salary bill",
+ "investor_profile":"Crazy",
+ "account_status":"not activated",
+ "bban_count":"KSPJ69528803336732",
+ "aba":"087644944"
 }

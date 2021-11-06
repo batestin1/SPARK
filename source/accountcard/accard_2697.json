@@ -1,0 +1,15 @@
+{
+ "id_client":"QYFJ90184790764737",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"not activated",
+ "card_number":"639096294868",
+ "transaction_code":"ARFJ84441266437150",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"20:10:46",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"950230.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"AOA of Braavos"
+}

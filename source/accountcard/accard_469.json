@@ -1,15 +1,15 @@
 {
- "id_client":"JKQS40362971957733",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
+ "id_client":"KGAV04610606401783",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
  "status_account_blocked":"not activated",
- "card_number":"4014516332111690",
- "transaction_code":"TWGF37006987859689",
+ "card_number":"4741686372223",
+ "transaction_code":"XPWA42031919627910",
  "date_transaction":"2021-11-23",
- "time_transaction":"14:04:41",
- "describle_transaction":"Marketplace",
- "original_transaction_amount":"349046.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"AFN of Braavos"
+ "time_transaction":"03:26:04",
+ "describle_transaction":"Dragons",
+ "original_transaction_amount":"893735.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"GYD of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"KYMR31296524403774",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"30469500820593",
+ "transaction_code":"YKKI48138135668727",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"21:56:44",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"816729.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"NOK of Braavos"
+}

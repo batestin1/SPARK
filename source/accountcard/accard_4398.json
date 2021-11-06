@@ -1,0 +1,15 @@
+{
+ "id_client":"MQTV91453525716020",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"activated",
+ "card_number":"373143197189027",
+ "transaction_code":"UVDU16322736911548",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"02:50:56",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"572386.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MKD of Braavos"
+}

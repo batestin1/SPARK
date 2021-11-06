@@ -1,12 +1,12 @@
 {
- "id_client":"YEXU14424369504404",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"MNMQ18042497771157",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
  "card_number":"not activated",
- "total_limit_value":"410598.0",
- "limit_value_available":"356982.0",
- "total_limit_used":"53616.0",
- "description_card":"VISA 19 digit",
- "security_card":"2435",
- "expire_card_number":"12/25"
+ "total_limit_value":"738378.0",
+ "limit_value_available":"698129.0",
+ "total_limit_used":"40249.0",
+ "description_card":"American Express",
+ "security_card":"253",
+ "expire_card_number":"03/30"
 }

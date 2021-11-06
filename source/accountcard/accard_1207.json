@@ -1,0 +1,15 @@
+{
+ "id_client":"RISJ87762035656175",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"not activated",
+ "card_number":"6593663531639990",
+ "transaction_code":"EBXS24461378113213",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"20:22:31",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"549501.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"RUB of Braavos"
+}

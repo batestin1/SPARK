@@ -1,0 +1,15 @@
+{
+ "id_client":"ODTO13806692017881",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4870192037945770628",
+ "transaction_code":"CKAI86590216536535",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"06:46:23",
+ "describle_transaction":"fishing vessel",
+ "original_transaction_amount":"51996.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"CNY of Braavos"
+}

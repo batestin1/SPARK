@@ -1,0 +1,15 @@
+{
+ "id_client":"AVHI25122613352860",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"activated",
+ "card_number":"30517046091895",
+ "transaction_code":"ZQEX15464518872136",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"16:50:08",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"223371.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"LAK of Braavos"
+}

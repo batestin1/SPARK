@@ -1,15 +1,15 @@
 {
- "id_client":"GNXS58933348066620",
- "yearmonthday":"20211112",
- "_yearmonthday":"20211112",
- "status_account_blocked":"activated",
- "card_number":"3571194246093482",
- "transaction_code":"BMYC12536031226607",
- "date_transaction":"2021-11-10",
- "time_transaction":"17:34:20",
- "describle_transaction":"brothel",
- "original_transaction_amount":"868883.0",
- "number_installments_assign":"9",
- "current_installment":"8",
- "currency":"EGP of Braavos"
+ "id_client":"UGND38119973346787",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"not activated",
+ "card_number":"6011956644894955",
+ "transaction_code":"GNXE45222896111812",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"04:50:03",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"569050.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"LAK of Braavos"
 }

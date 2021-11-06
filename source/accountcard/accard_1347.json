@@ -1,0 +1,15 @@
+{
+ "id_client":"ZDBX78813052124107",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"3528834520794156",
+ "transaction_code":"RCMW96256160973364",
+ "date_transaction":"2021-11-14",
+ "time_transaction":"20:43:54",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"753560.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"MGA of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"AZQA60759344467252",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"4451088859218100",
+ "transaction_code":"GHUL61745026380203",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"15:00:48",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"658342.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"STD of Braavos"
+}

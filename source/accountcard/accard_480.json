@@ -1,15 +1,15 @@
 {
- "id_client":"VATR59439938031466",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"TDTK80485771291260",
+ "yearmonthday":"20211118",
+ "_yearmonthday":"20211118",
  "status_account_blocked":"not activated",
- "card_number":"6011501617001772",
- "transaction_code":"LDRR05223449231261",
- "date_transaction":"2021-12-04",
- "time_transaction":"09:18:37",
- "describle_transaction":"ships",
- "original_transaction_amount":"917110.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"TTD of Braavos"
+ "card_number":"340884619430644",
+ "transaction_code":"NCPX85950410268411",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"10:42:57",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"40613.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"UAH of Braavos"
 }

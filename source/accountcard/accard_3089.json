@@ -1,0 +1,15 @@
+{
+ "id_client":"PAGC87841657563006",
+ "yearmonthday":"20211120",
+ "_yearmonthday":"20211120",
+ "status_account_blocked":"activated",
+ "card_number":"4143457665564",
+ "transaction_code":"QHEC61744512876897",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"23:14:01",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"259183.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"JEP of Braavos"
+}

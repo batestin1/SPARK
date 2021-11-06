@@ -1,0 +1,15 @@
+{
+ "id_client":"UMZI82261206412544",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"activated",
+ "card_number":"4800564676487480",
+ "transaction_code":"PGSA31325783089138",
+ "date_transaction":"2021-11-07",
+ "time_transaction":"11:00:01",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"709623.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"DJF of Braavos"
+}

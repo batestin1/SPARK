@@ -1,15 +1,15 @@
 {
- "id_client":"IEZF87365806520039",
- "yearmonthday":"20211125",
- "_yearmonthday":"20211125",
+ "id_client":"TCAV60438656006542",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
  "status_account_blocked":"activated",
- "card_number":"377948937825169",
- "transaction_code":"IFYK21742656609105",
- "date_transaction":"2021-11-25",
- "time_transaction":"20:35:39",
- "describle_transaction":"slaves",
- "original_transaction_amount":"409750.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"UAH of Braavos"
+ "card_number":"2716294964740377",
+ "transaction_code":"RSDE70486660004973",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"06:15:49",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"258114.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"MNT of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"ETMP35976805502951",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"349456570958383",
+ "transaction_code":"EHSR02637003601520",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"16:57:02",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"826518.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"THB of Braavos"
+}

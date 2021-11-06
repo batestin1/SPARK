@@ -1,0 +1,15 @@
+{
+ "id_client":"DDCA40612435479831",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
+ "status_account_blocked":"activated",
+ "card_number":"3580844013798825",
+ "transaction_code":"NHSS37296835936452",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"20:00:45",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"563756.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MXN of Braavos"
+}

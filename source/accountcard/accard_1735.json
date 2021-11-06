@@ -1,0 +1,15 @@
+{
+ "id_client":"SMFD58323176669284",
+ "yearmonthday":"20211203",
+ "_yearmonthday":"20211203",
+ "status_account_blocked":"activated",
+ "card_number":"213101272653915",
+ "transaction_code":"EYDF25538147714545",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"23:27:02",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"361670.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"FJD of Braavos"
+}

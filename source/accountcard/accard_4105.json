@@ -1,0 +1,15 @@
+{
+ "id_client":"NIBS74193081178461",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"6011754168961387",
+ "transaction_code":"OFCB46573308244745",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"22:32:48",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"515710.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"GMD of Braavos"
+}

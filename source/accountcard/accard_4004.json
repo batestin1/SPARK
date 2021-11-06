@@ -1,0 +1,15 @@
+{
+ "id_client":"RBEA43117087545674",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"not activated",
+ "card_number":"6512624732034215",
+ "transaction_code":"LVUV23906346988883",
+ "date_transaction":"2021-11-26",
+ "time_transaction":"17:08:57",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"270326.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"HRK of Braavos"
+}

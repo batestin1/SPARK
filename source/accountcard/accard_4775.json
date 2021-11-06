@@ -1,0 +1,15 @@
+{
+ "id_client":"CEOL66372101887245",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
+ "status_account_blocked":"activated",
+ "card_number":"4802478026896720",
+ "transaction_code":"BCIG12780816458154",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"15:14:19",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"671439.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"NOK of Braavos"
+}

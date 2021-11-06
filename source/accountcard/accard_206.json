@@ -1,15 +1,15 @@
 {
- "id_client":"BQUH66715347981229",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
- "status_account_blocked":"activated",
- "card_number":"4242425000134",
- "transaction_code":"VXSB75269937326926",
- "date_transaction":"2021-11-20",
- "time_transaction":"17:42:20",
- "describle_transaction":"savage army",
- "original_transaction_amount":"133886.0",
- "number_installments_assign":"7",
- "current_installment":"6",
- "currency":"RSD of Braavos"
+ "id_client":"DDML35081482114787",
+ "yearmonthday":"20211204",
+ "_yearmonthday":"20211204",
+ "status_account_blocked":"not activated",
+ "card_number":"4459636952468550",
+ "transaction_code":"RPFL67581701649128",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"21:42:23",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"901877.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UGX of Braavos"
 }

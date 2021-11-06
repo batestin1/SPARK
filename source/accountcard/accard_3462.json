@@ -1,0 +1,15 @@
+{
+ "id_client":"SBEN01395779538070",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
+ "status_account_blocked":"not activated",
+ "card_number":"213138149712615",
+ "transaction_code":"PUCX46422927464898",
+ "date_transaction":"2021-11-10",
+ "time_transaction":"20:56:18",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"596442.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"KES of Braavos"
+}

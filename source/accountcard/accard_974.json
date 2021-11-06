@@ -1,15 +1,15 @@
 {
- "id_client":"VILN62895602780265",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"OCHW80227959466954",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
  "status_account_blocked":"not activated",
- "card_number":"4255580955082666115",
- "transaction_code":"ILIZ77932911953497",
- "date_transaction":"2021-11-24",
- "time_transaction":"17:09:06",
+ "card_number":"4834065542101842",
+ "transaction_code":"OKWL37102634680067",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"00:06:38",
  "describle_transaction":"horses",
- "original_transaction_amount":"585926.0",
- "number_installments_assign":"3",
- "current_installment":"2",
- "currency":"SAR of Braavos"
+ "original_transaction_amount":"756588.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"EGP of Braavos"
 }

@@ -1,0 +1,15 @@
+{
+ "id_client":"VLGM35840673105875",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"566443573811",
+ "transaction_code":"OBIR23372343322488",
+ "date_transaction":"2021-11-12",
+ "time_transaction":"11:54:56",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"689787.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"HUF of Braavos"
+}

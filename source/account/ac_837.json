@@ -1,11 +1,11 @@
 {
- "id_client":"RVHR81713890950879",
- "yearmonthday":"20211124",
- "_yearmonthday":"20211124",
+ "id_client":"NRSK04983901562719",
+ "yearmonthday":"20211111",
+ "_yearmonthday":"20211111",
  "bank":"Braavos",
- "account_type":"checking account",
+ "account_type":"salary bill",
  "investor_profile":"Crazy",
- "account_status":"activated",
- "bban_count":"WXEC23836464630430",
- "aba":"022924313"
+ "account_status":"not activated",
+ "bban_count":"IURM94700726817680",
+ "aba":"081222364"
 }

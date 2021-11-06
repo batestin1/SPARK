@@ -1,0 +1,15 @@
+{
+ "id_client":"VYFV32187201665755",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"activated",
+ "card_number":"30129310671632",
+ "transaction_code":"OBOK05169174296159",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"07:53:49",
+ "describle_transaction":"horn of Joramun",
+ "original_transaction_amount":"102198.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MMK of Braavos"
+}

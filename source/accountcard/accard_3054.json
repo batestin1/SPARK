@@ -1,0 +1,15 @@
+{
+ "id_client":"CQCM59107129132368",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "status_account_blocked":"activated",
+ "card_number":"180021027101888",
+ "transaction_code":"NISB33428872286808",
+ "date_transaction":"2021-11-08",
+ "time_transaction":"12:13:48",
+ "describle_transaction":"dormant wine",
+ "original_transaction_amount":"920316.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SCR of Braavos"
+}

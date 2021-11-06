@@ -1,15 +1,15 @@
 {
- "id_client":"XHIW71647997380605",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
- "status_account_blocked":"activated",
- "card_number":"376465202352499",
- "transaction_code":"TVNX31626997447026",
- "date_transaction":"2021-11-14",
- "time_transaction":"14:37:06",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"854437.0",
- "number_installments_assign":"8",
- "current_installment":"7",
- "currency":"GEL of Braavos"
+ "id_client":"WZNY25290267249582",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"3506429388859138",
+ "transaction_code":"KUTE63809301273837",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"21:45:23",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"109811.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"EUR of Braavos"
 }

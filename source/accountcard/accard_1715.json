@@ -1,0 +1,15 @@
+{
+ "id_client":"YRDU52212465262156",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"372065334452680",
+ "transaction_code":"DVMM30426813217115",
+ "date_transaction":"2021-11-23",
+ "time_transaction":"11:47:38",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"885271.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"TJS of Braavos"
+}

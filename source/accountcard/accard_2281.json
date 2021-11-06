@@ -1,0 +1,15 @@
+{
+ "id_client":"PCDL20580046254964",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
+ "status_account_blocked":"not activated",
+ "card_number":"6541249505214425",
+ "transaction_code":"ZIJH98133953054539",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"05:07:35",
+ "describle_transaction":"hill wine",
+ "original_transaction_amount":"382543.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"KZT of Braavos"
+}

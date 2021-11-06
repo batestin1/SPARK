@@ -1,12 +1,12 @@
 {
- "id_client":"UTVA43185786813714",
- "yearmonthday":"20211203",
- "_yearmonthday":"20211203",
+ "id_client":"RDDG01506710761056",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "card_number":"activated",
- "total_limit_value":"743469.0",
- "limit_value_available":"718304.0",
- "total_limit_used":"25165.0",
- "description_card":"American Express",
- "security_card":"173",
- "expire_card_number":"03/30"
+ "total_limit_value":"366164.0",
+ "limit_value_available":"316579.0",
+ "total_limit_used":"49585.0",
+ "description_card":"Discover",
+ "security_card":"629",
+ "expire_card_number":"08/25"
 }

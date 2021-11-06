@@ -1,0 +1,15 @@
+{
+ "id_client":"QQLD95377926500652",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"activated",
+ "card_number":"4544143266861023",
+ "transaction_code":"BXBH95227010789102",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"12:24:47",
+ "describle_transaction":"ships",
+ "original_transaction_amount":"391474.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"HUF of Braavos"
+}

@@ -1,11 +1,11 @@
 {
- "id_client":"QLFW50014593102618",
- "yearmonthday":"20211106",
- "_yearmonthday":"20211106",
+ "id_client":"CESZ72292265280295",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"salary bill",
- "investor_profile":"Vicious",
- "account_status":"activated",
- "bban_count":"JPTO44033294830053",
- "aba":"022016983"
+ "account_type":"savings account",
+ "investor_profile":"Temporary",
+ "account_status":"not activated",
+ "bban_count":"VOFN19388465473133",
+ "aba":"023204186"
 }

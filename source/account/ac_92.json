@@ -1,11 +1,11 @@
 {
- "id_client":"EUMU88516563700595",
- "yearmonthday":"20211111",
- "_yearmonthday":"20211111",
+ "id_client":"YHRJ87079052272091",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"MZGN89761049492337",
- "aba":"011933779"
+ "account_type":"dragon account",
+ "investor_profile":"Temporary",
+ "account_status":"activated",
+ "bban_count":"KOFL20425740131135",
+ "aba":"012308711"
 }

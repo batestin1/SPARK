@@ -1,15 +1,15 @@
 {
- "id_client":"AXOA58544614903109",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "status_account_blocked":"not activated",
- "card_number":"4344657430229280",
- "transaction_code":"XDXX12364421274968",
- "date_transaction":"2021-11-07",
- "time_transaction":"06:48:59",
- "describle_transaction":"dormant wine",
- "original_transaction_amount":"382718.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"NGN of Braavos"
+ "id_client":"RDTH62613992631878",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
+ "status_account_blocked":"activated",
+ "card_number":"4575932649305316",
+ "transaction_code":"WIPT07315249109522",
+ "date_transaction":"2021-11-27",
+ "time_transaction":"20:14:24",
+ "describle_transaction":"immaculate army",
+ "original_transaction_amount":"308774.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"PAB of Braavos"
 }

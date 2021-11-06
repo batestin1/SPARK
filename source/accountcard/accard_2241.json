@@ -1,0 +1,15 @@
+{
+ "id_client":"QAOV76019940547471",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"not activated",
+ "card_number":"577735596592",
+ "transaction_code":"RFOB35480120645140",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"00:15:02",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"871265.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"SCR of Braavos"
+}

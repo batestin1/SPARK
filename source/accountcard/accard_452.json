@@ -1,15 +1,15 @@
 {
- "id_client":"LMDZ41521487852071",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
+ "id_client":"GNAB63477376547275",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
  "status_account_blocked":"not activated",
- "card_number":"6011278959265121",
- "transaction_code":"HBYT66921039362864",
- "date_transaction":"2021-11-25",
- "time_transaction":"05:06:45",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"493559.0",
- "number_installments_assign":"2",
- "current_installment":"1",
- "currency":"GNF of Braavos"
+ "card_number":"213140313916923",
+ "transaction_code":"HQMJ35255082569386",
+ "date_transaction":"2021-12-04",
+ "time_transaction":"11:33:14",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"887626.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"AZN of Braavos"
 }

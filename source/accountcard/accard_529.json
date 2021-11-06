@@ -1,15 +1,15 @@
 {
- "id_client":"SIAF22307176314308",
- "yearmonthday":"20211107",
- "_yearmonthday":"20211107",
+ "id_client":"EBFX98607406954656",
+ "yearmonthday":"20211116",
+ "_yearmonthday":"20211116",
  "status_account_blocked":"activated",
- "card_number":"180096531285328",
- "transaction_code":"DYYX22771514912224",
- "date_transaction":"2021-11-11",
- "time_transaction":"04:49:42",
- "describle_transaction":"Dragons",
- "original_transaction_amount":"175923.0",
- "number_installments_assign":"5",
- "current_installment":"4",
- "currency":"UZS of Braavos"
+ "card_number":"3598747918190842",
+ "transaction_code":"XNRC01701234501195",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"10:15:55",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"388152.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"OMR of Braavos"
 }

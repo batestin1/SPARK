@@ -1,15 +1,15 @@
 {
- "id_client":"MMGU48237220021093",
- "yearmonthday":"20211117",
- "_yearmonthday":"20211117",
- "status_account_blocked":"activated",
- "card_number":"3505863925935426",
- "transaction_code":"FETR65430744766740",
+ "id_client":"DZFR90609947986919",
+ "yearmonthday":"20211109",
+ "_yearmonthday":"20211109",
+ "status_account_blocked":"not activated",
+ "card_number":"639049744340",
+ "transaction_code":"DTMO93123424018886",
  "date_transaction":"2021-11-29",
- "time_transaction":"00:54:48",
- "describle_transaction":"night patrol army",
- "original_transaction_amount":"372788.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"NPR of Braavos"
+ "time_transaction":"21:51:18",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"992062.0",
+ "number_installments_assign":"1",
+ "current_installment":"0",
+ "currency":"GIP of Braavos"
 }

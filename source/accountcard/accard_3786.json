@@ -1,0 +1,15 @@
+{
+ "id_client":"EVPF87832356122364",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"2240624297669411",
+ "transaction_code":"SONB83887458295440",
+ "date_transaction":"2021-12-02",
+ "time_transaction":"06:56:28",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"34229.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"GBP of Braavos"
+}

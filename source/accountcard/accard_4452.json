@@ -1,0 +1,15 @@
+{
+ "id_client":"RXOB45118936621755",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"5246916200312403",
+ "transaction_code":"XFPW58956535889685",
+ "date_transaction":"2021-11-16",
+ "time_transaction":"19:33:52",
+ "describle_transaction":"dothraki army",
+ "original_transaction_amount":"878849.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"UAH of Braavos"
+}

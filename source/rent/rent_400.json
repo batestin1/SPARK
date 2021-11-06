@@ -1,10 +1,10 @@
 {
- "id_client":"NFAU99516255355725",
- "yearmonthday":"20211108",
- "_yearmonthday":"20211108",
- "rent_income_value":"-841255.0",
- "description_chosen_income_method":"-716982.0",
- "total_account_value":"1247571.0",
- "current_account_total_value":"946913.0",
- "total_amount_carried_over":"300658.0"
+ "id_client":"SVHB15691832297181",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "rent_income_value":"+167903.0",
+ "description_chosen_income_method":"+848254.0",
+ "total_account_value":"4998767.0",
+ "current_account_total_value":"4219476.0",
+ "total_amount_carried_over":"779291.0"
 }

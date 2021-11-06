@@ -1,0 +1,15 @@
+{
+ "id_client":"PCNV59331990362270",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"6543158914962789",
+ "transaction_code":"OJIY44303313606230",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"06:57:05",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"736990.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"HNL of Braavos"
+}

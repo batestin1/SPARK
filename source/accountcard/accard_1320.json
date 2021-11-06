@@ -1,0 +1,15 @@
+{
+ "id_client":"IYAT25232255883971",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4041890801788875",
+ "transaction_code":"UKAR90332084959009",
+ "date_transaction":"2021-11-29",
+ "time_transaction":"10:28:36",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"498692.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CNY of Braavos"
+}

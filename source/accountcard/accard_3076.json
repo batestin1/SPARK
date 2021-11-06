@@ -1,0 +1,15 @@
+{
+ "id_client":"KZHI42656208730062",
+ "yearmonthday":"20211202",
+ "_yearmonthday":"20211202",
+ "status_account_blocked":"not activated",
+ "card_number":"180063947008496",
+ "transaction_code":"GVOX94777314228695",
+ "date_transaction":"2021-11-28",
+ "time_transaction":"20:40:47",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"112343.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"HKD of Braavos"
+}

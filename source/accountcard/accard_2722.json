@@ -1,0 +1,15 @@
+{
+ "id_client":"FLMH78420168817729",
+ "yearmonthday":"20211110",
+ "_yearmonthday":"20211110",
+ "status_account_blocked":"not activated",
+ "card_number":"30360107970594",
+ "transaction_code":"GKTV78667123475502",
+ "date_transaction":"2021-12-03",
+ "time_transaction":"23:53:40",
+ "describle_transaction":"Marketplace",
+ "original_transaction_amount":"732434.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"BND of Braavos"
+}

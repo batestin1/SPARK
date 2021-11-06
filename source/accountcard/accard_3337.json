@@ -1,0 +1,15 @@
+{
+ "id_client":"IPCR83199263552156",
+ "yearmonthday":"20211201",
+ "_yearmonthday":"20211201",
+ "status_account_blocked":"not activated",
+ "card_number":"3530888257908252",
+ "transaction_code":"IRYC11905018599426",
+ "date_transaction":"2021-11-30",
+ "time_transaction":"17:16:00",
+ "describle_transaction":"brothel",
+ "original_transaction_amount":"65206.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"CNY of Braavos"
+}

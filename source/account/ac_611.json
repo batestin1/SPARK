@@ -1,11 +1,11 @@
 {
- "id_client":"UYHW23441974527178",
- "yearmonthday":"20211127",
- "_yearmonthday":"20211127",
+ "id_client":"GBSQ60732031129626",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "bank":"Braavos",
- "account_type":"savings account",
+ "account_type":"salary bill",
  "investor_profile":"Reliable",
- "account_status":"not activated",
- "bban_count":"TIQC43790246195723",
- "aba":"085281947"
+ "account_status":"activated",
+ "bban_count":"SOOG60351760140221",
+ "aba":"077956823"
 }

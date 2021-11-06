@@ -1,15 +1,15 @@
 {
- "id_client":"VMHK37064265512524",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"ICTR90514254711861",
+ "yearmonthday":"20211114",
+ "_yearmonthday":"20211114",
  "status_account_blocked":"not activated",
- "card_number":"4281685035166",
- "transaction_code":"RVYP36886079079158",
+ "card_number":"4221060875686072406",
+ "transaction_code":"NGNJ23328493279808",
  "date_transaction":"2021-12-04",
- "time_transaction":"05:23:53",
- "describle_transaction":"Iron Island Men's Fleet",
- "original_transaction_amount":"572637.0",
- "number_installments_assign":"1",
- "current_installment":"0",
- "currency":"SRD of Braavos"
+ "time_transaction":"09:44:51",
+ "describle_transaction":"horses",
+ "original_transaction_amount":"236502.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"SAR of Braavos"
 }

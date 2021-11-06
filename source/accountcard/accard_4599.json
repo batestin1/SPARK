@@ -1,0 +1,15 @@
+{
+ "id_client":"OTUX42943563199029",
+ "yearmonthday":"20211130",
+ "_yearmonthday":"20211130",
+ "status_account_blocked":"not activated",
+ "card_number":"4434053428387872738",
+ "transaction_code":"CLWB00763512410008",
+ "date_transaction":"2021-11-22",
+ "time_transaction":"12:07:08",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"607122.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"PKR of Braavos"
+}

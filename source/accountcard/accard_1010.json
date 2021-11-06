@@ -1,15 +1,15 @@
 {
- "id_client":"TEXU88360417695284",
- "yearmonthday":"20211128",
- "_yearmonthday":"20211128",
+ "id_client":"GDUM96602564528278",
+ "yearmonthday":"20211119",
+ "_yearmonthday":"20211119",
  "status_account_blocked":"not activated",
- "card_number":"060493395978",
- "transaction_code":"VKHN24016559813507",
- "date_transaction":"2021-11-22",
- "time_transaction":"02:03:07",
- "describle_transaction":"slaves",
- "original_transaction_amount":"771878.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"XCD of Braavos"
+ "card_number":"6011439878149883",
+ "transaction_code":"KFGR83036019743890",
+ "date_transaction":"2021-11-19",
+ "time_transaction":"10:48:11",
+ "describle_transaction":"wolfs",
+ "original_transaction_amount":"538787.0",
+ "number_installments_assign":"2",
+ "current_installment":"1",
+ "currency":"ERN of Braavos"
 }

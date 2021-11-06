@@ -1,0 +1,15 @@
+{
+ "id_client":"LLRA45800129652153",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "status_account_blocked":"not activated",
+ "card_number":"4710902929609287",
+ "transaction_code":"HNGT04955571934926",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"03:13:28",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"262643.0",
+ "number_installments_assign":"6",
+ "current_installment":"5",
+ "currency":"HKD of Braavos"
+}

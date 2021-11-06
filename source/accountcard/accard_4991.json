@@ -1,0 +1,15 @@
+{
+ "id_client":"OGAQ85991238162339",
+ "yearmonthday":"20211108",
+ "_yearmonthday":"20211108",
+ "status_account_blocked":"not activated",
+ "card_number":"503884931497",
+ "transaction_code":"CSHD23754468714313",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"18:44:58",
+ "describle_transaction":"golden company",
+ "original_transaction_amount":"94809.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"PKR of Braavos"
+}

@@ -1,0 +1,15 @@
+{
+ "id_client":"HTCG21618151727592",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"4984501659794597",
+ "transaction_code":"ISTS10004103908070",
+ "date_transaction":"2021-11-18",
+ "time_transaction":"21:30:37",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"824264.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"LBP of Braavos"
+}

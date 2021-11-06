@@ -1,0 +1,15 @@
+{
+ "id_client":"NRRI42781342277374",
+ "yearmonthday":"20211107",
+ "_yearmonthday":"20211107",
+ "status_account_blocked":"not activated",
+ "card_number":"377910092145353",
+ "transaction_code":"JZKT49556440146161",
+ "date_transaction":"2021-12-01",
+ "time_transaction":"01:57:27",
+ "describle_transaction":"slaves",
+ "original_transaction_amount":"669658.0",
+ "number_installments_assign":"5",
+ "current_installment":"4",
+ "currency":"BGN of Braavos"
+}

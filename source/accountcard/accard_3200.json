@@ -1,0 +1,15 @@
+{
+ "id_client":"JNSZ17695945193900",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
+ "status_account_blocked":"not activated",
+ "card_number":"6572497405500177",
+ "transaction_code":"ABRS00243875350557",
+ "date_transaction":"2021-11-21",
+ "time_transaction":"04:47:30",
+ "describle_transaction":"theater",
+ "original_transaction_amount":"885326.0",
+ "number_installments_assign":"9",
+ "current_installment":"8",
+ "currency":"IMP of Braavos"
+}

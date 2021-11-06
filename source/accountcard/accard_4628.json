@@ -1,0 +1,15 @@
+{
+ "id_client":"SLDX79514830225298",
+ "yearmonthday":"20211113",
+ "_yearmonthday":"20211113",
+ "status_account_blocked":"activated",
+ "card_number":"4484098933442792278",
+ "transaction_code":"NBVF32178009967177",
+ "date_transaction":"2021-11-20",
+ "time_transaction":"21:24:21",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"107236.0",
+ "number_installments_assign":"4",
+ "current_installment":"3",
+ "currency":"MGA of Braavos"
+}

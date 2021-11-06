@@ -1,12 +1,12 @@
 {
- "id_client":"BCNC14877753402091",
- "yearmonthday":"20211110",
- "_yearmonthday":"20211110",
+ "id_client":"KREK69298824406300",
+ "yearmonthday":"20211115",
+ "_yearmonthday":"20211115",
  "card_number":"activated",
- "total_limit_value":"737560.0",
- "limit_value_available":"717458.0",
- "total_limit_used":"20102.0",
- "description_card":"Diners Club / Carte Blanche",
- "security_card":"756",
- "expire_card_number":"08/28"
+ "total_limit_value":"467853.0",
+ "limit_value_available":"404780.0",
+ "total_limit_used":"63073.0",
+ "description_card":"JCB 16 digit",
+ "security_card":"8779",
+ "expire_card_number":"01/26"
 }

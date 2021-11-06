@@ -1,0 +1,15 @@
+{
+ "id_client":"IWMN23222863293620",
+ "yearmonthday":"20211126",
+ "_yearmonthday":"20211126",
+ "status_account_blocked":"activated",
+ "card_number":"3555720574804221",
+ "transaction_code":"EOVB45792346758011",
+ "date_transaction":"2021-11-06",
+ "time_transaction":"22:07:01",
+ "describle_transaction":"winter clothing",
+ "original_transaction_amount":"860005.0",
+ "number_installments_assign":"3",
+ "current_installment":"2",
+ "currency":"HUF of Braavos"
+}

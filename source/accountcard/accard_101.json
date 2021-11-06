@@ -1,15 +1,15 @@
 {
- "id_client":"ODUX64958102504869",
- "yearmonthday":"20211120",
- "_yearmonthday":"20211120",
+ "id_client":"BDUP47634441928108",
+ "yearmonthday":"20211122",
+ "_yearmonthday":"20211122",
  "status_account_blocked":"not activated",
- "card_number":"5244987299922081",
- "transaction_code":"IVQA43349444883814",
- "date_transaction":"2021-11-07",
- "time_transaction":"14:37:29",
- "describle_transaction":"ships",
- "original_transaction_amount":"504672.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"KWD of Braavos"
+ "card_number":"180018770723843",
+ "transaction_code":"GIEL03400769227385",
+ "date_transaction":"2021-11-25",
+ "time_transaction":"08:18:00",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"765212.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"CVE of Braavos"
 }

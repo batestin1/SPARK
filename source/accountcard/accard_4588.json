@@ -1,0 +1,15 @@
+{
+ "id_client":"JXWF32871914338544",
+ "yearmonthday":"20211125",
+ "_yearmonthday":"20211125",
+ "status_account_blocked":"activated",
+ "card_number":"4849925123443322",
+ "transaction_code":"PANP94836357937275",
+ "date_transaction":"2021-11-15",
+ "time_transaction":"13:57:09",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"362753.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"PAB of Braavos"
+}

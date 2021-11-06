@@ -1,11 +1,11 @@
 {
- "id_client":"FQAR90721165337339",
- "yearmonthday":"20211113",
- "_yearmonthday":"20211113",
+ "id_client":"GOAY88726231026460",
+ "yearmonthday":"20211121",
+ "_yearmonthday":"20211121",
  "bank":"Braavos",
- "account_type":"savings account",
- "investor_profile":"Risky",
- "account_status":"not activated",
- "bban_count":"CNPK15341644527038",
- "aba":"090078825"
+ "account_type":"salary bill",
+ "investor_profile":"Crazy",
+ "account_status":"activated",
+ "bban_count":"CMUZ82489391018095",
+ "aba":"022894550"
 }

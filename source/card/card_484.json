@@ -1,12 +1,12 @@
 {
- "id_client":"SEFC45931233584536",
- "yearmonthday":"20211123",
- "_yearmonthday":"20211123",
+ "id_client":"QCED16161379432082",
+ "yearmonthday":"20211124",
+ "_yearmonthday":"20211124",
  "card_number":"activated",
- "total_limit_value":"8954.0",
- "limit_value_available":"-47535.0",
- "total_limit_used":"56489.0",
- "description_card":"Maestro",
- "security_card":"350",
- "expire_card_number":"08/25"
+ "total_limit_value":"423580.0",
+ "limit_value_available":"327355.0",
+ "total_limit_used":"96225.0",
+ "description_card":"Mastercard",
+ "security_card":"792",
+ "expire_card_number":"07/29"
 }

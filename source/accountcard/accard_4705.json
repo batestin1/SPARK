@@ -1,0 +1,15 @@
+{
+ "id_client":"BDME02345629700303",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
+ "status_account_blocked":"not activated",
+ "card_number":"30204227828664",
+ "transaction_code":"FAMT78370179124338",
+ "date_transaction":"2021-11-11",
+ "time_transaction":"06:22:26",
+ "describle_transaction":"swords",
+ "original_transaction_amount":"391723.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"LYD of Braavos"
+}

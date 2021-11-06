@@ -1,10 +1,10 @@
 {
- "id_client":"VAUK98689608605026",
- "yearmonthday":"20211122",
- "_yearmonthday":"20211122",
- "rent_income_value":"-945243.0",
- "description_chosen_income_method":"-540907.0",
- "total_account_value":"4625658.0",
- "current_account_total_value":"3892654.0",
- "total_amount_carried_over":"733004.0"
+ "id_client":"ANCU88822854608450",
+ "yearmonthday":"20211117",
+ "_yearmonthday":"20211117",
+ "rent_income_value":"+319806.0",
+ "description_chosen_income_method":"+732183.0",
+ "total_account_value":"4459818.0",
+ "current_account_total_value":"4230468.0",
+ "total_amount_carried_over":"229350.0"
 }

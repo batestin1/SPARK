@@ -1,12 +1,12 @@
 {
- "id_client":"LUMX02517865702787",
+ "id_client":"SPKO69687552776906",
  "yearmonthday":"20211130",
  "_yearmonthday":"20211130",
- "card_number":"not activated",
- "total_limit_value":"779108.0",
- "limit_value_available":"757893.0",
- "total_limit_used":"21215.0",
- "description_card":"VISA 16 digit",
- "security_card":"824",
- "expire_card_number":"08/22"
+ "card_number":"activated",
+ "total_limit_value":"563189.0",
+ "limit_value_available":"477973.0",
+ "total_limit_used":"85216.0",
+ "description_card":"American Express",
+ "security_card":"940",
+ "expire_card_number":"04/31"
 }

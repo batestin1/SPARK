@@ -1,15 +1,15 @@
 {
- "id_client":"OIHJ80134073746044",
- "yearmonthday":"20211119",
- "_yearmonthday":"20211119",
+ "id_client":"VCAQ89855492639850",
+ "yearmonthday":"20211123",
+ "_yearmonthday":"20211123",
  "status_account_blocked":"activated",
- "card_number":"6595618598642202",
- "transaction_code":"SMZL10952218529189",
- "date_transaction":"2021-11-30",
- "time_transaction":"08:34:43",
- "describle_transaction":"swords",
- "original_transaction_amount":"877103.0",
- "number_installments_assign":"6",
- "current_installment":"5",
- "currency":"SOS of Braavos"
+ "card_number":"6011111615005856",
+ "transaction_code":"UWHN39662648033289",
+ "date_transaction":"2021-11-24",
+ "time_transaction":"16:10:53",
+ "describle_transaction":"Tribute to the Gods",
+ "original_transaction_amount":"846642.0",
+ "number_installments_assign":"7",
+ "current_installment":"6",
+ "currency":"AWG of Braavos"
 }

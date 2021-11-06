@@ -1,0 +1,15 @@
+{
+ "id_client":"NZBA11722843915255",
+ "yearmonthday":"20211127",
+ "_yearmonthday":"20211127",
+ "status_account_blocked":"not activated",
+ "card_number":"344654705202264",
+ "transaction_code":"LXHZ30689402124319",
+ "date_transaction":"2021-11-13",
+ "time_transaction":"20:35:08",
+ "describle_transaction":"Loan to Finance War",
+ "original_transaction_amount":"295967.0",
+ "number_installments_assign":"8",
+ "current_installment":"7",
+ "currency":"AUD of Braavos"
+}

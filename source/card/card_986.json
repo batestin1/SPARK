@@ -1,12 +1,12 @@
 {
- "id_client":"WMSW04944708377579",
- "yearmonthday":"20211201",
- "_yearmonthday":"20211201",
- "card_number":"activated",
- "total_limit_value":"265559.0",
- "limit_value_available":"172656.0",
- "total_limit_used":"92903.0",
+ "id_client":"DGXP74358092609998",
+ "yearmonthday":"20211128",
+ "_yearmonthday":"20211128",
+ "card_number":"not activated",
+ "total_limit_value":"690328.0",
+ "limit_value_available":"680921.0",
+ "total_limit_used":"9407.0",
  "description_card":"Discover",
- "security_card":"611",
- "expire_card_number":"04/28"
+ "security_card":"5336",
+ "expire_card_number":"12/30"
 }

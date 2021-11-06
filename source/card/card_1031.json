@@ -1,12 +1,12 @@
 {
- "id_client":"NBJJ92796242021475",
+ "id_client":"SUES00514236349820",
  "yearmonthday":"20211111",
  "_yearmonthday":"20211111",
  "card_number":"activated",
- "total_limit_value":"42807.0",
- "limit_value_available":"-24850.0",
- "total_limit_used":"67657.0",
- "description_card":"VISA 16 digit",
- "security_card":"281",
- "expire_card_number":"05/22"
+ "total_limit_value":"807726.0",
+ "limit_value_available":"728342.0",
+ "total_limit_used":"79384.0",
+ "description_card":"Discover",
+ "security_card":"346",
+ "expire_card_number":"06/27"
 }

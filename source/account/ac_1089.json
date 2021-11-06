@@ -1,11 +1,11 @@
 {
- "id_client":"EQSC49399438419006",
- "yearmonthday":"20211114",
- "_yearmonthday":"20211114",
+ "id_client":"TTGF06514584704190",
+ "yearmonthday":"20211106",
+ "_yearmonthday":"20211106",
  "bank":"Braavos",
- "account_type":"checking account",
- "investor_profile":"Temporary",
- "account_status":"not activated",
- "bban_count":"RHAQ25830272297624",
- "aba":"066709198"
+ "account_type":"salary bill",
+ "investor_profile":"Risky",
+ "account_status":"activated",
+ "bban_count":"ILVR47536118385365",
+ "aba":"057947172"
 }

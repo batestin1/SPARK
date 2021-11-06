@@ -1,15 +1,15 @@
 {
- "id_client":"ZLBJ03745794781753",
- "yearmonthday":"20211126",
- "_yearmonthday":"20211126",
- "status_account_blocked":"activated",
- "card_number":"180029227775062",
- "transaction_code":"CWXV27095055132368",
- "date_transaction":"2021-12-03",
- "time_transaction":"11:24:43",
- "describle_transaction":"swords",
- "original_transaction_amount":"514947.0",
+ "id_client":"NKUX90030226657007",
+ "yearmonthday":"20211129",
+ "_yearmonthday":"20211129",
+ "status_account_blocked":"not activated",
+ "card_number":"38923859909763",
+ "transaction_code":"RQIC60109647058947",
+ "date_transaction":"2021-11-09",
+ "time_transaction":"18:34:59",
+ "describle_transaction":"savage army",
+ "original_transaction_amount":"638282.0",
  "number_installments_assign":"4",
  "current_installment":"3",
- "currency":"JOD of Braavos"
+ "currency":"STD of Braavos"
 }
